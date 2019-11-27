@@ -1,6 +1,7 @@
 package com.Todd;
 
 import java.util.ArrayList;
+import java.util.Random;
 
 public class Analysis {
     public Analysis() {
@@ -14,5 +15,21 @@ public class Analysis {
             }
         }
         return count;
+    }
+
+    public int numberOfFilmsDirectedBySimilar(ArrayList<Film> filmArrayList, String director){
+        int count = 0;
+        for (Film film : filmArrayList){
+            if (film.getDirector().indexOf(director) != -1){
+                count++;
+            }
+        }
+        return count;
+    }
+
+    public Film randomMovie(ArrayList<Film> filmArrayList){
+        Random random = new Random();
+        int randomInt = random.nextInt(1000-1) + 1;
+        return filmArrayList.get(randomInt);
     }
 }

@@ -50,7 +50,13 @@ public class Main {
             e.printStackTrace();
         }
         Analysis analysis = new Analysis();
-        int numberDirectedBy = analysis.numberOfFilmsDirectedBy(filmArrayList, "Lang, Fritz");
-        System.out.println(numberDirectedBy);
+        String directorExact = "Lang, Fritz";
+        String directorSimilar = "Bergman";
+        int numberDirectedBy = analysis.numberOfFilmsDirectedBy(filmArrayList, directorExact);
+        int numberSimilarDirectedBy = analysis.numberOfFilmsDirectedBySimilar(filmArrayList, directorSimilar);
+        System.out.println("Number of films directed by " + directorExact + " using exact calculation: " + numberDirectedBy);
+        System.out.println("Number of films directed by " + directorSimilar + " using similar calculation: " + numberSimilarDirectedBy);
+
+        System.out.println("Random movie " + analysis.randomMovie(filmArrayList).getTitle());
     }
 }
