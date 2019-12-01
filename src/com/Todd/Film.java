@@ -11,8 +11,17 @@ public class Film {
     private int length;
     private String genre;
     private String color;
+    private int seen;
 
     public Film() {
+    }
+
+    public int getSeen() {
+        return seen;
+    }
+
+    public void setSeen(int seen) {
+        this.seen = seen;
     }
 
     public int getPosition() {

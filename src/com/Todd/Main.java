@@ -43,6 +43,12 @@ public class Main {
                 film.setLength(Integer.parseInt(filmData[7]));
                 film.setGenre(filmData[8].replace("\"",""));
                 film.setColor(filmData[9].replace("\"",""));
+                if (filmData.length > 10){
+                    film.setSeen(Integer.parseInt(filmData[10]));
+                }
+                else{
+                    film.setSeen(0);
+                }
                 filmArrayList.add(film);
             }
         }
@@ -58,5 +64,12 @@ public class Main {
         System.out.println("Number of films directed by " + directorSimilar + " using similar calculation: " + numberSimilarDirectedBy);
 
         System.out.println("Random movie " + analysis.randomMovie(filmArrayList).getTitle());
+
+        int firstYear = 1990;
+        int secondYear = 1999;
+        System.out.println("Number of films between " + firstYear + " and " + secondYear + " is " + analysis.numberOfFilmsInbetweenYears(filmArrayList, firstYear, secondYear));
+
+        Output output = new Output();
+        output.writeFile(filmArrayList);
     }
 }
