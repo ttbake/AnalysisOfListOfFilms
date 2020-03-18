@@ -27,6 +27,16 @@ public class Analysis {
         return count;
     }
 
+    public int sumOfFilmLengthsDirectedBy(ArrayList<Film> filmArrayList, String director){
+        int sum = 0;
+        for (Film film : filmArrayList){
+            if (film.getDirector().equals(director)){
+                sum += film.getLength();
+            }
+        }
+        return sum;
+    }
+
     public Film randomMovie(ArrayList<Film> filmArrayList){
         Random random = new Random();
         int randomInt = random.nextInt(1000-1) + 1;
@@ -41,5 +51,13 @@ public class Analysis {
             }
         }
         return count;
+    }
+
+    public double averageFilmLengthByDirector(ArrayList<Film> filmArrayList, String director){
+        int filmCount = numberOfFilmsDirectedBy(filmArrayList, director);
+        int sumFilmLengths = sumOfFilmLengthsDirectedBy(filmArrayList, director);
+
+        double averageLength = (double)sumFilmLengths/filmCount;
+        return averageLength;
     }
 }

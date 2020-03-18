@@ -11,7 +11,7 @@ public class Output {
     private static final String LINE_SEPARATOR = "\n";
 
     //File header
-    private static final String HEADER = "Pos\t2018\t2017\tTitle\tDirector\tYear\tCountry\tLength\tGenre\tColour\tSeen";
+    private static final String HEADER = "Pos\t2019\t2018\tTitle\tDirector\tYear\tCountry\tLength\tGenre\tColour\tSeen";
 
     public void writeFile(ArrayList<Film> filmArrayList)
     {
@@ -33,9 +33,9 @@ public class Output {
                 Film film = (Film)it.next();
                 fileWriter.append(String.valueOf(film.getPosition()));
                 fileWriter.append(TAB_DELIMITER);
-                fileWriter.append(String.valueOf(film.getPosition2018()));
+                fileWriter.append(String.valueOf(film.getPosition2019()));
                 fileWriter.append(TAB_DELIMITER);
-                fileWriter.append(String.valueOf(film.getPosition2017()));
+                fileWriter.append(String.valueOf(film.getPosition2018()));
                 fileWriter.append(TAB_DELIMITER);
                 fileWriter.append(film.getTitle());
                 fileWriter.append(TAB_DELIMITER);

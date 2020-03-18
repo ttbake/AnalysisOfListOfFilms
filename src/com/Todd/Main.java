@@ -31,10 +31,10 @@ public class Main {
                 Film film = new Film();
                 film.setPosition(Integer.parseInt(filmData[0]));
                 if (!filmData[1].equals("---")){
-                    film.setPosition2018(Integer.parseInt(filmData[1]));
+                    film.setPosition2019(Integer.parseInt(filmData[1]));
                 }
                 if (!filmData[2].equals("---")){
-                    film.setPosition2017(Integer.parseInt(filmData[2]));
+                    film.setPosition2018(Integer.parseInt(filmData[2]));
                 }
                 film.setTitle(filmData[3].replace("\"",""));
                 film.setDirector(filmData[4].replace("\"",""));
@@ -62,6 +62,7 @@ public class Main {
         int numberSimilarDirectedBy = analysis.numberOfFilmsDirectedBySimilar(filmArrayList, directorSimilar);
         System.out.println("Number of films directed by " + directorExact + " using exact calculation: " + numberDirectedBy);
         System.out.println("Number of films directed by " + directorSimilar + " using similar calculation: " + numberSimilarDirectedBy);
+        System.out.println("Average length of films directed by " + directorExact + ": " + analysis.averageFilmLengthByDirector(filmArrayList, directorExact));
 
         System.out.println("Random movie " + analysis.randomMovie(filmArrayList).getTitle());
 

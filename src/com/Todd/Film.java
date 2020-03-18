@@ -2,8 +2,8 @@ package com.Todd;
 
 public class Film {
     private int position;
+    private int position2019;
     private int position2018;
-    private int position2017;
     private String title;
     private String director;
     private int year;
@@ -32,20 +32,20 @@ public class Film {
         this.position = position;
     }
 
+    public int getPosition2019() {
+        return position2019;
+    }
+
+    public void setPosition2019(int position2019) {
+        this.position2019 = position2019;
+    }
+
     public int getPosition2018() {
         return position2018;
     }
 
     public void setPosition2018(int position2018) {
         this.position2018 = position2018;
-    }
-
-    public int getPosition2017() {
-        return position2017;
-    }
-
-    public void setPosition2017(int position2017) {
-        this.position2017 = position2017;
     }
 
     public String getTitle() {
