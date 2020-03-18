@@ -4,6 +4,7 @@ import java.io.BufferedReader;
 import java.io.FileReader;
 import java.util.ArrayList;
 import java.io.IOException;
+import java.util.Random;
 
 public class Main {
 
@@ -64,10 +65,11 @@ public class Main {
         System.out.println("Number of films directed by " + directorSimilar + " using similar calculation: " + numberSimilarDirectedBy);
         System.out.println("Average length of films directed by " + directorExact + ": " + analysis.averageFilmLengthByDirector(filmArrayList, directorExact));
 
-        System.out.println("Random movie " + analysis.randomMovie(filmArrayList).getTitle());
+        System.out.println("Random movie " + analysis.randomMovie(filmArrayList).toString());
 
-        int firstYear = 1990;
-        int secondYear = 1999;
+        Random random = new Random();
+        int firstYear = random.nextInt(2015-1902) + 1902;
+        int secondYear = random.nextInt(2015-firstYear) + firstYear;
         System.out.println("Number of films between " + firstYear + " and " + secondYear + " is " + analysis.numberOfFilmsInbetweenYears(filmArrayList, firstYear, secondYear));
 
         Output output = new Output();

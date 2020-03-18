@@ -16,6 +16,11 @@ public class Film {
     public Film() {
     }
 
+    @Override
+    public String toString(){
+        return this.getTitle() + " directed by " + this.getDirector() + " released in year " + this.getYear() + " and produced in " + this.getCountry();
+    }
+
     public int getSeen() {
         return seen;
     }
