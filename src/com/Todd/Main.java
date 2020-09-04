@@ -45,10 +45,10 @@ public class Main {
                 film.setGenre(filmData[8].replace("\"",""));
                 film.setColor(filmData[9].replace("\"",""));
                 if (filmData.length > 10){
-                    film.setSeen(Integer.parseInt(filmData[10]));
+                    film.setSeen(true);
                 }
                 else{
-                    film.setSeen(0);
+                    film.setSeen(false);
                 }
                 filmArrayList.add(film);
             }
@@ -56,21 +56,24 @@ public class Main {
         catch (IOException e){
             e.printStackTrace();
         }
-        Analysis analysis = new Analysis();
+        Analysis analysis = new Analysis(filmArrayList);
         String directorExact = "Lang, Fritz";
         String directorSimilar = "Bergman";
-        int numberDirectedBy = analysis.numberOfFilmsDirectedBy(filmArrayList, directorExact);
-        int numberSimilarDirectedBy = analysis.numberOfFilmsDirectedBySimilar(filmArrayList, directorSimilar);
+        int numberDirectedBy = analysis.numberOfFilmsDirectedBy(directorExact);
+        int numberSimilarDirectedBy = analysis.numberOfFilmsDirectedBySimilar(directorSimilar);
         System.out.println("Number of films directed by " + directorExact + " using exact calculation: " + numberDirectedBy);
         System.out.println("Number of films directed by " + directorSimilar + " using similar calculation: " + numberSimilarDirectedBy);
-        System.out.println("Average length of films directed by " + directorExact + ": " + analysis.averageFilmLengthByDirector(filmArrayList, directorExact));
+        System.out.println("Average length of films directed by " + directorExact + ": " + analysis.averageFilmLengthByDirector(directorExact));
 
-        System.out.println("Random movie " + analysis.randomMovie(filmArrayList).toString());
+        System.out.println("Random movie " + analysis.randomMovie().toString());
 
         Random random = new Random();
         int firstYear = random.nextInt(2015-1902) + 1902;
         int secondYear = random.nextInt(2015-firstYear) + firstYear;
-        System.out.println("Number of films between " + firstYear + " and " + secondYear + " is " + analysis.numberOfFilmsInbetweenYears(filmArrayList, firstYear, secondYear));
+        System.out.println("Number of films between " + firstYear + " and " + secondYear + " is " + analysis.numberOfFilmsInbetweenYears(firstYear, secondYear));
+
+        MachineLearning machineLearning = new MachineLearning(filmArrayList);
+        System.out.println("Random unseen movie " + machineLearning.fetchRandomUnseenFilm().toString());
 
         Output output = new Output();
         output.writeFile(filmArrayList);

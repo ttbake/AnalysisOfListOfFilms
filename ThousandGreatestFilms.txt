@@ -1,1001 +1,1001 @@
 Pos	2019	2018	Title	Director	Year	Country	Length	Genre	Colour	Seen
-1	1	1	Citizen Kane	Welles, Orson	1941	USA	119	Drama-Mystery	BW	0
-2	2	2	Vertigo	Hitchcock, Alfred	1958	USA	128	Thriller-Drama-Mystery	Col	0
-3	3	3	2001: A Space Odyssey	Kubrick, Stanley	1968	UK-USA	139	Science Fiction	Col	0
-4	4	4	Rules of the Game, The	Renoir, Jean	1939	France	113	Drama-Comedy	BW	0
-5	5	5	Tokyo Story	Ozu, Yasujiro	1953	Japan	134	Drama	BW	0
-6	6	7	8½	Fellini, Federico	1963	Italy	135	Drama	BW	0
-7	7	6	Godfather, The	Coppola, Francis Ford	1972	USA	175	Drama-Crime	Col	0
-8	8	8	Sunrise	Murnau, F.W.	1927	USA	110	Romance-Drama-Crime	BW	0
-9	9	9	Searchers, The	Ford, John	1956	USA	119	Western	Col	0
-10	10	10	Seven Samurai	Kurosawa, Akira	1954	Japan	200	Drama-Action-History	BW	0
-11	11	11	Apocalypse Now	Coppola, Francis Ford	1979	USA	150	War-Drama-Adventure	Col	0
-12	12	12	Singin' in the Rain	Donen, Stanley/Gene Kelly	1952	USA	102	Musical-Dance-Comedy	Col	0
-13	13	13	Bicycle Thieves	De Sica, Vittorio	1948	Italy	90	Drama	BW	0
-14	15	15	Taxi Driver	Scorsese, Martin	1976	USA	113	Drama-Crime	Col	0
-15	14	14	Battleship Potemkin	Eisenstein, Sergei	1925	USSR	71	War-History	BW	0
-16	16	17	Breathless	Godard, Jean-Luc	1960	France	89	Romance-Drama-Crime	BW	0
-17	17	16	Passion of Joan of Arc, The	Dreyer, Carl Theodor	1928	France	110	History-Drama-Biography	BW	0
-18	18	18	Atalante, L'	Vigo, Jean	1934	France	89	Romance-Drama	BW	0
-19	19	19	Persona	Bergman, Ingmar	1966	Sweden	83	Drama-Thriller	BW	0
-20	21	22	Man with a Movie Camera, The	Vertov, Dziga	1929	USSR	80	Documentary-Avant-Garde	BW	0
-21	20	20	Rashomon	Kurosawa, Akira	1950	Japan	88	Drama-Crime	BW	0
-22	23	25	400 Blows, The	Truffaut, François	1959	France	99	Drama	BW	0
-23	25	26	Psycho	Hitchcock, Alfred	1960	USA	109	Thriller-Horror	BW	0
-24	22	21	Godfather Part II, The	Coppola, Francis Ford	1974	USA	200	Drama-Crime	Col	0
-25	24	23	Raging Bull	Scorsese, Martin	1980	USA	128	Sport-Drama-Biography	BW	0
-26	28	28	Some Like it Hot	Wilder, Billy	1959	USA	119	Romance-Crime-Comedy	BW	0
-27	27	27	Andrei Rublev	Tarkovsky, Andrei	1966	USSR	185	History-Biography	Col-BW	0
-28	26	24	City Lights	Chaplin, Charles	1931	USA	86	Romance-Comedy	BW	0
-29	29	31	Dolce vita, La	Fellini, Federico	1960	Italy	175	Drama	BW	0
-30	30	29	Mirror, The	Tarkovsky, Andrei	1975	USSR	108	Drama-Biography	Col-BW	0
-31	31	30	Touch of Evil	Welles, Orson	1958	USA	108	Thriller-Crime	BW	0
-32	33	34	Ordet	Dreyer, Carl Theodor	1955	Denmark	125	Religious-Drama	BW	0
-33	36	33	Lawrence of Arabia	Lean, David	1962	UK	216	War-Biography-Adventure	Col	0
-34	32	35	Au hasard Balthazar	Bresson, Robert	1966	France	95	Drama	BW	0
-35	34	36	Sunset Blvd.	Wilder, Billy	1950	USA	110	Drama	BW	0
-36	35	32	Casablanca	Curtiz, Michael	1942	USA	102	War-Romance-Drama	BW	0
-37	38	39	Blade Runner	Scott, Ridley	1982	USA	118	Science Fiction-Thriller-Drama	Col	0
-38	37	37	Avventura, L'	Antonioni, Michelangelo	1960	Italy-France	145	Drama-Mystery-Romance	BW	0
-39	39	40	Contempt	Godard, Jean-Luc	1963	France-Italy	103	Drama	Col	0
-40	40	38	General, The	Keaton, Buster/Clyde Bruckman	1926	USA	74	Comedy-Adventure	BW	0
-41	41	41	Rear Window	Hitchcock, Alfred	1954	USA	112	Thriller-Mystery	Col	0
-42	44	45	In the Mood for Love	Wong Kar-wai	2000	Hong Kong-France	97	Romance-Drama	Col	0
-43	43	43	Night of the Hunter, The	Laughton, Charles	1955	USA	93	Thriller	BW	0
-44	42	42	Grande illusion, La	Renoir, Jean	1937	France	117	Prison-Drama-War	BW	0
-45	49	46	Third Man, The	Reed, Carol	1949	UK	104	Thriller-Mystery	BW	0
-46	47	50	Ugetsu monogatari	Mizoguchi, Kenji	1953	Japan	96	Drama	BW	0
-47	46	47	Playtime	Tati, Jacques	1967	France	108	Comedy	Col	0
-48	45	44	Modern Times	Chaplin, Charles	1936	USA	89	Comedy-Romance	BW	0
-49	48	48	Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb	Kubrick, Stanley	1964	UK-USA	93	War-Comedy	BW	0
-50	51	55	Fanny and Alexander	Bergman, Ingmar	1982	Sweden	189	Drama	Col	0
-51	52	58	Stalker	Tarkovsky, Andrei	1979	USSR	160	Science Fiction-Mystery	Col-BW	0
-52	50	49	Chinatown	Polanski, Roman	1974	USA	131	Mystery-Crime	Col	0
-53	53	51	Barry Lyndon	Kubrick, Stanley	1975	UK	183	Drama	Col	0
-54	60	61	Mulholland Dr.	Lynch, David	2001	France-USA	147	Mystery-Drama-Thriller	Col	0
-55	55	59	Pather Panchali	Ray, Satyajit	1955	India	112	Drama	BW	0
-56	54	52	Apartment, The	Wilder, Billy	1960	USA	125	Drama-Comedy	BW	0
-57	57	54	Rio Bravo	Hawks, Howard	1959	USA	141	Western	Col	0
-58	56	53	M	Lang, Fritz	1931	Germany	99	Thriller-Drama-Crime	BW	0
-59	61	60	North by Northwest	Hitchcock, Alfred	1959	USA	136	Thriller-Spy-Romance	Col	0
-60	59	57	Metropolis	Lang, Fritz	1927	Germany	153	Fantasy-Science Fiction-Drama	BW	0
-61	58	56	Wild Strawberries	Bergman, Ingmar	1957	Sweden	90	Drama	BW	0
-62	62	63	Enfants du paradis, Les	Carné, Marcel	1945	France	195	Romance-Drama	BW	0
-63	64	76	Viridiana	Buñuel, Luis	1961	Spain	90	Drama	BW	0
-64	63	65	Pierrot le fou	Godard, Jean-Luc	1965	France-Italy	110	Romance-Drama-Crime	Col	0
-65	67	69	Strada, La	Fellini, Federico	1954	Italy	115	Drama	BW	0
-66	69	68	Shoah	Lanzmann, Claude	1985	France	566	Documentary	Col	0
-67	66	62	Wild Bunch, The	Peckinpah, Sam	1969	USA	144	Western	Col	0
-68	65	64	Once Upon a Time in the West	Leone, Sergio	1968	Italy-USA	165	Western	Col	0
-69	72	71	Seventh Seal, The	Bergman, Ingmar	1957	Sweden	96	Fantasy-Drama	BW	0
-70	77	77	GoodFellas	Scorsese, Martin	1990	USA	146	Drama-Crime	Col	0
-71	70	72	Amarcord	Fellini, Federico	1973	Italy	127	Drama-Comedy	Col	0
-72	76	75	Pulp Fiction	Tarantino, Quentin	1994	USA	154	Drama-Crime-Comedy	Col	0
-73	68	66	Battle of Algiers, The	Pontecorvo, Gillo	1966	Italy-Algeria	123	War-Political-Drama	BW	0
-74	74	78	Leopard, The	Visconti, Luchino	1963	Italy	205	History-Drama-War	Col	0
-75	73	74	Voyage in Italy	Rossellini, Roberto	1953	Italy	97	Romance-Drama	BW	0
-76	71	67	Gold Rush, The	Chaplin, Charles	1925	USA	82	Comedy-Adventure-Family	BW	0
-77	78	70	Magnificent Ambersons, The	Welles, Orson	1942	USA	88	Drama	BW	0
-78	75	73	Late Spring	Ozu, Yasujiro	1949	Japan	108	Romance-Drama-Family	BW	0
-79	81	81	Pickpocket	Bresson, Robert	1959	France	75	Drama-Crime	BW	0
-80	79	82	Clockwork Orange, A	Kubrick, Stanley	1971	UK	137	Science Fiction-Crime-Drama	Col	0
-81	80	79	It's a Wonderful Life	Capra, Frank	1946	USA	129	Fantasy-Drama-Family	BW	0
-82	86	88	Close-Up	Kiarostami, Abbas	1990	Iran	98	Documentary-Drama-Crime	Col	0
-83	84	85	Jules et Jim	Truffaut, François	1962	France	104	Romance-Drama	BW	0
-84	95	96	Jeanne Dielman, 23 Quai du Commerce, 1080 Bruxelles	Akerman, Chantal	1975	Belgium-France	201	Drama-Avant-Garde	Col	0
-85	82	80	Blue Velvet	Lynch, David	1986	USA	120	Mystery-Crime-Drama	Col	0
-86	83	84	Conformist, The	Bertolucci, Bernardo	1970	Italy-France-West Germany	107	Political-Drama	Col	0
-87	85	87	Nashville	Altman, Robert	1975	USA	159	Drama	Col	0
-88	89	86	Annie Hall	Allen, Woody	1977	USA	94	Romance-Comedy	Col	0
-89	87	83	Gertrud	Dreyer, Carl Theodor	1964	Denmark	116	Drama	BW	0
-90	88	89	Man Escaped, A	Bresson, Robert	1956	France	102	Prison-Drama	BW	0
-91	96	94	Shining, The	Kubrick, Stanley	1980	USA	142	Horror	Col	0
-92	91	95	Jaws	Spielberg, Steven	1975	USA	124	Horror-Thriller-Adventure	Col	0
-93	92	93	Sansho the Bailiff	Mizoguchi, Kenji	1954	Japan	125	Drama	BW	0
-94	97	104	Woman Under the Influence, A	Cassavetes, John	1974	USA	155	Drama	Col	0
-95	90	90	Man Who Shot Liberty Valance, The	Ford, John	1962	USA	119	Western	BW	0
-96	93	92	Greed	von Stroheim, Erich	1924	USA	140	Drama	BW	0
-97	100	99	Sans soleil	Marker, Chris	1983	France	100	Avant-Garde-Documentary	Col	0
-98	94	91	Last Year at Marienbad	Resnais, Alain	1961	France-Italy	94	Drama-Mystery-Avant-Garde	BW	0
-99	99	98	Blow-Up	Antonioni, Michelangelo	1966	Italy-UK	111	Mystery-Drama	Col	0
-100	101	102	Once Upon a Time in America	Leone, Sergio	1984	Italy-USA	229	Drama-Crime	Col	0
-101	98	97	Aguirre: The Wrath of God	Herzog, Werner	1972	West Germany	94	History-Drama-Adventure	Col	0
-102	102	101	To Be or Not to Be	Lubitsch, Ernst	1942	USA	99	War-Comedy	BW	0
-103	108	107	Mother and the Whore, The	Eustache, Jean	1973	France	210	Drama	BW	0
-104	113	111	Spirit of the Beehive, The	Erice, Victor	1973	Spain	95	Drama	Col	0
-105	105	103	Wizard of Oz, The	Fleming, Victor	1939	USA	101	Musical-Fantasy-Family	Col-BW	0
-106	104	105	Intolerance	Griffith, D.W.	1916	USA	178	History-Drama	BW	0
-107	109	110	Gone with the Wind	Fleming, Victor	1939	USA	222	History-Romance-Drama	Col	0
-108	103	100	Sátántangó	Tarr, Béla	1994	Hungary-Germany-Switzerland	450	Drama-Comedy-Mystery	BW	0
-109	106	108	Eclisse, L'	Antonioni, Michelangelo	1962	Italy-France	126	Drama-Romance	BW	0
-110	107	112	Hiroshima mon amour	Resnais, Alain	1959	France-Japan	91	Drama	BW	0
-111	129	128	Alien	Scott, Ridley	1979	USA	117	Science Fiction-Horror	Col	0
-112	112	113	Ikiru	Kurosawa, Akira	1952	Japan	143	Drama	BW	0
-113	118	115	Sherlock Jr.	Keaton, Buster	1924	USA	45	Fantasy-Comedy	BW	0
-114	110	109	Jetée, La	Marker, Chris	1962	France	27	Science Fiction-Drama-Short	BW	0
-115	111	106	Manhattan	Allen, Woody	1979	USA	96	Romance-Comedy	BW	0
-116	115	116	Star Wars	Lucas, George	1977	USA	121	Science Fiction-Fantasy-Adventure	Col	0
-117	119	118	E.T. The Extra-Terrestrial	Spielberg, Steven	1982	USA	115	Science Fiction-Family	Col	0
-118	154	152	Beau travail	Denis, Claire	1999	France	92	Drama	Col	0
-119	133	134	Nosferatu	Murnau, F.W.	1922	Germany	84	Horror	BW	0
-120	114	119	One Flew Over the Cuckoo's Nest	Forman, Milos	1975	USA	133	Drama	Col	0
-121	123	127	Brighter Summer Day, A	Yang, Edward	1991	Taiwan	237	Crime-Romance-Drama	Col	0
-122	117	120	Madame de...	Ophüls, Max	1953	France-Italy	105	Romance-Drama	BW	0
-123	127	131	Yi yi	Yang, Edward	2000	Taiwan-Japan	173	Drama	Col	0
-124	116	117	All About Eve	Mankiewicz, Joseph L.	1950	USA	138	Drama	BW	0
-125	120	114	Bringing Up Baby	Hawks, Howard	1938	USA	102	Romance-Comedy	BW	0
-126	122	122	Letter from an Unknown Woman	Ophüls, Max	1948	USA	90	Romance-Drama	BW	0
-127	130	124	Don't Look Now	Roeg, Nicolas	1973	UK	110	Mystery-Thriller	Col	0
-128	121	121	My Darling Clementine	Ford, John	1946	USA	97	Western	BW	0
-129	124	133	Rome, Open City	Rossellini, Roberto	1945	Italy	105	War-Drama	BW	0
-130	128	132	Olvidados, Los	Buñuel, Luis	1950	Mexico	88	Drama-Crime	BW	0
-131	125	130	Partie de campagne	Renoir, Jean	1936	France	40	Romance-Drama-Short	BW	0
-132	132	125	Badlands	Malick, Terrence	1973	USA	95	Drama-Crime	Col	0
-133	131	126	Vivre sa vie	Godard, Jean-Luc	1962	France	85	Drama	BW	0
-134	140	147	Rosemary's Baby	Polanski, Roman	1968	USA	136	Thriller-Horror-Drama	Col	0
-135	134	129	Notorious	Hitchcock, Alfred	1946	USA	101	Romance-Thriller-Mystery	BW	0
-136	138	143	Stagecoach	Ford, John	1939	USA	96	Western-Action-Drama	BW	0
-137	137	145	Do the Right Thing	Lee, Spike	1989	USA	120	Drama-Comedy	Col	0
-138	139	136	Chien andalou, Un	Buñuel, Luis	1928	France	16	Horror-Fantasy-Avant-Garde	BW	0
-139	158	153	Good, the Bad and the Ugly, The	Leone, Sergio	1966	Italy-Spain	161	Western-Action	Col	0
-140	126	123	Âge d'or, L'	Buñuel, Luis	1930	France	63	Drama-Avant-Garde-Experimental	BW	0
-141	135	138	Ali: Fear Eats the Soul	Fassbinder, Rainer Werner	1974	West Germany	94	Romance-Drama	Col	0
-142	148	141	His Girl Friday	Hawks, Howard	1940	USA	92	Romance-Comedy	BW	0
-143	143	135	Lady Eve, The	Sturges, Preston	1941	USA	94	Romance-Comedy	BW	0
-144	136	161	Passenger, The	Antonioni, Michelangelo	1975	Italy	119	Drama	Col	0
-145	147	154	Duck Soup	McCarey, Leo	1933	USA	70	Comedy	BW	0
-146	145	151	Gospel According to St. Matthew, The	Pasolini, Pier Paolo	1964	Italy-France	135	Religious-Drama	BW	0
-147	142	144	Matter of Life and Death, A	Powell, Michael/Emeric Pressburger	1946	UK	104	Romance-Fantasy-Comedy	Col	0
-148	150	137	Double Indemnity	Wilder, Billy	1944	USA	106	Mystery-Crime	BW	0
-149	152	146	Trouble in Paradise	Lubitsch, Ernst	1932	USA	83	Romance-Comedy	BW	0
-150	141	156	Come and See	Klimov, Elem	1985	USSR	136	War-Drama-History	Col	0
-151	157	182	Spring in a Small Town	Fei Mu	1948	China	85	Romance-Drama	BW	0
-152	151	148	Brief Encounter	Lean, David	1945	UK	85	Romance-Drama	BW	0
-153	153	150	On the Waterfront	Kazan, Elia	1954	USA	108	Drama	BW	0
-154	144	142	Conversation, The	Coppola, Francis Ford	1974	USA	113	Thriller-Drama-Crime	Col	0
-155	149	140	Days of Heaven	Malick, Terrence	1978	USA	95	Romance-Drama	Col	0
-156	155	149	Histoire(s) du cinéma	Godard, Jean-Luc	1998	France	265	Documentary	Col-BW	0
-157	146	139	Exterminating Angel, The	Buñuel, Luis	1962	Mexico	95	Drama-Fantasy-Mystery	BW	0
-158	156	155	Cries and Whispers	Bergman, Ingmar	1972	Sweden	106	Drama	Col	0
-159	164	164	Red Shoes, The	Powell, Michael/Emeric Pressburger	1948	UK	133	Dance-Musical-Drama	Col	0
-160	159	157	Chimes at Midnight	Welles, Orson	1965	France-Spain-Switzerland	115	War-Drama-Comedy	BW	0
-161	160	158	Discreet Charm of the Bourgeoisie, The	Buñuel, Luis	1972	France	100	Fantasy-Drama-Comedy	Col	0
-162	200	199	Piano, The	Campion, Jane	1993	New Zealand-Australia-France	121	History-Drama-Romance	Col	0
-163	161	162	King Kong	Cooper, Merian C./Ernest B. Schoedsack	1933	USA	103	Fantasy-Adventure-Horror	BW	0
-164	163	159	Argent, L'	Bresson, Robert	1983	France-Switzerland	90	Drama-Crime	Col	0
-165	166	165	Black Narcissus	Powell, Michael/Emeric Pressburger	1947	UK	99	Drama-Religious	Col	0
-166	179	174	There Will Be Blood	Anderson, Paul Thomas	2007	USA	158	Drama	Col	0
-167	165	163	River, The	Renoir, Jean	1951	France-India-USA	99	Romance-Drama	Col	0
-168	162	160	Deer Hunter, The	Cimino, Michael	1978	USA	183	War-Drama	Col	0
-169	167	171	Earth	Dovzhenko, Alexander	1930	USSR	75	Drama	BW	0
-170	173	172	Umbrellas of Cherbourg, The	Demy, Jacques	1964	France-Germany	91	Romance-Musical-Drama	Col	0
-171	170	176	Rocco and His Brothers	Visconti, Luchino	1960	Italy-France	180	Drama	BW	0
-172	188	203	Spirited Away	Miyazaki, Hayao	2001	Japan	124	Animated-Adventure-Fantasy	Col	0
-173	169	175	Great Dictator, The	Chaplin, Charles	1940	USA	128	War-Comedy-Political	BW	0
-174	199	192	Texas Chainsaw Massacre, The	Hooper, Tobe	1974	USA	83	Thriller-Horror	Col	0
-175	168	168	Mouchette	Bresson, Robert	1967	France	80	Drama	BW	0
-176	172	167	Napoléon	Gance, Abel	1927	France	235	War-History-Biography	BW	0
-177	171	170	Imitation of Life	Sirk, Douglas	1959	USA	124	Drama-Romance	Col	0
-178	174	166	Grapes of Wrath, The	Ford, John	1940	USA	129	Drama	BW	0
-179	178	181	Last Laugh, The	Murnau, F.W.	1924	Germany	77	Drama	BW	0
-180	193	191	Night and Fog	Resnais, Alain	1955	France	32	War-Documentary-Short	Col-BW	0
-181	175	169	Dekalog	Kieslowski, Krzysztof	1988	Poland-West Germany	550	Drama	Col	0
-182	176	185	Birds, The	Hitchcock, Alfred	1963	USA	120	Horror	Col	0
-183	191	208	City of Sadness, A	Hou Hsiao-hsien	1989	Taiwan-Hong Kong	157	Political-Drama	Col	0
-184	183	177	Brazil	Gilliam, Terry	1985	UK	131	Science Fiction-Fantasy	Col	0
-185	186	180	Out of the Past	Tourneur, Jacques	1947	USA	97	Thriller-Mystery-Crime	BW	0
-186	181	173	Life and Death of Colonel Blimp, The	Powell, Michael/Emeric Pressburger	1943	UK	163	War-Drama-Comedy	Col	0
-187	196	188	Kes	Loach, Ken	1969	UK	113	Drama	Col	0
-188	220	217	Raiders of the Lost Ark	Spielberg, Steven	1981	USA	115	Adventure-Action	Col	0
-189	184	189	Umberto D.	De Sica, Vittorio	1952	Italy	89	Drama	BW	0
-190	198	194	Fargo	Coen, Joel & Ethan Coen	1996	USA	98	Drama-Crime-Comedy	Col	0
-191	177	202	Salò, or the 120 Days of Sodom	Pasolini, Pier Paolo	1975	Italy	117	Horror-Drama-Political	Col	0
-192	214	206	Chungking Express	Wong Kar-wai	1994	Hong Kong	104	Romance-Drama	Col	0
-193	203	195	Close Encounters of the Third Kind	Spielberg, Steven	1977	USA	135	Science Fiction-Adventure	Col	0
-194	190	228	Solaris	Tarkovsky, Andrei	1972	USSR	165	Science Fiction-Drama-Mystery	Col-BW	0
-195	180	179	Travelling Players, The	Angelopoulos, Theo	1975	Greece	230	Political-Drama	Col	0
-196	185	184	Belle de jour	Buñuel, Luis	1967	France-Italy	100	Drama	Col	0
-197	182	198	Death in Venice	Visconti, Luchino	1971	Italy	130	Drama	Col	0
-198	204	186	Performance	Roeg, Nicolas/Donald Cammell	1970	UK	105	Drama	Col	0
-199	192	178	Celine and Julie Go Boating	Rivette, Jacques	1974	France	192	Fantasy-Drama-Avant-Garde	Col	0
-200	197	193	Red River	Hawks, Howard	1948	USA	133	Western	BW	0
-201	201	183	Sweet Smell of Success	Mackendrick, Alexander	1957	USA	96	Drama	BW	0
-202	194	212	Paisan	Rossellini, Roberto	1946	Italy	120	War-Drama	BW	0
-203	195	211	Breaking the Waves	von Trier, Lars	1996	Denmark-Sweden-France-Netherlands-Norway-Iceland-Spain	156	Romance-Drama	Col	0
-204	209	219	Cabinet of Dr. Caligari, The	Wiene, Robert	1920	Germany	69	Horror-Fantasy	BW	0
-205	211	204	Samouraï, Le	Melville, Jean-Pierre	1967	France	95	Thriller-Crime	Col	0
-206	189	197	Quiet Man, The	Ford, John	1952	USA	129	Romance-Drama-Comedy	Col	0
-207	229	222	Vampyr	Dreyer, Carl Theodor	1932	Germany-France	73	Horror	BW	0
-208	236	233	Unforgiven	Eastwood, Clint	1992	USA	127	Western	Col	0
-209	206	187	Best Years of Our Lives, The	Wyler, William	1946	USA	172	War-Drama	BW	0
-210	187	200	Nights of Cabiria	Fellini, Federico	1957	Italy-France	110	Drama	BW	0
-211	207	232	Black God, White Devil	Rocha, Glauber	1964	Brazil	110	Political-Drama-Crime	BW	0
-212	225	207	McCabe & Mrs. Miller	Altman, Robert	1971	USA	121	Western-Drama	Col	0
-213	202	190	Ran	Kurosawa, Akira	1985	France-Japan	161	War-History-Drama	Col	0
-214	216	201	Caché	Haneke, Michael	2005	France-Austria-Germany-Italy-USA	117	Thriller-Drama	Col	0
-215	205	221	Ashes and Diamonds	Wajda, Andrzej	1958	Poland	96	War-Drama-Political	BW	0
-216	208	215	Graduate, The	Nichols, Mike	1967	USA	105	Romance-Drama-Comedy	Col	0
-217	221	214	Exorcist, The	Friedkin, William	1973	USA	122	Horror	Col	0
-218	239	240	Tree of Life, The	Malick, Terrence	2011	USA	139	Drama	Col	0
-219	212	196	Thin Red Line, The	Malick, Terrence	1998	USA	170	War-Drama-Action	Col	0
-220	218	205	Nanook of the North	Flaherty, Robert	1922	USA	79	Documentary	BW	0
-221	215	213	Wings of Desire	Wenders, Wim	1987	West Germany-France	130	Fantasy-Drama	Col-BW	0
-222	210	220	Wavelength	Snow, Michael	1967	Canada-USA	45	Avant-Garde	Col	0
-223	249	262	My Neighbour Totoro	Miyazaki, Hayao	1988	Japan	86	Fantasy-Family-Animated	Col	0
-224	227	224	Kind Hearts and Coronets	Hamer, Robert	1949	UK	104	Comedy	BW	0
-225	222	209	Schindler's List	Spielberg, Steven	1993	USA	195	War-History-Drama	Col-BW	0
-226	219	223	Big Lebowski, The	Coen, Joel & Ethan Coen	1998	USA-UK	113	Comedy-Crime	Col	0
-227	223	238	Eternal Sunshine of the Spotless Mind	Gondry, Michel	2004	USA	108	Romance-Drama-Comedy	Col	0
-228	217	210	Ivan the Terrible, Part 2	Eisenstein, Sergei	1946	USSR	88	History-Drama-Biography	Col-BW	0
-229	252	251	Tropical Malady	Weerasethakul, Apichatpong	2004	Thailand-France-Germany-Italy	118	Drama-Fantasy-Romance	Col	0
-230	231	249	Paris, Texas	Wenders, Wim	1984	USA	150	Drama	Col	0
-231	243	265	Paths of Glory	Kubrick, Stanley	1957	USA	86	War-Drama	BW	0
-232	226	237	Germany, Year Zero	Rossellini, Roberto	1948	Italy-West Germany	74	War-Drama	BW	0
-233	224	234	Only Angels Have Wings	Hawks, Howard	1939	USA	121	Drama-Adventure-Romance	BW	0
-234	230	229	Diary of a Country Priest	Bresson, Robert	1951	France	120	Religious-Drama	BW	0
-235	235	226	Treasure of the Sierra Madre, The	Huston, John	1948	USA	124	Adventure-Drama-Western	BW	0
-236	238	248	Zero for Conduct	Vigo, Jean	1933	France	41	Short-Drama	BW	0
-237	228	216	Sullivan's Travels	Sturges, Preston	1941	USA	91	Romance-Comedy	BW	0
-238	240	230	Groundhog Day	Ramis, Harold	1993	USA	103	Romance-Fantasy-Comedy	Col	0
-239	213	218	Two or Three Things I Know About Her	Godard, Jean-Luc	1966	France	87	Drama	Col	0
-240	241	267	F for Fake	Welles, Orson	1973	France-Iran-West Germany	85	Documentary-Avant-Garde	Col	0
-241	263	256	Night of the Living Dead	Romero, George A.	1968	USA	96	Horror	BW	0
-242	232	225	Meet Me in St. Louis	Minnelli, Vincente	1944	USA	113	Musical-Family-Drama	Col	0
-243	234	227	Crowd, The	Vidor, King	1928	USA	104	Drama	BW	0
-244	237	255	Notte, La	Antonioni, Michelangelo	1961	Italy-France	120	Drama	BW	0
-245	242	235	Bonnie and Clyde	Penn, Arthur	1967	USA	111	Drama-Crime-Biography	Col	0
-246	250	242	Johnny Guitar	Ray, Nicholas	1954	USA	110	Western	Col	0
-247	246	245	Band Wagon, The	Minnelli, Vincente	1953	USA	112	Musical-Dance-Comedy	Col	0
-248	332	349	Cléo from 5 to 7	Varda, Agnès	1962	France	90	Drama	BW	0
-249	233	231	Colour of Pomegranate, The	Parajanov, Sergei	1969	USSR	73	History-Avant-Garde	Col	0
-250	244	243	Tabu	Murnau, F.W.	1931	USA	82	Romance-Drama-Adventure	BW	0
-251	258	270	Freaks	Browning, Tod	1932	USA	64	Horror-Drama	BW	0
-252	248	236	Verdugo, El	García Berlanga, Luis	1963	Spain-Italy	90	Drama-Comedy	BW	0
-253	257	250	Shop Around the Corner, The	Lubitsch, Ernst	1940	USA	97	Romance-Comedy	BW	0
-254	286	296	Thing, The	Carpenter, John	1982	USA	108	Science Fiction-Action-Horror	Col	0
-255	247	241	Life of Oharu, The	Mizoguchi, Kenji	1952	Japan	146	Drama	BW	0
-256	251	246	Magnolia	Anderson, Paul Thomas	1999	USA	188	Drama	Col-BW	0
-257	245	274	Memories of Underdevelopment	Gutiérrez Alea, Tomás	1968	Cuba	97	Political-Romance-Drama	BW	0
-258	253	253	Floating Clouds	Naruse, Mikio	1955	Japan	123	Romance-Drama	BW	0
-259	264	247	Thin Blue Line, The	Morris, Errol	1988	USA	96	Documentary	Col	0
-260	254	261	Story of the Last Chrysanthemums, The	Mizoguchi, Kenji	1939	Japan	148	Romance-Drama	BW	0
-261	259	254	Ivan the Terrible, Part 1	Eisenstein, Sergei	1944	USSR	96	History-Drama-Biography	BW	0
-262	266	260	Faces	Cassavetes, John	1968	USA	130	Drama	BW	0
-263	256	239	Mean Streets	Scorsese, Martin	1973	USA	110	Drama-Crime	Col	0
-264	255	244	Meshes of the Afternoon	Deren, Maya & Alexander Hammid	1943	USA	15	Short-Avant-Garde-Fantasy	BW	0
-265	260	269	In a Lonely Place	Ray, Nicholas	1950	USA	91	Drama-Mystery-Romance	BW	0
-266	273	259	Distant Voices, Still Lives	Davies, Terence	1988	UK	85	Drama	Col	0
-267	262	263	Broken Blossoms	Griffith, D.W.	1919	USA	90	Romance-Drama	BW	0
-268	282	284	Kings of the Road	Wenders, Wim	1976	West Germany	175	Drama	BW	0
-269	278	278	Eraserhead	Lynch, David	1977	USA	85	Horror-Fantasy-Science Fiction	BW	0
-270	275	277	Belle et la bête, La	Cocteau, Jean	1946	France	95	Fantasy	BW	0
-271	268	279	Maltese Falcon, The	Huston, John	1941	USA	100	Mystery	BW	0
-272	261	252	Three Colours: Red	Kieslowski, Krzysztof	1994	France-Switzerland-Poland	99	Drama	Col	0
-273	265	268	Throne of Blood	Kurosawa, Akira	1957	Japan	108	War-Drama	BW	0
-274	267	264	My Night at Maud's	Rohmer, Eric	1969	France	105	Romance-Drama	BW	0
-275	271	273	Love Streams	Cassavetes, John	1984	USA	141	Drama	Col	0
-276	270	266	Wages of Fear, The	Clouzot, Henri-Georges	1953	France-Italy	105	Thriller-Adventure-Action	BW	0
-277	283	294	Day of Wrath	Dreyer, Carl Theodor	1943	Denmark	110	Drama	BW	0
-278	272	276	Monsieur Verdoux	Chaplin, Charles	1947	USA	123	Crime-Comedy	BW	0
-279	310	297	Peeping Tom	Powell, Michael	1960	UK	109	Thriller-Drama	Col	0
-280	281	275	Cinema Paradiso	Tornatore, Giuseppe	1988	Italy-France	123	Drama-Comedy	Col	0
-281	280	289	Husbands	Cassavetes, John	1970	USA	138	Drama	Col	0
-282	274	282	Empire Strikes Back, The	Kershner, Irvin	1980	USA	124	Science Fiction-Fantasy-Adventure	Col	0
-283	285	298	Mr. Hulot's Holiday	Tati, Jacques	1953	France	86	Comedy	BW	0
-284	269	258	Three Colours: Blue	Kieslowski, Krzysztof	1993	France-Poland-Switzerland	100	Drama	Col	0
-285	290	286	Matrix, The	Wachowski, Lana & Lilly Wachowski	1999	USA-Australia	136	Science Fiction-Action-Adventure	Col	0
-286	303	305	This is Spinal Tap	Reiner, Rob	1984	USA	82	Comedy-Musical	Col	0
-287	279	272	Pandora's Box	Pabst, G.W.	1929	Germany	133	Drama-Crime-Romance	BW	0
-288	276	257	Crimes and Misdemeanors	Allen, Woody	1989	USA	104	Drama-Comedy	Col	0
-289	287	280	Birth of a Nation, The	Griffith, D.W.	1915	USA	187	War-History-Drama	BW	0
-290	296	281	Big Sleep, The	Hawks, Howard	1946	USA	114	Mystery-Crime	BW	0
-291	393	400	Daisies	Chytilová, Vera	1966	Czechoslovakia	76	Drama-Comedy-Avant Garde	Col-BW	0
-292	298	300	Kid, The	Chaplin, Charles	1921	USA	60	Drama-Comedy-Family	BW	0
-293	292	302	Videodrome	Cronenberg, David	1983	Canada	90	Horror-Science Fiction	Col	0
-294	289	317	Where is the Friend's Home?	Kiarostami, Abbas	1987	Iran	85	Drama	Col	0
-295	291	283	Autumn Afternoon, An	Ozu, Yasujiro	1962	Japan	115	Drama	Col	0
-296	314	313	Dawn of the Dead	Romero, George A.	1978	USA	126	Horror-Action	Col	0
-297	319	327	Make Way for Tomorrow	McCarey, Leo	1937	USA	92	Drama	BW	0
-298	288	287	Underground	Kusturica, Emir	1995	Yugoslavia-France-Germany-Bulgaria-Czech Republic-Hungary	192	War-Drama-Comedy	Col	0
-299	277	271	Week-End	Godard, Jean-Luc	1967	France-Italy	103	Drama	Col	0
-300	294	291	Touki Bouki	Mambéty, Djibril Diop	1973	Senegal	85	Drama	Col	0
-301	299	307	Killer of Sheep	Burnett, Charles	1977	USA	83	Drama	BW	0
-302	312	309	Snow White and the Seven Dwarfs	Hand, David	1937	USA	83	Animated-Family-Fantasy	Col	0
-303	309	330	City of God	Meirelles, Fernando & Kátia Lund	2002	Brazil-Germany-France	129	Drama-Crime-Action	Col	0
-304	316	303	Red Desert	Antonioni, Michelangelo	1964	Italy-France	118	Drama	Col	0
-305	295	285	Music Room, The	Ray, Satyajit	1958	India	95	Drama	BW	0
-306	302	311	Back to the Future	Zemeckis, Robert	1985	USA	116	Science Fiction-Comedy	Col	0
-307	300	316	Puppetmaster, The	Hou Hsiao-hsien	1993	Taiwan	141	Drama-Biography	Col	0
-308	315	306	Last Picture Show, The	Bogdanovich, Peter	1971	USA	118	Drama	BW	0
-309	306	292	All About My Mother	Almodóvar, Pedro	1999	Spain-France	101	Drama-Comedy	Col	0
-310	320	332	In the Realm of the Senses	Oshima, Nagisa	1976	Japan-France	109	Drama-Adult-Romance	Col	0
-311	317	368	Stranger Than Paradise	Jarmusch, Jim	1984	USA	90	Comedy	BW	0
-312	301	288	World of Apu, The	Ray, Satyajit	1959	India	103	Drama	BW	0
-313	328	320	Bride of Frankenstein	Whale, James	1935	USA	75	Horror-Science Fiction	BW	0
-314	293	304	Cabaret	Fosse, Bob	1972	USA	128	Musical-Drama-Dance	Col	0
-315	313	312	Reservoir Dogs	Tarantino, Quentin	1992	USA	99	Drama-Crime-Thriller	Col	0
-316	327	326	Midnight Cowboy	Schlesinger, John	1969	USA	113	Drama	Col	0
-317	297	290	Sacrifice, The	Tarkovsky, Andrei	1986	France-Sweden	145	Drama	Col	0
-318	323	322	Dog Day Afternoon	Lumet, Sidney	1975	USA	125	Drama-Crime	Col	0
-319	308	315	Time to Live and the Time to Die, The	Hou Hsiao-hsien	1985	Taiwan	137	Drama	Col	0
-320	284	310	Terra em Transe	Rocha, Glauber	1967	Brazil	106	Drama-Political	BW	0
-321	336	346	Eyes Without a Face	Franju, Georges	1960	France-Italy	88	Horror-Drama-Thriller	BW	0
-322	331	329	It Happened One Night	Capra, Frank	1934	USA	105	Romance-Comedy	BW	0
-323	305	301	Canterbury Tale, A	Powell, Michael/Emeric Pressburger	1944	UK	124	Drama	BW	0
-324	325	331	Kiss Me Deadly	Aldrich, Robert	1955	USA	106	Crime-Thriller-Drama	BW	0
-325	307	299	Harold and Maude	Ashby, Hal	1971	USA	91	Comedy-Drama-Romance	Col	0
-326	322	341	Touch of Zen, A	Hu, King	1971	Taiwan	200	Adventure-Action-Drama	Col	0
-327	354	362	Quince Tree of the Sun	Erice, Victor	1992	Spain	133	Documentary-Biography-Drama	Col	0
-328	346	373	Days of Being Wild	Wong Kar-wai	1990	Hong Kong	94	Drama	Col	0
-329	304	293	Philadelphia Story, The	Cukor, George	1940	USA	112	Romance-Comedy	BW	0
-330	318	318	West Side Story	Wise, Robert/Jerome Robbins	1961	USA	151	Romance-Musical-Dance	Col	0
-331	311	295	Berlin Alexanderplatz	Fassbinder, Rainer Werner	1980	West Germany-Italy	894	Drama-History-Political	Col	0
-332	353	423	House is Black, The	Farrokhzad, Forugh	1963	Iran	20	Documentary-Short	BW	0
-333	375	364	Wanda	Loden, Barbara	1970	USA	105	Drama-Crime	Col	0
-334	341	372	Aliens	Cameron, James	1986	USA	137	Science Fiction-Horror-Action	Col	0
-335	329	345	Heat	Mann, Michael	1995	USA	174	Thriller-Drama-Crime	Col	0
-336	333	325	Eyes Wide Shut	Kubrick, Stanley	1999	USA-UK	159	Thriller-Drama	Col	0
-337	324	314	To Kill a Mockingbird	Mulligan, Robert	1962	USA	129	Drama	BW	0
-338	348	366	Tenant, The	Polanski, Roman	1976	France-USA	125	Horror-Thriller-Mystery	Col	0
-339	321	308	Orpheus	Cocteau, Jean	1950	France	95	Romance-Fantasy-Drama	BW	0
-340	335	342	I Was Born, But...	Ozu, Yasujiro	1932	Japan	100	Drama-Comedy	BW	0
-341	330	319	Amadeus	Forman, Milos	1984	USA	158	Musical-Biography-Drama	Col	0
-342	380	360	Tie Xi Qu: West of the Tracks	Wang Bing	2003	China	551	Documentary	Col	0
-343	362	343	Happy Together	Wong Kar-wai	1997	Hong Kong	97	Romance-Drama	Col	0
-344	390	390	Innocents, The	Clayton, Jack	1961	UK	100	Horror-Thriller	BW	0
-345	337	321	Listen to Britain	Jennings, Humphrey	1942	UK	20	Documentary-Short-War	BW	0
-346	343	347	I Am Cuba	Kalatozov, Mikhail	1964	USSR-Cuba	141	Political-Drama	BW	0
-347	326	324	How Green Was My Valley	Ford, John	1941	USA	118	Drama	BW	0
-348	342	337	Green Ray, The	Rohmer, Eric	1986	France	96	Romance-Drama	Col	0
-349	334	328	Killing of a Chinese Bookie, The	Cassavetes, John	1976	USA	109	Drama-Crime	Col	0
-350	382	367	Silence of the Lambs, The	Demme, Jonathan	1991	USA	118	Thriller-Mystery	Col	0
-351	433	431	Uncle Boonmee Who Can Recall His Past Lives	Weerasethakul, Apichatpong	2010	Thailand-UK-France-Germany-Spain-Netherlands	113	Drama-Fantasy	Col	0
-352	356	363	Teorema	Pasolini, Pier Paolo	1968	Italy	98	Drama	Col	0
-353	372	441	Yellow Earth	Chen Kaige	1984	China	89	Drama-Political	Col	0
-354	366	394	Suspiria	Argento, Dario	1977	Italy	92	Horror	Col	0
-355	352	381	Dogville	von Trier, Lars	2003	Denmark-Sweden-France-UK-Germany-Finland-Italy-Netherlands-Norway	177	Drama	Col	0
-356	345	350	Stromboli	Rossellini, Roberto	1950	Italy	107	Drama	BW	0
-357	347	334	Marnie	Hitchcock, Alfred	1964	USA	129	Romance-Thriller-Mystery	Col	0
-358	339	336	Written on the Wind	Sirk, Douglas	1956	USA	99	Drama	Col	0
-359	391	384	Brokeback Mountain	Lee, Ang	2005	USA-Canada	134	Romance-Drama	Col	0
-360	394	398	Carrie	De Palma, Brian	1976	USA	97	Horror-Thriller	Col	0
-361	344	356	High Noon	Zinnemann, Fred	1952	USA	84	Western	BW	0
-362	338	323	Lola Montès	Ophüls, Max	1955	France-West Germany	116	Drama-Biography-Romance	Col	0
-363	355	382	Salvatore Giuliano	Rosi, Francesco	1962	Italy	125	History-Drama-Crime	BW	0
-364	404	454	Platform	Jia Zhangke	2000	China-Hong Kong-Japan-France	154	Drama-History	Col	0
-365	381	436	Elephant Man, The	Lynch, David	1980	USA	125	Drama-Biography	BW	0
-366	398	427	Land Without Bread	Buñuel, Luis	1932	Spain	28	Documentary-Short-Drama	BW	0
-367	363	344	Werckmeister Harmonies	Tarr, Béla	2000	Hungary-Germany-France-Switzerland-Italy	145	Drama	BW	0
-368	384	383	High and Low	Kurosawa, Akira	1963	Japan	142	Thriller-Crime-Drama	BW	0
-369	349	348	Through the Olive Trees	Kiarostami, Abbas	1994	Iran-France	103	Drama	Col	0
-370	388	380	If….	Anderson, Lindsay	1968	UK	111	Drama	Col-BW	0
-371	387	353	Last Tango in Paris	Bertolucci, Bernardo	1972	France-Italy	136	Romance-Drama-Adult	Col	0
-372	369	391	Young Girls of Rochefort, The	Demy, Jacques	1967	France	124	Musical-Dance-Comedy	Col	0
-373	358	339	Lost Highway	Lynch, David	1997	USA-France	134	Mystery-Drama-Thriller	Col	0
-374	403	401	I Know Where I'm Going!	Powell, Michael/Emeric Pressburger	1945	UK	91	Romance-Comedy-Drama	BW	0
-375	478	533	Separation, A	Farhadi, Asghar	2011	Iran	123	Drama	Col	0
-376	361	352	Palm Beach Story, The	Sturges, Preston	1942	USA	90	Romance-Comedy	BW	0
-377	447	497	Lost in Translation	Coppola, Sofia	2003	USA-Japan	102	Romance-Drama-Comedy	Col	0
-378	418	447	Turin Horse, The	Tarr, Béla	2011	Hungary-France-Germany-Switzerland-USA	146	Drama	BW	0
-379	368	338	Russian Ark	Sokurov, Aleksandr	2002	Russia-Germany-Japan-Canada-Finland-Denmark	96	Fantasy-Drama	Col	0
-380	340	335	El	Buñuel, Luis	1953	Mexico	91	Drama	BW	0
-381	389	399	WALL-E	Stanton, Andrew	2008	USA	98	Animated-Adventure-Science Fiction	Col	0
-382	438	430	Talk to Her	Almodóvar, Pedro	2002	Spain	112	Romance-Drama	Col	0
-383	365	359	Woman in the Dunes	Teshigahara, Hiroshi	1964	Japan	127	Drama	BW	0
-384	411	450	Crouching Tiger, Hidden Dragon	Lee, Ang	2000	Taiwan-Hong Kong-USA-China	120	Drama-Adventure-Action	Col	0
-385	350	333	Crime of Monsieur Lange, The	Renoir, Jean	1936	France	90	Drama-Crime-Comedy	BW	0
-386	373	379	Bridge on the River Kwai, The	Lean, David	1957	UK	161	War-Drama-Action	Col	0
-387	351	340	October	Eisenstein, Sergei & Grigori Aleksandrov	1928	USSR	103	History-Drama	BW	0
-388	444	435	Gleaners & I, The	Varda, Agnès	2000	France	82	Documentary	Col	0
-389	406	375	Network	Lumet, Sidney	1976	USA	121	Drama	Col	0
-390	416	421	Mon oncle	Tati, Jacques	1958	France	126	Comedy	Col	0
-391	367	365	Nostalghia	Tarkovsky, Andrei	1983	Italy	120	Drama	Col	0
-392	401	374	Don't Look Back	Pennebaker, D.A.	1967	USA	96	Documentary-Musical	BW	0
-393	371	351	King of Comedy, The	Scorsese, Martin	1983	USA	109	Drama-Comedy	Col	0
-394	402	389	Army of Shadows	Melville, Jean-Pierre	1969	France-Italy	140	War-Drama	Col	0
-395	357	361	Voyage dans la lune, Le	Méliès, Georges	1902	France	14	Science Fiction-Short-Adventure	BW	0
-396	374	378	Festen	Vinterberg, Thomas	1998	Denmark	105	Drama	Col	0
-397	385	428	À nos amours	Pialat, Maurice	1983	France	102	Drama	Col	0
-398	425	417	White Ribbon, The	Haneke, Michael	2009	Germany-Austria-France-Italy	144	Crime-Drama-Mystery	BW	0
-399	400	371	Tristana	Buñuel, Luis	1970	Spain-Italy-France	98	Drama	Col	0
-400	421	395	Heaven's Gate	Cimino, Michael	1980	USA	219	Western-Drama-History	Col	0
-401	376	358	All That Heaven Allows	Sirk, Douglas	1955	USA	89	Romance-Drama	Col	0
-402	379	369	Butch Cassidy and the Sundance Kid	Hill, George Roy	1969	USA	112	Western	Col	0
-403	359	370	Ivan's Childhood	Tarkovsky, Andrei	1962	USSR	94	War-Drama	BW	0
-404	399	393	Yojimbo	Kurosawa, Akira	1961	Japan	110	Drama-Action	BW	0
-405	360	377	Double Life of Veronique, The	Kieslowski, Krzysztof	1991	France	97	Fantasy-Drama-Romance	Col	0
-406	457	495	Pinocchio	Sharpsteen, Ben & Hamilton Luske	1940	USA	88	Fantasy-Family-Animated	Col	0
-407	386	392	1900	Bertolucci, Bernardo	1976	Italy-France-West Germany	245	Political-Drama-History	Col	0
-408	383	419	Barren Lives	dos Santos, Nelson Pereira	1963	Brazil	103	Drama	BW	0
-409	364	354	Landscape in the Mist	Angelopoulos, Theo	1988	Greece-Italy-France	127	Drama	Col	0
-410	370	376	Affair to Remember, An	McCarey, Leo	1957	USA	115	Romance-Drama	Col	0
-411	410	403	Raise the Red Lantern	Zhang Yimou	1991	China-Hong Kong-Taiwan	125	Drama	Col	0
-412	378	357	Shoot the Piano Player	Truffaut, François	1960	France	92	Drama-Crime-Thriller	BW	0
-413	412	385	Fitzcarraldo	Herzog, Werner	1982	West Germany	157	Drama-Adventure	Col	0
-414	435	408	Awful Truth, The	McCarey, Leo	1937	USA	92	Romance-Comedy	BW	0
-415	377	355	In a Year with 13 Moons	Fassbinder, Rainer Werner	1978	West Germany	129	Drama	Col	0
-416	461	422	Taste of Cherry	Kiarostami, Abbas	1997	Iran	99	Drama	Col	0
-417	450	469	Scarlet Empress, The	von Sternberg, Josef	1934	USA	110	History-Drama-Biography	BW	0
-418	413	412	Charulata	Ray, Satyajit	1964	India	117	Romance-Drama	BW	0
-419	405	404	Monty Python's Life of Brian	Jones, Terry	1979	UK	93	Religious-Comedy	Col	0
-420	429	452	Death of Mr. Lazarescu, The	Puiu, Cristi	2005	Romania	154	Drama	Col	0
-421	417	442	Punch-Drunk Love	Anderson, Paul Thomas	2002	USA	95	Romance-Drama-Comedy	Col	0
-422	415	386	Man of Aran	Flaherty, Robert	1934	UK	77	Documentary	BW	0
-423	396	429	Opening Night	Cassavetes, John	1977	USA	144	Drama	Col	0
-424	395	411	Day for Night	Truffaut, François	1973	France	120	Drama-Comedy	Col	0
-425	407	397	Cloud-Capped Star, The	Ghatak, Ritwik	1960	India	126	Drama-Musical	BW	0
-426	449	451	Sorrow and the Pity, The	Ophüls, Marcel	1969	France-Switzerland-Germany	260	Documentary-War-History	BW	0
-427	426	405	Star is Born, A	Cukor, George	1954	USA	154	Musical-Drama	Col	0
-428	424	425	Long Goodbye, The	Altman, Robert	1973	USA	112	Drama-Crime	Col	0
-429	455	489	Repulsion	Polanski, Roman	1965	UK	105	Horror-Thriller	BW	0
-430	465	457	Halloween	Carpenter, John	1978	USA	93	Horror-Thriller	Col	0
-431	428	426	Two-Lane Blacktop	Hellman, Monte	1971	USA	101	Drama	Col	0
-432	408	424	Five Easy Pieces	Rafelson, Bob	1970	USA	98	Drama	Col	0
-433	431	414	Dead Ringers	Cronenberg, David	1988	Canada	115	Thriller-Horror-Drama	Col	0
-434	392	409	Scenes from a Marriage	Bergman, Ingmar	1973	Sweden	168	Drama	Col	0
-435	472	501	Dead Man	Jarmusch, Jim	1995	USA-Germany	121	Western-Drama	BW	0
-436	397	388	Hustler, The	Rossen, Robert	1961	USA	135	Drama-Sport	BW	0
-437	427	402	Shadows	Cassavetes, John	1959	USA	87	Drama	BW	0
-438	446	455	Terminator, The	Cameron, James	1984	USA	107	Science Fiction-Action	Col	0
-439	454	508	Flowers of Shanghai	Hou Hsiao-hsien	1998	Taiwan	130	Drama	Col	0
-440	420	387	Shawshank Redemption, The	Darabont, Frank	1994	USA	142	Prison-Drama	Col	0
-441	467	488	Flowers of St. Francis, The	Rossellini, Roberto	1950	Italy	83	Religious-Drama	BW	0
-442	419	415	Moment of Innocence, A	Makhmalbaf, Mohsen	1996	Iran-France	78	Drama-Comedy	Col	0
-443	460	466	Elephant	Van Sant, Gus	2003	USA	81	Drama	Col	0
-444	437	413	Dead, The	Huston, John	1987	USA	83	Drama	Col	0
-445	414	463	Easy Rider	Hopper, Dennis	1969	USA	94	Drama	Col	0
-446	462	490	Accattone	Pasolini, Pier Paolo	1961	Italy	120	Drama	BW	0
-447	409	420	Cameraman, The	Keaton, Buster/Edward Sedgwick	1928	USA	69	Romance-Comedy	BW	0
-448	540	548	Cat People	Tourneur, Jacques	1942	USA	73	Thriller-Horror-Mystery	BW	0
-449	440	459	Senso	Visconti, Luchino	1954	Italy	115	War-Drama-Romance	Col	0
-450	504	485	Naked	Leigh, Mike	1993	UK	126	Drama	Col	0
-451	422	406	Out 1, noli me tangere	Rivette, Jacques	1971	France	729	Comedy-Drama-Thriller	Col-BW	0
-452	514	509	Hoop Dreams	James, Steve	1994	USA	170	Documentary-Drama-Sport	Col	0
-453	458	443	Withnail & I	Robinson, Bruce	1987	UK	107	Drama-Comedy	Col	0
-454	441	434	Hour of the Furnaces, The	Getino, Octavio & Fernando E. Solanas	1968	Argentina	260	Political-Documentary-History	BW	0
-455	434	432	Plaisir, Le	Ophüls, Max	1952	France	97	Romance-Drama	BW	0
-456	481	458	Some Came Running	Minnelli, Vincente	1958	USA	136	Drama	Col	0
-457	483	494	All the President's Men	Pakula, Alan J.	1976	USA	138	Political-Drama	Col	0
-458	436	396	Fight Club	Fincher, David	1999	USA-Germany	139	Drama	Col	0
-459	471	449	Lady from Shanghai, The	Welles, Orson	1948	USA	87	Mystery-Crime-Thriller	BW	0
-460	491	482	All That Jazz	Fosse, Bob	1979	USA	123	Musical-Fantasy-Drama	Col	0
-461	423	439	Closely Watched Trains	Menzel, Jirí	1966	Czechoslovakia	89	Drama-Comedy	BW	0
-462	432	476	Cranes Are Flying, The	Kalatozov, Mikhail	1957	USSR	94	War-Romance-Drama	BW	0
-463	456	471	Fantasia	Various Directors	1940	USA	120	Fantasy-Family-Animated	Col	0
-464	512	512	Frankenstein	Whale, James	1931	USA	70	Horror-Science Fiction	BW	0
-465	523	500	Melancholia	von Trier, Lars	2011	Denmark-Sweden-France-Germany	136	Drama-Science Fiction	Col	0
-466	488	468	Shane	Stevens, George	1953	USA	118	Western-Drama	Col	0
-467	487	507	Shadows of Our Forgotten Ancestors	Parajanov, Sergei	1964	USSR	97	Romance-Drama-History	Col	0
-468	463	440	Pyaasa	Dutt, Guru	1957	India	146	Drama-Musical-Romance	BW	0
-469	459	445	Dersu Uzala	Kurosawa, Akira	1975	USSR-Japan	144	Drama-Adventure	Col	0
-470	443	407	Chelsea Girls	Warhol, Andy	1966	USA	210	Drama-Avant-Garde	Col-BW	0
-471	494	465	Mad Max 2	Miller, George	1981	Australia	94	Science Fiction-Action-Adventure	Col	0
-472	499	478	Safe	Haynes, Todd	1995	USA	119	Drama	Col	0
-473	430	410	French Cancan	Renoir, Jean	1955	France	93	Musical-Drama-Comedy	Col	0
-474	445	433	Tree of Wooden Clogs, The	Olmi, Ermanno	1978	Italy	185	Drama	Col	0
-475	468	474	Oldboy	Park Chan-wook	2003	South Korea	120	Action-Mystery-Thriller	Col	0
-476	510	511	Point Blank	Boorman, John	1967	USA	92	Thriller-Crime-Action	Col	0
-477	474	569	Limite	Peixoto, Mario	1931	Brazil	114	Drama	BW	0
-478	672	689	Vagabond	Varda, Agnès	1985	France	105	Drama	Col	0
-479	505	472	Grey Gardens	Maysles, David/Albert Maysles/Ellen Hovde/Muffie Meyer	1975	USA	95	Documentary-Comedy	Col	0
-480	522	522	A.I. Artificial Intelligence	Spielberg, Steven	2001	USA	145	Science Fiction-Drama	Col	0
-481	482	460	Wind, The	Sjöström, Victor	1928	USA	88	Drama	BW	0
-482	495	544	Laura	Preminger, Otto	1944	USA	85	Mystery-Romance-Thriller	BW	0
-483	526	499	Triumph of the Will	Riefenstahl, Leni	1935	Germany	110	Documentary-History-Political	BW	0
-484	470	481	Tootsie	Pollack, Sydney	1982	USA	116	Romance-Comedy	Col	0
-485	442	418	Hour of the Wolf	Bergman, Ingmar	1968	Sweden	88	Horror-Drama	BW	0
-486	531	538	Inland Empire	Lynch, David	2006	USA-France-Poland	180	Drama-Mystery-Thriller	Col	0
-487	498	496	Chronicle of a Summer	Rouch, Jean & Edgar Morin	1961	France	85	Documentary	BW	0
-488	453	444	To Have and Have Not	Hawks, Howard	1944	USA	100	Romance-Drama-Adventure	BW	0
-489	439	437	Sound of Music, The	Wise, Robert	1965	USA	174	Musical-Drama-Family	Col	0
-490	511	491	India Song	Duras, Marguerite	1975	France	120	Drama	Col	0
-491	469	456	Toy Story	Lasseter, John	1995	USA	80	Fantasy-Comedy-Family-Animated	Col	0
-492	475	473	Alexander Nevsky	Eisenstein, Sergei	1938	USSR	107	War-History-Biography	BW	0
-493	477	467	Boogie Nights	Anderson, Paul Thomas	1997	USA	155	Drama	Col	0
-494	466	493	Lives of Others, The	von Donnersmarck, Florian Henckel	2006	Germany	138	Drama	Col	0
-495	493	477	Shadow of a Doubt	Hitchcock, Alfred	1943	USA	108	Thriller	BW	0
-496	485	479	Short Cuts	Altman, Robert	1993	USA	189	Drama	Col	0
-497	452	446	Koyaanisqatsi	Reggio, Godfrey	1982	USA	87	Documentary	Col	0
-498	496	462	Strangers on a Train	Hitchcock, Alfred	1951	USA	101	Thriller-Drama-Crime	BW	0
-499	479	470	Wind Will Carry Us, The	Kiarostami, Abbas	1999	France-Iran	118	Drama	Col	0
-500	589	650	Orlando	Potter, Sally	1992	UK-Russia-France-Italy-Netherlands	94	History-Drama-Fantasy	Col	0
-501	464	475	12 Angry Men	Lumet, Sidney	1957	USA	95	Drama	BW	0
-502	529	523	Alphaville	Godard, Jean-Luc	1965	France	95	Science Fiction-Mystery-Drama	BW	0
-503	480	461	Muriel	Resnais, Alain	1963	France-Italy	115	Drama	Col	0
-504	557	557	Grizzly Man	Herzog, Werner	2005	USA	103	Documentary	Col	0
-505	492	448	Kagemusha	Kurosawa, Akira	1980	Japan	159	War-Drama-History	Col	0
-506	517	565	Die Hard	McTiernan, John	1988	USA	131	Thriller-Action	Col	0
-507	518	492	Winter Light	Bergman, Ingmar	1962	Sweden	80	Religious-Drama	BW	0
-508	549	551	No Country for Old Men	Coen, Joel & Ethan Coen	2007	USA	122	Crime-Drama	Col	0
-509	476	453	Night at the Opera, A	Wood, Sam	1935	USA	92	Romance-Musical-Comedy	BW	0
-510	516	564	Songs from the Second Floor	Andersson, Roy	2000	Sweden-France-Denmark-Norway-Germany	98	Drama	Col	0
-511	451	438	Masculin Feminin	Godard, Jean-Luc	1966	France-Sweden	103	Drama	BW	0
-512	473	503	Steamboat Bill, Jr.	Keaton, Buster/Charles Reisner	1928	USA	71	Romance-Comedy-Adventure	BW	0
-513	497	534	Terra trema, La	Visconti, Luchino	1948	Italy	160	Drama	BW	0
-514	500	480	Gimme Shelter	Maysles, Albert/David Maysles/Charlotte Zwerin	1970	USA	91	Documentary-Musical-History	Col	0
-515	448	416	Early Summer	Ozu, Yasujiro	1951	Japan	135	Drama	BW	0
-516	486	556	Devil, Probably, The	Bresson, Robert	1977	France	95	Drama	Col	0
-517	541	550	Pan's Labyrinth	del Toro, Guillermo	2006	Spain-Mexico-USA	120	Drama-Fantasy-Thriller	Col	0
-518	501	484	Top Hat	Sandrich, Mark	1935	USA	99	Romance-Musical-Comedy	BW	0
-519	509	514	Forrest Gump	Zemeckis, Robert	1994	USA	142	Drama-Comedy	Col	0
-520	484	524	Damned, The	Visconti, Luchino	1969	Italy-West Germany	155	War-Drama	Col	0
-521	513	513	Big Heat, The	Lang, Fritz	1953	USA	90	Drama-Crime	BW	0
-522	548	536	Farewell, My Concubine	Chen Kaige	1993	China-Hong Kong	155	History-Drama-Romance	Col	0
-523	508	487	Limelight	Chaplin, Charles	1952	USA	145	Drama-Comedy	BW	0
-524	530	516	Bitter Tears of Petra von Kant, The	Fassbinder, Rainer Werner	1972	West Germany	124	Drama	Col	0
-525	489	517	Barton Fink	Coen, Joel & Ethan Coen	1991	USA	117	Drama-Comedy	Col	0
-526	559	574	Royal Tenenbaums, The	Anderson, Wes	2001	USA	109	Drama-Comedy	Col	0
-527	525	486	Vampires, Les	Feuillade, Louis	1915	France	440	Thriller-Crime-Action	BW	0
-528	520	483	Région centrale, La	Snow, Michael	1971	Canada	180	Avant-Garde	Col	0
-529	556	543	Amélie	Jeunet, Jean-Pierre	2001	France-Germany	122	Romance-Comedy	Col	0
-530	576	554	Splendor in the Grass	Kazan, Elia	1961	USA	124	Drama	Col	0
-531	610	637	Terminator 2: Judgment Day	Cameron, James	1991	USA	136	Science Fiction-Action	Col	0
-532	490	528	East of Eden	Kazan, Elia	1955	USA	115	Drama	Col	0
-533	537	519	Hannah and Her Sisters	Allen, Woody	1986	USA	106	Drama-Comedy-Romance	Col	0
-534	567	561	Vitelloni, I	Fellini, Federico	1953	Italy	104	Drama	BW	0
-535	503	464	Marketa Lazarová	Vlácil, Frantisek	1967	Czechoslovakia	162	History-Drama	BW	0
-536	538	542	Colossal Youth	Costa, Pedro	2006	France-Portugal-Switzerland	155	Drama	Col	0
-537	524	498	Enigma of Kaspar Hauser, The	Herzog, Werner	1974	West Germany	110	Biography-Drama	Col	0
-538	506	562	Faust	Murnau, F.W.	1926	Germany	116	Fantasy-Drama-Horror	BW	0
-539	502	530	Doctor Zhivago	Lean, David	1965	USA	197	War-Romance-Drama	Col	0
-540	547	532	Servant, The	Losey, Joseph	1963	UK	115	Drama	BW	0
-541	585	621	Se7en	Fincher, David	1995	USA	127	Thriller-Mystery-Drama	Col	0
-542	533	515	Pat Garrett and Billy the Kid	Peckinpah, Sam	1973	USA	122	Western	Col	0
-543	564	580	Fellini Satyricon	Fellini, Federico	1969	Italy	129	History-Drama	Col	0
-544	519	510	Miracle in Milan	De Sica, Vittorio	1951	Italy	95	Fantasy-Drama-Comedy	BW	0
-545	507	502	Lola	Demy, Jacques	1961	France	90	Romance-Drama	BW	0
-546	527	559	Deliverance	Boorman, John	1972	USA	109	Adventure-Thriller-Drama	Col	0
-547	532	504	Phantom of Liberty, The	Buñuel, Luis	1974	France	104	Drama-Comedy-Avant Garde	Col	0
-548	565	549	Ninotchka	Lubitsch, Ernst	1939	USA	110	Romance-Comedy	BW	0
-549	515	505	Wagon Master	Ford, John	1950	USA	86	Western	BW	0
-550	539	521	Rise to Power of Louis XIV, The	Rossellini, Roberto	1966	France	100	Drama-Biography-History	Col	0
-551	535	576	Alice in the Cities	Wenders, Wim	1974	West Germany	110	Drama	BW	0
-552	587	690	Shock Corridor	Fuller, Samuel	1963	USA	101	Drama-Mystery	BW	0
-553	582	604	Amants du Pont-Neuf, Les	Carax, Leos	1991	France	126	Drama	Col	0
-554	546	531	Bigger Than Life	Ray, Nicholas	1956	USA	95	Drama	Col	0
-555	608	602	Evil Dead II	Raimi, Sam	1987	USA	85	Horror	Col	0
-556	521	539	Being There	Ashby, Hal	1979	USA	130	Drama-Comedy	Col	0
-557	588	568	Secrets & Lies	Leigh, Mike	1996	UK	142	Drama-Comedy	Col	0
-558	543	526	In Vanda's Room	Costa, Pedro	2000	Portugal-Germany-Switzerland-Italy	170	Drama	Col	0
-559	534	529	Rebel Without a Cause	Ray, Nicholas	1955	USA	111	Drama	Col	0
-560	596	573	Hard Day's Night, A	Lester, Richard	1964	UK	87	Musical-Comedy	BW	0
-561	580	594	Silent Light	Reygadas, Carlos	2007	Mexico-France-Netherlands	136	Drama	Col	0
-562	545	506	Casino	Scorsese, Martin	1995	USA	182	Drama-Crime	Col	0
-563	624	612	Belle noiseuse, La	Rivette, Jacques	1991	France	240	Drama	Col	0
-564	578	553	My Own Private Idaho	Van Sant, Gus	1991	USA	102	Drama	Col	0
-565	640	616	Raising Arizona	Coen, Joel & Ethan Coen	1987	USA	92	Comedy	Col	0
-566	583	598	Killing, The	Kubrick, Stanley	1956	USA	85	Crime-Thriller	BW	0
-567	570	555	Trainspotting	Boyle, Danny	1996	UK	95	Drama-Comedy	Col	0
-568	602	626	Scarface	Hawks, Howard	1932	USA	90	Crime-Biography-Drama	BW	0
-569	569	608	Local Hero	Forsyth, Bill	1983	UK	111	Drama-Comedy	Col	0
-570	551	558	Boudu Saved from Drowning	Renoir, Jean	1932	France	87	Comedy	BW	0
-571	528	518	Tale of Tales	Norshteyn, Yuriy	1979	USSR	29	Animated-Short	Col	0
-572	590	581	Detour	Ulmer, Edgar G.	1945	USA	69	Crime	BW	0
-573	614	703	4 Months, 3 Weeks and 2 Days	Mungiu, Cristian	2007	Romania-Netherlands-France-Germany	113	Drama	Col	0
-574	553	545	That Obscure Object of Desire	Buñuel, Luis	1977	France-Spain	103	Drama	Col	0
-575	623	593	Manchurian Candidate, The	Frankenheimer, John	1962	USA	126	Political-Thriller-Drama	BW	0
-576	555	571	Hana-Bi	Kitano, Takeshi	1997	Japan	103	Drama-Crime	Col	0
-577	733	764	Ciénaga, La	Martel, Lucrecia	2001	Argentina-France-Spain	103	Drama-Comedy	Col	0
-578	536	540	Providence	Resnais, Alain	1977	France-Switzerland	110	Drama	Col	0
-579	675	694	Harlan County, U.S.A.	Kopple, Barbara	1976	USA	103	Documentary	Col	0
-580	561	583	And Life Goes On...	Kiarostami, Abbas	1992	Iran	108	Drama-Documentary	Col	0
-581	577	563	Aparajito	Ray, Satyajit	1956	India	108	Drama	BW	0
-582	552	537	Down by Law	Jarmusch, Jim	1986	USA	107	Comedy	BW	0
-583	566	560	Asphalt Jungle, The	Huston, John	1950	USA	112	Thriller-Crime	BW	0
-584	562	575	Rocky	Avildsen, John G.	1976	USA	119	Sport-Drama	Col	0
-585	586	566	Scorpio Rising	Anger, Kenneth	1964	USA	29	Short-Avant-Garde	Col	0
-586	544	577	Hatari!	Hawks, Howard	1962	USA	159	Drama	Col	0
-587	542	546	Picnic at Hanging Rock	Weir, Peter	1975	Australia	110	Mystery-Drama	Col	0
-588	601	586	Full Metal Jacket	Kubrick, Stanley	1987	USA	116	War-Drama-Action	Col	0
-589	568	579	Rushmore	Anderson, Wes	1998	USA	93	Comedy	Col	0
-590	607	627	Children of Men	Cuarón, Alfonso	2006	USA-UK	109	Drama-Science Fiction-Thriller	Col	0
-591	613	619	Fly, The	Cronenberg, David	1986	USA	100	Horror	Col	0
-592	563	570	French Connection, The	Friedkin, William	1971	USA	104	Crime	Col	0
-593	636	629	Zodiac	Fincher, David	2007	USA	158	Crime-Drama-Thriller	Col	0
-594	603	587	I Walked with a Zombie	Tourneur, Jacques	1943	USA	69	Horror-Drama-Romance	BW	0
-595	554	527	Devils, The	Russell, Ken	1971	UK	109	History-Drama-Horror	Col	0
-596	573	600	Bande à part	Godard, Jean-Luc	1964	France	97	Crime-Drama-Romance	BW	0
-597	619	606	39 Steps, The	Hitchcock, Alfred	1935	UK	87	Spy-Thriller	BW	0
-598	609	633	Before Sunset	Linklater, Richard	2004	USA	80	Romance-Drama	Col	0
-599	658	698	Still Life	Jia Zhangke	2006	China-Hong Kong	113	Drama-Romance	Col	0
-600	558	525	Wedding March, The	von Stroheim, Erich	1928	USA	113	Romance-Drama	BW	0
-601	550	520	Silence, The	Bergman, Ingmar	1963	Sweden	96	Drama	BW	0
-602	571	535	Plácido	García Berlanga, Luis	1961	Spain	85	Comedy	BW	0
-603	592	582	Love Me Tonight	Mamoulian, Rouben	1932	USA	96	Musical-Comedy-Romance	BW	0
-604	611	667	Dark Knight, The	Nolan, Christopher	2008	USA-UK	152	Action-Crime-Thriller	Col	0
-605	599	609	Young Frankenstein	Brooks, Mel	1974	USA	105	Horror-Comedy-Science Fiction	BW	0
-606	690	702	Invasion of the Body Snatchers	Siegel, Don	1956	USA	80	Science Fiction-Horror	BW	0
-607	663	622	Age of Innocence, The	Scorsese, Martin	1993	USA	133	Romance-Drama	Col	0
-608	618	585	Lady Vanishes, The	Hitchcock, Alfred	1938	UK	97	Spy-Mystery-Thriller	BW	0
-609	591	572	Salesman	Maysles, Albert/David Maysles/Charlotte Zwerin	1969	USA	85	Documentary	BW	0
-610	579	589	Red Circle, The	Melville, Jean-Pierre	1970	France-Italy	150	Thriller-Crime	Col	0
-611	621	677	Possession	Zulawski, Andrzej	1981	France-West Germany	127	Horror-Drama	Col	0
-612	735	733	Ascent, The	Shepitko, Larisa	1976	USSR	111	War-Drama	BW	0
-613	698	670	Son, The	Dardenne, Jean-Pierre & Luc Dardenne	2002	Belgium-France	103	Drama	Col	0
-614	616	661	Bambi	Hand, David	1942	USA	69	Family-Animated-Drama	Col	0
-615	637	595	Arrebato	Zulueta, Iván	1979	Spain	105	Drama-Horror	Col	0
-616	628	611	Goodbye, Dragon Inn	Tsai Ming-liang	2003	Taiwan	82	Drama-Comedy	Col	0
-617	575	584	Rosetta	Dardenne, Jean-Pierre & Luc Dardenne	1999	Belgium-France	94	Drama	Col	0
-618	648	674	Distant	Ceylan, Nuri Bilge	2002	Turkey-Netherlands	110	Drama	Col	0
-619	0	0	Holy Motors	Carax, Leos	2012	France-Germany	115	Drama-Fantasy	Col	0
-620	723	0	Amour	Haneke, Michael	2012	Austria-France-Germany	127	Romance-Drama	Col	0
-621	560	552	Bring Me the Head of Alfredo Garcia	Peckinpah, Sam	1974	USA	112	Crime-Thriller-Action	Col	0
-622	604	607	Seven Chances	Keaton, Buster	1925	USA	56	Romance-Comedy	BW	0
-623	664	676	Wicker Man, The	Hardy, Robin	1973	UK	103	Mystery-Horror	Col	0
-624	659	657	Chant d'amour, Un	Genet, Jean	1950	France	26	Drama	BW	0
-625	572	541	Loves of a Blonde	Forman, Milos	1965	Czechoslovakia	88	Drama-Comedy	BW	0
-626	574	707	Testament of Dr. Mabuse, The	Lang, Fritz	1933	Germany	120	Thriller-Mystery-Crime	BW	0
-627	634	682	Diaboliques, Les	Clouzot, Henri-Georges	1955	France	114	Thriller-Mystery	BW	0
-628	581	592	Scarface	De Palma, Brian	1983	USA	170	Drama-Crime	Col	0
-629	0	0	Mad Max: Fury Road	Miller, George	2015	Australia-USA	120	Action-Adventure-Science Fiction	Col	0
-630	638	646	White Heat	Walsh, Raoul	1949	USA	114	Crime	BW	0
-631	674	669	Sur, El	Erice, Victor	1983	Spain-France	95	Romance-Drama	Col	0
-632	598	591	Dr. Mabuse, The Gambler	Lang, Fritz	1922	Germany	270	Thriller-Mystery-Crime	BW	0
-633	593	578	Nazarín	Buñuel, Luis	1958	Mexico	94	Religious-Drama	BW	0
-634	584	547	Our Hospitality	Keaton, Buster/John G. Blystone	1923	USA	74	Comedy-Family-Romance	BW	0
-635	600	601	Twenty Years Later	Coutinho, Eduardo	1984	Brazil	119	Documentary	Col-BW	0
-636	630	599	Blissfully Yours	Weerasethakul, Apichatpong	2002	Thailand-France	125	Romance-Drama	Col	0
-637	626	625	Marriage of Maria Braun, The	Fassbinder, Rainer Werner	1979	West Germany	120	War-Drama	Col	0
-638	641	641	Mother and Son	Sokurov, Aleksandr	1997	Russia-Germany	73	Drama	Col	0
-639	594	567	Ben-Hur	Wyler, William	1959	USA	212	Religious-History	Col	0
-640	719	710	Angel at My Table, An	Campion, Jane	1990	New Zealand-Australia-UK-USA	158	Drama-Biography	Col	0
-641	597	708	Streetcar Named Desire, A	Kazan, Elia	1951	USA	122	Drama	BW	0
-642	605	596	Memento	Nolan, Christopher	2000	USA	113	Thriller-Mystery-Drama	Col	0
-643	627	673	Europa '51	Rossellini, Roberto	1952	Italy	113	Drama	BW	0
-644	595	620	Haine, La	Kassovitz, Mathieu	1995	France	93	Drama	BW	0
-645	617	635	Antonio das Mortes	Rocha, Glauber	1969	Brazil	95	Drama-Western-Political	Col	0
-646	645	605	Great Expectations	Lean, David	1946	UK	118	Romance-Drama	BW	0
-647	639	628	Fat City	Huston, John	1972	USA	100	Sport	Col	0
-648	633	652	After Life	Koreeda, Hirokazu	1998	Japan	118	Drama-Fantasy	Col	0
-649	651	728	Syndromes and a Century	Weerasethakul, Apichatpong	2006	Thailand-France-Austria-Netherlands	105	Drama	Col	0
-650	761	755	Headless Woman, The	Martel, Lucrecia	2008	Argentina-Spain-France-Italy	87	Drama-Mystery-Thriller	Col	0
-651	714	792	Big Deal on Madonna Street	Monicelli, Mario	1958	Italy	91	Crime-Comedy	BW	0
-652	699	655	Nostalgia for the Light	Guzmán, Patricio	2010	France-Germany-Chile-Spain-USA	90	Documentary-Drama	Col	0
-653	620	640	Round-Up, The	Jancsó, Miklós	1966	Hungary	94	Political-Drama-War	BW	0
-654	691	666	Great Escape, The	Sturges, John	1963	USA	168	War-Prison-Adventure	Col	0
-655	662	659	Y tu mamá también	Cuarón, Alfonso	2001	Mexico	105	Drama-Comedy	Col	0
-656	644	636	Monty Python and the Holy Grail	Gilliam, Terry/Terry Jones	1975	UK	90	History-Comedy	Col	0
-657	678	663	Synecdoche, New York	Kaufman, Charlie	2008	USA	124	Drama	Col	0
-658	622	632	Place in the Sun, A	Stevens, George	1951	USA	122	Romance-Drama	BW	0
-659	661	654	JFK	Stone, Oliver	1991	USA	188	History-Drama	Col-BW	0
-660	625	649	Xala	Sembene, Ousmane	1975	Senegal	123	Comedy	Col	0
-661	656	662	Gummo	Korine, Harmony	1997	USA	88	Drama	Col	0
-662	646	645	Yeelen	Cissé, Souleymane	1987	Mali-Burkina Faso-France-West Germany-Japan	105	Drama-Fantasy	Col	0
-663	654	623	Titicut Follies	Wiseman, Frederick	1967	USA	84	Documentary-Drama	BW	0
-664	629	642	Young Mr. Lincoln	Ford, John	1939	USA	100	Political-Biography-Drama	BW	0
-665	615	588	Blue Angel, The	von Sternberg, Josef	1930	Germany	103	Drama	BW	0
-666	650	610	Purple Rose of Cairo, The	Allen, Woody	1985	USA	82	Fantasy-Comedy-Romance	Col-BW	0
-667	606	665	Passion	Godard, Jean-Luc	1982	France-Switzerland	87	Drama	Col	0
-668	694	701	Gun Crazy	Lewis, Joseph H.	1950	USA	86	Drama-Crime	BW	0
-669	632	615	They Live by Night	Ray, Nicholas	1948	USA	95	Drama-Crime	BW	0
-670	657	638	Nouvelle vague	Godard, Jean-Luc	1990	France-Switzerland	90	Drama	Col	0
-671	671	630	Party, The	Edwards, Blake	1968	USA	99	Comedy	Col	0
-672	643	603	Dancer in the Dark	von Trier, Lars	2000	Denmark-France-Sweden-Italy-Germany-Norway-Netherlands-Iceland-Finland-UK-USA	140	Musical-Drama	Col	0
-673	612	597	Rebecca	Hitchcock, Alfred	1940	USA	130	Mystery-Romance-Drama	BW	0
-674	704	734	Ghostbusters	Reitman, Ivan	1984	USA	107	Science Fiction-Comedy	Col	0
-675	653	715	Titanic	Cameron, James	1997	USA	194	Romance-History-Action-Disaster	Col	0
-676	715	658	Zelig	Allen, Woody	1983	USA	79	Comedy	Col-BW	0
-677	642	647	Dazed and Confused	Linklater, Richard	1993	USA	94	Drama	Col	0
-678	666	648	Edward Scissorhands	Burton, Tim	1990	USA	100	Romance-Fantasy	Col	0
-679	728	760	History of Violence, A	Cronenberg, David	2005	USA-Germany	96	Crime-Drama-Mystery	Col	0
-680	709	0	Let the Right One In	Alfredson, Tomas	2008	Sweden-Norway	114	Drama-Horror-Romance	Col	0
-681	631	590	Walkabout	Roeg, Nicolas	1971	Australia	95	Drama-Adventure	Col	0
-682	682	726	Virgin Spring, The	Bergman, Ingmar	1959	Sweden	88	Drama	BW	0
-683	718	720	Airplane!	Abrahams, Jim/David Zucker/Jerry Zucker	1980	USA	86	Comedy	Col	0
-684	647	692	Harakiri	Kobayashi, Masaki	1962	Japan	133	Drama-Action-History	BW	0
-685	692	668	My Life as a Dog	Hallström, Lasse	1985	Sweden	101	Drama-Comedy	Col	0
-686	697	680	Robocop	Verhoeven, Paul	1987	USA	103	Science Fiction-Crime	Col	0
-687	635	613	African Queen, The	Huston, John	1951	USA	105	Romance-Adventure	Col	0
-688	665	653	Mr. Smith Goes to Washington	Capra, Frank	1939	USA	129	Political-Drama	BW	0
-689	702	0	Audition	Miike, Takashi	1999	Japan-South Korea	115	Thriller-Horror-Drama	Col	0
-690	670	714	My Friend Ivan Lapshin	German, Aleksey	1985	USSR	100	Drama	Col-BW	0
-691	708	671	Crash	Cronenberg, David	1996	Canada	100	Drama	Col	0
-692	739	693	Golden Coach, The	Renoir, Jean	1952	Italy-France	100	Drama-Comedy-Romance	Col	0
-693	722	723	Saving Private Ryan	Spielberg, Steven	1998	USA	169	War-Drama-Action	Col	0
-694	695	684	W.R.: Mysteries of the Organism	Makavejev, Dusan	1971	Yugoslavia	84	Drama-Comedy-Fantasy	Col	0
-695	792	799	Dumbo	Sharpsteen, Ben	1941	USA	64	Musical-Family-Animated	Col	0
-696	652	624	Strike	Eisenstein, Sergei	1925	USSR	73	History-Drama-Political	BW	0
-697	649	614	Foolish Wives	von Stroheim, Erich	1922	USA	117	Drama	BW	0
-698	731	719	L.A. Confidential	Hanson, Curtis	1997	USA	137	Thriller-Crime	Col	0
-699	717	721	Piano Teacher, The	Haneke, Michael	2001	Austria-France-Germany	130	Drama	Col	0
-700	741	738	Circus, The	Chaplin, Charles	1928	USA	72	Drama-Comedy-Family	BW	0
-701	696	711	Casque d'or	Becker, Jacques	1952	France	96	Romance-Drama-Crime	BW	0
-702	673	683	Spartacus	Kubrick, Stanley	1960	USA	184	Adventure-History-Drama	Col	0
-703	667	639	Funny Games	Haneke, Michael	1997	Austria	108	Thriller-Drama	Col	0
-704	686	742	When Harry Met Sally...	Reiner, Rob	1989	USA	95	Romance-Comedy	Col	0
-705	763	0	Irréversible	Noé, Gaspar	2002	France	97	Crime-Drama-Horror	Col	0
-706	801	0	Once Upon a Time in Anatolia	Ceylan, Nuri Bilge	2011	Turkey-Bosnia and Herzergovina	150	Crime-Drama	Col	0
-707	712	695	Vive L'Amour	Tsai Ming-liang	1994	Taiwan	118	Drama	Col	0
-708	700	672	Edvard Munch	Watkins, Peter	1974	Sweden-Norway	210	Drama-Biography	Col	0
-709	724	745	Rififi	Dassin, Jules	1955	France	115	Crime	BW	0
-710	669	618	Requiem for a Dream	Aronofsky, Darren	2000	USA	100	Drama	Col	0
-711	660	631	Breakfast at Tiffany's	Edwards, Blake	1961	USA	115	Romance-Drama-Comedy	Col	0
-712	752	804	Host, The	Bong Joon-ho	2006	South Korea-Japan	119	Action-Comedy-Horror	Col	0
-713	681	644	Man Who Would Be King, The	Huston, John	1975	USA	129	Adventure	Col	0
-714	740	836	Fort Apache	Ford, John	1948	USA	127	Western-War	BW	0
-715	683	699	Bad and the Beautiful, The	Minnelli, Vincente	1952	USA	118	Drama	BW	0
-716	655	617	By the Bluest of Seas	Barnet, Boris	1936	USSR	71	Drama-Romantic-Comedy	BW	0
-717	737	769	Avatar	Cameron, James	2009	USA-UK	161	Action-Science Fiction-Adventure	Col	0
-718	677	687	Miller's Crossing	Coen, Joel & Ethan Coen	1990	USA	115	Crime	Col	0
-719	710	712	Tin Drum, The	Schlöndorff, Volker	1979	West Germany-France-Poland-Yugoslavia	142	War-Drama	Col	0
-720	707	732	Red Sorghum	Zhang Yimou	1987	China	91	Drama	Col	0
-721	720	686	Emperor's Naked Army Marches On, The	Hara, Kazuo	1987	Japan	122	Documentary-War-Political	Col	0
-722	725	705	Killer, The	Woo, John	1989	Hong Kong	110	Thriller-Crime-Action	Col	0
-723	685	651	Short Film About Killing, A	Kieslowski, Krzysztof	1987	Poland	85	Drama-Crime	Col	0
-724	687	678	Claire's Knee	Rohmer, Eric	1970	France	105	Romance-Drama-Comedy	Col	0
-725	679	634	Lancelot du Lac	Bresson, Robert	1974	France-Italy	84	Fantasy-Drama	Col	0
-726	713	688	Woman Next Door, The	Truffaut, François	1981	France	106	Romance-Drama	Col	0
-727	668	664	Wild Child, The	Truffaut, François	1970	France	85	Drama	BW	0
-728	809	758	Van Gogh	Pialat, Maurice	1991	France	158	Drama-Biography	Col	0
-729	688	656	Lord of the Rings: The Fellowship of the Ring, The	Jackson, Peter	2001	New Zealand-USA	178	Fantasy-Adventure	Col	0
-730	920	890	Near Dark	Bigelow, Kathryn	1987	USA	95	Horror-Drama-Thriller	Col	0
-731	676	643	Tiger of Eschnapur, The	Lang, Fritz	1958	West Germany-France-Italy	101	Romance-Adventure	Col	0
-732	742	737	All Quiet on the Western Front	Milestone, Lewis	1930	USA	133	War-Drama	BW	0
-733	753	730	Ace in the Hole	Wilder, Billy	1951	USA	112	Drama	BW	0
-734	730	696	Seasons, The	Peleshian, Artavazd	1975	USSR	29	Documentary-Short	BW	0
-735	711	716	Thief of Bagdad, The	Powell, Michael/Ludwig Berger/Tim Whelan	1940	UK	106	Fantasy-Family-Adventure	Col	0
-736	835	0	D'Est	Akerman, Chantal	1993	Belgium-France-Portugal	107	Documentary	Col	0
-737	822	822	Akira	Otomo, Katsuhiro	1988	Japan	124	Animated-Science Fiction-Action	Col	0
-738	680	660	Dames du Bois de Boulogne, Les	Bresson, Robert	1945	France	85	Drama-Romance	BW	0
-739	782	800	American in Paris, An	Minnelli, Vincente	1951	USA	115	Musical-Dance	Col	0
-740	785	809	Pickup on South Street	Fuller, Samuel	1953	USA	80	Spy-Crime	BW	0
-741	684	740	Blow Out	De Palma, Brian	1981	USA	107	Thriller-Mystery	Col	0
-742	751	722	Saturday Night and Sunday Morning	Reisz, Karel	1960	UK	89	Drama-Romance	BW	0
-743	807	796	New World, The	Malick, Terrence	2005	USA	135	Drama-History-Romance	Col	0
-744	703	777	Grido, Il	Antonioni, Michelangelo	1957	Italy	111	Drama	BW	0
-745	794	801	We All Loved Each Other So Much	Scola, Ettore	1974	Italy	124	Comedy	Col	0
-746	0	685	Superman	Donner, Richard	1978	USA	143	Science Fiction-Action-Adventure	Col	0
-747	734	675	Fellini's Roma	Fellini, Federico	1972	Italy	128	Drama-Comedy	Col	0
-748	716	697	Dirty Harry	Siegel, Don	1971	USA	102	Crime-Action	Col	0
-749	851	834	Ladies Man, The	Lewis, Jerry	1961	USA	95	Comedy	Col	0
-750	754	772	Z	Costa-Gavras, Constantin	1969	France	127	Political-Thriller-History	Col	0
-751	726	709	Moulin Rouge!	Luhrmann, Baz	2001	Australia-USA	126	Drama-Musical-Romance	Col	0
-752	705	731	Dodes'ka-den	Kurosawa, Akira	1970	Japan	140	Fantasy-Drama	Col	0
-753	870	832	Night of the Demon	Tourneur, Jacques	1957	UK	82	Horror	BW	0
-754	783	762	Long Day Closes, The	Davies, Terence	1992	UK	83	Drama	Col	0
-755	701	713	Chronicle of Anna Magdalena Bach, The	Straub, Jean-Marie	1968	West Germany-Italy	94	Drama-History-Musical	BW	0
-756	721	681	Lolita	Kubrick, Stanley	1962	UK	152	Drama	BW	0
-757	689	704	Ferris Bueller's Day Off	Hughes, John	1986	USA	103	Comedy	Col	0
-758	749	718	Red Balloon, The	Lamorisse, Albert	1956	France	34	Fantasy-Family-Short	Col	0
-759	706	700	Thelma & Louise	Scott, Ridley	1991	USA	128	Drama-Comedy-Adventure	Col	0
-760	746	775	Crumb	Zwigoff, Terry	1994	USA	119	Documentary-Biography	Col	0
-761	821	923	Firemen's Ball, The	Forman, Milos	1967	Czechoslovakia	73	Comedy	Col	0
-762	727	759	Last Detail, The	Ashby, Hal	1973	USA	105	Drama	Col	0
-763	864	898	Adventures of Robin Hood, The	Curtiz, Michael/William Keighley	1938	USA	102	Adventure	Col	0
-764	795	858	Street Angel	Yuan Muzhi	1937	China	91	Drama-Comedy-Musical	BW	0
-765	736	717	Smiles of a Summer Night	Bergman, Ingmar	1955	Sweden	108	Romance-Comedy	BW	0
-766	0	0	Iracema - Uma Transa Amazônica	Bodanzky, Jorge & Orlando Senna	1975	Brazil-West Germany-France	90	Drama	Col	0
-767	0	0	Sideways	Payne, Alexander	2004	USA	123	Drama-Comedy	Col	0
-768	0	0	Portrait of Jason	Clarke, Shirley	1967	USA	105	Documentary	Col	0
-769	760	778	Sauve qui peut (la vie)	Godard, Jean-Luc	1980	France-Switzerland	87	Drama	Col	0
-770	767	741	Wild at Heart	Lynch, David	1990	USA	127	Romance-Drama-Crime	Col	0
-771	771	813	Cool Hand Luke	Rosenberg, Stuart	1967	USA	126	Prison-Drama	Col	0
-772	797	770	Hunger	McQueen, Steve	2008	UK-Ireland	96	Drama-History	Col	0
-773	693	679	Navigator, The	Keaton, Buster/Donald Crisp	1924	USA	59	Comedy-Adventure	BW	0
-774	847	807	River, The	Tsai Ming-liang	1997	Taiwan	115	Drama	Col	0
-775	768	739	Starship Troopers	Verhoeven, Paul	1997	USA	129	Science Fiction-Action-Adventure-War	Col	0
-776	729	691	Flaming Creatures	Smith, Jack	1963	USA	43	Drama	BW	0
-777	803	773	Sang des bêtes, Le	Franju, Georges	1949	France	20	Short-Documentary-Drama	BW	0
-778	757	767	Code Unknown	Haneke, Michael	2000	France-Germany-Romania	118	Drama	Col	0
-779	784	771	Blues Brothers, The	Landis, John	1980	USA	130	Action-Comedy-Musical	Col	0
-780	791	811	Deep End	Skolimowski, Jerzy	1970	UK-West Germany	88	Drama-Comedy-Romance	Col	0
-781	770	900	Hawks and the Sparrows, The	Pasolini, Pier Paolo	1966	Italy	91	Comedy-Drama	BW	0
-782	750	748	Abraham's Valley	Oliveira, Manoel de	1993	Portugal-France-Switzerland	187	Drama	Col	0
-783	0	0	Goddess, The	Wu Yonggang	1934	China	85	Drama	BW	0
-784	758	727	Kaagaz Ke Phool	Dutt, Guru	1959	India	148	Romance-Drama	BW	0
-785	808	794	American Beauty	Mendes, Sam	1999	USA	121	Drama-Comedy	Col	0
-786	831	751	Olympia	Riefenstahl, Leni	1938	Germany	220	Documentary-Sport	BW	0
-787	755	761	Ossessione	Visconti, Luchino	1943	Italy	140	Drama	BW	0
-788	798	749	Blood Simple	Coen, Joel & Ethan Coen	1984	USA	97	Thriller-Drama-Crime	Col	0
-789	748	757	Vengeance is Mine	Imamura, Shohei	1979	Japan	129	Thriller-Crime-Drama	Col	0
-790	747	729	Trial, The	Welles, Orson	1962	France-West Germany-Italy	118	Drama-Fantasy-Thriller	BW	0
-791	732	776	Princess Bride, The	Reiner, Rob	1987	USA	98	Comedy-Family-Adventure	Col	0
-792	828	802	Spione	Lang, Fritz	1928	Germany	90	Thriller-Spy	BW	0
-793	842	842	Two English Girls	Truffaut, François	1971	France	108	Drama	Col	0
-794	818	815	Million Dollar Baby	Eastwood, Clint	2004	USA	137	Drama	Col	0
-795	769	725	Maîtres fous, Les	Rouch, Jean	1955	France	36	Documentary-Short	Col	0
-796	799	979	Bandido da Luz Vermelha, O	Sganzerla, Rogério	1968	Brazil	92	Thriller-Crime	BW	0
-797	827	791	Blue	Jarman, Derek	1993	UK	76	Documentary-Drama	Col	0
-798	766	840	Jurassic Park	Spielberg, Steven	1993	USA	126	Science Fiction-Adventure-Action	Col	0
-799	793	781	Memories of Murder	Bong Joon-ho	2003	South Korea	132	Crime-Drama-Mystery	Col	0
-800	764	765	Moonfleet	Lang, Fritz	1955	USA	89	Adventure-Drama	Col	0
-801	925	930	Bonheur, Le	Varda, Agnès	1965	France	79	Drama	Col	0
-802	812	766	Sweet Hereafter, The	Egoyan, Atom	1997	Canada	112	Drama	Col	0
-803	772	744	Holy Mountain, The	Jodorowsky, Alejandro	1973	Mexico-USA	114	Adventure-Drama-Fantasy	Col	0
-804	904	861	News from Home	Akerman, Chantal	1976	France-Belgium-West Germany	85	Drama	Col	0
-805	0	0	Amores perros	González Iñárritu, Alejandro	2000	Mexico	153	Drama	Col	0
-806	869	0	Mary Poppins	Stevenson, Robert	1964	USA	139	Musical-Family-Fantasy	Col	0
-807	777	750	Miracle of Morgan's Creek, The	Sturges, Preston	1944	USA	99	Comedy	BW	0
-808	806	779	Ladykillers, The	Mackendrick, Alexander	1955	UK	90	Crime-Comedy	Col	0
-809	836	876	Grave of the Fireflies	Takahata, Isao	1988	Japan	93	Animated-War-Drama	Col	0
-810	0	0	Commune (Paris, 1871), La	Watkins, Peter	2000	France	345	Drama-History	BW	0
-811	877	891	Posto, Il	Olmi, Ermanno	1961	Italy	93	Drama	BW	0
-812	743	706	Faster, Pussycat! Kill! Kill!	Meyer, Russ	1965	USA	83	Drama-Comedy-Action	BW	0
-813	800	877	Roman Holiday	Wyler, William	1953	USA	119	Romance-Comedy-Drama	BW	0
-814	823	854	Diaries, Notes and Sketches	Mekas, Jonas	1969	USA	177	Documentary	Col	0
-815	744	763	Port of Shadows	Carné, Marcel	1938	France	91	Drama	BW	0
-816	745	724	Idiots, The	von Trier, Lars	1998	Denmark-Spain-Sweden-France-Netherlands-Italy	117	Drama-Comedy	Col	0
-817	804	826	Burnt by the Sun	Mikhalkov, Nikita	1994	Russia-France	152	History-Drama	Col	0
-818	786	856	Assault on Precinct 13	Carpenter, John	1976	USA	90	Action	Col	0
-819	790	754	Right Stuff, The	Kaufman, Philip	1983	USA	193	Drama-Biography	Col	0
-820	738	780	Lusty Men, The	Ray, Nicholas	1952	USA	113	Western-Sport-Drama	BW	0
-821	762	753	Hitler: A Film from Germany	Syberberg, Hans-Jürgen	1977	West Germany-France-UK	442	Biography-Drama-History	Col	0
-822	781	735	Who's Afraid of Virginia Woolf?	Nichols, Mike	1966	USA	129	Drama	BW	0
-823	778	756	Forbidden Games	Clément, René	1952	France	87	War-Drama	BW	0
-824	780	828	Street of Shame	Mizoguchi, Kenji	1956	Japan	87	Drama	BW	0
-825	765	837	Veronika Voss	Fassbinder, Rainer Werner	1982	West Germany	105	Drama	BW	0
-826	845	808	Ghost and Mrs. Muir, The	Mankiewicz, Joseph L.	1947	USA	104	Romance-Fantasy	BW	0
-827	779	788	Seven Women	Ford, John	1966	USA	87	History-Drama	Col	0
-828	815	783	Producers, The	Brooks, Mel	1968	USA	88	Comedy	Col	0
-829	824	847	Taipei Story	Yang, Edward	1985	Taiwan	119	Drama	Col	0
-830	773	825	New York, New York	Scorsese, Martin	1977	USA	164	Musical	Col	0
-831	802	774	Morocco	von Sternberg, Josef	1930	USA	92	War-Romance-Drama	BW	0
-832	787	743	It's a Gift	McLeod, Norman Z.	1934	USA	73	Comedy	BW	0
-833	759	768	Black Girl	Sembene, Ousmane	1966	Senegal-France	65	Drama	BW	0
-834	0	0	Lessons of Darkness	Herzog, Werner	1992	France-UK-Germany	50	Documentary-Science Fiction-War	Col	0
-835	983	0	Diary	Perlov, David	1983	Israel	330	Documentary	Col-BW	0
-836	830	841	Central Station	Salles, Walter	1998	Brazil-France-Spain-Japan	110	Drama	Col	0
-837	858	838	Intruder, The	Denis, Claire	2004	France-South Korea	130	Drama	Col	0
-838	775	736	Age of the Earth, The	Rocha, Glauber	1980	Brazil	158	Political-Drama-Religious	Col	0
-839	837	886	Dust in the Wind	Hou Hsiao-hsien	1987	Taiwan	109	Romance-Drama	Col	0
-840	841	864	Day the Earth Stood Still, The	Wise, Robert	1951	USA	92	Science Fiction	BW	0
-841	789	787	Numéro deux	Godard, Jean-Luc	1975	France	88	Drama	Col	0
-842	774	793	Breakfast Club, The	Hughes, John	1985	USA	97	Drama-Comedy	Col	0
-843	850	818	Women on the Verge of a Nervous Breakdown	Almodóvar, Pedro	1988	Spain	88	Drama-Comedy	Col	0
-844	0	0	Blazing Saddles	Brooks, Mel	1974	USA	93	Western-Comedy	Col	0
-845	901	959	Kwaidan	Kobayashi, Masaki	1964	Japan	164	Horror-Fantasy	Col	0
-846	0	0	Point Break	Bigelow, Kathryn	1991	USA-Japan	122	Thriller-Action-Crime	Col	0
-847	805	962	Sawdust and Tinsel	Bergman, Ingmar	1953	Sweden	92	Drama	BW	0
-848	814	786	She Wore a Yellow Ribbon	Ford, John	1949	USA	103	Western-War	Col	0
-849	819	857	Naked Island, The	Shindo, Kaneto	1960	Japan	94	Drama	BW	0
-850	880	880	Match Factory Girl, The	Kaurismäki, Aki	1990	Finland-Sweden	68	Drama-Comedy	Col	0
-851	810	869	Mother India	Khan, Mehboob	1957	India	172	Drama-Musical-Family	Col	0
-852	854	867	My Little Loves	Eustache, Jean	1974	France	123	Drama	Col	0
-853	865	824	Fires Were Started	Jennings, Humphrey	1943	UK	80	Documentary-Drama	BW	0
-854	796	746	Woman of Paris, A	Chaplin, Charles	1923	USA	78	Drama-Romance	BW	0
-855	838	789	Million, Le	Clair, René	1931	France	85	Comedy-Musical	BW	0
-856	826	798	Last Temptation of Christ, The	Scorsese, Martin	1988	USA-Canada	164	Religious-Drama	Col	0
-857	0	0	Inglourious Basterds	Tarantino, Quentin	2009	USA-Germany	153	Action-Drama-War	Col	0
-858	817	806	Princess Mononoke	Miyazaki, Hayao	1997	Japan	134	Animated-Adventure-Fantasy	Col	0
-859	834	883	As I Was Moving Ahead Occasionally I Saw Brief Glimpses of Beauty	Mekas, Jonas	2000	USA	288	Documentary-Biography	Col	0
-860	852	835	Sicilia!	Straub, Jean-Marie & Danièle Huillet	1999	Italy-France-Germany	66	Drama	BW	0
-861	776	821	Branded to Kill	Suzuki, Seijun	1967	Japan	91	Crime-Action-Drama	BW	0
-862	825	0	Fata Morgana	Herzog, Werner	1971	West Germany	78	Experimental	Col	0
-863	813	747	Last Emperor, The	Bertolucci, Bernardo	1987	China-Italy-UK-France	160	History-Biography	Col	0
-864	875	875	2046	Wong Kar-wai	2004	Hong Kong-China-France-Italy-Germany	129	Science Fiction-Drama-Romance	Col-BW	0
-865	846	817	American Graffiti	Lucas, George	1973	USA	110	Drama-Comedy	Col	0
-866	848	810	Anatomy of a Murder	Preminger, Otto	1959	USA	160	Drama	BW	0
-867	816	790	Seventh Heaven	Borzage, Frank	1927	USA	119	Romance-Drama-War	BW	0
-868	874	862	Usual Suspects, The	Singer, Bryan	1995	USA	105	Thriller-Mystery-Crime	Col	0
-869	833	816	Pink Flamingos	Waters, John	1972	USA	92	Comedy-Crime	Col	0
-870	897	0	Man of the West	Mann, Anthony	1958	USA	100	Western	Col	0
-871	887	0	Last Bolshevik, The	Marker, Chris	1993	France-Finland	120	Documentary-Biography-History	Col	0
-872	788	752	Time of the Gypsies	Kusturica, Emir	1989	Yugoslavia	142	Drama	Col	0
-873	944	910	Berlin: Symphony of a Great City	Ruttmann, Walter	1927	Germany	65	Documentary	BW	0
-874	923	865	Othello	Welles, Orson	1952	Italy-France-Morocco-USA	90	Drama	BW	0
-875	839	974	Outskirts	Barnet, Boris	1933	USSR	98	War-Drama	BW	0
-876	876	904	Gregory's Girl	Forsyth, Bill	1980	UK	91	Romance-Comedy	Col	0
-877	820	782	Dog Star Man	Brakhage, Stan	1964	USA	75	Short-Drama	Col	0
-878	829	884	Bête humaine, La	Renoir, Jean	1938	France	99	Drama	BW	0
-879	843	797	Cook, the Thief, His Wife & Her Lover, The	Greenaway, Peter	1989	UK-France	120	Drama	Col	0
-880	899	0	Enter the Dragon	Clouse, Robert	1973	USA-Hong Kong	97	Thriller-Crime-Action	Col	0
-881	811	785	Misfits, The	Huston, John	1961	USA	124	Western-Romance-Drama	BW	0
-882	855	893	Boot, Das	Petersen, Wolfgang	1981	West Germany	149	Action-Adventure-Drama	Col	0
-883	868	850	Léon	Besson, Luc	1994	France	119	Thriller-Crime	Col	0
-884	872	843	Forbidden Planet	Wilcox, Fred M.	1956	USA	98	Science Fiction	Col	0
-885	856	872	Outlaw Josey Wales, The	Eastwood, Clint	1976	USA	135	Western-Drama	Col	0
-886	866	845	Arabian Nights	Pasolini, Pier Paolo	1974	Italy-France	130	Fantasy-Adventure-Drama	Col	0
-887	891	894	M*A*S*H	Altman, Robert	1970	USA	116	War-Comedy	Col	0
-888	853	812	Au revoir les enfants	Malle, Louis	1987	France	103	War-Drama	Col	0
-889	960	896	Dracula	Fisher, Terence	1958	UK	82	Horror	Col	0
-890	952	0	Phantom Carriage, The	Sjöström, Victor	1921	Sweden	93	Fantasy-Drama-Horror	BW	0
-891	840	795	They Were Expendable	Ford, John	1945	USA	135	War-Drama	BW	0
-892	957	0	Elevator to the Gallows	Malle, Louis	1958	France	92	Thriller-Crime-Drama	BW	0
-893	859	814	Nuit du carrefour, La	Renoir, Jean	1932	France	73	Crime	BW	0
-894	911	918	Fellini's Casanova	Fellini, Federico	1976	Italy	158	Drama-Biography	Col	0
-895	884	927	Moi, un Noir	Rouch, Jean	1958	France	70	Drama	Col	0
-896	910	888	Criminal Life of Archibaldo de la Cruz, The	Buñuel, Luis	1955	Mexico	91	Drama-Crime	BW	0
-897	885	871	Trou, Le	Becker, Jacques	1960	France-Italy	140	Drama-Crime	BW	0
-898	867	874	Incredible Shrinking Man, The	Arnold, Jack	1957	USA	81	Science Fiction	BW	0
-899	907	899	Mon oncle d'Amérique	Resnais, Alain	1980	France	123	Drama-Comedy	Col	0
-900	844	823	42nd Street	Bacon, Lloyd	1933	USA	89	Musical-Dance-Comedy	BW	0
-901	912	885	Ed Wood	Burton, Tim	1994	USA	124	Drama-Comedy-Biography	BW	0
-902	974	0	Caro diario	Moretti, Nanni	1994	Italy-France	100	Comedy	Col	0
-903	861	833	Enfance nue, L'	Pialat, Maurice	1968	France	80	Drama	Col	0
-904	882	993	They Live	Carpenter, John	1988	USA	93	Science Fiction-Thriller-Action	Col	0
-905	0	0	Diving Bell and the Butterfly, The	Schnabel, Julian	2007	France-USA	112	Biography-Drama	Col	0
-906	917	924	Sholay	Sippy, Ramesh	1975	India	162	Action-Drama-Musical	Col	0
-907	900	0	Cría cuervos	Saura, Carlos	1976	Spain	110	Drama-Crime-Mystery	Col	0
-908	832	819	Rope	Hitchcock, Alfred	1948	USA	80	Thriller-Crime-Drama	Col	0
-909	961	944	Floating Weeds	Ozu, Yasujiro	1959	Japan	119	Drama	Col	0
-910	857	805	Saturday Night Fever	Badham, John	1977	USA	119	Drama	Col	0
-911	941	901	Ride the High Country	Peckinpah, Sam	1962	USA	94	Western	Col	0
-912	890	866	Juliet of the Spirits	Fellini, Federico	1965	Italy	148	Fantasy-Drama	Col	0
-913	0	0	Sherman's March	McElwee, Ross	1985	USA	157	Documentary-Biography-Comedy	Col	0
-914	896	863	To Live	Zhang Yimou	1994	China-Hong Kong	145	Drama	Col	0
-915	871	870	Knife in the Water	Polanski, Roman	1962	Poland	94	Drama	BW	0
-916	893	846	Hôtel Terminus	Ophüls, Marcel	1987	USA	267	Documentary-History-War	Col	0
-917	933	926	Mildred Pierce	Curtiz, Michael	1945	USA	109	Drama	BW	0
-918	894	839	Hart of London, The	Chambers, Jack	1970	Canada	80	Avant-Garde	Col-BW	0
-919	860	820	Jour se lève, Le	Carné, Marcel	1939	France	93	Thriller-Crime-Drama	BW	0
-920	919	860	Get Carter	Hodges, Mike	1971	UK	112	Crime	Col	0
-921	889	849	Black Orpheus	Camus, Marcel	1959	Brazil-France	103	Drama-Romance	Col	0
-922	898	912	Gentlemen Prefer Blondes	Hawks, Howard	1953	USA	91	Romance-Musical-Comedy	Col	0
-923	888	831	Topsy-Turvy	Leigh, Mike	1999	UK-USA	160	Musical-Drama-Comedy	Col	0
-924	886	902	Reds	Beatty, Warren	1981	USA	200	History-Drama-Biography	Col	0
-925	849	803	Ludwig	Visconti, Luchino	1973	Italy-France-West Germany	235	Drama-Biography-History	Col	0
-926	945	950	Ten	Kiarostami, Abbas	2002	France-Iran	92	Drama	Col	0
-927	0	0	Saraband	Bergman, Ingmar	2003	Sweden-Denmark-Norway-Italy-Finland-Germany-Austria	120	Drama	Col	0
-928	0	0	Better Tomorrow, A	Woo, John	1986	Hong Kong	95	Thriller-Crime-Action	Col	0
-929	927	943	Mamma Roma	Pasolini, Pier Paolo	1962	Italy	110	Drama	BW	0
-930	931	878	Odd Man Out	Reed, Carol	1947	UK	115	Drama-Crime-Thriller	BW	0
-931	0	975	Touchez pas au Grisbi	Becker, Jacques	1954	France	94	Thriller-Crime-Drama	BW	0
-932	958	0	Broadcast News	Brooks, James L.	1987	USA	133	Romance-Comedy-Drama	Col	0
-933	0	987	Bad Timing	Roeg, Nicolas	1980	UK	129	Drama	Col	0
-934	966	0	Deep Red	Argento, Dario	1975	Italy	98	Thriller-Horror-Mystery	Col	0
-935	879	829	End of Summer, The	Ozu, Yasujiro	1961	Japan	103	Drama	Col	0
-936	873	848	Chienne, La	Renoir, Jean	1931	France	95	Drama	BW	0
-937	913	868	Gilda	Vidor, Charles	1946	USA	110	Thriller-Drama	BW	0
-938	0	897	Spring, Summer, Autumn, Winter… and Spring	Kim Ki-duk	2003	South Korea-Germany	103	Drama	Col	0
-939	922	914	Before Sunrise	Linklater, Richard	1995	USA	101	Romance-Drama	Col	0
-940	955	0	Second Breath	Melville, Jean-Pierre	1966	France	144	Drama	BW	0
-941	0	0	Aguaespejo granadino	Val del Omar, José	1955	Spain	21	Documentary-Short	BW	0
-942	921	913	Anatahan	von Sternberg, Josef	1953	Japan	92	War-Drama	BW	0
-943	878	827	O Lucky Man!	Anderson, Lindsay	1973	UK	173	Fantasy-Drama-Comedy	Col	0
-944	930	972	Kill Bill Vol. 1	Tarantino, Quentin	2003	USA	111	Crime-Action	Col-BW	0
-945	1000	952	Twin Peaks: Fire Walk with Me	Lynch, David	1992	USA	135	Drama-Horror-Mystery	Col	0
-946	881	844	Sun Shines Bright, The	Ford, John	1953	USA	90	Drama-Comedy	BW	0
-947	883	0	Good Morning	Ozu, Yasujiro	1959	Japan	94	Comedy	Col	0
-948	976	0	Humanity and Paper Balloons	Yamanaka, Sadao	1937	Japan	86	Drama	BW	0
-949	932	887	On the Town	Donen, Stanley/Gene Kelly	1949	USA	98	Musical-Dance	Col	0
-950	0	0	Paper Moon	Bogdanovich, Peter	1973	USA	102	Drama-Comedy-Crime	BW	0
-951	863	852	3 Women	Altman, Robert	1977	USA	125	Drama	Col	0
-952	892	889	Lord of the Rings: The Return of the King, The	Jackson, Peter	2003	New Zealand-USA	201	Fantasy-Adventure-Action	Col	0
-953	924	911	Ballad of Narayama, The	Imamura, Shohei	1983	Japan	130	Drama	Col	0
-954	995	0	Carnival of Souls	Harvey, Herk	1962	USA	80	Horror	BW	0
-955	967	933	Duel in the Sun	Vidor, King	1946	USA	130	Western	Col	0
-956	989	995	In Praise of Love	Godard, Jean-Luc	2001	France	97	Drama	Col-BW	0
-957	938	0	Strangers When We Meet	Quine, Richard	1960	USA	117	Drama-Romance	Col	0
-958	0	0	Adventures of Prince Achmed, The	Reiniger, Lotte	1926	Germany	65	Animated-Adventure-Fantasy	BW	0
-959	987	0	Female Trouble	Waters, John	1974	USA	95	Crime-Comedy	Col	0
-960	903	881	Love and Death	Allen, Woody	1975	USA	82	War-Comedy	Col	0
-961	0	0	Nutty Professor, The	Lewis, Jerry	1963	USA	107	Comedy	Col	0
-962	0	0	Thing from Another World, The	Nyby, Christian/Howard Hawks	1951	USA	87	Science Fiction-Horror	BW	0
-963	942	934	Pépé le Moko	Duvivier, Julien	1937	France	94	Romance-Drama-Crime	BW	0
-964	0	932	Grin Without a Cat, A	Marker, Chris	1977	France	240	Documentary	Col-BW	0
-965	918	925	Zabriskie Point	Antonioni, Michelangelo	1970	USA	112	Drama	Col	0
-966	954	985	Red Beard	Kurosawa, Akira	1965	Japan	185	Drama	BW	0
-967	929	980	Scarecrow	Schatzberg, Jerry	1973	USA	108	Drama	Col	0
-968	943	917	Reckless Moment, The	Ophüls, Max	1949	USA	82	Drama-Crime	BW	0
-969	936	907	National Lampoon's Animal House	Landis, John	1978	USA	109	Comedy	Col	0
-970	908	853	Cul-de-sac	Polanski, Roman	1966	UK	111	Thriller-Drama	BW	0
-971	940	906	Tale of the Wind, A	Ivens, Joris	1988	France-UK-West Germany-Netherlands	80	Documentary	Col	0
-972	0	0	Bad Lieutenant	Ferrara, Abel	1992	USA	98	Drama	Col	0
-973	905	859	Excalibur	Boorman, John	1981	UK	140	Fantasy-Adventure-Action	Col	0
-974	999	955	Shanghai Express	von Sternberg, Josef	1932	USA	80	Drama-Adventure	BW	0
-975	906	0	Stroszek	Herzog, Werner	1977	West Germany	115	Drama-Comedy	Col	0
-976	895	879	47 Ronin, The	Mizoguchi, Kenji	1941	Japan	219	History-Action-Drama	BW	0
-977	902	892	Simon of the Desert	Buñuel, Luis	1965	Mexico	43	Short-Drama-Comedy	BW	0
-978	928	873	Henry V	Olivier, Laurence	1944	UK	137	War-Drama-History	Col	0
-979	998	964	Saragossa Manuscript, The	Has, Wojciech	1965	Poland	182	Drama-Mystery-Fantasy	BW	0
-980	946	0	Stand by Me	Reiner, Rob	1986	USA	87	Comedy	Col	0
-981	909	882	Not Reconciled	Straub, Jean-Marie	1965	West Germany	51	Drama	BW	0
-982	926	931	Yol	Gören, Serif & Yilmaz Güney	1982	Turkey-Switzerland-France	114	Drama	Col	0
-983	947	920	El Dorado	Hawks, Howard	1967	USA	126	Western	Col	0
-984	0	960	Phantom of the Paradise	De Palma, Brian	1974	USA	92	Musical-Horror-Comedy	Col	0
-985	916	855	Bridges of Madison County, The	Eastwood, Clint	1995	USA	135	Romance-Drama	Col	0
-986	0	998	Humanité, L'	Dumont, Bruno	1999	France	147	Drama	Col	0
-987	997	982	Hellzapoppin'	Potter, H.C.	1941	USA	84	Comedy	BW	0
-988	915	958	Cairo Station	Chahine, Youssef	1958	Egypt	76	Crime-Drama	BW	0
-989	914	946	Chikamatsu monogatari	Mizoguchi, Kenji	1954	Japan	100	Drama-Romance	BW	0
-990	934	947	Subarnarekha	Ghatak, Ritwik	1965	India	143	Drama	BW	0
-991	981	949	Häxan	Christensen, Benjamin	1922	Sweden	83	Documentary-Horror	BW	0
-992	964	915	Holiday	Cukor, George	1938	USA	93	Comedy	BW	0
-993	990	936	Diary for Timothy, A	Jennings, Humphrey	1945	UK	40	Documentary-Short	BW	0
-994	965	940	Man Who Fell to Earth, The	Roeg, Nicolas	1976	UK	140	Science Fiction-Drama	Col	0
-995	962	954	Loneliness of the Long Distance Runner, The	Richardson, Tony	1962	UK	103	Drama-Sport	BW	0
-996	977	937	Outer Space	Tscherkassky, Peter	1999	Austria	10	Animated-Short	BW	0
-997	0	0	Boucher, Le	Chabrol, Claude	1970	France-Italy	94	Thriller-Drama	Col	0
-998	971	928	Too Early, Too Late	Straub, Jean-Marie & Danièle Huillet	1981	Germany	100	Documentary	Col	0
-999	988	977	Design for Living	Lubitsch, Ernst	1933	USA	90	Romance-Comedy	BW	0
-1000	0	0	Fat Girl	Breillat, Catherine	2001	France-Italy	86	Drama	Col	0
+1	1	1	Citizen Kane	Welles, Orson	1941	USA	119	Drama-Mystery	BW	true
+2	2	2	Vertigo	Hitchcock, Alfred	1958	USA	128	Thriller-Drama-Mystery	Col	true
+3	3	3	2001: A Space Odyssey	Kubrick, Stanley	1968	UK-USA	139	Science Fiction	Col	true
+4	4	4	Rules of the Game, The	Renoir, Jean	1939	France	113	Drama-Comedy	BW	true
+5	5	5	Tokyo Story	Ozu, Yasujiro	1953	Japan	134	Drama	BW	true
+6	6	7	8½	Fellini, Federico	1963	Italy	135	Drama	BW	true
+7	7	6	Godfather, The	Coppola, Francis Ford	1972	USA	175	Drama-Crime	Col	true
+8	8	8	Sunrise	Murnau, F.W.	1927	USA	110	Romance-Drama-Crime	BW	true
+9	9	9	Searchers, The	Ford, John	1956	USA	119	Western	Col	true
+10	10	10	Seven Samurai	Kurosawa, Akira	1954	Japan	200	Drama-Action-History	BW	true
+11	11	11	Apocalypse Now	Coppola, Francis Ford	1979	USA	150	War-Drama-Adventure	Col	true
+12	12	12	Singin' in the Rain	Donen, Stanley/Gene Kelly	1952	USA	102	Musical-Dance-Comedy	Col	true
+13	13	13	Bicycle Thieves	De Sica, Vittorio	1948	Italy	90	Drama	BW	true
+14	15	15	Taxi Driver	Scorsese, Martin	1976	USA	113	Drama-Crime	Col	true
+15	14	14	Battleship Potemkin	Eisenstein, Sergei	1925	USSR	71	War-History	BW	true
+16	16	17	Breathless	Godard, Jean-Luc	1960	France	89	Romance-Drama-Crime	BW	true
+17	17	16	Passion of Joan of Arc, The	Dreyer, Carl Theodor	1928	France	110	History-Drama-Biography	BW	true
+18	18	18	Atalante, L'	Vigo, Jean	1934	France	89	Romance-Drama	BW	true
+19	19	19	Persona	Bergman, Ingmar	1966	Sweden	83	Drama-Thriller	BW	true
+20	21	22	Man with a Movie Camera, The	Vertov, Dziga	1929	USSR	80	Documentary-Avant-Garde	BW	true
+21	20	20	Rashomon	Kurosawa, Akira	1950	Japan	88	Drama-Crime	BW	true
+22	23	25	400 Blows, The	Truffaut, François	1959	France	99	Drama	BW	true
+23	25	26	Psycho	Hitchcock, Alfred	1960	USA	109	Thriller-Horror	BW	true
+24	22	21	Godfather Part II, The	Coppola, Francis Ford	1974	USA	200	Drama-Crime	Col	true
+25	24	23	Raging Bull	Scorsese, Martin	1980	USA	128	Sport-Drama-Biography	BW	true
+26	28	28	Some Like it Hot	Wilder, Billy	1959	USA	119	Romance-Crime-Comedy	BW	true
+27	27	27	Andrei Rublev	Tarkovsky, Andrei	1966	USSR	185	History-Biography	Col-BW	true
+28	26	24	City Lights	Chaplin, Charles	1931	USA	86	Romance-Comedy	BW	true
+29	29	31	Dolce vita, La	Fellini, Federico	1960	Italy	175	Drama	BW	false
+30	30	29	Mirror, The	Tarkovsky, Andrei	1975	USSR	108	Drama-Biography	Col-BW	true
+31	31	30	Touch of Evil	Welles, Orson	1958	USA	108	Thriller-Crime	BW	true
+32	33	34	Ordet	Dreyer, Carl Theodor	1955	Denmark	125	Religious-Drama	BW	true
+33	36	33	Lawrence of Arabia	Lean, David	1962	UK	216	War-Biography-Adventure	Col	true
+34	32	35	Au hasard Balthazar	Bresson, Robert	1966	France	95	Drama	BW	true
+35	34	36	Sunset Blvd.	Wilder, Billy	1950	USA	110	Drama	BW	true
+36	35	32	Casablanca	Curtiz, Michael	1942	USA	102	War-Romance-Drama	BW	true
+37	38	39	Blade Runner	Scott, Ridley	1982	USA	118	Science Fiction-Thriller-Drama	Col	true
+38	37	37	Avventura, L'	Antonioni, Michelangelo	1960	Italy-France	145	Drama-Mystery-Romance	BW	true
+39	39	40	Contempt	Godard, Jean-Luc	1963	France-Italy	103	Drama	Col	true
+40	40	38	General, The	Keaton, Buster/Clyde Bruckman	1926	USA	74	Comedy-Adventure	BW	true
+41	41	41	Rear Window	Hitchcock, Alfred	1954	USA	112	Thriller-Mystery	Col	true
+42	44	45	In the Mood for Love	Wong Kar-wai	2000	Hong Kong-France	97	Romance-Drama	Col	true
+43	43	43	Night of the Hunter, The	Laughton, Charles	1955	USA	93	Thriller	BW	true
+44	42	42	Grande illusion, La	Renoir, Jean	1937	France	117	Prison-Drama-War	BW	true
+45	49	46	Third Man, The	Reed, Carol	1949	UK	104	Thriller-Mystery	BW	true
+46	47	50	Ugetsu monogatari	Mizoguchi, Kenji	1953	Japan	96	Drama	BW	true
+47	46	47	Playtime	Tati, Jacques	1967	France	108	Comedy	Col	true
+48	45	44	Modern Times	Chaplin, Charles	1936	USA	89	Comedy-Romance	BW	true
+49	48	48	Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb	Kubrick, Stanley	1964	UK-USA	93	War-Comedy	BW	true
+50	51	55	Fanny and Alexander	Bergman, Ingmar	1982	Sweden	189	Drama	Col	true
+51	52	58	Stalker	Tarkovsky, Andrei	1979	USSR	160	Science Fiction-Mystery	Col-BW	true
+52	50	49	Chinatown	Polanski, Roman	1974	USA	131	Mystery-Crime	Col	true
+53	53	51	Barry Lyndon	Kubrick, Stanley	1975	UK	183	Drama	Col	true
+54	60	61	Mulholland Dr.	Lynch, David	2001	France-USA	147	Mystery-Drama-Thriller	Col	true
+55	55	59	Pather Panchali	Ray, Satyajit	1955	India	112	Drama	BW	true
+56	54	52	Apartment, The	Wilder, Billy	1960	USA	125	Drama-Comedy	BW	true
+57	57	54	Rio Bravo	Hawks, Howard	1959	USA	141	Western	Col	true
+58	56	53	M	Lang, Fritz	1931	Germany	99	Thriller-Drama-Crime	BW	true
+59	61	60	North by Northwest	Hitchcock, Alfred	1959	USA	136	Thriller-Spy-Romance	Col	true
+60	59	57	Metropolis	Lang, Fritz	1927	Germany	153	Fantasy-Science Fiction-Drama	BW	true
+61	58	56	Wild Strawberries	Bergman, Ingmar	1957	Sweden	90	Drama	BW	true
+62	62	63	Enfants du paradis, Les	Carné, Marcel	1945	France	195	Romance-Drama	BW	false
+63	64	76	Viridiana	Buñuel, Luis	1961	Spain	90	Drama	BW	false
+64	63	65	Pierrot le fou	Godard, Jean-Luc	1965	France-Italy	110	Romance-Drama-Crime	Col	true
+65	67	69	Strada, La	Fellini, Federico	1954	Italy	115	Drama	BW	true
+66	69	68	Shoah	Lanzmann, Claude	1985	France	566	Documentary	Col	true
+67	66	62	Wild Bunch, The	Peckinpah, Sam	1969	USA	144	Western	Col	true
+68	65	64	Once Upon a Time in the West	Leone, Sergio	1968	Italy-USA	165	Western	Col	true
+69	72	71	Seventh Seal, The	Bergman, Ingmar	1957	Sweden	96	Fantasy-Drama	BW	true
+70	77	77	GoodFellas	Scorsese, Martin	1990	USA	146	Drama-Crime	Col	true
+71	70	72	Amarcord	Fellini, Federico	1973	Italy	127	Drama-Comedy	Col	true
+72	76	75	Pulp Fiction	Tarantino, Quentin	1994	USA	154	Drama-Crime-Comedy	Col	true
+73	68	66	Battle of Algiers, The	Pontecorvo, Gillo	1966	Italy-Algeria	123	War-Political-Drama	BW	true
+74	74	78	Leopard, The	Visconti, Luchino	1963	Italy	205	History-Drama-War	Col	true
+75	73	74	Voyage in Italy	Rossellini, Roberto	1953	Italy	97	Romance-Drama	BW	false
+76	71	67	Gold Rush, The	Chaplin, Charles	1925	USA	82	Comedy-Adventure-Family	BW	true
+77	78	70	Magnificent Ambersons, The	Welles, Orson	1942	USA	88	Drama	BW	true
+78	75	73	Late Spring	Ozu, Yasujiro	1949	Japan	108	Romance-Drama-Family	BW	true
+79	81	81	Pickpocket	Bresson, Robert	1959	France	75	Drama-Crime	BW	true
+80	79	82	Clockwork Orange, A	Kubrick, Stanley	1971	UK	137	Science Fiction-Crime-Drama	Col	true
+81	80	79	It's a Wonderful Life	Capra, Frank	1946	USA	129	Fantasy-Drama-Family	BW	true
+82	86	88	Close-Up	Kiarostami, Abbas	1990	Iran	98	Documentary-Drama-Crime	Col	true
+83	84	85	Jules et Jim	Truffaut, François	1962	France	104	Romance-Drama	BW	true
+84	95	96	Jeanne Dielman, 23 Quai du Commerce, 1080 Bruxelles	Akerman, Chantal	1975	Belgium-France	201	Drama-Avant-Garde	Col	true
+85	82	80	Blue Velvet	Lynch, David	1986	USA	120	Mystery-Crime-Drama	Col	true
+86	83	84	Conformist, The	Bertolucci, Bernardo	1970	Italy-France-West Germany	107	Political-Drama	Col	false
+87	85	87	Nashville	Altman, Robert	1975	USA	159	Drama	Col	false
+88	89	86	Annie Hall	Allen, Woody	1977	USA	94	Romance-Comedy	Col	true
+89	87	83	Gertrud	Dreyer, Carl Theodor	1964	Denmark	116	Drama	BW	false
+90	88	89	Man Escaped, A	Bresson, Robert	1956	France	102	Prison-Drama	BW	true
+91	96	94	Shining, The	Kubrick, Stanley	1980	USA	142	Horror	Col	true
+92	91	95	Jaws	Spielberg, Steven	1975	USA	124	Horror-Thriller-Adventure	Col	true
+93	92	93	Sansho the Bailiff	Mizoguchi, Kenji	1954	Japan	125	Drama	BW	true
+94	97	104	Woman Under the Influence, A	Cassavetes, John	1974	USA	155	Drama	Col	true
+95	90	90	Man Who Shot Liberty Valance, The	Ford, John	1962	USA	119	Western	BW	true
+96	93	92	Greed	von Stroheim, Erich	1924	USA	140	Drama	BW	true
+97	100	99	Sans soleil	Marker, Chris	1983	France	100	Avant-Garde-Documentary	Col	false
+98	94	91	Last Year at Marienbad	Resnais, Alain	1961	France-Italy	94	Drama-Mystery-Avant-Garde	BW	false
+99	99	98	Blow-Up	Antonioni, Michelangelo	1966	Italy-UK	111	Mystery-Drama	Col	false
+100	101	102	Once Upon a Time in America	Leone, Sergio	1984	Italy-USA	229	Drama-Crime	Col	true
+101	98	97	Aguirre: The Wrath of God	Herzog, Werner	1972	West Germany	94	History-Drama-Adventure	Col	true
+102	102	101	To Be or Not to Be	Lubitsch, Ernst	1942	USA	99	War-Comedy	BW	true
+103	108	107	Mother and the Whore, The	Eustache, Jean	1973	France	210	Drama	BW	false
+104	113	111	Spirit of the Beehive, The	Erice, Victor	1973	Spain	95	Drama	Col	false
+105	105	103	Wizard of Oz, The	Fleming, Victor	1939	USA	101	Musical-Fantasy-Family	Col-BW	true
+106	104	105	Intolerance	Griffith, D.W.	1916	USA	178	History-Drama	BW	true
+107	109	110	Gone with the Wind	Fleming, Victor	1939	USA	222	History-Romance-Drama	Col	true
+108	103	100	Sátántangó	Tarr, Béla	1994	Hungary-Germany-Switzerland	450	Drama-Comedy-Mystery	BW	false
+109	106	108	Eclisse, L'	Antonioni, Michelangelo	1962	Italy-France	126	Drama-Romance	BW	false
+110	107	112	Hiroshima mon amour	Resnais, Alain	1959	France-Japan	91	Drama	BW	true
+111	129	128	Alien	Scott, Ridley	1979	USA	117	Science Fiction-Horror	Col	true
+112	112	113	Ikiru	Kurosawa, Akira	1952	Japan	143	Drama	BW	true
+113	118	115	Sherlock Jr.	Keaton, Buster	1924	USA	45	Fantasy-Comedy	BW	true
+114	110	109	Jetée, La	Marker, Chris	1962	France	27	Science Fiction-Drama-Short	BW	true
+115	111	106	Manhattan	Allen, Woody	1979	USA	96	Romance-Comedy	BW	true
+116	115	116	Star Wars	Lucas, George	1977	USA	121	Science Fiction-Fantasy-Adventure	Col	true
+117	119	118	E.T. The Extra-Terrestrial	Spielberg, Steven	1982	USA	115	Science Fiction-Family	Col	true
+118	154	152	Beau travail	Denis, Claire	1999	France	92	Drama	Col	false
+119	133	134	Nosferatu	Murnau, F.W.	1922	Germany	84	Horror	BW	true
+120	114	119	One Flew Over the Cuckoo's Nest	Forman, Milos	1975	USA	133	Drama	Col	true
+121	123	127	Brighter Summer Day, A	Yang, Edward	1991	Taiwan	237	Crime-Romance-Drama	Col	false
+122	117	120	Madame de...	Ophüls, Max	1953	France-Italy	105	Romance-Drama	BW	false
+123	127	131	Yi yi	Yang, Edward	2000	Taiwan-Japan	173	Drama	Col	true
+124	116	117	All About Eve	Mankiewicz, Joseph L.	1950	USA	138	Drama	BW	true
+125	120	114	Bringing Up Baby	Hawks, Howard	1938	USA	102	Romance-Comedy	BW	true
+126	122	122	Letter from an Unknown Woman	Ophüls, Max	1948	USA	90	Romance-Drama	BW	false
+127	130	124	Don't Look Now	Roeg, Nicolas	1973	UK	110	Mystery-Thriller	Col	true
+128	121	121	My Darling Clementine	Ford, John	1946	USA	97	Western	BW	false
+129	124	133	Rome, Open City	Rossellini, Roberto	1945	Italy	105	War-Drama	BW	true
+130	128	132	Olvidados, Los	Buñuel, Luis	1950	Mexico	88	Drama-Crime	BW	true
+131	125	130	Partie de campagne	Renoir, Jean	1936	France	40	Romance-Drama-Short	BW	true
+132	132	125	Badlands	Malick, Terrence	1973	USA	95	Drama-Crime	Col	true
+133	131	126	Vivre sa vie	Godard, Jean-Luc	1962	France	85	Drama	BW	false
+134	140	147	Rosemary's Baby	Polanski, Roman	1968	USA	136	Thriller-Horror-Drama	Col	true
+135	134	129	Notorious	Hitchcock, Alfred	1946	USA	101	Romance-Thriller-Mystery	BW	true
+136	138	143	Stagecoach	Ford, John	1939	USA	96	Western-Action-Drama	BW	true
+137	137	145	Do the Right Thing	Lee, Spike	1989	USA	120	Drama-Comedy	Col	true
+138	139	136	Chien andalou, Un	Buñuel, Luis	1928	France	16	Horror-Fantasy-Avant-Garde	BW	true
+139	158	153	Good, the Bad and the Ugly, The	Leone, Sergio	1966	Italy-Spain	161	Western-Action	Col	true
+140	126	123	Âge d'or, L'	Buñuel, Luis	1930	France	63	Drama-Avant-Garde-Experimental	BW	true
+141	135	138	Ali: Fear Eats the Soul	Fassbinder, Rainer Werner	1974	West Germany	94	Romance-Drama	Col	false
+142	148	141	His Girl Friday	Hawks, Howard	1940	USA	92	Romance-Comedy	BW	true
+143	143	135	Lady Eve, The	Sturges, Preston	1941	USA	94	Romance-Comedy	BW	true
+144	136	161	Passenger, The	Antonioni, Michelangelo	1975	Italy	119	Drama	Col	false
+145	147	154	Duck Soup	McCarey, Leo	1933	USA	70	Comedy	BW	true
+146	145	151	Gospel According to St. Matthew, The	Pasolini, Pier Paolo	1964	Italy-France	135	Religious-Drama	BW	false
+147	142	144	Matter of Life and Death, A	Powell, Michael/Emeric Pressburger	1946	UK	104	Romance-Fantasy-Comedy	Col	false
+148	150	137	Double Indemnity	Wilder, Billy	1944	USA	106	Mystery-Crime	BW	true
+149	152	146	Trouble in Paradise	Lubitsch, Ernst	1932	USA	83	Romance-Comedy	BW	false
+150	141	156	Come and See	Klimov, Elem	1985	USSR	136	War-Drama-History	Col	true
+151	157	182	Spring in a Small Town	Fei Mu	1948	China	85	Romance-Drama	BW	false
+152	151	148	Brief Encounter	Lean, David	1945	UK	85	Romance-Drama	BW	true
+153	153	150	On the Waterfront	Kazan, Elia	1954	USA	108	Drama	BW	true
+154	144	142	Conversation, The	Coppola, Francis Ford	1974	USA	113	Thriller-Drama-Crime	Col	true
+155	149	140	Days of Heaven	Malick, Terrence	1978	USA	95	Romance-Drama	Col	true
+156	155	149	Histoire(s) du cinéma	Godard, Jean-Luc	1998	France	265	Documentary	Col-BW	false
+157	146	139	Exterminating Angel, The	Buñuel, Luis	1962	Mexico	95	Drama-Fantasy-Mystery	BW	false
+158	156	155	Cries and Whispers	Bergman, Ingmar	1972	Sweden	106	Drama	Col	true
+159	164	164	Red Shoes, The	Powell, Michael/Emeric Pressburger	1948	UK	133	Dance-Musical-Drama	Col	true
+160	159	157	Chimes at Midnight	Welles, Orson	1965	France-Spain-Switzerland	115	War-Drama-Comedy	BW	false
+161	160	158	Discreet Charm of the Bourgeoisie, The	Buñuel, Luis	1972	France	100	Fantasy-Drama-Comedy	Col	false
+162	200	199	Piano, The	Campion, Jane	1993	New Zealand-Australia-France	121	History-Drama-Romance	Col	false
+163	161	162	King Kong	Cooper, Merian C./Ernest B. Schoedsack	1933	USA	103	Fantasy-Adventure-Horror	BW	true
+164	163	159	Argent, L'	Bresson, Robert	1983	France-Switzerland	90	Drama-Crime	Col	false
+165	166	165	Black Narcissus	Powell, Michael/Emeric Pressburger	1947	UK	99	Drama-Religious	Col	true
+166	179	174	There Will Be Blood	Anderson, Paul Thomas	2007	USA	158	Drama	Col	true
+167	165	163	River, The	Renoir, Jean	1951	France-India-USA	99	Romance-Drama	Col	true
+168	162	160	Deer Hunter, The	Cimino, Michael	1978	USA	183	War-Drama	Col	true
+169	167	171	Earth	Dovzhenko, Alexander	1930	USSR	75	Drama	BW	false
+170	173	172	Umbrellas of Cherbourg, The	Demy, Jacques	1964	France-Germany	91	Romance-Musical-Drama	Col	true
+171	170	176	Rocco and His Brothers	Visconti, Luchino	1960	Italy-France	180	Drama	BW	false
+172	188	203	Spirited Away	Miyazaki, Hayao	2001	Japan	124	Animated-Adventure-Fantasy	Col	false
+173	169	175	Great Dictator, The	Chaplin, Charles	1940	USA	128	War-Comedy-Political	BW	true
+174	199	192	Texas Chainsaw Massacre, The	Hooper, Tobe	1974	USA	83	Thriller-Horror	Col	true
+175	168	168	Mouchette	Bresson, Robert	1967	France	80	Drama	BW	false
+176	172	167	Napoléon	Gance, Abel	1927	France	235	War-History-Biography	BW	false
+177	171	170	Imitation of Life	Sirk, Douglas	1959	USA	124	Drama-Romance	Col	false
+178	174	166	Grapes of Wrath, The	Ford, John	1940	USA	129	Drama	BW	true
+179	178	181	Last Laugh, The	Murnau, F.W.	1924	Germany	77	Drama	BW	true
+180	193	191	Night and Fog	Resnais, Alain	1955	France	32	War-Documentary-Short	Col-BW	true
+181	175	169	Dekalog	Kieslowski, Krzysztof	1988	Poland-West Germany	550	Drama	Col	true
+182	176	185	Birds, The	Hitchcock, Alfred	1963	USA	120	Horror	Col	true
+183	191	208	City of Sadness, A	Hou Hsiao-hsien	1989	Taiwan-Hong Kong	157	Political-Drama	Col	false
+184	183	177	Brazil	Gilliam, Terry	1985	UK	131	Science Fiction-Fantasy	Col	true
+185	186	180	Out of the Past	Tourneur, Jacques	1947	USA	97	Thriller-Mystery-Crime	BW	true
+186	181	173	Life and Death of Colonel Blimp, The	Powell, Michael/Emeric Pressburger	1943	UK	163	War-Drama-Comedy	Col	true
+187	196	188	Kes	Loach, Ken	1969	UK	113	Drama	Col	false
+188	220	217	Raiders of the Lost Ark	Spielberg, Steven	1981	USA	115	Adventure-Action	Col	true
+189	184	189	Umberto D.	De Sica, Vittorio	1952	Italy	89	Drama	BW	false
+190	198	194	Fargo	Coen, Joel & Ethan Coen	1996	USA	98	Drama-Crime-Comedy	Col	true
+191	177	202	Salò, or the 120 Days of Sodom	Pasolini, Pier Paolo	1975	Italy	117	Horror-Drama-Political	Col	false
+192	214	206	Chungking Express	Wong Kar-wai	1994	Hong Kong	104	Romance-Drama	Col	false
+193	203	195	Close Encounters of the Third Kind	Spielberg, Steven	1977	USA	135	Science Fiction-Adventure	Col	true
+194	190	228	Solaris	Tarkovsky, Andrei	1972	USSR	165	Science Fiction-Drama-Mystery	Col-BW	true
+195	180	179	Travelling Players, The	Angelopoulos, Theo	1975	Greece	230	Political-Drama	Col	false
+196	185	184	Belle de jour	Buñuel, Luis	1967	France-Italy	100	Drama	Col	false
+197	182	198	Death in Venice	Visconti, Luchino	1971	Italy	130	Drama	Col	false
+198	204	186	Performance	Roeg, Nicolas/Donald Cammell	1970	UK	105	Drama	Col	false
+199	192	178	Celine and Julie Go Boating	Rivette, Jacques	1974	France	192	Fantasy-Drama-Avant-Garde	Col	false
+200	197	193	Red River	Hawks, Howard	1948	USA	133	Western	BW	true
+201	201	183	Sweet Smell of Success	Mackendrick, Alexander	1957	USA	96	Drama	BW	true
+202	194	212	Paisan	Rossellini, Roberto	1946	Italy	120	War-Drama	BW	true
+203	195	211	Breaking the Waves	von Trier, Lars	1996	Denmark-Sweden-France-Netherlands-Norway-Iceland-Spain	156	Romance-Drama	Col	true
+204	209	219	Cabinet of Dr. Caligari, The	Wiene, Robert	1920	Germany	69	Horror-Fantasy	BW	true
+205	211	204	Samouraï, Le	Melville, Jean-Pierre	1967	France	95	Thriller-Crime	Col	false
+206	189	197	Quiet Man, The	Ford, John	1952	USA	129	Romance-Drama-Comedy	Col	true
+207	229	222	Vampyr	Dreyer, Carl Theodor	1932	Germany-France	73	Horror	BW	true
+208	236	233	Unforgiven	Eastwood, Clint	1992	USA	127	Western	Col	true
+209	206	187	Best Years of Our Lives, The	Wyler, William	1946	USA	172	War-Drama	BW	true
+210	187	200	Nights of Cabiria	Fellini, Federico	1957	Italy-France	110	Drama	BW	false
+211	207	232	Black God, White Devil	Rocha, Glauber	1964	Brazil	110	Political-Drama-Crime	BW	false
+212	225	207	McCabe & Mrs. Miller	Altman, Robert	1971	USA	121	Western-Drama	Col	true
+213	202	190	Ran	Kurosawa, Akira	1985	France-Japan	161	War-History-Drama	Col	true
+214	216	201	Caché	Haneke, Michael	2005	France-Austria-Germany-Italy-USA	117	Thriller-Drama	Col	false
+215	205	221	Ashes and Diamonds	Wajda, Andrzej	1958	Poland	96	War-Drama-Political	BW	false
+216	208	215	Graduate, The	Nichols, Mike	1967	USA	105	Romance-Drama-Comedy	Col	true
+217	221	214	Exorcist, The	Friedkin, William	1973	USA	122	Horror	Col	true
+218	239	240	Tree of Life, The	Malick, Terrence	2011	USA	139	Drama	Col	true
+219	212	196	Thin Red Line, The	Malick, Terrence	1998	USA	170	War-Drama-Action	Col	true
+220	218	205	Nanook of the North	Flaherty, Robert	1922	USA	79	Documentary	BW	true
+221	215	213	Wings of Desire	Wenders, Wim	1987	West Germany-France	130	Fantasy-Drama	Col-BW	false
+222	210	220	Wavelength	Snow, Michael	1967	Canada-USA	45	Avant-Garde	Col	true
+223	249	262	My Neighbour Totoro	Miyazaki, Hayao	1988	Japan	86	Fantasy-Family-Animated	Col	false
+224	227	224	Kind Hearts and Coronets	Hamer, Robert	1949	UK	104	Comedy	BW	false
+225	222	209	Schindler's List	Spielberg, Steven	1993	USA	195	War-History-Drama	Col-BW	true
+226	219	223	Big Lebowski, The	Coen, Joel & Ethan Coen	1998	USA-UK	113	Comedy-Crime	Col	true
+227	223	238	Eternal Sunshine of the Spotless Mind	Gondry, Michel	2004	USA	108	Romance-Drama-Comedy	Col	true
+228	217	210	Ivan the Terrible, Part 2	Eisenstein, Sergei	1946	USSR	88	History-Drama-Biography	Col-BW	false
+229	252	251	Tropical Malady	Weerasethakul, Apichatpong	2004	Thailand-France-Germany-Italy	118	Drama-Fantasy-Romance	Col	false
+230	231	249	Paris, Texas	Wenders, Wim	1984	USA	150	Drama	Col	true
+231	243	265	Paths of Glory	Kubrick, Stanley	1957	USA	86	War-Drama	BW	true
+232	226	237	Germany, Year Zero	Rossellini, Roberto	1948	Italy-West Germany	74	War-Drama	BW	true
+233	224	234	Only Angels Have Wings	Hawks, Howard	1939	USA	121	Drama-Adventure-Romance	BW	true
+234	230	229	Diary of a Country Priest	Bresson, Robert	1951	France	120	Religious-Drama	BW	false
+235	235	226	Treasure of the Sierra Madre, The	Huston, John	1948	USA	124	Adventure-Drama-Western	BW	true
+236	238	248	Zero for Conduct	Vigo, Jean	1933	France	41	Short-Drama	BW	true
+237	228	216	Sullivan's Travels	Sturges, Preston	1941	USA	91	Romance-Comedy	BW	true
+238	240	230	Groundhog Day	Ramis, Harold	1993	USA	103	Romance-Fantasy-Comedy	Col	true
+239	213	218	Two or Three Things I Know About Her	Godard, Jean-Luc	1966	France	87	Drama	Col	false
+240	241	267	F for Fake	Welles, Orson	1973	France-Iran-West Germany	85	Documentary-Avant-Garde	Col	true
+241	263	256	Night of the Living Dead	Romero, George A.	1968	USA	96	Horror	BW	true
+242	232	225	Meet Me in St. Louis	Minnelli, Vincente	1944	USA	113	Musical-Family-Drama	Col	true
+243	234	227	Crowd, The	Vidor, King	1928	USA	104	Drama	BW	false
+244	237	255	Notte, La	Antonioni, Michelangelo	1961	Italy-France	120	Drama	BW	false
+245	242	235	Bonnie and Clyde	Penn, Arthur	1967	USA	111	Drama-Crime-Biography	Col	true
+246	250	242	Johnny Guitar	Ray, Nicholas	1954	USA	110	Western	Col	false
+247	246	245	Band Wagon, The	Minnelli, Vincente	1953	USA	112	Musical-Dance-Comedy	Col	true
+248	332	349	Cléo from 5 to 7	Varda, Agnès	1962	France	90	Drama	BW	false
+249	233	231	Colour of Pomegranate, The	Parajanov, Sergei	1969	USSR	73	History-Avant-Garde	Col	false
+250	244	243	Tabu	Murnau, F.W.	1931	USA	82	Romance-Drama-Adventure	BW	false
+251	258	270	Freaks	Browning, Tod	1932	USA	64	Horror-Drama	BW	true
+252	248	236	Verdugo, El	García Berlanga, Luis	1963	Spain-Italy	90	Drama-Comedy	BW	false
+253	257	250	Shop Around the Corner, The	Lubitsch, Ernst	1940	USA	97	Romance-Comedy	BW	true
+254	286	296	Thing, The	Carpenter, John	1982	USA	108	Science Fiction-Action-Horror	Col	true
+255	247	241	Life of Oharu, The	Mizoguchi, Kenji	1952	Japan	146	Drama	BW	true
+256	251	246	Magnolia	Anderson, Paul Thomas	1999	USA	188	Drama	Col-BW	true
+257	245	274	Memories of Underdevelopment	Gutiérrez Alea, Tomás	1968	Cuba	97	Political-Romance-Drama	BW	false
+258	253	253	Floating Clouds	Naruse, Mikio	1955	Japan	123	Romance-Drama	BW	false
+259	264	247	Thin Blue Line, The	Morris, Errol	1988	USA	96	Documentary	Col	true
+260	254	261	Story of the Last Chrysanthemums, The	Mizoguchi, Kenji	1939	Japan	148	Romance-Drama	BW	true
+261	259	254	Ivan the Terrible, Part 1	Eisenstein, Sergei	1944	USSR	96	History-Drama-Biography	BW	false
+262	266	260	Faces	Cassavetes, John	1968	USA	130	Drama	BW	true
+263	256	239	Mean Streets	Scorsese, Martin	1973	USA	110	Drama-Crime	Col	true
+264	255	244	Meshes of the Afternoon	Deren, Maya & Alexander Hammid	1943	USA	15	Short-Avant-Garde-Fantasy	BW	true
+265	260	269	In a Lonely Place	Ray, Nicholas	1950	USA	91	Drama-Mystery-Romance	BW	true
+266	273	259	Distant Voices, Still Lives	Davies, Terence	1988	UK	85	Drama	Col	false
+267	262	263	Broken Blossoms	Griffith, D.W.	1919	USA	90	Romance-Drama	BW	true
+268	282	284	Kings of the Road	Wenders, Wim	1976	West Germany	175	Drama	BW	false
+269	278	278	Eraserhead	Lynch, David	1977	USA	85	Horror-Fantasy-Science Fiction	BW	true
+270	275	277	Belle et la bête, La	Cocteau, Jean	1946	France	95	Fantasy	BW	true
+271	268	279	Maltese Falcon, The	Huston, John	1941	USA	100	Mystery	BW	true
+272	261	252	Three Colours: Red	Kieslowski, Krzysztof	1994	France-Switzerland-Poland	99	Drama	Col	true
+273	265	268	Throne of Blood	Kurosawa, Akira	1957	Japan	108	War-Drama	BW	true
+274	267	264	My Night at Maud's	Rohmer, Eric	1969	France	105	Romance-Drama	BW	true
+275	271	273	Love Streams	Cassavetes, John	1984	USA	141	Drama	Col	false
+276	270	266	Wages of Fear, The	Clouzot, Henri-Georges	1953	France-Italy	105	Thriller-Adventure-Action	BW	false
+277	283	294	Day of Wrath	Dreyer, Carl Theodor	1943	Denmark	110	Drama	BW	false
+278	272	276	Monsieur Verdoux	Chaplin, Charles	1947	USA	123	Crime-Comedy	BW	true
+279	310	297	Peeping Tom	Powell, Michael	1960	UK	109	Thriller-Drama	Col	true
+280	281	275	Cinema Paradiso	Tornatore, Giuseppe	1988	Italy-France	123	Drama-Comedy	Col	true
+281	280	289	Husbands	Cassavetes, John	1970	USA	138	Drama	Col	true
+282	274	282	Empire Strikes Back, The	Kershner, Irvin	1980	USA	124	Science Fiction-Fantasy-Adventure	Col	true
+283	285	298	Mr. Hulot's Holiday	Tati, Jacques	1953	France	86	Comedy	BW	true
+284	269	258	Three Colours: Blue	Kieslowski, Krzysztof	1993	France-Poland-Switzerland	100	Drama	Col	false
+285	290	286	Matrix, The	Wachowski, Lana & Lilly Wachowski	1999	USA-Australia	136	Science Fiction-Action-Adventure	Col	true
+286	303	305	This is Spinal Tap	Reiner, Rob	1984	USA	82	Comedy-Musical	Col	true
+287	279	272	Pandora's Box	Pabst, G.W.	1929	Germany	133	Drama-Crime-Romance	BW	false
+288	276	257	Crimes and Misdemeanors	Allen, Woody	1989	USA	104	Drama-Comedy	Col	true
+289	287	280	Birth of a Nation, The	Griffith, D.W.	1915	USA	187	War-History-Drama	BW	true
+290	296	281	Big Sleep, The	Hawks, Howard	1946	USA	114	Mystery-Crime	BW	true
+291	393	400	Daisies	Chytilová, Vera	1966	Czechoslovakia	76	Drama-Comedy-Avant Garde	Col-BW	false
+292	298	300	Kid, The	Chaplin, Charles	1921	USA	60	Drama-Comedy-Family	BW	true
+293	292	302	Videodrome	Cronenberg, David	1983	Canada	90	Horror-Science Fiction	Col	true
+294	289	317	Where is the Friend's Home?	Kiarostami, Abbas	1987	Iran	85	Drama	Col	false
+295	291	283	Autumn Afternoon, An	Ozu, Yasujiro	1962	Japan	115	Drama	Col	false
+296	314	313	Dawn of the Dead	Romero, George A.	1978	USA	126	Horror-Action	Col	false
+297	319	327	Make Way for Tomorrow	McCarey, Leo	1937	USA	92	Drama	BW	false
+298	288	287	Underground	Kusturica, Emir	1995	Yugoslavia-France-Germany-Bulgaria-Czech Republic-Hungary	192	War-Drama-Comedy	Col	false
+299	277	271	Week-End	Godard, Jean-Luc	1967	France-Italy	103	Drama	Col	true
+300	294	291	Touki Bouki	Mambéty, Djibril Diop	1973	Senegal	85	Drama	Col	false
+301	299	307	Killer of Sheep	Burnett, Charles	1977	USA	83	Drama	BW	false
+302	312	309	Snow White and the Seven Dwarfs	Hand, David	1937	USA	83	Animated-Family-Fantasy	Col	true
+303	309	330	City of God	Meirelles, Fernando & Kátia Lund	2002	Brazil-Germany-France	129	Drama-Crime-Action	Col	true
+304	316	303	Red Desert	Antonioni, Michelangelo	1964	Italy-France	118	Drama	Col	false
+305	295	285	Music Room, The	Ray, Satyajit	1958	India	95	Drama	BW	false
+306	302	311	Back to the Future	Zemeckis, Robert	1985	USA	116	Science Fiction-Comedy	Col	true
+307	300	316	Puppetmaster, The	Hou Hsiao-hsien	1993	Taiwan	141	Drama-Biography	Col	false
+308	315	306	Last Picture Show, The	Bogdanovich, Peter	1971	USA	118	Drama	BW	true
+309	306	292	All About My Mother	Almodóvar, Pedro	1999	Spain-France	101	Drama-Comedy	Col	false
+310	320	332	In the Realm of the Senses	Oshima, Nagisa	1976	Japan-France	109	Drama-Adult-Romance	Col	false
+311	317	368	Stranger Than Paradise	Jarmusch, Jim	1984	USA	90	Comedy	BW	true
+312	301	288	World of Apu, The	Ray, Satyajit	1959	India	103	Drama	BW	false
+313	328	320	Bride of Frankenstein	Whale, James	1935	USA	75	Horror-Science Fiction	BW	true
+314	293	304	Cabaret	Fosse, Bob	1972	USA	128	Musical-Drama-Dance	Col	true
+315	313	312	Reservoir Dogs	Tarantino, Quentin	1992	USA	99	Drama-Crime-Thriller	Col	true
+316	327	326	Midnight Cowboy	Schlesinger, John	1969	USA	113	Drama	Col	true
+317	297	290	Sacrifice, The	Tarkovsky, Andrei	1986	France-Sweden	145	Drama	Col	false
+318	323	322	Dog Day Afternoon	Lumet, Sidney	1975	USA	125	Drama-Crime	Col	true
+319	308	315	Time to Live and the Time to Die, The	Hou Hsiao-hsien	1985	Taiwan	137	Drama	Col	false
+320	284	310	Terra em Transe	Rocha, Glauber	1967	Brazil	106	Drama-Political	BW	false
+321	336	346	Eyes Without a Face	Franju, Georges	1960	France-Italy	88	Horror-Drama-Thriller	BW	true
+322	331	329	It Happened One Night	Capra, Frank	1934	USA	105	Romance-Comedy	BW	true
+323	305	301	Canterbury Tale, A	Powell, Michael/Emeric Pressburger	1944	UK	124	Drama	BW	false
+324	325	331	Kiss Me Deadly	Aldrich, Robert	1955	USA	106	Crime-Thriller-Drama	BW	false
+325	307	299	Harold and Maude	Ashby, Hal	1971	USA	91	Comedy-Drama-Romance	Col	true
+326	322	341	Touch of Zen, A	Hu, King	1971	Taiwan	200	Adventure-Action-Drama	Col	false
+327	354	362	Quince Tree of the Sun	Erice, Victor	1992	Spain	133	Documentary-Biography-Drama	Col	false
+328	346	373	Days of Being Wild	Wong Kar-wai	1990	Hong Kong	94	Drama	Col	false
+329	304	293	Philadelphia Story, The	Cukor, George	1940	USA	112	Romance-Comedy	BW	true
+330	318	318	West Side Story	Wise, Robert/Jerome Robbins	1961	USA	151	Romance-Musical-Dance	Col	true
+331	311	295	Berlin Alexanderplatz	Fassbinder, Rainer Werner	1980	West Germany-Italy	894	Drama-History-Political	Col	true
+332	353	423	House is Black, The	Farrokhzad, Forugh	1963	Iran	20	Documentary-Short	BW	true
+333	375	364	Wanda	Loden, Barbara	1970	USA	105	Drama-Crime	Col	false
+334	341	372	Aliens	Cameron, James	1986	USA	137	Science Fiction-Horror-Action	Col	true
+335	329	345	Heat	Mann, Michael	1995	USA	174	Thriller-Drama-Crime	Col	true
+336	333	325	Eyes Wide Shut	Kubrick, Stanley	1999	USA-UK	159	Thriller-Drama	Col	true
+337	324	314	To Kill a Mockingbird	Mulligan, Robert	1962	USA	129	Drama	BW	true
+338	348	366	Tenant, The	Polanski, Roman	1976	France-USA	125	Horror-Thriller-Mystery	Col	true
+339	321	308	Orpheus	Cocteau, Jean	1950	France	95	Romance-Fantasy-Drama	BW	false
+340	335	342	I Was Born, But...	Ozu, Yasujiro	1932	Japan	100	Drama-Comedy	BW	true
+341	330	319	Amadeus	Forman, Milos	1984	USA	158	Musical-Biography-Drama	Col	true
+342	380	360	Tie Xi Qu: West of the Tracks	Wang Bing	2003	China	551	Documentary	Col	false
+343	362	343	Happy Together	Wong Kar-wai	1997	Hong Kong	97	Romance-Drama	Col	false
+344	390	390	Innocents, The	Clayton, Jack	1961	UK	100	Horror-Thriller	BW	false
+345	337	321	Listen to Britain	Jennings, Humphrey	1942	UK	20	Documentary-Short-War	BW	true
+346	343	347	I Am Cuba	Kalatozov, Mikhail	1964	USSR-Cuba	141	Political-Drama	BW	false
+347	326	324	How Green Was My Valley	Ford, John	1941	USA	118	Drama	BW	false
+348	342	337	Green Ray, The	Rohmer, Eric	1986	France	96	Romance-Drama	Col	false
+349	334	328	Killing of a Chinese Bookie, The	Cassavetes, John	1976	USA	109	Drama-Crime	Col	true
+350	382	367	Silence of the Lambs, The	Demme, Jonathan	1991	USA	118	Thriller-Mystery	Col	true
+351	433	431	Uncle Boonmee Who Can Recall His Past Lives	Weerasethakul, Apichatpong	2010	Thailand-UK-France-Germany-Spain-Netherlands	113	Drama-Fantasy	Col	false
+352	356	363	Teorema	Pasolini, Pier Paolo	1968	Italy	98	Drama	Col	false
+353	372	441	Yellow Earth	Chen Kaige	1984	China	89	Drama-Political	Col	false
+354	366	394	Suspiria	Argento, Dario	1977	Italy	92	Horror	Col	false
+355	352	381	Dogville	von Trier, Lars	2003	Denmark-Sweden-France-UK-Germany-Finland-Italy-Netherlands-Norway	177	Drama	Col	true
+356	345	350	Stromboli	Rossellini, Roberto	1950	Italy	107	Drama	BW	true
+357	347	334	Marnie	Hitchcock, Alfred	1964	USA	129	Romance-Thriller-Mystery	Col	true
+358	339	336	Written on the Wind	Sirk, Douglas	1956	USA	99	Drama	Col	false
+359	391	384	Brokeback Mountain	Lee, Ang	2005	USA-Canada	134	Romance-Drama	Col	true
+360	394	398	Carrie	De Palma, Brian	1976	USA	97	Horror-Thriller	Col	true
+361	344	356	High Noon	Zinnemann, Fred	1952	USA	84	Western	BW	true
+362	338	323	Lola Montès	Ophüls, Max	1955	France-West Germany	116	Drama-Biography-Romance	Col	false
+363	355	382	Salvatore Giuliano	Rosi, Francesco	1962	Italy	125	History-Drama-Crime	BW	false
+364	404	454	Platform	Jia Zhangke	2000	China-Hong Kong-Japan-France	154	Drama-History	Col	false
+365	381	436	Elephant Man, The	Lynch, David	1980	USA	125	Drama-Biography	BW	true
+366	398	427	Land Without Bread	Buñuel, Luis	1932	Spain	28	Documentary-Short-Drama	BW	true
+367	363	344	Werckmeister Harmonies	Tarr, Béla	2000	Hungary-Germany-France-Switzerland-Italy	145	Drama	BW	false
+368	384	383	High and Low	Kurosawa, Akira	1963	Japan	142	Thriller-Crime-Drama	BW	true
+369	349	348	Through the Olive Trees	Kiarostami, Abbas	1994	Iran-France	103	Drama	Col	false
+370	388	380	If….	Anderson, Lindsay	1968	UK	111	Drama	Col-BW	false
+371	387	353	Last Tango in Paris	Bertolucci, Bernardo	1972	France-Italy	136	Romance-Drama-Adult	Col	false
+372	369	391	Young Girls of Rochefort, The	Demy, Jacques	1967	France	124	Musical-Dance-Comedy	Col	false
+373	358	339	Lost Highway	Lynch, David	1997	USA-France	134	Mystery-Drama-Thriller	Col	false
+374	403	401	I Know Where I'm Going!	Powell, Michael/Emeric Pressburger	1945	UK	91	Romance-Comedy-Drama	BW	false
+375	478	533	Separation, A	Farhadi, Asghar	2011	Iran	123	Drama	Col	true
+376	361	352	Palm Beach Story, The	Sturges, Preston	1942	USA	90	Romance-Comedy	BW	false
+377	447	497	Lost in Translation	Coppola, Sofia	2003	USA-Japan	102	Romance-Drama-Comedy	Col	true
+378	418	447	Turin Horse, The	Tarr, Béla	2011	Hungary-France-Germany-Switzerland-USA	146	Drama	BW	false
+379	368	338	Russian Ark	Sokurov, Aleksandr	2002	Russia-Germany-Japan-Canada-Finland-Denmark	96	Fantasy-Drama	Col	false
+380	340	335	El	Buñuel, Luis	1953	Mexico	91	Drama	BW	false
+381	389	399	WALL-E	Stanton, Andrew	2008	USA	98	Animated-Adventure-Science Fiction	Col	true
+382	438	430	Talk to Her	Almodóvar, Pedro	2002	Spain	112	Romance-Drama	Col	true
+383	365	359	Woman in the Dunes	Teshigahara, Hiroshi	1964	Japan	127	Drama	BW	false
+384	411	450	Crouching Tiger, Hidden Dragon	Lee, Ang	2000	Taiwan-Hong Kong-USA-China	120	Drama-Adventure-Action	Col	true
+385	350	333	Crime of Monsieur Lange, The	Renoir, Jean	1936	France	90	Drama-Crime-Comedy	BW	false
+386	373	379	Bridge on the River Kwai, The	Lean, David	1957	UK	161	War-Drama-Action	Col	true
+387	351	340	October	Eisenstein, Sergei & Grigori Aleksandrov	1928	USSR	103	History-Drama	BW	true
+388	444	435	Gleaners & I, The	Varda, Agnès	2000	France	82	Documentary	Col	true
+389	406	375	Network	Lumet, Sidney	1976	USA	121	Drama	Col	true
+390	416	421	Mon oncle	Tati, Jacques	1958	France	126	Comedy	Col	false
+391	367	365	Nostalghia	Tarkovsky, Andrei	1983	Italy	120	Drama	Col	false
+392	401	374	Don't Look Back	Pennebaker, D.A.	1967	USA	96	Documentary-Musical	BW	true
+393	371	351	King of Comedy, The	Scorsese, Martin	1983	USA	109	Drama-Comedy	Col	true
+394	402	389	Army of Shadows	Melville, Jean-Pierre	1969	France-Italy	140	War-Drama	Col	false
+395	357	361	Voyage dans la lune, Le	Méliès, Georges	1902	France	14	Science Fiction-Short-Adventure	BW	true
+396	374	378	Festen	Vinterberg, Thomas	1998	Denmark	105	Drama	Col	false
+397	385	428	À nos amours	Pialat, Maurice	1983	France	102	Drama	Col	false
+398	425	417	White Ribbon, The	Haneke, Michael	2009	Germany-Austria-France-Italy	144	Crime-Drama-Mystery	BW	false
+399	400	371	Tristana	Buñuel, Luis	1970	Spain-Italy-France	98	Drama	Col	false
+400	421	395	Heaven's Gate	Cimino, Michael	1980	USA	219	Western-Drama-History	Col	true
+401	376	358	All That Heaven Allows	Sirk, Douglas	1955	USA	89	Romance-Drama	Col	false
+402	379	369	Butch Cassidy and the Sundance Kid	Hill, George Roy	1969	USA	112	Western	Col	true
+403	359	370	Ivan's Childhood	Tarkovsky, Andrei	1962	USSR	94	War-Drama	BW	false
+404	399	393	Yojimbo	Kurosawa, Akira	1961	Japan	110	Drama-Action	BW	true
+405	360	377	Double Life of Veronique, The	Kieslowski, Krzysztof	1991	France	97	Fantasy-Drama-Romance	Col	false
+406	457	495	Pinocchio	Sharpsteen, Ben & Hamilton Luske	1940	USA	88	Fantasy-Family-Animated	Col	true
+407	386	392	1900	Bertolucci, Bernardo	1976	Italy-France-West Germany	245	Political-Drama-History	Col	false
+408	383	419	Barren Lives	dos Santos, Nelson Pereira	1963	Brazil	103	Drama	BW	false
+409	364	354	Landscape in the Mist	Angelopoulos, Theo	1988	Greece-Italy-France	127	Drama	Col	false
+410	370	376	Affair to Remember, An	McCarey, Leo	1957	USA	115	Romance-Drama	Col	true
+411	410	403	Raise the Red Lantern	Zhang Yimou	1991	China-Hong Kong-Taiwan	125	Drama	Col	false
+412	378	357	Shoot the Piano Player	Truffaut, François	1960	France	92	Drama-Crime-Thriller	BW	true
+413	412	385	Fitzcarraldo	Herzog, Werner	1982	West Germany	157	Drama-Adventure	Col	false
+414	435	408	Awful Truth, The	McCarey, Leo	1937	USA	92	Romance-Comedy	BW	true
+415	377	355	In a Year with 13 Moons	Fassbinder, Rainer Werner	1978	West Germany	129	Drama	Col	false
+416	461	422	Taste of Cherry	Kiarostami, Abbas	1997	Iran	99	Drama	Col	false
+417	450	469	Scarlet Empress, The	von Sternberg, Josef	1934	USA	110	History-Drama-Biography	BW	false
+418	413	412	Charulata	Ray, Satyajit	1964	India	117	Romance-Drama	BW	false
+419	405	404	Monty Python's Life of Brian	Jones, Terry	1979	UK	93	Religious-Comedy	Col	true
+420	429	452	Death of Mr. Lazarescu, The	Puiu, Cristi	2005	Romania	154	Drama	Col	false
+421	417	442	Punch-Drunk Love	Anderson, Paul Thomas	2002	USA	95	Romance-Drama-Comedy	Col	true
+422	415	386	Man of Aran	Flaherty, Robert	1934	UK	77	Documentary	BW	false
+423	396	429	Opening Night	Cassavetes, John	1977	USA	144	Drama	Col	false
+424	395	411	Day for Night	Truffaut, François	1973	France	120	Drama-Comedy	Col	false
+425	407	397	Cloud-Capped Star, The	Ghatak, Ritwik	1960	India	126	Drama-Musical	BW	false
+426	449	451	Sorrow and the Pity, The	Ophüls, Marcel	1969	France-Switzerland-Germany	260	Documentary-War-History	BW	true
+427	426	405	Star is Born, A	Cukor, George	1954	USA	154	Musical-Drama	Col	true
+428	424	425	Long Goodbye, The	Altman, Robert	1973	USA	112	Drama-Crime	Col	true
+429	455	489	Repulsion	Polanski, Roman	1965	UK	105	Horror-Thriller	BW	true
+430	465	457	Halloween	Carpenter, John	1978	USA	93	Horror-Thriller	Col	true
+431	428	426	Two-Lane Blacktop	Hellman, Monte	1971	USA	101	Drama	Col	false
+432	408	424	Five Easy Pieces	Rafelson, Bob	1970	USA	98	Drama	Col	true
+433	431	414	Dead Ringers	Cronenberg, David	1988	Canada	115	Thriller-Horror-Drama	Col	true
+434	392	409	Scenes from a Marriage	Bergman, Ingmar	1973	Sweden	168	Drama	Col	true
+435	472	501	Dead Man	Jarmusch, Jim	1995	USA-Germany	121	Western-Drama	BW	true
+436	397	388	Hustler, The	Rossen, Robert	1961	USA	135	Drama-Sport	BW	true
+437	427	402	Shadows	Cassavetes, John	1959	USA	87	Drama	BW	false
+438	446	455	Terminator, The	Cameron, James	1984	USA	107	Science Fiction-Action	Col	true
+439	454	508	Flowers of Shanghai	Hou Hsiao-hsien	1998	Taiwan	130	Drama	Col	false
+440	420	387	Shawshank Redemption, The	Darabont, Frank	1994	USA	142	Prison-Drama	Col	true
+441	467	488	Flowers of St. Francis, The	Rossellini, Roberto	1950	Italy	83	Religious-Drama	BW	false
+442	419	415	Moment of Innocence, A	Makhmalbaf, Mohsen	1996	Iran-France	78	Drama-Comedy	Col	false
+443	460	466	Elephant	Van Sant, Gus	2003	USA	81	Drama	Col	false
+444	437	413	Dead, The	Huston, John	1987	USA	83	Drama	Col	false
+445	414	463	Easy Rider	Hopper, Dennis	1969	USA	94	Drama	Col	true
+446	462	490	Accattone	Pasolini, Pier Paolo	1961	Italy	120	Drama	BW	false
+447	409	420	Cameraman, The	Keaton, Buster/Edward Sedgwick	1928	USA	69	Romance-Comedy	BW	true
+448	540	548	Cat People	Tourneur, Jacques	1942	USA	73	Thriller-Horror-Mystery	BW	true
+449	440	459	Senso	Visconti, Luchino	1954	Italy	115	War-Drama-Romance	Col	false
+450	504	485	Naked	Leigh, Mike	1993	UK	126	Drama	Col	false
+451	422	406	Out 1, noli me tangere	Rivette, Jacques	1971	France	729	Comedy-Drama-Thriller	Col-BW	false
+452	514	509	Hoop Dreams	James, Steve	1994	USA	170	Documentary-Drama-Sport	Col	true
+453	458	443	Withnail & I	Robinson, Bruce	1987	UK	107	Drama-Comedy	Col	false
+454	441	434	Hour of the Furnaces, The	Getino, Octavio & Fernando E. Solanas	1968	Argentina	260	Political-Documentary-History	BW	false
+455	434	432	Plaisir, Le	Ophüls, Max	1952	France	97	Romance-Drama	BW	false
+456	481	458	Some Came Running	Minnelli, Vincente	1958	USA	136	Drama	Col	false
+457	483	494	All the President's Men	Pakula, Alan J.	1976	USA	138	Political-Drama	Col	true
+458	436	396	Fight Club	Fincher, David	1999	USA-Germany	139	Drama	Col	true
+459	471	449	Lady from Shanghai, The	Welles, Orson	1948	USA	87	Mystery-Crime-Thriller	BW	false
+460	491	482	All That Jazz	Fosse, Bob	1979	USA	123	Musical-Fantasy-Drama	Col	false
+461	423	439	Closely Watched Trains	Menzel, Jirí	1966	Czechoslovakia	89	Drama-Comedy	BW	false
+462	432	476	Cranes Are Flying, The	Kalatozov, Mikhail	1957	USSR	94	War-Romance-Drama	BW	false
+463	456	471	Fantasia	Various Directors	1940	USA	120	Fantasy-Family-Animated	Col	true
+464	512	512	Frankenstein	Whale, James	1931	USA	70	Horror-Science Fiction	BW	true
+465	523	500	Melancholia	von Trier, Lars	2011	Denmark-Sweden-France-Germany	136	Drama-Science Fiction	Col	true
+466	488	468	Shane	Stevens, George	1953	USA	118	Western-Drama	Col	true
+467	487	507	Shadows of Our Forgotten Ancestors	Parajanov, Sergei	1964	USSR	97	Romance-Drama-History	Col	false
+468	463	440	Pyaasa	Dutt, Guru	1957	India	146	Drama-Musical-Romance	BW	false
+469	459	445	Dersu Uzala	Kurosawa, Akira	1975	USSR-Japan	144	Drama-Adventure	Col	false
+470	443	407	Chelsea Girls	Warhol, Andy	1966	USA	210	Drama-Avant-Garde	Col-BW	false
+471	494	465	Mad Max 2	Miller, George	1981	Australia	94	Science Fiction-Action-Adventure	Col	true
+472	499	478	Safe	Haynes, Todd	1995	USA	119	Drama	Col	false
+473	430	410	French Cancan	Renoir, Jean	1955	France	93	Musical-Drama-Comedy	Col	false
+474	445	433	Tree of Wooden Clogs, The	Olmi, Ermanno	1978	Italy	185	Drama	Col	false
+475	468	474	Oldboy	Park Chan-wook	2003	South Korea	120	Action-Mystery-Thriller	Col	true
+476	510	511	Point Blank	Boorman, John	1967	USA	92	Thriller-Crime-Action	Col	false
+477	474	569	Limite	Peixoto, Mario	1931	Brazil	114	Drama	BW	false
+478	672	689	Vagabond	Varda, Agnès	1985	France	105	Drama	Col	false
+479	505	472	Grey Gardens	Maysles, David/Albert Maysles/Ellen Hovde/Muffie Meyer	1975	USA	95	Documentary-Comedy	Col	true
+480	522	522	A.I. Artificial Intelligence	Spielberg, Steven	2001	USA	145	Science Fiction-Drama	Col	true
+481	482	460	Wind, The	Sjöström, Victor	1928	USA	88	Drama	BW	false
+482	495	544	Laura	Preminger, Otto	1944	USA	85	Mystery-Romance-Thriller	BW	true
+483	526	499	Triumph of the Will	Riefenstahl, Leni	1935	Germany	110	Documentary-History-Political	BW	true
+484	470	481	Tootsie	Pollack, Sydney	1982	USA	116	Romance-Comedy	Col	true
+485	442	418	Hour of the Wolf	Bergman, Ingmar	1968	Sweden	88	Horror-Drama	BW	true
+486	531	538	Inland Empire	Lynch, David	2006	USA-France-Poland	180	Drama-Mystery-Thriller	Col	false
+487	498	496	Chronicle of a Summer	Rouch, Jean & Edgar Morin	1961	France	85	Documentary	BW	false
+488	453	444	To Have and Have Not	Hawks, Howard	1944	USA	100	Romance-Drama-Adventure	BW	true
+489	439	437	Sound of Music, The	Wise, Robert	1965	USA	174	Musical-Drama-Family	Col	true
+490	511	491	India Song	Duras, Marguerite	1975	France	120	Drama	Col	false
+491	469	456	Toy Story	Lasseter, John	1995	USA	80	Fantasy-Comedy-Family-Animated	Col	true
+492	475	473	Alexander Nevsky	Eisenstein, Sergei	1938	USSR	107	War-History-Biography	BW	true
+493	477	467	Boogie Nights	Anderson, Paul Thomas	1997	USA	155	Drama	Col	true
+494	466	493	Lives of Others, The	von Donnersmarck, Florian Henckel	2006	Germany	138	Drama	Col	false
+495	493	477	Shadow of a Doubt	Hitchcock, Alfred	1943	USA	108	Thriller	BW	true
+496	485	479	Short Cuts	Altman, Robert	1993	USA	189	Drama	Col	false
+497	452	446	Koyaanisqatsi	Reggio, Godfrey	1982	USA	87	Documentary	Col	false
+498	496	462	Strangers on a Train	Hitchcock, Alfred	1951	USA	101	Thriller-Drama-Crime	BW	true
+499	479	470	Wind Will Carry Us, The	Kiarostami, Abbas	1999	France-Iran	118	Drama	Col	false
+500	589	650	Orlando	Potter, Sally	1992	UK-Russia-France-Italy-Netherlands	94	History-Drama-Fantasy	Col	false
+501	464	475	12 Angry Men	Lumet, Sidney	1957	USA	95	Drama	BW	true
+502	529	523	Alphaville	Godard, Jean-Luc	1965	France	95	Science Fiction-Mystery-Drama	BW	false
+503	480	461	Muriel	Resnais, Alain	1963	France-Italy	115	Drama	Col	false
+504	557	557	Grizzly Man	Herzog, Werner	2005	USA	103	Documentary	Col	true
+505	492	448	Kagemusha	Kurosawa, Akira	1980	Japan	159	War-Drama-History	Col	false
+506	517	565	Die Hard	McTiernan, John	1988	USA	131	Thriller-Action	Col	true
+507	518	492	Winter Light	Bergman, Ingmar	1962	Sweden	80	Religious-Drama	BW	true
+508	549	551	No Country for Old Men	Coen, Joel & Ethan Coen	2007	USA	122	Crime-Drama	Col	true
+509	476	453	Night at the Opera, A	Wood, Sam	1935	USA	92	Romance-Musical-Comedy	BW	true
+510	516	564	Songs from the Second Floor	Andersson, Roy	2000	Sweden-France-Denmark-Norway-Germany	98	Drama	Col	false
+511	451	438	Masculin Feminin	Godard, Jean-Luc	1966	France-Sweden	103	Drama	BW	true
+512	473	503	Steamboat Bill, Jr.	Keaton, Buster/Charles Reisner	1928	USA	71	Romance-Comedy-Adventure	BW	true
+513	497	534	Terra trema, La	Visconti, Luchino	1948	Italy	160	Drama	BW	false
+514	500	480	Gimme Shelter	Maysles, Albert/David Maysles/Charlotte Zwerin	1970	USA	91	Documentary-Musical-History	Col	true
+515	448	416	Early Summer	Ozu, Yasujiro	1951	Japan	135	Drama	BW	false
+516	486	556	Devil, Probably, The	Bresson, Robert	1977	France	95	Drama	Col	false
+517	541	550	Pan's Labyrinth	del Toro, Guillermo	2006	Spain-Mexico-USA	120	Drama-Fantasy-Thriller	Col	true
+518	501	484	Top Hat	Sandrich, Mark	1935	USA	99	Romance-Musical-Comedy	BW	true
+519	509	514	Forrest Gump	Zemeckis, Robert	1994	USA	142	Drama-Comedy	Col	true
+520	484	524	Damned, The	Visconti, Luchino	1969	Italy-West Germany	155	War-Drama	Col	false
+521	513	513	Big Heat, The	Lang, Fritz	1953	USA	90	Drama-Crime	BW	true
+522	548	536	Farewell, My Concubine	Chen Kaige	1993	China-Hong Kong	155	History-Drama-Romance	Col	false
+523	508	487	Limelight	Chaplin, Charles	1952	USA	145	Drama-Comedy	BW	true
+524	530	516	Bitter Tears of Petra von Kant, The	Fassbinder, Rainer Werner	1972	West Germany	124	Drama	Col	false
+525	489	517	Barton Fink	Coen, Joel & Ethan Coen	1991	USA	117	Drama-Comedy	Col	true
+526	559	574	Royal Tenenbaums, The	Anderson, Wes	2001	USA	109	Drama-Comedy	Col	true
+527	525	486	Vampires, Les	Feuillade, Louis	1915	France	440	Thriller-Crime-Action	BW	true
+528	520	483	Région centrale, La	Snow, Michael	1971	Canada	180	Avant-Garde	Col	false
+529	556	543	Amélie	Jeunet, Jean-Pierre	2001	France-Germany	122	Romance-Comedy	Col	true
+530	576	554	Splendor in the Grass	Kazan, Elia	1961	USA	124	Drama	Col	false
+531	610	637	Terminator 2: Judgment Day	Cameron, James	1991	USA	136	Science Fiction-Action	Col	true
+532	490	528	East of Eden	Kazan, Elia	1955	USA	115	Drama	Col	true
+533	537	519	Hannah and Her Sisters	Allen, Woody	1986	USA	106	Drama-Comedy-Romance	Col	true
+534	567	561	Vitelloni, I	Fellini, Federico	1953	Italy	104	Drama	BW	false
+535	503	464	Marketa Lazarová	Vlácil, Frantisek	1967	Czechoslovakia	162	History-Drama	BW	false
+536	538	542	Colossal Youth	Costa, Pedro	2006	France-Portugal-Switzerland	155	Drama	Col	false
+537	524	498	Enigma of Kaspar Hauser, The	Herzog, Werner	1974	West Germany	110	Biography-Drama	Col	false
+538	506	562	Faust	Murnau, F.W.	1926	Germany	116	Fantasy-Drama-Horror	BW	true
+539	502	530	Doctor Zhivago	Lean, David	1965	USA	197	War-Romance-Drama	Col	true
+540	547	532	Servant, The	Losey, Joseph	1963	UK	115	Drama	BW	false
+541	585	621	Se7en	Fincher, David	1995	USA	127	Thriller-Mystery-Drama	Col	true
+542	533	515	Pat Garrett and Billy the Kid	Peckinpah, Sam	1973	USA	122	Western	Col	true
+543	564	580	Fellini Satyricon	Fellini, Federico	1969	Italy	129	History-Drama	Col	false
+544	519	510	Miracle in Milan	De Sica, Vittorio	1951	Italy	95	Fantasy-Drama-Comedy	BW	false
+545	507	502	Lola	Demy, Jacques	1961	France	90	Romance-Drama	BW	false
+546	527	559	Deliverance	Boorman, John	1972	USA	109	Adventure-Thriller-Drama	Col	true
+547	532	504	Phantom of Liberty, The	Buñuel, Luis	1974	France	104	Drama-Comedy-Avant Garde	Col	false
+548	565	549	Ninotchka	Lubitsch, Ernst	1939	USA	110	Romance-Comedy	BW	true
+549	515	505	Wagon Master	Ford, John	1950	USA	86	Western	BW	true
+550	539	521	Rise to Power of Louis XIV, The	Rossellini, Roberto	1966	France	100	Drama-Biography-History	Col	false
+551	535	576	Alice in the Cities	Wenders, Wim	1974	West Germany	110	Drama	BW	false
+552	587	690	Shock Corridor	Fuller, Samuel	1963	USA	101	Drama-Mystery	BW	true
+553	582	604	Amants du Pont-Neuf, Les	Carax, Leos	1991	France	126	Drama	Col	false
+554	546	531	Bigger Than Life	Ray, Nicholas	1956	USA	95	Drama	Col	false
+555	608	602	Evil Dead II	Raimi, Sam	1987	USA	85	Horror	Col	false
+556	521	539	Being There	Ashby, Hal	1979	USA	130	Drama-Comedy	Col	true
+557	588	568	Secrets & Lies	Leigh, Mike	1996	UK	142	Drama-Comedy	Col	false
+558	543	526	In Vanda's Room	Costa, Pedro	2000	Portugal-Germany-Switzerland-Italy	170	Drama	Col	false
+559	534	529	Rebel Without a Cause	Ray, Nicholas	1955	USA	111	Drama	Col	true
+560	596	573	Hard Day's Night, A	Lester, Richard	1964	UK	87	Musical-Comedy	BW	true
+561	580	594	Silent Light	Reygadas, Carlos	2007	Mexico-France-Netherlands	136	Drama	Col	false
+562	545	506	Casino	Scorsese, Martin	1995	USA	182	Drama-Crime	Col	true
+563	624	612	Belle noiseuse, La	Rivette, Jacques	1991	France	240	Drama	Col	false
+564	578	553	My Own Private Idaho	Van Sant, Gus	1991	USA	102	Drama	Col	false
+565	640	616	Raising Arizona	Coen, Joel & Ethan Coen	1987	USA	92	Comedy	Col	true
+566	583	598	Killing, The	Kubrick, Stanley	1956	USA	85	Crime-Thriller	BW	true
+567	570	555	Trainspotting	Boyle, Danny	1996	UK	95	Drama-Comedy	Col	true
+568	602	626	Scarface	Hawks, Howard	1932	USA	90	Crime-Biography-Drama	BW	true
+569	569	608	Local Hero	Forsyth, Bill	1983	UK	111	Drama-Comedy	Col	false
+570	551	558	Boudu Saved from Drowning	Renoir, Jean	1932	France	87	Comedy	BW	false
+571	528	518	Tale of Tales	Norshteyn, Yuriy	1979	USSR	29	Animated-Short	Col	true
+572	590	581	Detour	Ulmer, Edgar G.	1945	USA	69	Crime	BW	true
+573	614	703	4 Months, 3 Weeks and 2 Days	Mungiu, Cristian	2007	Romania-Netherlands-France-Germany	113	Drama	Col	false
+574	553	545	That Obscure Object of Desire	Buñuel, Luis	1977	France-Spain	103	Drama	Col	false
+575	623	593	Manchurian Candidate, The	Frankenheimer, John	1962	USA	126	Political-Thriller-Drama	BW	true
+576	555	571	Hana-Bi	Kitano, Takeshi	1997	Japan	103	Drama-Crime	Col	false
+577	733	764	Ciénaga, La	Martel, Lucrecia	2001	Argentina-France-Spain	103	Drama-Comedy	Col	false
+578	536	540	Providence	Resnais, Alain	1977	France-Switzerland	110	Drama	Col	false
+579	675	694	Harlan County, U.S.A.	Kopple, Barbara	1976	USA	103	Documentary	Col	false
+580	561	583	And Life Goes On...	Kiarostami, Abbas	1992	Iran	108	Drama-Documentary	Col	false
+581	577	563	Aparajito	Ray, Satyajit	1956	India	108	Drama	BW	false
+582	552	537	Down by Law	Jarmusch, Jim	1986	USA	107	Comedy	BW	true
+583	566	560	Asphalt Jungle, The	Huston, John	1950	USA	112	Thriller-Crime	BW	true
+584	562	575	Rocky	Avildsen, John G.	1976	USA	119	Sport-Drama	Col	true
+585	586	566	Scorpio Rising	Anger, Kenneth	1964	USA	29	Short-Avant-Garde	Col	false
+586	544	577	Hatari!	Hawks, Howard	1962	USA	159	Drama	Col	true
+587	542	546	Picnic at Hanging Rock	Weir, Peter	1975	Australia	110	Mystery-Drama	Col	true
+588	601	586	Full Metal Jacket	Kubrick, Stanley	1987	USA	116	War-Drama-Action	Col	true
+589	568	579	Rushmore	Anderson, Wes	1998	USA	93	Comedy	Col	true
+590	607	627	Children of Men	Cuarón, Alfonso	2006	USA-UK	109	Drama-Science Fiction-Thriller	Col	true
+591	613	619	Fly, The	Cronenberg, David	1986	USA	100	Horror	Col	true
+592	563	570	French Connection, The	Friedkin, William	1971	USA	104	Crime	Col	true
+593	636	629	Zodiac	Fincher, David	2007	USA	158	Crime-Drama-Thriller	Col	true
+594	603	587	I Walked with a Zombie	Tourneur, Jacques	1943	USA	69	Horror-Drama-Romance	BW	true
+595	554	527	Devils, The	Russell, Ken	1971	UK	109	History-Drama-Horror	Col	true
+596	573	600	Bande à part	Godard, Jean-Luc	1964	France	97	Crime-Drama-Romance	BW	false
+597	619	606	39 Steps, The	Hitchcock, Alfred	1935	UK	87	Spy-Thriller	BW	true
+598	609	633	Before Sunset	Linklater, Richard	2004	USA	80	Romance-Drama	Col	false
+599	658	698	Still Life	Jia Zhangke	2006	China-Hong Kong	113	Drama-Romance	Col	false
+600	558	525	Wedding March, The	von Stroheim, Erich	1928	USA	113	Romance-Drama	BW	false
+601	550	520	Silence, The	Bergman, Ingmar	1963	Sweden	96	Drama	BW	true
+602	571	535	Plácido	García Berlanga, Luis	1961	Spain	85	Comedy	BW	false
+603	592	582	Love Me Tonight	Mamoulian, Rouben	1932	USA	96	Musical-Comedy-Romance	BW	false
+604	611	667	Dark Knight, The	Nolan, Christopher	2008	USA-UK	152	Action-Crime-Thriller	Col	true
+605	599	609	Young Frankenstein	Brooks, Mel	1974	USA	105	Horror-Comedy-Science Fiction	BW	true
+606	690	702	Invasion of the Body Snatchers	Siegel, Don	1956	USA	80	Science Fiction-Horror	BW	true
+607	663	622	Age of Innocence, The	Scorsese, Martin	1993	USA	133	Romance-Drama	Col	true
+608	618	585	Lady Vanishes, The	Hitchcock, Alfred	1938	UK	97	Spy-Mystery-Thriller	BW	true
+609	591	572	Salesman	Maysles, Albert/David Maysles/Charlotte Zwerin	1969	USA	85	Documentary	BW	true
+610	579	589	Red Circle, The	Melville, Jean-Pierre	1970	France-Italy	150	Thriller-Crime	Col	false
+611	621	677	Possession	Zulawski, Andrzej	1981	France-West Germany	127	Horror-Drama	Col	false
+612	735	733	Ascent, The	Shepitko, Larisa	1976	USSR	111	War-Drama	BW	false
+613	698	670	Son, The	Dardenne, Jean-Pierre & Luc Dardenne	2002	Belgium-France	103	Drama	Col	false
+614	616	661	Bambi	Hand, David	1942	USA	69	Family-Animated-Drama	Col	true
+615	637	595	Arrebato	Zulueta, Iván	1979	Spain	105	Drama-Horror	Col	false
+616	628	611	Goodbye, Dragon Inn	Tsai Ming-liang	2003	Taiwan	82	Drama-Comedy	Col	false
+617	575	584	Rosetta	Dardenne, Jean-Pierre & Luc Dardenne	1999	Belgium-France	94	Drama	Col	false
+618	648	674	Distant	Ceylan, Nuri Bilge	2002	Turkey-Netherlands	110	Drama	Col	false
+619	0	0	Holy Motors	Carax, Leos	2012	France-Germany	115	Drama-Fantasy	Col	false
+620	723	0	Amour	Haneke, Michael	2012	Austria-France-Germany	127	Romance-Drama	Col	false
+621	560	552	Bring Me the Head of Alfredo Garcia	Peckinpah, Sam	1974	USA	112	Crime-Thriller-Action	Col	true
+622	604	607	Seven Chances	Keaton, Buster	1925	USA	56	Romance-Comedy	BW	true
+623	664	676	Wicker Man, The	Hardy, Robin	1973	UK	103	Mystery-Horror	Col	true
+624	659	657	Chant d'amour, Un	Genet, Jean	1950	France	26	Drama	BW	true
+625	572	541	Loves of a Blonde	Forman, Milos	1965	Czechoslovakia	88	Drama-Comedy	BW	false
+626	574	707	Testament of Dr. Mabuse, The	Lang, Fritz	1933	Germany	120	Thriller-Mystery-Crime	BW	true
+627	634	682	Diaboliques, Les	Clouzot, Henri-Georges	1955	France	114	Thriller-Mystery	BW	true
+628	581	592	Scarface	De Palma, Brian	1983	USA	170	Drama-Crime	Col	true
+629	0	0	Mad Max: Fury Road	Miller, George	2015	Australia-USA	120	Action-Adventure-Science Fiction	Col	true
+630	638	646	White Heat	Walsh, Raoul	1949	USA	114	Crime	BW	true
+631	674	669	Sur, El	Erice, Victor	1983	Spain-France	95	Romance-Drama	Col	false
+632	598	591	Dr. Mabuse, The Gambler	Lang, Fritz	1922	Germany	270	Thriller-Mystery-Crime	BW	true
+633	593	578	Nazarín	Buñuel, Luis	1958	Mexico	94	Religious-Drama	BW	false
+634	584	547	Our Hospitality	Keaton, Buster/John G. Blystone	1923	USA	74	Comedy-Family-Romance	BW	true
+635	600	601	Twenty Years Later	Coutinho, Eduardo	1984	Brazil	119	Documentary	Col-BW	false
+636	630	599	Blissfully Yours	Weerasethakul, Apichatpong	2002	Thailand-France	125	Romance-Drama	Col	false
+637	626	625	Marriage of Maria Braun, The	Fassbinder, Rainer Werner	1979	West Germany	120	War-Drama	Col	false
+638	641	641	Mother and Son	Sokurov, Aleksandr	1997	Russia-Germany	73	Drama	Col	false
+639	594	567	Ben-Hur	Wyler, William	1959	USA	212	Religious-History	Col	true
+640	719	710	Angel at My Table, An	Campion, Jane	1990	New Zealand-Australia-UK-USA	158	Drama-Biography	Col	false
+641	597	708	Streetcar Named Desire, A	Kazan, Elia	1951	USA	122	Drama	BW	true
+642	605	596	Memento	Nolan, Christopher	2000	USA	113	Thriller-Mystery-Drama	Col	true
+643	627	673	Europa '51	Rossellini, Roberto	1952	Italy	113	Drama	BW	false
+644	595	620	Haine, La	Kassovitz, Mathieu	1995	France	93	Drama	BW	false
+645	617	635	Antonio das Mortes	Rocha, Glauber	1969	Brazil	95	Drama-Western-Political	Col	false
+646	645	605	Great Expectations	Lean, David	1946	UK	118	Romance-Drama	BW	true
+647	639	628	Fat City	Huston, John	1972	USA	100	Sport	Col	false
+648	633	652	After Life	Koreeda, Hirokazu	1998	Japan	118	Drama-Fantasy	Col	false
+649	651	728	Syndromes and a Century	Weerasethakul, Apichatpong	2006	Thailand-France-Austria-Netherlands	105	Drama	Col	false
+650	761	755	Headless Woman, The	Martel, Lucrecia	2008	Argentina-Spain-France-Italy	87	Drama-Mystery-Thriller	Col	false
+651	714	792	Big Deal on Madonna Street	Monicelli, Mario	1958	Italy	91	Crime-Comedy	BW	false
+652	699	655	Nostalgia for the Light	Guzmán, Patricio	2010	France-Germany-Chile-Spain-USA	90	Documentary-Drama	Col	false
+653	620	640	Round-Up, The	Jancsó, Miklós	1966	Hungary	94	Political-Drama-War	BW	false
+654	691	666	Great Escape, The	Sturges, John	1963	USA	168	War-Prison-Adventure	Col	true
+655	662	659	Y tu mamá también	Cuarón, Alfonso	2001	Mexico	105	Drama-Comedy	Col	false
+656	644	636	Monty Python and the Holy Grail	Gilliam, Terry/Terry Jones	1975	UK	90	History-Comedy	Col	true
+657	678	663	Synecdoche, New York	Kaufman, Charlie	2008	USA	124	Drama	Col	false
+658	622	632	Place in the Sun, A	Stevens, George	1951	USA	122	Romance-Drama	BW	true
+659	661	654	JFK	Stone, Oliver	1991	USA	188	History-Drama	Col-BW	true
+660	625	649	Xala	Sembene, Ousmane	1975	Senegal	123	Comedy	Col	false
+661	656	662	Gummo	Korine, Harmony	1997	USA	88	Drama	Col	true
+662	646	645	Yeelen	Cissé, Souleymane	1987	Mali-Burkina Faso-France-West Germany-Japan	105	Drama-Fantasy	Col	false
+663	654	623	Titicut Follies	Wiseman, Frederick	1967	USA	84	Documentary-Drama	BW	false
+664	629	642	Young Mr. Lincoln	Ford, John	1939	USA	100	Political-Biography-Drama	BW	true
+665	615	588	Blue Angel, The	von Sternberg, Josef	1930	Germany	103	Drama	BW	false
+666	650	610	Purple Rose of Cairo, The	Allen, Woody	1985	USA	82	Fantasy-Comedy-Romance	Col-BW	true
+667	606	665	Passion	Godard, Jean-Luc	1982	France-Switzerland	87	Drama	Col	false
+668	694	701	Gun Crazy	Lewis, Joseph H.	1950	USA	86	Drama-Crime	BW	false
+669	632	615	They Live by Night	Ray, Nicholas	1948	USA	95	Drama-Crime	BW	true
+670	657	638	Nouvelle vague	Godard, Jean-Luc	1990	France-Switzerland	90	Drama	Col	false
+671	671	630	Party, The	Edwards, Blake	1968	USA	99	Comedy	Col	false
+672	643	603	Dancer in the Dark	von Trier, Lars	2000	Denmark-France-Sweden-Italy-Germany-Norway-Netherlands-Iceland-Finland-UK-USA	140	Musical-Drama	Col	true
+673	612	597	Rebecca	Hitchcock, Alfred	1940	USA	130	Mystery-Romance-Drama	BW	true
+674	704	734	Ghostbusters	Reitman, Ivan	1984	USA	107	Science Fiction-Comedy	Col	true
+675	653	715	Titanic	Cameron, James	1997	USA	194	Romance-History-Action-Disaster	Col	true
+676	715	658	Zelig	Allen, Woody	1983	USA	79	Comedy	Col-BW	false
+677	642	647	Dazed and Confused	Linklater, Richard	1993	USA	94	Drama	Col	true
+678	666	648	Edward Scissorhands	Burton, Tim	1990	USA	100	Romance-Fantasy	Col	true
+679	728	760	History of Violence, A	Cronenberg, David	2005	USA-Germany	96	Crime-Drama-Mystery	Col	true
+680	709	0	Let the Right One In	Alfredson, Tomas	2008	Sweden-Norway	114	Drama-Horror-Romance	Col	false
+681	631	590	Walkabout	Roeg, Nicolas	1971	Australia	95	Drama-Adventure	Col	true
+682	682	726	Virgin Spring, The	Bergman, Ingmar	1959	Sweden	88	Drama	BW	true
+683	718	720	Airplane!	Abrahams, Jim/David Zucker/Jerry Zucker	1980	USA	86	Comedy	Col	true
+684	647	692	Harakiri	Kobayashi, Masaki	1962	Japan	133	Drama-Action-History	BW	true
+685	692	668	My Life as a Dog	Hallström, Lasse	1985	Sweden	101	Drama-Comedy	Col	false
+686	697	680	Robocop	Verhoeven, Paul	1987	USA	103	Science Fiction-Crime	Col	true
+687	635	613	African Queen, The	Huston, John	1951	USA	105	Romance-Adventure	Col	true
+688	665	653	Mr. Smith Goes to Washington	Capra, Frank	1939	USA	129	Political-Drama	BW	true
+689	702	0	Audition	Miike, Takashi	1999	Japan-South Korea	115	Thriller-Horror-Drama	Col	false
+690	670	714	My Friend Ivan Lapshin	German, Aleksey	1985	USSR	100	Drama	Col-BW	false
+691	708	671	Crash	Cronenberg, David	1996	Canada	100	Drama	Col	false
+692	739	693	Golden Coach, The	Renoir, Jean	1952	Italy-France	100	Drama-Comedy-Romance	Col	false
+693	722	723	Saving Private Ryan	Spielberg, Steven	1998	USA	169	War-Drama-Action	Col	true
+694	695	684	W.R.: Mysteries of the Organism	Makavejev, Dusan	1971	Yugoslavia	84	Drama-Comedy-Fantasy	Col	false
+695	792	799	Dumbo	Sharpsteen, Ben	1941	USA	64	Musical-Family-Animated	Col	true
+696	652	624	Strike	Eisenstein, Sergei	1925	USSR	73	History-Drama-Political	BW	true
+697	649	614	Foolish Wives	von Stroheim, Erich	1922	USA	117	Drama	BW	false
+698	731	719	L.A. Confidential	Hanson, Curtis	1997	USA	137	Thriller-Crime	Col	false
+699	717	721	Piano Teacher, The	Haneke, Michael	2001	Austria-France-Germany	130	Drama	Col	false
+700	741	738	Circus, The	Chaplin, Charles	1928	USA	72	Drama-Comedy-Family	BW	true
+701	696	711	Casque d'or	Becker, Jacques	1952	France	96	Romance-Drama-Crime	BW	false
+702	673	683	Spartacus	Kubrick, Stanley	1960	USA	184	Adventure-History-Drama	Col	true
+703	667	639	Funny Games	Haneke, Michael	1997	Austria	108	Thriller-Drama	Col	false
+704	686	742	When Harry Met Sally...	Reiner, Rob	1989	USA	95	Romance-Comedy	Col	true
+705	763	0	Irréversible	Noé, Gaspar	2002	France	97	Crime-Drama-Horror	Col	false
+706	801	0	Once Upon a Time in Anatolia	Ceylan, Nuri Bilge	2011	Turkey-Bosnia and Herzergovina	150	Crime-Drama	Col	false
+707	712	695	Vive L'Amour	Tsai Ming-liang	1994	Taiwan	118	Drama	Col	false
+708	700	672	Edvard Munch	Watkins, Peter	1974	Sweden-Norway	210	Drama-Biography	Col	false
+709	724	745	Rififi	Dassin, Jules	1955	France	115	Crime	BW	false
+710	669	618	Requiem for a Dream	Aronofsky, Darren	2000	USA	100	Drama	Col	true
+711	660	631	Breakfast at Tiffany's	Edwards, Blake	1961	USA	115	Romance-Drama-Comedy	Col	true
+712	752	804	Host, The	Bong Joon-ho	2006	South Korea-Japan	119	Action-Comedy-Horror	Col	false
+713	681	644	Man Who Would Be King, The	Huston, John	1975	USA	129	Adventure	Col	true
+714	740	836	Fort Apache	Ford, John	1948	USA	127	Western-War	BW	true
+715	683	699	Bad and the Beautiful, The	Minnelli, Vincente	1952	USA	118	Drama	BW	false
+716	655	617	By the Bluest of Seas	Barnet, Boris	1936	USSR	71	Drama-Romantic-Comedy	BW	false
+717	737	769	Avatar	Cameron, James	2009	USA-UK	161	Action-Science Fiction-Adventure	Col	true
+718	677	687	Miller's Crossing	Coen, Joel & Ethan Coen	1990	USA	115	Crime	Col	true
+719	710	712	Tin Drum, The	Schlöndorff, Volker	1979	West Germany-France-Poland-Yugoslavia	142	War-Drama	Col	false
+720	707	732	Red Sorghum	Zhang Yimou	1987	China	91	Drama	Col	false
+721	720	686	Emperor's Naked Army Marches On, The	Hara, Kazuo	1987	Japan	122	Documentary-War-Political	Col	false
+722	725	705	Killer, The	Woo, John	1989	Hong Kong	110	Thriller-Crime-Action	Col	false
+723	685	651	Short Film About Killing, A	Kieslowski, Krzysztof	1987	Poland	85	Drama-Crime	Col	true
+724	687	678	Claire's Knee	Rohmer, Eric	1970	France	105	Romance-Drama-Comedy	Col	false
+725	679	634	Lancelot du Lac	Bresson, Robert	1974	France-Italy	84	Fantasy-Drama	Col	false
+726	713	688	Woman Next Door, The	Truffaut, François	1981	France	106	Romance-Drama	Col	false
+727	668	664	Wild Child, The	Truffaut, François	1970	France	85	Drama	BW	false
+728	809	758	Van Gogh	Pialat, Maurice	1991	France	158	Drama-Biography	Col	false
+729	688	656	Lord of the Rings: The Fellowship of the Ring, The	Jackson, Peter	2001	New Zealand-USA	178	Fantasy-Adventure	Col	true
+730	920	890	Near Dark	Bigelow, Kathryn	1987	USA	95	Horror-Drama-Thriller	Col	false
+731	676	643	Tiger of Eschnapur, The	Lang, Fritz	1958	West Germany-France-Italy	101	Romance-Adventure	Col	false
+732	742	737	All Quiet on the Western Front	Milestone, Lewis	1930	USA	133	War-Drama	BW	false
+733	753	730	Ace in the Hole	Wilder, Billy	1951	USA	112	Drama	BW	true
+734	730	696	Seasons, The	Peleshian, Artavazd	1975	USSR	29	Documentary-Short	BW	true
+735	711	716	Thief of Bagdad, The	Powell, Michael/Ludwig Berger/Tim Whelan	1940	UK	106	Fantasy-Family-Adventure	Col	false
+736	835	0	D'Est	Akerman, Chantal	1993	Belgium-France-Portugal	107	Documentary	Col	false
+737	822	822	Akira	Otomo, Katsuhiro	1988	Japan	124	Animated-Science Fiction-Action	Col	true
+738	680	660	Dames du Bois de Boulogne, Les	Bresson, Robert	1945	France	85	Drama-Romance	BW	false
+739	782	800	American in Paris, An	Minnelli, Vincente	1951	USA	115	Musical-Dance	Col	true
+740	785	809	Pickup on South Street	Fuller, Samuel	1953	USA	80	Spy-Crime	BW	false
+741	684	740	Blow Out	De Palma, Brian	1981	USA	107	Thriller-Mystery	Col	false
+742	751	722	Saturday Night and Sunday Morning	Reisz, Karel	1960	UK	89	Drama-Romance	BW	false
+743	807	796	New World, The	Malick, Terrence	2005	USA	135	Drama-History-Romance	Col	false
+744	703	777	Grido, Il	Antonioni, Michelangelo	1957	Italy	111	Drama	BW	false
+745	794	801	We All Loved Each Other So Much	Scola, Ettore	1974	Italy	124	Comedy	Col	false
+746	0	685	Superman	Donner, Richard	1978	USA	143	Science Fiction-Action-Adventure	Col	false
+747	734	675	Fellini's Roma	Fellini, Federico	1972	Italy	128	Drama-Comedy	Col	false
+748	716	697	Dirty Harry	Siegel, Don	1971	USA	102	Crime-Action	Col	false
+749	851	834	Ladies Man, The	Lewis, Jerry	1961	USA	95	Comedy	Col	true
+750	754	772	Z	Costa-Gavras, Constantin	1969	France	127	Political-Thriller-History	Col	false
+751	726	709	Moulin Rouge!	Luhrmann, Baz	2001	Australia-USA	126	Drama-Musical-Romance	Col	true
+752	705	731	Dodes'ka-den	Kurosawa, Akira	1970	Japan	140	Fantasy-Drama	Col	false
+753	870	832	Night of the Demon	Tourneur, Jacques	1957	UK	82	Horror	BW	false
+754	783	762	Long Day Closes, The	Davies, Terence	1992	UK	83	Drama	Col	false
+755	701	713	Chronicle of Anna Magdalena Bach, The	Straub, Jean-Marie	1968	West Germany-Italy	94	Drama-History-Musical	BW	false
+756	721	681	Lolita	Kubrick, Stanley	1962	UK	152	Drama	BW	true
+757	689	704	Ferris Bueller's Day Off	Hughes, John	1986	USA	103	Comedy	Col	true
+758	749	718	Red Balloon, The	Lamorisse, Albert	1956	France	34	Fantasy-Family-Short	Col	true
+759	706	700	Thelma & Louise	Scott, Ridley	1991	USA	128	Drama-Comedy-Adventure	Col	true
+760	746	775	Crumb	Zwigoff, Terry	1994	USA	119	Documentary-Biography	Col	false
+761	821	923	Firemen's Ball, The	Forman, Milos	1967	Czechoslovakia	73	Comedy	Col	false
+762	727	759	Last Detail, The	Ashby, Hal	1973	USA	105	Drama	Col	false
+763	864	898	Adventures of Robin Hood, The	Curtiz, Michael/William Keighley	1938	USA	102	Adventure	Col	true
+764	795	858	Street Angel	Yuan Muzhi	1937	China	91	Drama-Comedy-Musical	BW	false
+765	736	717	Smiles of a Summer Night	Bergman, Ingmar	1955	Sweden	108	Romance-Comedy	BW	true
+766	0	0	Iracema - Uma Transa Amazônica	Bodanzky, Jorge & Orlando Senna	1975	Brazil-West Germany-France	90	Drama	Col	false
+767	0	0	Sideways	Payne, Alexander	2004	USA	123	Drama-Comedy	Col	false
+768	0	0	Portrait of Jason	Clarke, Shirley	1967	USA	105	Documentary	Col	false
+769	760	778	Sauve qui peut (la vie)	Godard, Jean-Luc	1980	France-Switzerland	87	Drama	Col	false
+770	767	741	Wild at Heart	Lynch, David	1990	USA	127	Romance-Drama-Crime	Col	false
+771	771	813	Cool Hand Luke	Rosenberg, Stuart	1967	USA	126	Prison-Drama	Col	true
+772	797	770	Hunger	McQueen, Steve	2008	UK-Ireland	96	Drama-History	Col	false
+773	693	679	Navigator, The	Keaton, Buster/Donald Crisp	1924	USA	59	Comedy-Adventure	BW	true
+774	847	807	River, The	Tsai Ming-liang	1997	Taiwan	115	Drama	Col	false
+775	768	739	Starship Troopers	Verhoeven, Paul	1997	USA	129	Science Fiction-Action-Adventure-War	Col	true
+776	729	691	Flaming Creatures	Smith, Jack	1963	USA	43	Drama	BW	false
+777	803	773	Sang des bêtes, Le	Franju, Georges	1949	France	20	Short-Documentary-Drama	BW	true
+778	757	767	Code Unknown	Haneke, Michael	2000	France-Germany-Romania	118	Drama	Col	false
+779	784	771	Blues Brothers, The	Landis, John	1980	USA	130	Action-Comedy-Musical	Col	true
+780	791	811	Deep End	Skolimowski, Jerzy	1970	UK-West Germany	88	Drama-Comedy-Romance	Col	false
+781	770	900	Hawks and the Sparrows, The	Pasolini, Pier Paolo	1966	Italy	91	Comedy-Drama	BW	false
+782	750	748	Abraham's Valley	Oliveira, Manoel de	1993	Portugal-France-Switzerland	187	Drama	Col	false
+783	0	0	Goddess, The	Wu Yonggang	1934	China	85	Drama	BW	false
+784	758	727	Kaagaz Ke Phool	Dutt, Guru	1959	India	148	Romance-Drama	BW	false
+785	808	794	American Beauty	Mendes, Sam	1999	USA	121	Drama-Comedy	Col	true
+786	831	751	Olympia	Riefenstahl, Leni	1938	Germany	220	Documentary-Sport	BW	false
+787	755	761	Ossessione	Visconti, Luchino	1943	Italy	140	Drama	BW	false
+788	798	749	Blood Simple	Coen, Joel & Ethan Coen	1984	USA	97	Thriller-Drama-Crime	Col	true
+789	748	757	Vengeance is Mine	Imamura, Shohei	1979	Japan	129	Thriller-Crime-Drama	Col	false
+790	747	729	Trial, The	Welles, Orson	1962	France-West Germany-Italy	118	Drama-Fantasy-Thriller	BW	false
+791	732	776	Princess Bride, The	Reiner, Rob	1987	USA	98	Comedy-Family-Adventure	Col	true
+792	828	802	Spione	Lang, Fritz	1928	Germany	90	Thriller-Spy	BW	false
+793	842	842	Two English Girls	Truffaut, François	1971	France	108	Drama	Col	false
+794	818	815	Million Dollar Baby	Eastwood, Clint	2004	USA	137	Drama	Col	true
+795	769	725	Maîtres fous, Les	Rouch, Jean	1955	France	36	Documentary-Short	Col	true
+796	799	979	Bandido da Luz Vermelha, O	Sganzerla, Rogério	1968	Brazil	92	Thriller-Crime	BW	false
+797	827	791	Blue	Jarman, Derek	1993	UK	76	Documentary-Drama	Col	false
+798	766	840	Jurassic Park	Spielberg, Steven	1993	USA	126	Science Fiction-Adventure-Action	Col	true
+799	793	781	Memories of Murder	Bong Joon-ho	2003	South Korea	132	Crime-Drama-Mystery	Col	false
+800	764	765	Moonfleet	Lang, Fritz	1955	USA	89	Adventure-Drama	Col	false
+801	925	930	Bonheur, Le	Varda, Agnès	1965	France	79	Drama	Col	false
+802	812	766	Sweet Hereafter, The	Egoyan, Atom	1997	Canada	112	Drama	Col	false
+803	772	744	Holy Mountain, The	Jodorowsky, Alejandro	1973	Mexico-USA	114	Adventure-Drama-Fantasy	Col	false
+804	904	861	News from Home	Akerman, Chantal	1976	France-Belgium-West Germany	85	Drama	Col	false
+805	0	0	Amores perros	González Iñárritu, Alejandro	2000	Mexico	153	Drama	Col	false
+806	869	0	Mary Poppins	Stevenson, Robert	1964	USA	139	Musical-Family-Fantasy	Col	true
+807	777	750	Miracle of Morgan's Creek, The	Sturges, Preston	1944	USA	99	Comedy	BW	false
+808	806	779	Ladykillers, The	Mackendrick, Alexander	1955	UK	90	Crime-Comedy	Col	true
+809	836	876	Grave of the Fireflies	Takahata, Isao	1988	Japan	93	Animated-War-Drama	Col	true
+810	0	0	Commune (Paris, 1871), La	Watkins, Peter	2000	France	345	Drama-History	BW	false
+811	877	891	Posto, Il	Olmi, Ermanno	1961	Italy	93	Drama	BW	false
+812	743	706	Faster, Pussycat! Kill! Kill!	Meyer, Russ	1965	USA	83	Drama-Comedy-Action	BW	false
+813	800	877	Roman Holiday	Wyler, William	1953	USA	119	Romance-Comedy-Drama	BW	true
+814	823	854	Diaries, Notes and Sketches	Mekas, Jonas	1969	USA	177	Documentary	Col	false
+815	744	763	Port of Shadows	Carné, Marcel	1938	France	91	Drama	BW	false
+816	745	724	Idiots, The	von Trier, Lars	1998	Denmark-Spain-Sweden-France-Netherlands-Italy	117	Drama-Comedy	Col	false
+817	804	826	Burnt by the Sun	Mikhalkov, Nikita	1994	Russia-France	152	History-Drama	Col	false
+818	786	856	Assault on Precinct 13	Carpenter, John	1976	USA	90	Action	Col	false
+819	790	754	Right Stuff, The	Kaufman, Philip	1983	USA	193	Drama-Biography	Col	true
+820	738	780	Lusty Men, The	Ray, Nicholas	1952	USA	113	Western-Sport-Drama	BW	false
+821	762	753	Hitler: A Film from Germany	Syberberg, Hans-Jürgen	1977	West Germany-France-UK	442	Biography-Drama-History	Col	false
+822	781	735	Who's Afraid of Virginia Woolf?	Nichols, Mike	1966	USA	129	Drama	BW	true
+823	778	756	Forbidden Games	Clément, René	1952	France	87	War-Drama	BW	false
+824	780	828	Street of Shame	Mizoguchi, Kenji	1956	Japan	87	Drama	BW	false
+825	765	837	Veronika Voss	Fassbinder, Rainer Werner	1982	West Germany	105	Drama	BW	false
+826	845	808	Ghost and Mrs. Muir, The	Mankiewicz, Joseph L.	1947	USA	104	Romance-Fantasy	BW	true
+827	779	788	Seven Women	Ford, John	1966	USA	87	History-Drama	Col	false
+828	815	783	Producers, The	Brooks, Mel	1968	USA	88	Comedy	Col	true
+829	824	847	Taipei Story	Yang, Edward	1985	Taiwan	119	Drama	Col	false
+830	773	825	New York, New York	Scorsese, Martin	1977	USA	164	Musical	Col	true
+831	802	774	Morocco	von Sternberg, Josef	1930	USA	92	War-Romance-Drama	BW	false
+832	787	743	It's a Gift	McLeod, Norman Z.	1934	USA	73	Comedy	BW	false
+833	759	768	Black Girl	Sembene, Ousmane	1966	Senegal-France	65	Drama	BW	false
+834	0	0	Lessons of Darkness	Herzog, Werner	1992	France-UK-Germany	50	Documentary-Science Fiction-War	Col	false
+835	983	0	Diary	Perlov, David	1983	Israel	330	Documentary	Col-BW	false
+836	830	841	Central Station	Salles, Walter	1998	Brazil-France-Spain-Japan	110	Drama	Col	false
+837	858	838	Intruder, The	Denis, Claire	2004	France-South Korea	130	Drama	Col	false
+838	775	736	Age of the Earth, The	Rocha, Glauber	1980	Brazil	158	Political-Drama-Religious	Col	false
+839	837	886	Dust in the Wind	Hou Hsiao-hsien	1987	Taiwan	109	Romance-Drama	Col	false
+840	841	864	Day the Earth Stood Still, The	Wise, Robert	1951	USA	92	Science Fiction	BW	true
+841	789	787	Numéro deux	Godard, Jean-Luc	1975	France	88	Drama	Col	false
+842	774	793	Breakfast Club, The	Hughes, John	1985	USA	97	Drama-Comedy	Col	true
+843	850	818	Women on the Verge of a Nervous Breakdown	Almodóvar, Pedro	1988	Spain	88	Drama-Comedy	Col	false
+844	0	0	Blazing Saddles	Brooks, Mel	1974	USA	93	Western-Comedy	Col	true
+845	901	959	Kwaidan	Kobayashi, Masaki	1964	Japan	164	Horror-Fantasy	Col	true
+846	0	0	Point Break	Bigelow, Kathryn	1991	USA-Japan	122	Thriller-Action-Crime	Col	false
+847	805	962	Sawdust and Tinsel	Bergman, Ingmar	1953	Sweden	92	Drama	BW	true
+848	814	786	She Wore a Yellow Ribbon	Ford, John	1949	USA	103	Western-War	Col	true
+849	819	857	Naked Island, The	Shindo, Kaneto	1960	Japan	94	Drama	BW	false
+850	880	880	Match Factory Girl, The	Kaurismäki, Aki	1990	Finland-Sweden	68	Drama-Comedy	Col	true
+851	810	869	Mother India	Khan, Mehboob	1957	India	172	Drama-Musical-Family	Col	false
+852	854	867	My Little Loves	Eustache, Jean	1974	France	123	Drama	Col	false
+853	865	824	Fires Were Started	Jennings, Humphrey	1943	UK	80	Documentary-Drama	BW	false
+854	796	746	Woman of Paris, A	Chaplin, Charles	1923	USA	78	Drama-Romance	BW	true
+855	838	789	Million, Le	Clair, René	1931	France	85	Comedy-Musical	BW	false
+856	826	798	Last Temptation of Christ, The	Scorsese, Martin	1988	USA-Canada	164	Religious-Drama	Col	true
+857	0	0	Inglourious Basterds	Tarantino, Quentin	2009	USA-Germany	153	Action-Drama-War	Col	true
+858	817	806	Princess Mononoke	Miyazaki, Hayao	1997	Japan	134	Animated-Adventure-Fantasy	Col	true
+859	834	883	As I Was Moving Ahead Occasionally I Saw Brief Glimpses of Beauty	Mekas, Jonas	2000	USA	288	Documentary-Biography	Col	false
+860	852	835	Sicilia!	Straub, Jean-Marie & Danièle Huillet	1999	Italy-France-Germany	66	Drama	BW	false
+861	776	821	Branded to Kill	Suzuki, Seijun	1967	Japan	91	Crime-Action-Drama	BW	false
+862	825	0	Fata Morgana	Herzog, Werner	1971	West Germany	78	Experimental	Col	false
+863	813	747	Last Emperor, The	Bertolucci, Bernardo	1987	China-Italy-UK-France	160	History-Biography	Col	true
+864	875	875	2046	Wong Kar-wai	2004	Hong Kong-China-France-Italy-Germany	129	Science Fiction-Drama-Romance	Col-BW	false
+865	846	817	American Graffiti	Lucas, George	1973	USA	110	Drama-Comedy	Col	true
+866	848	810	Anatomy of a Murder	Preminger, Otto	1959	USA	160	Drama	BW	false
+867	816	790	Seventh Heaven	Borzage, Frank	1927	USA	119	Romance-Drama-War	BW	true
+868	874	862	Usual Suspects, The	Singer, Bryan	1995	USA	105	Thriller-Mystery-Crime	Col	true
+869	833	816	Pink Flamingos	Waters, John	1972	USA	92	Comedy-Crime	Col	false
+870	897	0	Man of the West	Mann, Anthony	1958	USA	100	Western	Col	false
+871	887	0	Last Bolshevik, The	Marker, Chris	1993	France-Finland	120	Documentary-Biography-History	Col	false
+872	788	752	Time of the Gypsies	Kusturica, Emir	1989	Yugoslavia	142	Drama	Col	false
+873	944	910	Berlin: Symphony of a Great City	Ruttmann, Walter	1927	Germany	65	Documentary	BW	true
+874	923	865	Othello	Welles, Orson	1952	Italy-France-Morocco-USA	90	Drama	BW	false
+875	839	974	Outskirts	Barnet, Boris	1933	USSR	98	War-Drama	BW	false
+876	876	904	Gregory's Girl	Forsyth, Bill	1980	UK	91	Romance-Comedy	Col	false
+877	820	782	Dog Star Man	Brakhage, Stan	1964	USA	75	Short-Drama	Col	false
+878	829	884	Bête humaine, La	Renoir, Jean	1938	France	99	Drama	BW	false
+879	843	797	Cook, the Thief, His Wife & Her Lover, The	Greenaway, Peter	1989	UK-France	120	Drama	Col	false
+880	899	0	Enter the Dragon	Clouse, Robert	1973	USA-Hong Kong	97	Thriller-Crime-Action	Col	true
+881	811	785	Misfits, The	Huston, John	1961	USA	124	Western-Romance-Drama	BW	true
+882	855	893	Boot, Das	Petersen, Wolfgang	1981	West Germany	149	Action-Adventure-Drama	Col	false
+883	868	850	Léon	Besson, Luc	1994	France	119	Thriller-Crime	Col	true
+884	872	843	Forbidden Planet	Wilcox, Fred M.	1956	USA	98	Science Fiction	Col	true
+885	856	872	Outlaw Josey Wales, The	Eastwood, Clint	1976	USA	135	Western-Drama	Col	true
+886	866	845	Arabian Nights	Pasolini, Pier Paolo	1974	Italy-France	130	Fantasy-Adventure-Drama	Col	false
+887	891	894	M*A*S*H	Altman, Robert	1970	USA	116	War-Comedy	Col	true
+888	853	812	Au revoir les enfants	Malle, Louis	1987	France	103	War-Drama	Col	false
+889	960	896	Dracula	Fisher, Terence	1958	UK	82	Horror	Col	true
+890	952	0	Phantom Carriage, The	Sjöström, Victor	1921	Sweden	93	Fantasy-Drama-Horror	BW	true
+891	840	795	They Were Expendable	Ford, John	1945	USA	135	War-Drama	BW	true
+892	957	0	Elevator to the Gallows	Malle, Louis	1958	France	92	Thriller-Crime-Drama	BW	false
+893	859	814	Nuit du carrefour, La	Renoir, Jean	1932	France	73	Crime	BW	false
+894	911	918	Fellini's Casanova	Fellini, Federico	1976	Italy	158	Drama-Biography	Col	false
+895	884	927	Moi, un Noir	Rouch, Jean	1958	France	70	Drama	Col	false
+896	910	888	Criminal Life of Archibaldo de la Cruz, The	Buñuel, Luis	1955	Mexico	91	Drama-Crime	BW	false
+897	885	871	Trou, Le	Becker, Jacques	1960	France-Italy	140	Drama-Crime	BW	false
+898	867	874	Incredible Shrinking Man, The	Arnold, Jack	1957	USA	81	Science Fiction	BW	false
+899	907	899	Mon oncle d'Amérique	Resnais, Alain	1980	France	123	Drama-Comedy	Col	false
+900	844	823	42nd Street	Bacon, Lloyd	1933	USA	89	Musical-Dance-Comedy	BW	true
+901	912	885	Ed Wood	Burton, Tim	1994	USA	124	Drama-Comedy-Biography	BW	true
+902	974	0	Caro diario	Moretti, Nanni	1994	Italy-France	100	Comedy	Col	false
+903	861	833	Enfance nue, L'	Pialat, Maurice	1968	France	80	Drama	Col	false
+904	882	993	They Live	Carpenter, John	1988	USA	93	Science Fiction-Thriller-Action	Col	false
+905	0	0	Diving Bell and the Butterfly, The	Schnabel, Julian	2007	France-USA	112	Biography-Drama	Col	false
+906	917	924	Sholay	Sippy, Ramesh	1975	India	162	Action-Drama-Musical	Col	false
+907	900	0	Cría cuervos	Saura, Carlos	1976	Spain	110	Drama-Crime-Mystery	Col	false
+908	832	819	Rope	Hitchcock, Alfred	1948	USA	80	Thriller-Crime-Drama	Col	true
+909	961	944	Floating Weeds	Ozu, Yasujiro	1959	Japan	119	Drama	Col	false
+910	857	805	Saturday Night Fever	Badham, John	1977	USA	119	Drama	Col	true
+911	941	901	Ride the High Country	Peckinpah, Sam	1962	USA	94	Western	Col	false
+912	890	866	Juliet of the Spirits	Fellini, Federico	1965	Italy	148	Fantasy-Drama	Col	false
+913	0	0	Sherman's March	McElwee, Ross	1985	USA	157	Documentary-Biography-Comedy	Col	false
+914	896	863	To Live	Zhang Yimou	1994	China-Hong Kong	145	Drama	Col	false
+915	871	870	Knife in the Water	Polanski, Roman	1962	Poland	94	Drama	BW	true
+916	893	846	Hôtel Terminus	Ophüls, Marcel	1987	USA	267	Documentary-History-War	Col	false
+917	933	926	Mildred Pierce	Curtiz, Michael	1945	USA	109	Drama	BW	false
+918	894	839	Hart of London, The	Chambers, Jack	1970	Canada	80	Avant-Garde	Col-BW	false
+919	860	820	Jour se lève, Le	Carné, Marcel	1939	France	93	Thriller-Crime-Drama	BW	false
+920	919	860	Get Carter	Hodges, Mike	1971	UK	112	Crime	Col	false
+921	889	849	Black Orpheus	Camus, Marcel	1959	Brazil-France	103	Drama-Romance	Col	true
+922	898	912	Gentlemen Prefer Blondes	Hawks, Howard	1953	USA	91	Romance-Musical-Comedy	Col	false
+923	888	831	Topsy-Turvy	Leigh, Mike	1999	UK-USA	160	Musical-Drama-Comedy	Col	false
+924	886	902	Reds	Beatty, Warren	1981	USA	200	History-Drama-Biography	Col	false
+925	849	803	Ludwig	Visconti, Luchino	1973	Italy-France-West Germany	235	Drama-Biography-History	Col	false
+926	945	950	Ten	Kiarostami, Abbas	2002	France-Iran	92	Drama	Col	false
+927	0	0	Saraband	Bergman, Ingmar	2003	Sweden-Denmark-Norway-Italy-Finland-Germany-Austria	120	Drama	Col	false
+928	0	0	Better Tomorrow, A	Woo, John	1986	Hong Kong	95	Thriller-Crime-Action	Col	false
+929	927	943	Mamma Roma	Pasolini, Pier Paolo	1962	Italy	110	Drama	BW	false
+930	931	878	Odd Man Out	Reed, Carol	1947	UK	115	Drama-Crime-Thriller	BW	false
+931	0	975	Touchez pas au Grisbi	Becker, Jacques	1954	France	94	Thriller-Crime-Drama	BW	false
+932	958	0	Broadcast News	Brooks, James L.	1987	USA	133	Romance-Comedy-Drama	Col	false
+933	0	987	Bad Timing	Roeg, Nicolas	1980	UK	129	Drama	Col	false
+934	966	0	Deep Red	Argento, Dario	1975	Italy	98	Thriller-Horror-Mystery	Col	false
+935	879	829	End of Summer, The	Ozu, Yasujiro	1961	Japan	103	Drama	Col	false
+936	873	848	Chienne, La	Renoir, Jean	1931	France	95	Drama	BW	false
+937	913	868	Gilda	Vidor, Charles	1946	USA	110	Thriller-Drama	BW	false
+938	0	897	Spring, Summer, Autumn, Winter… and Spring	Kim Ki-duk	2003	South Korea-Germany	103	Drama	Col	false
+939	922	914	Before Sunrise	Linklater, Richard	1995	USA	101	Romance-Drama	Col	true
+940	955	0	Second Breath	Melville, Jean-Pierre	1966	France	144	Drama	BW	false
+941	0	0	Aguaespejo granadino	Val del Omar, José	1955	Spain	21	Documentary-Short	BW	false
+942	921	913	Anatahan	von Sternberg, Josef	1953	Japan	92	War-Drama	BW	false
+943	878	827	O Lucky Man!	Anderson, Lindsay	1973	UK	173	Fantasy-Drama-Comedy	Col	false
+944	930	972	Kill Bill Vol. 1	Tarantino, Quentin	2003	USA	111	Crime-Action	Col-BW	true
+945	1000	952	Twin Peaks: Fire Walk with Me	Lynch, David	1992	USA	135	Drama-Horror-Mystery	Col	true
+946	881	844	Sun Shines Bright, The	Ford, John	1953	USA	90	Drama-Comedy	BW	false
+947	883	0	Good Morning	Ozu, Yasujiro	1959	Japan	94	Comedy	Col	false
+948	976	0	Humanity and Paper Balloons	Yamanaka, Sadao	1937	Japan	86	Drama	BW	false
+949	932	887	On the Town	Donen, Stanley/Gene Kelly	1949	USA	98	Musical-Dance	Col	true
+950	0	0	Paper Moon	Bogdanovich, Peter	1973	USA	102	Drama-Comedy-Crime	BW	true
+951	863	852	3 Women	Altman, Robert	1977	USA	125	Drama	Col	false
+952	892	889	Lord of the Rings: The Return of the King, The	Jackson, Peter	2003	New Zealand-USA	201	Fantasy-Adventure-Action	Col	true
+953	924	911	Ballad of Narayama, The	Imamura, Shohei	1983	Japan	130	Drama	Col	false
+954	995	0	Carnival of Souls	Harvey, Herk	1962	USA	80	Horror	BW	false
+955	967	933	Duel in the Sun	Vidor, King	1946	USA	130	Western	Col	false
+956	989	995	In Praise of Love	Godard, Jean-Luc	2001	France	97	Drama	Col-BW	false
+957	938	0	Strangers When We Meet	Quine, Richard	1960	USA	117	Drama-Romance	Col	false
+958	0	0	Adventures of Prince Achmed, The	Reiniger, Lotte	1926	Germany	65	Animated-Adventure-Fantasy	BW	false
+959	987	0	Female Trouble	Waters, John	1974	USA	95	Crime-Comedy	Col	false
+960	903	881	Love and Death	Allen, Woody	1975	USA	82	War-Comedy	Col	true
+961	0	0	Nutty Professor, The	Lewis, Jerry	1963	USA	107	Comedy	Col	true
+962	0	0	Thing from Another World, The	Nyby, Christian/Howard Hawks	1951	USA	87	Science Fiction-Horror	BW	false
+963	942	934	Pépé le Moko	Duvivier, Julien	1937	France	94	Romance-Drama-Crime	BW	false
+964	0	932	Grin Without a Cat, A	Marker, Chris	1977	France	240	Documentary	Col-BW	false
+965	918	925	Zabriskie Point	Antonioni, Michelangelo	1970	USA	112	Drama	Col	false
+966	954	985	Red Beard	Kurosawa, Akira	1965	Japan	185	Drama	BW	true
+967	929	980	Scarecrow	Schatzberg, Jerry	1973	USA	108	Drama	Col	false
+968	943	917	Reckless Moment, The	Ophüls, Max	1949	USA	82	Drama-Crime	BW	false
+969	936	907	National Lampoon's Animal House	Landis, John	1978	USA	109	Comedy	Col	true
+970	908	853	Cul-de-sac	Polanski, Roman	1966	UK	111	Thriller-Drama	BW	true
+971	940	906	Tale of the Wind, A	Ivens, Joris	1988	France-UK-West Germany-Netherlands	80	Documentary	Col	false
+972	0	0	Bad Lieutenant	Ferrara, Abel	1992	USA	98	Drama	Col	false
+973	905	859	Excalibur	Boorman, John	1981	UK	140	Fantasy-Adventure-Action	Col	false
+974	999	955	Shanghai Express	von Sternberg, Josef	1932	USA	80	Drama-Adventure	BW	false
+975	906	0	Stroszek	Herzog, Werner	1977	West Germany	115	Drama-Comedy	Col	false
+976	895	879	47 Ronin, The	Mizoguchi, Kenji	1941	Japan	219	History-Action-Drama	BW	false
+977	902	892	Simon of the Desert	Buñuel, Luis	1965	Mexico	43	Short-Drama-Comedy	BW	true
+978	928	873	Henry V	Olivier, Laurence	1944	UK	137	War-Drama-History	Col	false
+979	998	964	Saragossa Manuscript, The	Has, Wojciech	1965	Poland	182	Drama-Mystery-Fantasy	BW	false
+980	946	0	Stand by Me	Reiner, Rob	1986	USA	87	Comedy	Col	true
+981	909	882	Not Reconciled	Straub, Jean-Marie	1965	West Germany	51	Drama	BW	false
+982	926	931	Yol	Gören, Serif & Yilmaz Güney	1982	Turkey-Switzerland-France	114	Drama	Col	false
+983	947	920	El Dorado	Hawks, Howard	1967	USA	126	Western	Col	true
+984	0	960	Phantom of the Paradise	De Palma, Brian	1974	USA	92	Musical-Horror-Comedy	Col	false
+985	916	855	Bridges of Madison County, The	Eastwood, Clint	1995	USA	135	Romance-Drama	Col	false
+986	0	998	Humanité, L'	Dumont, Bruno	1999	France	147	Drama	Col	false
+987	997	982	Hellzapoppin'	Potter, H.C.	1941	USA	84	Comedy	BW	false
+988	915	958	Cairo Station	Chahine, Youssef	1958	Egypt	76	Crime-Drama	BW	false
+989	914	946	Chikamatsu monogatari	Mizoguchi, Kenji	1954	Japan	100	Drama-Romance	BW	false
+990	934	947	Subarnarekha	Ghatak, Ritwik	1965	India	143	Drama	BW	false
+991	981	949	Häxan	Christensen, Benjamin	1922	Sweden	83	Documentary-Horror	BW	true
+992	964	915	Holiday	Cukor, George	1938	USA	93	Comedy	BW	false
+993	990	936	Diary for Timothy, A	Jennings, Humphrey	1945	UK	40	Documentary-Short	BW	false
+994	965	940	Man Who Fell to Earth, The	Roeg, Nicolas	1976	UK	140	Science Fiction-Drama	Col	true
+995	962	954	Loneliness of the Long Distance Runner, The	Richardson, Tony	1962	UK	103	Drama-Sport	BW	false
+996	977	937	Outer Space	Tscherkassky, Peter	1999	Austria	10	Animated-Short	BW	true
+997	0	0	Boucher, Le	Chabrol, Claude	1970	France-Italy	94	Thriller-Drama	Col	false
+998	971	928	Too Early, Too Late	Straub, Jean-Marie & Danièle Huillet	1981	Germany	100	Documentary	Col	false
+999	988	977	Design for Living	Lubitsch, Ernst	1933	USA	90	Romance-Comedy	BW	false
+1000	0	0	Fat Girl	Breillat, Catherine	2001	France-Italy	86	Drama	Col	false

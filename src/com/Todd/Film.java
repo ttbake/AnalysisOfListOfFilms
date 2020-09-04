@@ -11,7 +11,7 @@ public class Film {
     private int length;
     private String genre;
     private String color;
-    private int seen;
+    private boolean seen;
 
     public Film() {
     }
@@ -21,11 +21,11 @@ public class Film {
         return this.getTitle() + " directed by " + this.getDirector() + " released in year " + this.getYear() + " and produced in " + this.getCountry();
     }
 
-    public int getSeen() {
+    public boolean getSeen() {
         return seen;
     }
 
-    public void setSeen(int seen) {
+    public void setSeen(boolean seen) {
         this.seen = seen;
     }
 
