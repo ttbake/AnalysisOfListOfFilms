@@ -72,8 +72,18 @@ public class Main {
         int secondYear = random.nextInt(2015-firstYear) + firstYear;
         System.out.println("Number of films between " + firstYear + " and " + secondYear + " is " + analysis.numberOfFilmsInbetweenYears(firstYear, secondYear));
 
-        MachineLearning machineLearning = new MachineLearning(filmArrayList);
-        System.out.println("Random unseen movie " + machineLearning.fetchRandomUnseenFilm().toString());
+        //MachineLearning machineLearning = new MachineLearning(filmArrayList);
+        //System.out.println("Random unseen movie " + machineLearning.fetchRandomUnseenFilm().toString());
+
+        System.out.println("Average length of seen movies " + analysis.averageFilmLength(true));
+        System.out.println("Average length of unseen movies " + analysis.averageFilmLength(false));
+
+        System.out.println("Percentage of films seen " + analysis.percentageSeenUnseen(true));
+        System.out.println("Percentage of films seen by length " + analysis.percentageSeenUnseenByFilmLength(true));
+
+        System.out.println("Median length of seen movies " + analysis.medianLength(true));
+        System.out.println("Median length of unseen movies " + analysis.medianLength(false));
+
 
         Output output = new Output();
         output.writeFile(filmArrayList);

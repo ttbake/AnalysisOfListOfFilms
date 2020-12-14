@@ -29,6 +29,23 @@ public class Analysis {
         return count;
     }
 
+    public int medianLength(boolean seen){
+        int lengthArray[] = new int[countFilmBySeen(seen)];
+        int i = 0;
+        for (Film film :this.getListOfFilms()) {
+            if (film.getSeen() == seen){
+                lengthArray[i] = film.getLength();
+                i++;
+            }
+        }
+        if (lengthArray.length % 2 == 1){
+            return lengthArray[(lengthArray.length + 1)/2 - 1];
+        }
+        else{
+            return (lengthArray[lengthArray.length/2-1]+lengthArray[lengthArray.length/2])/2;
+        }
+    }
+
     public int numberOfFilmsDirectedBySimilar(String director){
         int count = 0;
         for (Film film : this.getListOfFilms()){
@@ -49,10 +66,62 @@ public class Analysis {
         return sum;
     }
 
+    public int sumOfFilmLengthBySeenUnseen(boolean seen){
+        int sum = 0;
+        for (Film film : this.getListOfFilms()){
+            if (film.getSeen() == seen){
+                sum += film.getLength();
+            }
+        }
+        return sum;
+    }
+
     public Film randomMovie(){
         Random random = new Random();
         int randomInt = random.nextInt(1000-1) + 1;
         return this.getListOfFilms().get(randomInt);
+    }
+
+    public double averageFilmLength(boolean seen){
+        double sum = 0;
+        double average = 0.0;
+        int count = 0;
+        for (Film film: this.getListOfFilms()){
+            if (film.getSeen() == seen){
+                sum += film.getLength();
+                count++;
+            }
+        }
+        average = sum / count;
+        return average;
+    }
+
+    public int countFilmBySeen(boolean seen){
+        int count = 0;
+        for (Film film: this.getListOfFilms()){
+            if (film.getSeen() == seen){
+                count++;
+            }
+        }
+        return count;
+    }
+
+    public double percentageSeenUnseen(boolean seen){
+        int countSeenUnseen = countFilmBySeen(seen);
+        int totalFilmCount = this.getListOfFilms().size();
+        double percentage = (double) countSeenUnseen / totalFilmCount;
+        return percentage;
+    }
+
+    public double percentageSeenUnseenByFilmLength(boolean seen){
+        int totalLengthSeen = sumOfFilmLengthBySeenUnseen(true);
+        int totalLengthUnseen = sumOfFilmLengthBySeenUnseen(false);
+        if (seen){
+            return ((double)totalLengthSeen / (totalLengthSeen + totalLengthUnseen));
+        }
+        else{
+            return ((double)totalLengthUnseen / (totalLengthSeen + totalLengthUnseen));
+        }
     }
 
     public int numberOfFilmsInbetweenYears(int minYear, int maxYear){
