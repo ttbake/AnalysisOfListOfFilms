@@ -147,7 +147,7 @@ Pos	2019	2018	Title	Director	Year	Country	Length	Genre	Colour	Seen
 146	145	151	Gospel According to St. Matthew, The	Pasolini, Pier Paolo	1964	Italy-France	135	Religious-Drama	BW	false
 147	142	144	Matter of Life and Death, A	Powell, Michael/Emeric Pressburger	1946	UK	104	Romance-Fantasy-Comedy	Col	false
 148	150	137	Double Indemnity	Wilder, Billy	1944	USA	106	Mystery-Crime	BW	true
-149	152	146	Trouble in Paradise	Lubitsch, Ernst	1932	USA	83	Romance-Comedy	BW	false
+149	152	146	Trouble in Paradise	Lubitsch, Ernst	1932	USA	83	Romance-Comedy	BW	true
 150	141	156	Come and See	Klimov, Elem	1985	USSR	136	War-Drama-History	Col	true
 151	157	182	Spring in a Small Town	Fei Mu	1948	China	85	Romance-Drama	BW	false
 152	151	148	Brief Encounter	Lean, David	1945	UK	85	Romance-Drama	BW	true
@@ -169,7 +169,7 @@ Pos	2019	2018	Title	Director	Year	Country	Length	Genre	Colour	Seen
 168	162	160	Deer Hunter, The	Cimino, Michael	1978	USA	183	War-Drama	Col	true
 169	167	171	Earth	Dovzhenko, Alexander	1930	USSR	75	Drama	BW	false
 170	173	172	Umbrellas of Cherbourg, The	Demy, Jacques	1964	France-Germany	91	Romance-Musical-Drama	Col	true
-171	170	176	Rocco and His Brothers	Visconti, Luchino	1960	Italy-France	180	Drama	BW	false
+171	170	176	Rocco and His Brothers	Visconti, Luchino	1960	Italy-France	180	Drama	BW	true
 172	188	203	Spirited Away	Miyazaki, Hayao	2001	Japan	124	Animated-Adventure-Fantasy	Col	false
 173	169	175	Great Dictator, The	Chaplin, Charles	1940	USA	128	War-Comedy-Political	BW	true
 174	199	192	Texas Chainsaw Massacre, The	Hooper, Tobe	1974	USA	83	Thriller-Horror	Col	true
@@ -212,7 +212,7 @@ Pos	2019	2018	Title	Director	Year	Country	Length	Genre	Colour	Seen
 211	207	232	Black God, White Devil	Rocha, Glauber	1964	Brazil	110	Political-Drama-Crime	BW	false
 212	225	207	McCabe & Mrs. Miller	Altman, Robert	1971	USA	121	Western-Drama	Col	true
 213	202	190	Ran	Kurosawa, Akira	1985	France-Japan	161	War-History-Drama	Col	true
-214	216	201	Caché	Haneke, Michael	2005	France-Austria-Germany-Italy-USA	117	Thriller-Drama	Col	false
+214	216	201	Caché	Haneke, Michael	2005	France-Austria-Germany-Italy-USA	117	Thriller-Drama	Col	true
 215	205	221	Ashes and Diamonds	Wajda, Andrzej	1958	Poland	96	War-Drama-Political	BW	false
 216	208	215	Graduate, The	Nichols, Mike	1967	USA	105	Romance-Drama-Comedy	Col	true
 217	221	214	Exorcist, The	Friedkin, William	1973	USA	122	Horror	Col	true
@@ -244,7 +244,7 @@ Pos	2019	2018	Title	Director	Year	Country	Length	Genre	Colour	Seen
 243	234	227	Crowd, The	Vidor, King	1928	USA	104	Drama	BW	false
 244	237	255	Notte, La	Antonioni, Michelangelo	1961	Italy-France	120	Drama	BW	false
 245	242	235	Bonnie and Clyde	Penn, Arthur	1967	USA	111	Drama-Crime-Biography	Col	true
-246	250	242	Johnny Guitar	Ray, Nicholas	1954	USA	110	Western	Col	false
+246	250	242	Johnny Guitar	Ray, Nicholas	1954	USA	110	Western	Col	true
 247	246	245	Band Wagon, The	Minnelli, Vincente	1953	USA	112	Musical-Dance-Comedy	Col	true
 248	332	349	Cléo from 5 to 7	Varda, Agnès	1962	France	90	Drama	BW	false
 249	233	231	Colour of Pomegranate, The	Parajanov, Sergei	1969	USSR	73	History-Avant-Garde	Col	false
@@ -295,7 +295,7 @@ Pos	2019	2018	Title	Director	Year	Country	Length	Genre	Colour	Seen
 294	289	317	Where is the Friend's Home?	Kiarostami, Abbas	1987	Iran	85	Drama	Col	false
 295	291	283	Autumn Afternoon, An	Ozu, Yasujiro	1962	Japan	115	Drama	Col	false
 296	314	313	Dawn of the Dead	Romero, George A.	1978	USA	126	Horror-Action	Col	true
-297	319	327	Make Way for Tomorrow	McCarey, Leo	1937	USA	92	Drama	BW	false
+297	319	327	Make Way for Tomorrow	McCarey, Leo	1937	USA	92	Drama	BW	true
 298	288	287	Underground	Kusturica, Emir	1995	Yugoslavia-France-Germany-Bulgaria-Czech Republic-Hungary	192	War-Drama-Comedy	Col	false
 299	277	271	Week-End	Godard, Jean-Luc	1967	France-Italy	103	Drama	Col	true
 300	294	291	Touki Bouki	Mambéty, Djibril Diop	1973	Senegal	85	Drama	Col	false
@@ -321,7 +321,7 @@ Pos	2019	2018	Title	Director	Year	Country	Length	Genre	Colour	Seen
 320	284	310	Terra em Transe	Rocha, Glauber	1967	Brazil	106	Drama-Political	BW	false
 321	336	346	Eyes Without a Face	Franju, Georges	1960	France-Italy	88	Horror-Drama-Thriller	BW	true
 322	331	329	It Happened One Night	Capra, Frank	1934	USA	105	Romance-Comedy	BW	true
-323	305	301	Canterbury Tale, A	Powell, Michael/Emeric Pressburger	1944	UK	124	Drama	BW	false
+323	305	301	Canterbury Tale, A	Powell, Michael/Emeric Pressburger	1944	UK	124	Drama	BW	true
 324	325	331	Kiss Me Deadly	Aldrich, Robert	1955	USA	106	Crime-Thriller-Drama	BW	false
 325	307	299	Harold and Maude	Ashby, Hal	1971	USA	91	Comedy-Drama-Romance	Col	true
 326	322	341	Touch of Zen, A	Hu, King	1971	Taiwan	200	Adventure-Action-Drama	Col	true
@@ -340,7 +340,7 @@ Pos	2019	2018	Title	Director	Year	Country	Length	Genre	Colour	Seen
 339	321	308	Orpheus	Cocteau, Jean	1950	France	95	Romance-Fantasy-Drama	BW	false
 340	335	342	I Was Born, But...	Ozu, Yasujiro	1932	Japan	100	Drama-Comedy	BW	true
 341	330	319	Amadeus	Forman, Milos	1984	USA	158	Musical-Biography-Drama	Col	true
-342	380	360	Tie Xi Qu: West of the Tracks	Wang Bing	2003	China	551	Documentary	Col	false
+342	380	360	Tie Xi Qu: West of the Tracks	Wang Bing	2003	China	551	Documentary	Col	true
 343	362	343	Happy Together	Wong Kar-wai	1997	Hong Kong	97	Romance-Drama	Col	false
 344	390	390	Innocents, The	Clayton, Jack	1961	UK	100	Horror-Thriller	BW	false
 345	337	321	Listen to Britain	Jennings, Humphrey	1942	UK	20	Documentary-Short-War	BW	true
@@ -368,7 +368,7 @@ Pos	2019	2018	Title	Director	Year	Country	Length	Genre	Colour	Seen
 367	363	344	Werckmeister Harmonies	Tarr, Béla	2000	Hungary-Germany-France-Switzerland-Italy	145	Drama	BW	false
 368	384	383	High and Low	Kurosawa, Akira	1963	Japan	142	Thriller-Crime-Drama	BW	true
 369	349	348	Through the Olive Trees	Kiarostami, Abbas	1994	Iran-France	103	Drama	Col	false
-370	388	380	If….	Anderson, Lindsay	1968	UK	111	Drama	Col-BW	false
+370	388	380	If….	Anderson, Lindsay	1968	UK	111	Drama	Col-BW	true
 371	387	353	Last Tango in Paris	Bertolucci, Bernardo	1972	France-Italy	136	Romance-Drama-Adult	Col	false
 372	369	391	Young Girls of Rochefort, The	Demy, Jacques	1967	France	124	Musical-Dance-Comedy	Col	true
 373	358	339	Lost Highway	Lynch, David	1997	USA-France	134	Mystery-Drama-Thriller	Col	false
@@ -457,7 +457,7 @@ Pos	2019	2018	Title	Director	Year	Country	Length	Genre	Colour	Seen
 456	481	458	Some Came Running	Minnelli, Vincente	1958	USA	136	Drama	Col	false
 457	483	494	All the President's Men	Pakula, Alan J.	1976	USA	138	Political-Drama	Col	true
 458	436	396	Fight Club	Fincher, David	1999	USA-Germany	139	Drama	Col	true
-459	471	449	Lady from Shanghai, The	Welles, Orson	1948	USA	87	Mystery-Crime-Thriller	BW	false
+459	471	449	Lady from Shanghai, The	Welles, Orson	1948	USA	87	Mystery-Crime-Thriller	BW	true
 460	491	482	All That Jazz	Fosse, Bob	1979	USA	123	Musical-Fantasy-Drama	Col	false
 461	423	439	Closely Watched Trains	Menzel, Jirí	1966	Czechoslovakia	89	Drama-Comedy	BW	false
 462	432	476	Cranes Are Flying, The	Kalatozov, Mikhail	1957	USSR	94	War-Romance-Drama	BW	false
@@ -553,7 +553,7 @@ Pos	2019	2018	Title	Director	Year	Country	Length	Genre	Colour	Seen
 552	587	690	Shock Corridor	Fuller, Samuel	1963	USA	101	Drama-Mystery	BW	true
 553	582	604	Amants du Pont-Neuf, Les	Carax, Leos	1991	France	126	Drama	Col	false
 554	546	531	Bigger Than Life	Ray, Nicholas	1956	USA	95	Drama	Col	false
-555	608	602	Evil Dead II	Raimi, Sam	1987	USA	85	Horror	Col	false
+555	608	602	Evil Dead II	Raimi, Sam	1987	USA	85	Horror	Col	true
 556	521	539	Being There	Ashby, Hal	1979	USA	130	Drama-Comedy	Col	true
 557	588	568	Secrets & Lies	Leigh, Mike	1996	UK	142	Drama-Comedy	Col	false
 558	543	526	In Vanda's Room	Costa, Pedro	2000	Portugal-Germany-Switzerland-Italy	170	Drama	Col	false
@@ -567,8 +567,8 @@ Pos	2019	2018	Title	Director	Year	Country	Length	Genre	Colour	Seen
 566	583	598	Killing, The	Kubrick, Stanley	1956	USA	85	Crime-Thriller	BW	true
 567	570	555	Trainspotting	Boyle, Danny	1996	UK	95	Drama-Comedy	Col	true
 568	602	626	Scarface	Hawks, Howard	1932	USA	90	Crime-Biography-Drama	BW	true
-569	569	608	Local Hero	Forsyth, Bill	1983	UK	111	Drama-Comedy	Col	false
-570	551	558	Boudu Saved from Drowning	Renoir, Jean	1932	France	87	Comedy	BW	false
+569	569	608	Local Hero	Forsyth, Bill	1983	UK	111	Drama-Comedy	Col	true
+570	551	558	Boudu Saved from Drowning	Renoir, Jean	1932	France	87	Comedy	BW	true
 571	528	518	Tale of Tales	Norshteyn, Yuriy	1979	USSR	29	Animated-Short	Col	true
 572	590	581	Detour	Ulmer, Edgar G.	1945	USA	69	Crime	BW	true
 573	614	703	4 Months, 3 Weeks and 2 Days	Mungiu, Cristian	2007	Romania-Netherlands-France-Germany	113	Drama	Col	false
@@ -583,7 +583,7 @@ Pos	2019	2018	Title	Director	Year	Country	Length	Genre	Colour	Seen
 582	552	537	Down by Law	Jarmusch, Jim	1986	USA	107	Comedy	BW	true
 583	566	560	Asphalt Jungle, The	Huston, John	1950	USA	112	Thriller-Crime	BW	true
 584	562	575	Rocky	Avildsen, John G.	1976	USA	119	Sport-Drama	Col	true
-585	586	566	Scorpio Rising	Anger, Kenneth	1964	USA	29	Short-Avant-Garde	Col	false
+585	586	566	Scorpio Rising	Anger, Kenneth	1964	USA	29	Short-Avant-Garde	Col	true
 586	544	577	Hatari!	Hawks, Howard	1962	USA	159	Drama	Col	true
 587	542	546	Picnic at Hanging Rock	Weir, Peter	1975	Australia	110	Mystery-Drama	Col	true
 588	601	586	Full Metal Jacket	Kubrick, Stanley	1987	USA	116	War-Drama-Action	Col	true
@@ -638,7 +638,7 @@ Pos	2019	2018	Title	Director	Year	Country	Length	Genre	Colour	Seen
 637	626	625	Marriage of Maria Braun, The	Fassbinder, Rainer Werner	1979	West Germany	120	War-Drama	Col	false
 638	641	641	Mother and Son	Sokurov, Aleksandr	1997	Russia-Germany	73	Drama	Col	false
 639	594	567	Ben-Hur	Wyler, William	1959	USA	212	Religious-History	Col	true
-640	719	710	Angel at My Table, An	Campion, Jane	1990	New Zealand-Australia-UK-USA	158	Drama-Biography	Col	false
+640	719	710	Angel at My Table, An	Campion, Jane	1990	New Zealand-Australia-UK-USA	158	Drama-Biography	Col	true
 641	597	708	Streetcar Named Desire, A	Kazan, Elia	1951	USA	122	Drama	BW	true
 642	605	596	Memento	Nolan, Christopher	2000	USA	113	Thriller-Mystery-Drama	Col	true
 643	627	673	Europa '51	Rossellini, Roberto	1952	Italy	113	Drama	BW	false
@@ -689,14 +689,14 @@ Pos	2019	2018	Title	Director	Year	Country	Length	Genre	Colour	Seen
 688	665	653	Mr. Smith Goes to Washington	Capra, Frank	1939	USA	129	Political-Drama	BW	true
 689	702	0	Audition	Miike, Takashi	1999	Japan-South Korea	115	Thriller-Horror-Drama	Col	false
 690	670	714	My Friend Ivan Lapshin	German, Aleksey	1985	USSR	100	Drama	Col-BW	false
-691	708	671	Crash	Cronenberg, David	1996	Canada	100	Drama	Col	false
+691	708	671	Crash	Cronenberg, David	1996	Canada	100	Drama	Col	true
 692	739	693	Golden Coach, The	Renoir, Jean	1952	Italy-France	100	Drama-Comedy-Romance	Col	false
 693	722	723	Saving Private Ryan	Spielberg, Steven	1998	USA	169	War-Drama-Action	Col	true
 694	695	684	W.R.: Mysteries of the Organism	Makavejev, Dusan	1971	Yugoslavia	84	Drama-Comedy-Fantasy	Col	false
 695	792	799	Dumbo	Sharpsteen, Ben	1941	USA	64	Musical-Family-Animated	Col	true
 696	652	624	Strike	Eisenstein, Sergei	1925	USSR	73	History-Drama-Political	BW	true
 697	649	614	Foolish Wives	von Stroheim, Erich	1922	USA	117	Drama	BW	false
-698	731	719	L.A. Confidential	Hanson, Curtis	1997	USA	137	Thriller-Crime	Col	false
+698	731	719	L.A. Confidential	Hanson, Curtis	1997	USA	137	Thriller-Crime	Col	true
 699	717	721	Piano Teacher, The	Haneke, Michael	2001	Austria-France-Germany	130	Drama	Col	false
 700	741	738	Circus, The	Chaplin, Charles	1928	USA	72	Drama-Comedy-Family	BW	true
 701	696	711	Casque d'or	Becker, Jacques	1952	France	96	Romance-Drama-Crime	BW	false
@@ -741,7 +741,7 @@ Pos	2019	2018	Title	Director	Year	Country	Length	Genre	Colour	Seen
 740	785	809	Pickup on South Street	Fuller, Samuel	1953	USA	80	Spy-Crime	BW	false
 741	684	740	Blow Out	De Palma, Brian	1981	USA	107	Thriller-Mystery	Col	false
 742	751	722	Saturday Night and Sunday Morning	Reisz, Karel	1960	UK	89	Drama-Romance	BW	false
-743	807	796	New World, The	Malick, Terrence	2005	USA	135	Drama-History-Romance	Col	false
+743	807	796	New World, The	Malick, Terrence	2005	USA	135	Drama-History-Romance	Col	true
 744	703	777	Grido, Il	Antonioni, Michelangelo	1957	Italy	111	Drama	BW	false
 745	794	801	We All Loved Each Other So Much	Scola, Ettore	1974	Italy	124	Comedy	Col	false
 746	0	685	Superman	Donner, Richard	1978	USA	143	Science Fiction-Action-Adventure	Col	false
@@ -791,7 +791,7 @@ Pos	2019	2018	Title	Director	Year	Country	Length	Genre	Colour	Seen
 790	747	729	Trial, The	Welles, Orson	1962	France-West Germany-Italy	118	Drama-Fantasy-Thriller	BW	false
 791	732	776	Princess Bride, The	Reiner, Rob	1987	USA	98	Comedy-Family-Adventure	Col	true
 792	828	802	Spione	Lang, Fritz	1928	Germany	90	Thriller-Spy	BW	false
-793	842	842	Two English Girls	Truffaut, François	1971	France	108	Drama	Col	false
+793	842	842	Two English Girls	Truffaut, François	1971	France	108	Drama	Col	true
 794	818	815	Million Dollar Baby	Eastwood, Clint	2004	USA	137	Drama	Col	true
 795	769	725	Maîtres fous, Les	Rouch, Jean	1955	France	36	Documentary-Short	Col	true
 796	799	979	Bandido da Luz Vermelha, O	Sganzerla, Rogério	1968	Brazil	92	Thriller-Crime	BW	false
@@ -831,7 +831,7 @@ Pos	2019	2018	Title	Director	Year	Country	Length	Genre	Colour	Seen
 830	773	825	New York, New York	Scorsese, Martin	1977	USA	164	Musical	Col	true
 831	802	774	Morocco	von Sternberg, Josef	1930	USA	92	War-Romance-Drama	BW	false
 832	787	743	It's a Gift	McLeod, Norman Z.	1934	USA	73	Comedy	BW	false
-833	759	768	Black Girl	Sembene, Ousmane	1966	Senegal-France	65	Drama	BW	false
+833	759	768	Black Girl	Sembene, Ousmane	1966	Senegal-France	65	Drama	BW	true
 834	0	0	Lessons of Darkness	Herzog, Werner	1992	France-UK-Germany	50	Documentary-Science Fiction-War	Col	false
 835	983	0	Diary	Perlov, David	1983	Israel	330	Documentary	Col-BW	false
 836	830	841	Central Station	Salles, Walter	1998	Brazil-France-Spain-Japan	110	Drama	Col	false
@@ -896,7 +896,7 @@ Pos	2019	2018	Title	Director	Year	Country	Length	Genre	Colour	Seen
 895	884	927	Moi, un Noir	Rouch, Jean	1958	France	70	Drama	Col	false
 896	910	888	Criminal Life of Archibaldo de la Cruz, The	Buñuel, Luis	1955	Mexico	91	Drama-Crime	BW	false
 897	885	871	Trou, Le	Becker, Jacques	1960	France-Italy	140	Drama-Crime	BW	false
-898	867	874	Incredible Shrinking Man, The	Arnold, Jack	1957	USA	81	Science Fiction	BW	false
+898	867	874	Incredible Shrinking Man, The	Arnold, Jack	1957	USA	81	Science Fiction	BW	true
 899	907	899	Mon oncle d'Amérique	Resnais, Alain	1980	France	123	Drama-Comedy	Col	false
 900	844	823	42nd Street	Bacon, Lloyd	1933	USA	89	Musical-Dance-Comedy	BW	true
 901	912	885	Ed Wood	Burton, Tim	1994	USA	124	Drama-Comedy-Biography	BW	true
@@ -952,7 +952,7 @@ Pos	2019	2018	Title	Director	Year	Country	Length	Genre	Colour	Seen
 951	863	852	3 Women	Altman, Robert	1977	USA	125	Drama	Col	false
 952	892	889	Lord of the Rings: The Return of the King, The	Jackson, Peter	2003	New Zealand-USA	201	Fantasy-Adventure-Action	Col	true
 953	924	911	Ballad of Narayama, The	Imamura, Shohei	1983	Japan	130	Drama	Col	false
-954	995	0	Carnival of Souls	Harvey, Herk	1962	USA	80	Horror	BW	false
+954	995	0	Carnival of Souls	Harvey, Herk	1962	USA	80	Horror	BW	true
 955	967	933	Duel in the Sun	Vidor, King	1946	USA	130	Western	Col	false
 956	989	995	In Praise of Love	Godard, Jean-Luc	2001	France	97	Drama	Col-BW	false
 957	938	0	Strangers When We Meet	Quine, Richard	1960	USA	117	Drama-Romance	Col	false
@@ -976,7 +976,7 @@ Pos	2019	2018	Title	Director	Year	Country	Length	Genre	Colour	Seen
 975	906	0	Stroszek	Herzog, Werner	1977	West Germany	115	Drama-Comedy	Col	false
 976	895	879	47 Ronin, The	Mizoguchi, Kenji	1941	Japan	219	History-Action-Drama	BW	true
 977	902	892	Simon of the Desert	Buñuel, Luis	1965	Mexico	43	Short-Drama-Comedy	BW	true
-978	928	873	Henry V	Olivier, Laurence	1944	UK	137	War-Drama-History	Col	false
+978	928	873	Henry V	Olivier, Laurence	1944	UK	137	War-Drama-History	Col	true
 979	998	964	Saragossa Manuscript, The	Has, Wojciech	1965	Poland	182	Drama-Mystery-Fantasy	BW	false
 980	946	0	Stand by Me	Reiner, Rob	1986	USA	87	Comedy	Col	true
 981	909	882	Not Reconciled	Straub, Jean-Marie	1965	West Germany	51	Drama	BW	false
@@ -990,7 +990,7 @@ Pos	2019	2018	Title	Director	Year	Country	Length	Genre	Colour	Seen
 989	914	946	Chikamatsu monogatari	Mizoguchi, Kenji	1954	Japan	100	Drama-Romance	BW	false
 990	934	947	Subarnarekha	Ghatak, Ritwik	1965	India	143	Drama	BW	false
 991	981	949	Häxan	Christensen, Benjamin	1922	Sweden	83	Documentary-Horror	BW	true
-992	964	915	Holiday	Cukor, George	1938	USA	93	Comedy	BW	false
+992	964	915	Holiday	Cukor, George	1938	USA	93	Comedy	BW	true
 993	990	936	Diary for Timothy, A	Jennings, Humphrey	1945	UK	40	Documentary-Short	BW	false
 994	965	940	Man Who Fell to Earth, The	Roeg, Nicolas	1976	UK	140	Science Fiction-Drama	Col	true
 995	962	954	Loneliness of the Long Distance Runner, The	Richardson, Tony	1962	UK	103	Drama-Sport	BW	false

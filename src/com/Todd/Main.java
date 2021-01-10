@@ -11,6 +11,7 @@ public class Main {
     public static void main(String[] args) {
         //this holds the csv file location
 	    String fileName = "1000GreatestFilms.csv";
+	    //String fileName = "21stCenturyFilms.csv";
 	    String line;
 	    String splitBy = ",(?=(?:[^\\\"]*\\\"[^\\\"]*\\\")*[^\\\"]*$)";
 	    int lineCount = 0;
@@ -68,8 +69,8 @@ public class Main {
         System.out.println("Random movie " + analysis.randomMovie().toString());
 
         Random random = new Random();
-        int firstYear = random.nextInt(2015-1902) + 1902;
-        int secondYear = random.nextInt(2015-firstYear) + firstYear;
+        int firstYear = random.nextInt(2019-1902) + 1902;
+        int secondYear = random.nextInt(2019-firstYear) + firstYear;
         System.out.println("Number of films between " + firstYear + " and " + secondYear + " is " + analysis.numberOfFilmsInbetweenYears(firstYear, secondYear));
 
         //MachineLearning machineLearning = new MachineLearning(filmArrayList);
@@ -78,8 +79,8 @@ public class Main {
         System.out.println("Average length of seen movies " + analysis.averageFilmLength(true));
         System.out.println("Average length of unseen movies " + analysis.averageFilmLength(false));
 
-        System.out.println("Percentage of films seen " + analysis.percentageSeenUnseen(true));
-        System.out.println("Percentage of films seen by length " + analysis.percentageSeenUnseenByFilmLength(true));
+        System.out.println("Percentage of films seen " + analysis.percentageSeenUnseen(true) * 100);
+        System.out.println("Percentage of films seen by length " + analysis.percentageSeenUnseenByFilmLength(true) * 100);
 
         System.out.println("Median length of seen movies " + analysis.medianLength(true));
         System.out.println("Median length of unseen movies " + analysis.medianLength(false));

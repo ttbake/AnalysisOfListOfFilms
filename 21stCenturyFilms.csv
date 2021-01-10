@@ -1,0 +1,1001 @@
+Pos,2019,2018,Title,Director,Year,Country,Mins,Col,Genre,Seen
+1,1,1,In the Mood for Love,Wong Kar-wai,2000,Hong Kong-France,97,Col,Romance-Drama,X
+2,2,2,Mulholland Dr.,"Lynch, David",2001,France-USA,147,Col,Mystery-Drama-Thriller,X
+3,3,3,Yi yi,"Yang, Edward",2000,Taiwan-Japan,173,Col,Drama,X
+4,4,4,There Will Be Blood,"Anderson, Paul Thomas",2007,USA,158,Col,Drama,X
+5,6,7,"Tree of Life, The","Malick, Terrence",2011,USA,139,Col,Drama,X
+6,7,8,Spirited Away,"Miyazaki, Hayao",2001,Japan,124,Col,Animated-Adventure-Fantasy,
+7,5,5,Eternal Sunshine of the Spotless Mind,"Gondry, Michel",2004,USA,108,Col,Romance-Drama-Comedy,X
+8,8,6,Caché,"Haneke, Michael",2005,France-Austria-Germany-Italy-USA,117,Col,Thriller-Drama,X
+9,9,9,Tropical Malady,"Weerasethakul, Apichatpong",2004,Thailand-France-Germany-Italy,118,Col,Drama-Fantasy-Romance,
+10,23,23,Uncle Boonmee Who Can Recall His Past Lives,"Weerasethakul, Apichatpong",2010,Thailand-UK-France-Germany-Spain-Netherlands,113,Col,Drama-Fantasy,
+11,17,22,"Separation, A","Farhadi, Asghar",2011,Iran,123,Col,Drama,X
+12,11,13,Lost in Translation,"Coppola, Sofia",2003,USA-Japan,102,Col,Romance-Drama-Comedy,X
+13,59,62,Holy Motors,"Carax, Leos",2012,France-Germany,115,Col,Drama-Fantasy,
+14,24,24,"Turin Horse, The","Tarr, Béla",2011,Hungary-France-Germany-Switzerland-USA,146,BW,Drama,
+15,10,12,City of God,"Meirelles, Fernando & Kátia Lund",2002,Brazil-Germany-France,129,Col,Drama-Crime-Action,X
+16,49,75,Mad Max: Fury Road,"Miller, George",2015,Australia-USA,120,Col,Action-Adventure-Science Fiction,X
+17,12,10,Brokeback Mountain,"Lee, Ang",2005,USA-Canada,134,Col,Romance-Drama,X
+18,14,17,"Crouching Tiger, Hidden Dragon","Lee, Ang",2000,Taiwan-Hong Kong-USA-China,120,Col,Drama-Adventure-Action,X
+19,40,42,Boyhood,"Linklater, Richard",2014,USA,165,Col,Drama,X
+20,13,11,WALL-E,"Stanton, Andrew",2008,USA,98,Col,Animated-Adventure-Science Fiction,X
+21,38,34,"Social Network, The","Fincher, David",2010,USA,120,Col,Biography-Drama-History,X
+22,18,19,Talk to Her,"Almodóvar, Pedro",2002,Spain,112,Col,Romance-Drama,X
+23,15,15,Dogville,"von Trier, Lars",2003,Denmark-Sweden-France-UK-Germany-Finland-Italy-Netherlands-Norway,177,Col,Drama,X
+24,32,28,Melancholia [2011],"von Trier, Lars",2011,Denmark-Sweden-France-Germany,136,Col,Drama-Science Fiction,X
+25,56,78,Under the Skin [2013],"Glazer, Jonathan",2013,UK-USA-Switzerland,108,Col,Drama-Science Fiction-Thriller,X
+26,45,45,Amour,"Haneke, Michael",2012,Austria-France-Germany,127,Col,Romance-Drama,
+27,29,26,Tie Xi Qu: West of the Tracks,Wang Bing,2003,China,551,Col,Documentary,
+28,75,89,Moonlight,"Jenkins, Barry",2016,USA,111,Col,Drama,X
+29,16,14,Russian Ark,"Sokurov, Aleksandr",2002,Russia-Germany-Japan-Canada-Finland-Denmark,96,Col,Fantasy-Drama,
+30,19,18,"White Ribbon, The","Haneke, Michael",2009,Germany-Austria-France-Italy,144,BW,Crime-Drama-Mystery,
+31,20,20,"Death of Mr. Lazarescu, The","Puiu, Cristi",2005,Romania,154,Col,Drama,
+32,25,21,No Country for Old Men,"Coen, Joel & Ethan Coen",2007,USA,122,Col,Crime-Drama,X
+33,26,38,Platform,Jia Zhangke,2000,China-Hong Kong-Japan-France,154,Col,Drama-History,
+34,22,25,Punch-Drunk Love,"Anderson, Paul Thomas",2002,USA,95,Col,Romance-Drama-Comedy,X
+35,54,52,"Act of Killing, The","Oppenheimer, Joshua",2012,Denmark-Norway-UK-Finland,115,Col,Documentary-Crime-History,X
+36,102,96,Toni Erdmann,"Ade, Maren",2016,Germany-Austria-Switzerland-Romania,162,Col,Comedy-Drama,
+37,21,16,Werckmeister Harmonies,"Tarr, Béla",2000,Hungary-Germany-France-Switzerland-Italy,145,BW,Drama,
+38,28,27,"Gleaners & I, The","Varda, Agnès",2000,France,82,Col,Documentary,X
+39,27,29,Elephant,"Van Sant, Gus",2003,USA,81,Col,Drama,
+40,30,30,Pan's Labyrinth,"del Toro, Guillermo",2006,Spain-Mexico-USA,120,Col,Drama-Fantasy-Thriller,X
+41,35,33,Grizzly Man,"Herzog, Werner",2005,USA,103,Col,Documentary,X
+42,34,31,Before Sunset,"Linklater, Richard",2004,USA,80,Col,Romance-Drama,X
+43,37,37,Inland Empire,"Lynch, David",2006,USA-France-Poland,180,Col,Drama-Mystery-Thriller,
+44,36,35,"History of Violence, A","Cronenberg, David",2005,USA-Germany,96,Col,Crime-Drama-Mystery,X
+45,33,39,"4 Months, 3 Weeks and 2 Days","Mungiu, Cristian",2007,Romania-Netherlands-France-Germany,113,Col,Drama,
+46,43,40,Zodiac,"Fincher, David",2007,USA,158,Col,Crime-Drama-Thriller,X
+47,51,49,"Hurt Locker, The","Bigelow, Kathryn",2008,USA,130,Col,Action-Drama-War,X
+48,88,94,"Master, The","Anderson, Paul Thomas",2012,USA,144,Col,Drama,X
+49,31,32,"Lives of Others, The","von Donnersmarck, Florian Henckel",2006,Germany,138,Col,Drama,
+50,39,41,A.I. Artificial Intelligence,"Spielberg, Steven",2001,USA,145,Col,Science Fiction-Drama,X
+51,42,46,"Royal Tenenbaums, The","Anderson, Wes",2001,USA,109,Col,Drama-Comedy,X
+52,60,64,Still Life [2006],Jia Zhangke,2006,China-Hong Kong,113,Col,Drama-Romance,
+53,108,121,Inside Llewyn Davis,"Coen, Joel & Ethan Coen",2013,USA-UK-France,104,Col,Drama-Musical,X
+54,41,43,Y tu mamá también,"Cuarón, Alfonso",2001,Mexico,105,Col,Drama-Comedy,
+55,47,48,Colossal Youth,"Costa, Pedro",2006,France-Portugal-Switzerland,155,Col,Drama,X
+56,50,47,Silent Light,"Reygadas, Carlos",2007,Mexico-France-Netherlands,136,Col,Drama,
+57,44,36,Sideways,"Payne, Alexander",2004,USA,123,Col,Drama-Comedy,
+58,52,53,Children of Men,"Cuarón, Alfonso",2006,USA-UK,109,Col,Drama-Science Fiction-Thriller,X
+59,73,74,Once Upon a Time in Anatolia,"Ceylan, Nuri Bilge",2011,Turkey-Bosnia and Herzergovina,150,Col,Crime-Drama,
+60,48,51,Oldboy,Park Chan-wook,2003,South Korea,120,Col,Action-Mystery-Thriller,X
+61,239,563,Zama,"Martel, Lucrecia",2017,Argentina-Brazil-Spain-Dominican Republic-France-Netherlands-Mexico-Switzerland-USA-Portugal-Lebanon,115,Col,Drama,
+62,53,57,Syndromes and a Century,"Weerasethakul, Apichatpong",2006,Thailand-France-Austria-Netherlands,105,Col,Drama,
+63,46,44,Memento,"Nolan, Christopher",2000,USA,113,Col,Thriller-Mystery-Drama,X
+64,58,55,Amélie,"Jeunet, Jean-Pierre",2001,France-Germany,122,Col,Romance-Comedy,X
+65,92,92,Tabu [2012],"Gomes, Miguel",2012,Portugal-Germany-Brazil-France,118,BW,Drama-Romance,
+66,84,85,Carol,"Haynes, Todd",2015,UK-USA,118,Col,Drama-Romance,X
+67,57,63,Songs from the Second Floor,"Andersson, Roy",2000,Sweden-France-Denmark-Norway-Germany,98,Col,Drama,
+68,71,67,"Headless Woman, The","Martel, Lucrecia",2008,Argentina-Spain-France-Italy,87,Col,Drama-Mystery-Thriller,
+69,---,---,Parasite,Bong Joon-ho,2019,South Korea,132,Col,Comedy-Drama-Thriller,X
+70,64,72,Let the Right One In,"Alfredson, Tomas",2008,Sweden-Norway,114,Col,Drama-Horror-Romance,
+71,81,71,Nostalgia for the Light,"Guzmán, Patricio",2010,France-Germany-Chile-Spain-USA,90,Col,Documentary-Drama,
+72,62,54,Million Dollar Baby,"Eastwood, Clint",2004,USA,137,Col,Drama,X
+73,63,59,"Goodbye, Dragon Inn",Tsai Ming-liang,2003,Taiwan,82,Col,Drama-Comedy,
+74,76,68,"Son, The","Dardenne, Jean-Pierre & Luc Dardenne",2002,Belgium-France,103,Col,Drama,
+75,61,56,Far from Heaven,"Haynes, Todd",2002,USA-France,107,Col,Romance-Drama,
+76,55,50,Dancer in the Dark,"von Trier, Lars",2000,Denmark-France-Sweden-Italy-Germany-Norway-Netherlands-Iceland-Finland-UK-USA,140,Col,Musical-Drama,X
+77,65,69,"Dark Knight, The","Nolan, Christopher",2008,USA-UK,152,Col,Action-Crime-Thriller,X
+78,126,117,Get Out,"Peele, Jordan",2017,USA,104,Col,Horror-Mystery,X
+79,67,58,"Synecdoche, New York","Kaufman, Charlie",2008,USA,124,Col,Drama,
+80,147,144,Goodbye to Language,"Godard, Jean-Luc",2014,Switzerland-France,70,Col,Drama,
+81,72,84,"Prophet, A","Audiard, Jacques",2009,France-Italy,155,Col,Drama-Crime,
+82,120,123,Certified Copy,"Kiarostami, Abbas",2010,France-Italy-Belgium-Iran,106,Col,Drama,
+83,104,105,Leviathan [2012],"Castaing-Taylor, Lucien & Verena Paravel",2012,France-UK-USA,87,Col,Documentary,
+84,129,---,Roma,"Cuarón, Alfonso",2018,Mexico-USA,135,BW,Drama,X
+85,107,118,"Ciénaga, La","Martel, Lucrecia",2001,Argentina-France-Spain,103,Col,Drama-Comedy,
+86,229,417,Phantom Thread,"Anderson, Paul Thomas",2017,USA,130,Col,Drama-Romance,X
+87,82,83,Distant,"Ceylan, Nuri Bilge",2002,Turkey-Netherlands,110,Col,Drama,
+88,68,65,In Vanda's Room,"Costa, Pedro",2000,Portugal-Germany-Switzerland-Italy,170,Col,Drama,
+89,79,76,Hunger [2008],"McQueen, Steve",2008,UK-Ireland,96,Col,Drama-History,
+90,97,101,"Grand Budapest Hotel, The","Anderson, Wes",2014,USA-Germany,100,Col-BW,Comedy,X
+91,83,80,Inglourious Basterds,"Tarantino, Quentin",2009,USA-Germany,153,Col,Action-Drama-War,X
+92,74,73,Blissfully Yours,"Weerasethakul, Apichatpong",2002,Thailand-France,125,Col,Romance-Drama,
+93,80,79,"Piano Teacher, The","Haneke, Michael",2001,Austria-France-Germany,130,Col,Drama,
+94,66,61,"Lord of the Rings: The Fellowship of the Ring, The","Jackson, Peter",2001,New Zealand-USA,178,Col,Fantasy-Adventure,X
+95,86,95,Toy Story 3,"Unkrich, Lee",2010,USA,103,Col,Animated-Adventure-Comedy,X
+96,70,66,Moulin Rouge!,"Luhrmann, Baz",2001,Australia-USA,126,Col,Drama-Musical-Romance,X
+97,69,60,Requiem for a Dream,"Aronofsky, Darren",2000,USA,100,Col,Drama,X
+98,78,77,2046,Wong Kar-wai,2004,Hong Kong-China-France-Italy-Germany,129,Col-BW,Science Fiction-Drama-Romance,
+99,171,184,Margaret,"Lonergan, Kenneth",2011,USA,150,Col,Drama,
+100,94,90,"New World, The","Malick, Terrence",2005,USA,135,Col,Drama-History-Romance,
+101,89,98,"Host, The",Bong Joon-ho,2006,South Korea-Japan,119,Col,Action-Comedy-Horror,X
+102,77,70,"Lord of the Rings: The Return of the King, The","Jackson, Peter",2003,New Zealand-USA,201,Col,Fantasy-Adventure-Action,X
+103,210,200,"Assassin, The",Hou Hsiao-hsien,2015,Taiwan-China-Hong Kong-France,105,Col-BW,Action-Drama,
+104,158,162,Mysteries of Lisbon,"Ruiz, Raúl",2010,Portugal-France,272,Col,Drama-Mystery,
+105,106,110,Irréversible,"Noé, Gaspar",2002,France,97,Col,Crime-Drama-Horror,
+106,91,87,Up,"Docter, Pete",2009,USA,96,Col,Animated-Adventure-Comedy,X
+107,100,100,"World, The",Jia Zhangke,2004,China-Japan-France,140,Col,Drama,
+108,114,130,Her,"Jonze, Spike",2013,USA,126,Col,Comedy-Drama-Romance,X
+109,95,91,Amores perros,"González Iñárritu, Alejandro",2000,Mexico,153,Col,Drama,
+110,90,81,Mystic River,"Eastwood, Clint",2003,USA-Australia,137,Col,Mystery-Drama-Crime,
+111,93,88,"Incredibles, The","Bird, Brad",2004,USA,121,Col-BW,Family-Animated-Adventure,X
+112,122,119,12 Years a Slave,"McQueen, Steve",2013,USA-UK,134,Col,Biography-Drama-History,X
+113,199,202,Stories We Tell,"Polley, Sarah",2012,Canada,108,Col,Documentary,X
+114,99,106,Avatar,"Cameron, James",2009,USA-UK,161,Col,Action-Science Fiction-Adventure,X
+115,193,226,"Wolf of Wall Street, The","Scorsese, Martin",2013,USA,180,Col,Biography-Comedy-Crime,X
+116,237,---,Burning,Lee Chang-dong,2018,South Korea,148,Col,Drama-Mystery,
+117,101,99,Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan,"Charles, Larry",2006,USA-UK,84,Col,Comedy,X
+118,162,151,Ida,"Pawlikowski, Pawel",2013,Poland-Denmark,80,Col,Drama,X
+119,85,82,Finding Nemo,"Stanton, Andrew & Lee Unkrich",2003,USA,100,Col,Family-Animated-Adventure,X
+120,133,136,Zero Dark Thirty,"Bigelow, Kathryn",2012,USA,157,Col,Thriller-Drama-History,X
+121,123,127,Winter's Bone,"Granik, Debra",2010,USA,100,Col,Drama-Mystery-Thriller,
+122,110,126,Shaun of the Dead,"Wright, Edgar",2004,UK-USA-France,99,Col,Action-Comedy-Horror,X
+123,98,102,Waltz with Bashir,"Folman, Ari",2008,Israel-France-Germany-USA-Japan-Finland-Switzerland-Belgium-Australia,90,Col,Animated-Biography-Documentary,X
+124,87,86,Donnie Darko,"Kelly, Richard",2001,USA,112,Col,Fantasy-Drama,X
+125,---,---,"Irishman, The","Scorsese, Martin",2019,USA,209,Col,Biography-Crime-Drama,X
+126,202,253,Stranger by the Lake,"Guiraudie, Alain",2013,France,100,Col,Drama-Thriller,
+127,112,112,Atanarjuat: The Fast Runner,"Kunuk, Zacharias",2001,Canada,172,Col,Drama,
+128,113,113,35 Shots of Rum,"Denis, Claire",2008,France-Germany,101,Col,Drama,
+129,149,173,Inception,"Nolan, Christopher",2010,USA-UK,148,Col,Action-Mystery-Science Fiction,X
+130,161,185,This is Not a Film,"Panahi, Jafar & Mojtaba Mirtahmasb",2011,Iran,75,Col,Documentary,
+131,146,159,Gravity,"Cuarón, Alfonso",2013,USA-UK,91,Col,Drama-Science Fiction-Thriller,X
+132,---,---,Once Upon a Time... in Hollywood,"Tarantino, Quentin",2019,USA-UK-China,161,Col-BW,Comedy-Drama,X
+133,135,134,Blue is the Warmest Colour,"Kechiche, Abdellatif",2013,France-Belgium-Spain,179,Col,Drama-Romance,
+134,105,97,Adaptation.,"Jonze, Spike",2002,USA,114,Col,Comedy,X
+135,103,107,Kill Bill Vol. 1,"Tarantino, Quentin",2003,USA,111,Col-BW,Crime-Action,X
+136,145,133,My Winnipeg,"Maddin, Guy",2007,Canada-USA,80,Col-BW,Drama,
+137,388,343,Horse Money,"Costa, Pedro",2014,Portugal,103,Col,Drama,
+138,143,193,La La Land,"Chazelle, Damien",2016,USA,128,Col,Comedy-Drama-Musical,X
+139,127,120,Moolaadé,"Sembene, Ousmane",2004,Senegal-Burkina Faso-Morocco-Tunisia-Cameroon-Switzerland-Germany,120,Col,Drama,
+140,212,240,Lady Bird,"Gerwig, Greta",2017,USA,94,Col,Comedy-Drama,X
+141,124,114,Memories of Murder,Bong Joon-ho,2003,South Korea,132,Col,Crime-Drama-Mystery,
+142,116,103,"Enfant, L'","Dardenne, Jean-Pierre & Luc Dardenne",2005,Belgium-France,95,Col,Drama,
+143,96,93,"Departed, The","Scorsese, Martin",2006,USA-Hong Kong,152,Col,Crime-Drama-Thriller,X
+144,125,115,"Intruder, The","Denis, Claire",2004,France-South Korea,130,Col,Drama,
+145,128,135,Ten,"Kiarostami, Abbas",2002,France-Iran,92,Col,Drama,
+146,150,131,Café Lumière,Hou Hsiao-hsien,2003,Japan-Taiwan,108,Col,Drama,
+147,111,104,Capturing the Friedmans,"Jarecki, Andrew",2003,USA,107,Col,Documentary-Crime,
+148,109,132,"Diving Bell and the Butterfly, The","Schnabel, Julian",2007,France-USA,112,Col,Biography-Drama,
+149,140,141,"Holy Girl, The","Martel, Lucrecia",2004,Argentina-Italy-Netherlands-Spain,106,Col,Drama,
+150,185,182,Saraband,"Bergman, Ingmar",2003,Sweden-Denmark-Norway-Italy-Finland-Germany-Austria,120,Col,Drama,
+151,178,183,Call Me by Your Name,"Guadagnino, Luca",2017,Italy-France-Brazil-USA,132,Col,Drama-Romance,X
+152,130,146,Moonrise Kingdom,"Anderson, Wes",2012,USA,94,Col,Comedy-Drama-Romance,X
+153,195,250,Fish Tank,"Arnold, Andrea",2009,UK,123,Col,Drama,
+154,119,122,Code Unknown,"Haneke, Michael",2000,France-Germany-Romania,118,Col,Drama,
+155,191,197,Inside Out,"Docter, Pete & Ronaldo Del Carmen",2015,USA,94,Col,Animated-Comedy-Adventure,X
+156,118,108,"Pianist, The","Polanski, Roman",2002,France-Poland-Germany-UK-Netherlands,148,Col,War-Drama,
+157,163,174,Manchester by the Sea,"Lonergan, Kenneth",2016,USA,137,Col,Drama,X
+158,176,180,Wendy and Lucy,"Reichardt, Kelly",2008,USA,80,Col,Drama,
+159,153,137,White Material,"Denis, Claire",2009,France-Cameroon,100,Col,Drama,
+160,138,125,"Commune (Paris, 1871), La","Watkins, Peter",2000,France,345,BW,Drama-History,
+161,117,111,Man on Wire,"Marsh, James",2008,UK-USA,94,Col,Documentary-Biography,X
+162,134,116,Volver,"Almodóvar, Pedro",2006,Spain,121,Col,Comedy-Drama,
+163,238,241,Poetry,Lee Chang-dong,2010,South Korea,139,Col,Drama,
+164,115,109,Ghost World,"Zwigoff, Terry",2001,USA-UK-Germany,111,Col,Drama-Comedy,X
+165,141,161,Waking Life,"Linklater, Richard",2001,USA,100,Col,Fantasy-Animated,
+166,159,156,In Praise of Love,"Godard, Jean-Luc",2001,France,97,Col-BW,Drama,
+167,136,138,In the City of Sylvia,"Guerín, José Luis",2007,Spain-France,84,Col,Drama,
+168,179,189,Fat Girl,"Breillat, Catherine",2001,France-Italy,86,Col,Drama,
+169,121,124,"Assassination of Jesse James by the Coward Robert Ford, The","Dominik, Andrew",2007,USA-Canada-UK,160,Col,Western-Biography-Drama,
+170,132,155,Hero [2002],Zhang Yimou,2002,China-Hong Kong,99,Col,Drama-Action,
+171,131,129,"Lord of the Rings: The Two Towers, The","Jackson, Peter",2002,New Zealand-USA,179,Col,Fantasy-Adventure,X
+172,177,178,Kung Fu Hustle,"Chow, Stephen",2004,Hong Kong-China,98,Col,Action-Comedy-Crime,X
+173,152,147,Letters from Iwo Jima,"Eastwood, Clint",2006,USA,140,Col,Drama-History-War,
+174,139,145,Fantastic Mr. Fox,"Anderson, Wes",2009,USA,87,Col,Animated-Adventure-Comedy,X
+175,247,247,Son of Saul,"Nemes, László",2015,Hungary,107,Col,Drama-War-Thriller,
+176,187,181,"Great Beauty, The","Sorrentino, Paolo",2013,Italy-France,141,Col,Drama-Comedy,
+177,154,150,Black Swan,"Aronofsky, Darren",2010,USA,108,Col,Drama-Thriller,X
+178,203,216,Weekend [2011],"Haigh, Andrew",2011,UK,97,Col,Drama-Romance,
+179,142,160,As I Was Moving Ahead Occasionally I Saw Brief Glimpses of Beauty,"Mekas, Jonas",2000,USA,288,Col,Documentary-Biography,
+180,144,139,"Serious Man, A","Coen, Joel & Ethan Coen",2009,USA-UK-France,105,Col,Comedy-Drama,X
+181,156,152,I'm Not There,"Haynes, Todd",2007,USA-Germany-Canada,135,Col-BW,Biography-Drama-Musical,
+182,137,128,Head-On,"Akin, Fatih",2004,Germany-Turkey,121,Col,Romance-Drama,
+183,160,148,"Man Without a Past, The","Kaurismäki, Aki",2002,Finland-Germany-France,97,Col,Romance-Drama-Comedy,
+184,168,176,Persepolis,"Paronnaud, Vincent & Marjane Satrapi",2007,France-USA,96,Col-BW,Animated-Biography-Drama,
+185,165,153,"Fog of War, The","Morris, Errol",2003,USA,107,Col,Documentary,
+186,289,455,"Babadook, The","Kent, Jennifer",2014,Australia,93,Col,Drama-Horror-Thriller,X
+187,231,243,Morvern Callar,"Ramsay, Lynne",2002,UK-Canada,97,Col,Drama,
+188,164,169,Gladiator [2000],"Scott, Ridley",2000,USA-UK,154,Col,Drama-Action,X
+189,207,227,Before Midnight,"Linklater, Richard",2013,USA,109,Col,Drama-Romance,
+190,258,270,We Need to Talk About Kevin,"Ramsay, Lynne",2011,UK-USA,112,Col,Drama-Thriller,X
+191,232,268,Meek's Cutoff,"Reichardt, Kelly",2010,USA,104,Col,Western,
+192,151,142,"Return, The","Zvyagintsev, Andrey",2003,Russia,110,Col,Drama,
+193,---,---,Portrait of a Lady on Fire,"Sciamma, Céline",2019,France,121,Col,Drama-Romance,
+194,157,163,Kill Bill Vol. 2,"Tarantino, Quentin",2004,USA-China,136,Col-BW,Thriller-Drama-Action,X
+195,507,466,No Home Movie,"Akerman, Chantal",2015,Belgium-France,115,Col,Documentary,
+196,181,168,"Havre, Le","Kaurismäki, Aki",2011,Finland-France-Germany,93,Col,Comedy-Drama,
+197,148,140,American Splendor,"Pulcini, Robert & Shari Springer Berman",2003,USA,101,Col,Drama,
+198,172,157,"Christmas Tale, A","Desplechin, Arnaud",2008,France,153,Col,Comedy-Drama,
+199,233,245,"Arbor, The","Barnard, Clio",2010,UK,94,Col,Documentary-Biography,
+200,175,171,"Kids Are All Right, The","Cholodenko, Lisa",2010,USA,106,Col,Comedy-Drama,
+201,282,265,Film socialisme,"Godard, Jean-Luc",2010,Switzerland-France,102,Col,Drama,
+202,173,164,"Spring, Summer, Autumn, Winter… and Spring",Kim Ki-duk,2003,South Korea-Germany,103,Col,Drama,
+203,255,---,First Reformed,"Schrader, Paul",2017,USA,113,Col,Drama-Thriller,X
+204,236,242,Frances Ha,"Baumbach, Noah",2012,USA,86,BW,Comedy-Drama,X
+205,223,201,Elle [2016],"Verhoeven, Paul",2016,France-Germany-Belgium,130,Col,Drama-Thriller,
+206,201,229,Los Angeles Plays Itself,"Andersen, Thom",2003,USA,169,Col-BW,Documentary-History,
+207,208,239,Inherent Vice,"Anderson, Paul Thomas",2014,USA,148,Col,Comedy-Crime-Drama,X
+208,170,165,United 93,"Greengrass, Paul",2006,USA-UK-France,110,Col,Drama-History-Thriller,
+209,219,222,25th Hour,"Lee, Spike",2002,USA,134,Col,Drama-Crime,
+210,214,231,Dogtooth,"Lanthimos, Yorgos",2009,Greece,97,Col,Drama,
+211,167,154,Two Lovers,"Gray, James",2008,USA-France,110,Col,Drama-Romance,
+212,366,318,Certain Women,"Reichardt, Kelly",2016,USA,107,Col,Drama,
+213,284,339,Faces Places,"Varda, Agnès & JR",2017,France,89,Col,Documentary,
+214,259,262,Leviathan [2014],"Zvyagintsev, Andrey",2014,Russia,140,Col,Drama,
+215,---,---,"Souvenir, The","Hogg, Joanna",2019,UK-USA,120,Col,Drama-Mystery-Romance,
+216,183,179,"Circle, The [2000]","Panahi, Jafar",2000,Iran-Italy-Switzerland,90,Col,Drama,
+217,155,143,"Squid and the Whale, The","Baumbach, Noah",2005,USA,80,Col,Drama-Comedy,X
+218,228,238,Exit Through the Gift Shop,Banksy,2010,UK,87,Col,Documentary-Comedy,X
+219,353,328,Timbuktu,"Sissako, Abderrahmane",2014,Mauritania-France,97,Col,Drama,
+220,186,177,What Time is it There?,Tsai Ming-liang,2001,Taiwan-France,116,Col,Drama,
+221,174,158,"Queen, The","Frears, Stephen",2006,UK-France-Italy-USA,103,Col,Biography-Drama,
+222,216,225,Regular Lovers,"Garrel, Philippe",2005,France,183,BW,Drama,
+223,169,166,Hugo,"Scorsese, Martin",2011,USA,126,Col,Adventure-Drama-Family,X
+224,227,212,Carlos,"Assayas, Olivier",2010,France-Germany,334,Col,Biography-Crime-Drama,
+225,184,170,To Be and to Have,"Philibert, Nicolas",2002,France,104,Col,Documentary,
+226,230,204,Three Times,Hou Hsiao-hsien,2005,France-Taiwan,135,Col,Romance-Drama,
+227,293,331,"Handmaiden, The",Park Chan-wook,2016,South Korea,144,Col,Drama-Romance-Thriller,
+228,194,195,"House of Mirth, The","Davies, Terence",2000,UK-USA,140,Col,Romance-Drama,
+229,265,258,Secret Sunshine,Lee Chang-dong,2007,South Korea,142,Col,Comedy-Drama-Romance,
+230,551,493,Cameraperson,"Johnson, Kirsten",2016,USA,102,Col,Documentary,
+231,279,302,Paterson,"Jarmusch, Jim",2016,USA-France-Germany,118,Col,Comedy-Drama-Romance,X
+232,166,149,You Can Count on Me,"Lonergan, Kenneth",2000,USA,110,Col,Drama-Comedy,
+233,218,260,Upstream Color,"Carruth, Shane",2013,USA,96,Col,Drama-Mystery-Science Fiction,
+234,198,191,Bowling for Columbine,"Moore, Michael",2002,USA,120,Col,Documentary-Comedy,
+235,180,219,Together [2000],"Moodysson, Lukas",2000,Sweden-Denmark-Italy,106,Col,Drama-Comedy,
+236,367,---,You Were Never Really Here,"Ramsay, Lynne",2017,UK-France-USA,89,Col-BW,Drama-Mystery-Thriller,X
+237,584,533,Cemetery of Splendour,"Weerasethakul, Apichatpong",2015,Thailand-UK-Germany-France-Malaysia-South Korea-Mexico-USA-Norway,122,Col,Drama-Fantasy,
+238,281,269,Dunkirk,"Nolan, Christopher",2017,UK-Netherlands-France-USA,106,Col,Action-Drama-History,X
+239,240,205,Beasts of the Southern Wild,"Zeitlin, Benh",2012,USA,93,Col,Drama-Fantasy,
+240,316,367,It Follows,"Mitchell, David Robert",2014,USA,100,Col,Horror-Mystery-Thriller,
+241,209,209,Birdman,"González Iñárritu, Alejandro",2014,USA,119,Col,Comedy-Drama,X
+242,190,172,Slumdog Millionaire,"Boyle, Danny",2008,UK,120,Col,Crime-Drama-Romance,
+243,250,252,Only Lovers Left Alive,"Jarmusch, Jim",2013,UK-Germany-France-Greece-Cyprus,123,Col,Drama-Horror-Romance,
+244,188,187,Almost Famous,"Crowe, Cameron",2000,USA,122,Col,Romance-Drama-Comedy,X
+245,204,211,Drive,"Refn, Nicolas Winding",2011,USA,100,Col,Crime-Drama-Thriller,X
+246,352,346,Tangerine,"Baker, Sean",2015,USA,88,Col,Comedy-Drama,X
+247,277,386,Pulse,"Kurosawa, Kiyoshi",2001,Japan,119,Col,Horror,
+248,189,175,Summer Hours,"Assayas, Olivier",2008,France,103,Col,Drama-Family,
+249,211,228,George Washington,"Green, David Gordon",2000,USA,89,Col,Drama,
+250,182,167,"Artist, The","Hazanavicius, Michel",2011,France-Belgium,100,BW,Romance-Comedy-Drama,X
+251,220,208,Flight of the Red Balloon,Hou Hsiao-hsien,2007,France-Taiwan,115,Col,Drama,X
+252,244,217,"Florida Project, The","Baker, Sean",2017,USA,111,Col,Drama,X
+253,196,198,Sexy Beast,"Glazer, Jonathan",2000,UK-Spain-USA,88,Col,Drama-Crime-Comedy,
+254,---,---,Marriage Story [2019],"Baumbach, Noah",2019,USA-UK,136,Col,Comedy-Drama-Romance,X
+255,192,203,"Triplets of Belleville, The","Chomet, Sylvain",2003,France-Canada-Belgium-UK,80,Col,Comedy-Animated-Adventure,
+256,197,190,Kings & Queen,"Desplechin, Arnaud",2004,France,152,Col,Drama-Comedy,
+257,221,199,"Five Obstructions, The","Leth, Jørgen & Lars von Trier",2003,Denmark-Belgium-Switzerland-France-Sweden-Finland-UK-Norway,90,Col-BW,Documentary,
+258,399,---,"Rider, The","Zhao, Chloé",2017,USA,104,Col,Drama-Western,
+259,301,313,"Quattro volte, Le","Frammartino, Michelangelo",2010,Italy-Germany-Switzerland,88,Col,Drama,
+260,213,192,House of Flying Daggers,Zhang Yimou,2004,China-Hong Kong,111,Col,Action-Drama-Romance,
+261,269,249,Another Year [2010],"Leigh, Mike",2010,UK,130,Col,Comedy-Drama,
+262,408,464,American Psycho,"Harron, Mary",2000,USA-Canada,101,Col,Horror-Drama-Comedy,X
+263,482,546,Hard to Be a God,"German, Aleksey",2013,Russia,177,BW,Drama-Science Fiction,
+264,249,224,"Hours, The","Daldry, Stephen",2002,USA,114,Col,Drama,
+265,226,206,Oasis,Lee Chang-dong,2002,South Korea,133,Col,Romance-Drama,
+266,268,251,Paranoid Park,"Van Sant, Gus",2007,France-USA,85,Col,Drama-Crime-Mystery,
+267,206,207,Master and Commander: The Far Side of the World,"Weir, Peter",2003,USA,138,Col,Drama-Adventure-Action,
+268,222,213,Gerry,"Van Sant, Gus",2002,USA,102,Col,Drama,
+269,225,210,"Class, The","Cantet, Laurent",2008,France,128,Col,Drama,
+270,251,220,Whiplash [2014],"Chazelle, Damien",2014,USA,107,Col,Drama-Music,X
+271,217,196,Munich,"Spielberg, Steven",2005,USA-Canada,160,Col,Drama-History-Thriller,
+272,439,399,Twin Peaks: The Return [TV],"Lynch, David",2017,USA,1024,Col-BW,Crime-Drama-Mystery,X
+273,264,280,Notre musique,"Godard, Jean-Luc",2004,France-Switzerland,80,Col,Drama,
+274,262,254,Infernal Affairs,"Lau, Andrew & Alan Mak",2002,Hong Kong,100,Col,Drama-Crime-Thriller,
+275,200,186,"Wrestler, The","Aronofsky, Darren",2008,USA,109,Col,Drama-Sport,
+276,308,301,Shara,"Kawase, Naomi",2003,Japan,100,Col,Drama,
+277,224,284,Trouble Every Day,"Denis, Claire",2001,France-Germany-Japan,101,Col,Horror-Thriller-Drama,
+278,364,481,Arrival,"Villeneuve, Denis",2016,USA,116,Col,Drama-Mystery-Science Fiction,X
+279,314,309,Force Majeure,"Östlund, Ruben",2014,Sweden-France-Norway-Denmark,120,Col,Drama,
+280,339,283,"Touch of Sin, A",Jia Zhangke,2013,China-Japan-France,133,Col,Drama,
+281,327,335,Selma,"DuVernay, Ava",2014,UK-USA,128,Col,Biography-Drama-History,
+282,234,223,Millennium Mambo,Hou Hsiao-hsien,2001,Taiwan-France,119,Col,Drama-Romance,
+283,267,248,Unknown Pleasures,Jia Zhangke,2002,China-Japan-South Korea-France,112,Col,Drama-Comedy,
+284,254,221,Bad Education,"Almodóvar, Pedro",2004,Spain,105,Col,Thriller-Drama,
+285,365,380,Bridesmaids,"Feig, Paul",2011,USA-Japan,125,Col,Comedy,X
+286,377,423,"Immigrant, The [2013]","Gray, James",2013,USA,120,Col,Drama-Romance,
+287,356,369,Spring Breakers,"Korine, Harmony",2012,USA,94,Col,Crime-Drama,
+288,414,405,Whale Rider,"Caro, Niki",2002,New Zealand-Germany,101,Col,Drama-Family,
+289,406,506,"Look of Silence, The","Oppenheimer, Joshua",2014,Denmark-Indonesia-Finland-Norway-UK-Israel-France-USA-Germany-Netherlands,103,Col,Documentary,X
+290,215,194,Time Out,"Cantet, Laurent",2001,France,134,Col,Drama,
+291,241,232,Ratatouille,"Bird, Brad",2007,USA,111,Col,Animated-Comedy-Family,X
+292,272,276,28 Days Later,"Boyle, Danny",2002,UK,113,Col,Thriller-Science Fiction-Horror,X
+293,261,274,Casino Royale [2006],"Campbell, Martin",2006,UK-USA-Czech Republic-Germany,144,Col-BW,Action-Adventure-Thriller,X
+294,205,188,About Schmidt,"Payne, Alexander",2002,USA,125,Col,Drama-Comedy,
+295,296,---,"Favourite, The","Lanthimos, Yorgos",2018,Ireland-UK-USA,119,Col,Biography-Comedy-Drama,X
+296,271,244,Gosford Park,"Altman, Robert",2001,UK-USA-Italy,137,Col,Comedy-Mystery-Drama,
+297,248,236,"Sun, The","Sokurov, Aleksandr",2005,Russia-Italy-France-Switzerland,115,Col,Drama-History,
+298,444,---,Shoplifters,"Koreeda, Hirokazu",2018,Japan,121,Col,Crime-Drama,
+299,280,255,"Police, Adjective","Porumboiu, Corneliu",2009,Romania,115,Col,Comedy-Crime-Drama,
+300,252,261,Wallace & Gromit: The Curse of the Were-Rabbit,"Park, Nick & Steve Box",2005,UK-USA,85,Col,Animated-Adventure-Comedy,
+301,274,263,"You, the Living","Andersson, Roy",2007,Sweden-Germany-France-Denmark-Norway-Japan,93,Col,Comedy-Drama,
+302,273,306,"Devil's Backbone, The","del Toro, Guillermo",2001,Spain-Mexico,107,Col,Horror-Drama,
+303,368,354,Ex Machina,"Garland, Alex",2015,UK,108,Col,Drama-Science Fiction-Mystery,X
+304,260,267,Antichrist,"von Trier, Lars",2009,Denmark-Germany-France-Sweden-Italy-Poland,108,Col-BW,Drama-Horror,
+305,315,298,Eastern Promises,"Cronenberg, David",2007,USA-UK-Canada,101,Col,Crime-Drama-Thriller,
+306,371,483,Personal Shopper,"Assayas, Olivier",2016,France-Germany-Czech Republic,105,Col,Drama-Mystery-Thriller,
+307,235,218,"Good Night, and Good Luck","Clooney, George",2005,USA-France-UK-Japan,93,BW,Drama-History,X
+308,513,450,American Honey,"Arnold, Andrea",2016,UK-USA,163,Col,Drama,
+309,490,548,Stray Dogs,Tsai Ming-liang,2013,Taiwan-France,138,Col,Drama,
+310,660,---,Happy as Lazzaro,"Rohrwacher, Alice",2018,Italy-Switzerland-France-Germany,125,Col,Drama,
+311,593,515,"Norte, the End of History","Diaz, Lav",2013,Philippines,250,Col,Drama-Crime,
+312,598,666,"Strange Case of Angelica, The","Oliveira, Manoel de",2010,Portugal-Spain-France-Brazil,97,Col-BW,Drama,
+313,306,292,Femme Fatale,"De Palma, Brian",2002,France-Switzerland,110,Col,Thriller-Crime,
+314,322,312,Blue Valentine,"Cianfrance, Derek",2010,USA,112,Col,Drama-Romance,
+315,309,377,Winter Sleep,"Ceylan, Nuri Bilge",2014,Turkey-Germany-France,196,Col,Drama,
+316,332,296,Anomalisa,"Johnson, Duke & Charlie Kaufman",2015,USA,90,Col,Animated-Comedy-Drama,
+317,246,214,Crimson Gold,"Panahi, Jafar",2003,Iran,96,Col,Drama,
+318,276,264,Fahrenheit 9/11,"Moore, Michael",2004,USA,122,Col,Documentary-War,
+319,242,230,21 Grams,"González Iñárritu, Alejandro",2003,Germany-USA,125,Col,Drama,
+320,320,299,Spotlight,"McCarthy, Tom",2015,USA-Canada,128,Col,Biography-Drama-History,X
+321,253,235,Traffic [2000],"Soderbergh, Steven",2000,USA-Germany,147,Col,Drama-Crime-Thriller,
+322,295,273,Happy-Go-Lucky,"Leigh, Mike",2008,UK-USA,118,Col,Comedy-Drama,
+323,270,257,24 Hour Party People,"Winterbottom, Michael",2002,UK,115,Col,Drama-Comedy,
+324,532,508,Phoenix,"Petzold, Christian",2014,Germany-Poland,98,Col,Drama,
+325,292,324,District 9,"Blomkamp, Neill",2009,South Africa-USA-New Zealand-Canada,112,Col,Action-Drama-Science Fiction,X
+326,345,326,"Beaches of Agnès, The","Varda, Agnès",2008,France,110,Col,Documentary-Biography,
+327,256,246,Old Joy,"Reichardt, Kelly",2006,USA,76,Col,Drama,X
+328,302,338,"Descent, The","Marshall, Neil",2005,UK,99,Col,Horror-Adventure-Thriller,
+329,517,620,"Lobster, The","Lanthimos, Yorgos",2015,Ireland-UK-Greece-France-Netherlands-USA,118,Col,Comedy-Drama-Romance,X
+330,257,278,Minority Report,"Spielberg, Steven",2002,USA,144,Col,Thriller-Science Fiction-Action,X
+331,355,362,Bright Star,"Campion, Jane",2009,UK-Australia-France,119,Col,Biography-Drama-Romance,
+332,423,410,"Clock, The [ART INSTALLATION]","Marclay, Christian",2010,UK,1440,Col,Documentary-Avant-Garde,
+333,381,374,Wild Grass,"Resnais, Alain",2009,France-Italy,104,Col,Drama-Romance,
+334,243,215,In the Bedroom,"Field, Todd",2001,USA,130,Col,Drama,
+335,---,---,Uncut Gems,"Safdie, Benny & Josh Safdie",2019,USA,135,Col,Comedy-Crime-Drama,X
+336,245,234,Match Point,"Allen, Woody",2005,UK-USA-Luxembourg,124,Col,Crime-Drama-Thriller,
+337,387,418,"Skin I Live In, The","Almodóvar, Pedro",2011,Spain-USA,120,Col,Drama-Thriller,
+338,298,340,Primer,"Carruth, Shane",2004,USA,78,Col,Thriller-Science Fiction-Drama,
+339,464,672,Neighbouring Sounds,"Filho, Kleber Mendonça",2012,Brazil,131,Col,Drama-Thriller,
+340,283,288,"O Brother, Where Art Thou?","Coen, Joel & Ethan Coen",2000,USA-France,107,Col,Crime-Adventure-Comedy,X
+341,324,304,Monsoon Wedding,"Nair, Mira",2001,India-USA-Italy-Germany-France,114,Col,Romance-Drama,
+342,319,310,Enter the Void,"Noé, Gaspar",2009,France-Germany-Italy--Canada,161,Col,Drama-Fantasy,
+343,459,645,Raw,"Ducournau, Julia",2016,France-Belgium,99,Col,Horror,
+344,386,424,O.J.: Made in America [TV],"Edelman, Ezra",2016,USA,450,Col,Documentary,
+345,266,233,Gangs of New York,"Scorsese, Martin",2002,USA,166,Col,Drama-Crime-Action,X
+346,326,287,Devils on the Doorstep,Jiang Wen,2000,China,139,Col-BW,War-Drama-Comedy,
+347,299,279,Lincoln,"Spielberg, Steven",2012,USA,150,Col,Biography-Drama-History,X
+348,372,441,Gone Girl,"Fincher, David",2014,USA,149,Col,Drama-Mystery-Thriller,X
+349,297,271,"Best of Youth, The","Giordana, Marco Tullio",2003,Italy,373,Col,Drama-History-Romance,
+350,303,275,Darwin's Nightmare,"Sauper, Hubert",2004,Austria-Belgium-France-Germany,111,Col,Documentary,
+351,---,---,Pain and Glory,"Almodóvar, Pedro",2019,Spain,113,Col,Drama,
+352,300,300,Bamako,"Sissako, Abderrahmane",2006,Mali-USA-France,117,Col,Drama,
+353,369,370,"Shape of Water, The","del Toro, Guillermo",2017,USA,123,Col-BW,Adventure-Drama-Fantasy,X
+354,263,237,"Aviator, The","Scorsese, Martin",2004,USA-Germany,170,Col-BW,Drama-Biography,X
+355,347,349,Team America: World Police,"Parker, Trey",2004,USA-Germany,108,Col,Comedy-Adventure-Action,
+356,290,379,Death Proof,"Tarantino, Quentin",2007,USA,104,Col-BW,Crime,
+357,321,330,Tinker Tailor Soldier Spy,"Alfredson, Tomas",2011,France-UK-Germany,127,Col,Thriller-Drama-Mystery,X
+358,373,381,"Two Days, One Night","Dardenne, Jean-Pierre & Luc Dardenne",2014,Belgium-France-Italy,95,Col,Drama,
+359,325,295,"Ghost Writer, The","Polanski, Roman",2010,France-Germany-UK,128,Col,Drama-Mystery-Thriller,X
+360,307,351,Hell or High Water,"Mackenzie, David",2016,USA,102,Col,Crime-Drama,X
+361,304,303,Django Unchained,"Tarantino, Quentin",2012,USA,165,Col,Action-Drama-Western,X
+362,336,372,"Kid with a Bike, The","Dardenne, Jean-Pierre & Luc Dardenne",2011,Belgium-France-Italy,87,Col,Drama,
+363,343,323,Mother [2009],Bong Joon-ho,2009,South Korea,129,Col,Crime-Drama-Mystery,
+364,384,305,Beyond the Hills,"Mungiu, Cristian",2012,Romania-France-Belgium,150,Col,Drama,
+365,317,285,Last Days,"Van Sant, Gus",2005,USA,96,Col,Drama,
+366,285,256,Vera Drake,"Leigh, Mike",2004,UK-France,125,Col,Drama,
+367,445,469,"Duke of Burgundy, The","Strickland, Peter",2014,UK,104,Col,Drama,
+368,394,448,Kill List,"Wheatley, Ben",2011,UK,95,Col,Crime-Horror-Thriller,
+369,287,559,"Brown Bunny, The","Gallo, Vincent",2003,USA-Japan-France,93,Col,Drama-Adult,
+370,310,426,I Am Not Your Negro,"Peck, Raoul",2016,USA-Switzerland-France-Belgium,93,Col,Documentary,
+371,278,282,School of Rock,"Linklater, Richard",2003,USA-Germany,108,Col,Musical-Comedy,X
+372,311,266,"Lust, Caution","Lee, Ang",2007,USA-China-Taiwan,158,Col,Drama-Romance-Thriller,
+373,726,---,Let the Sunshine In,"Denis, Claire",2017,France-Belgium,94,Col,Comedy-Drama-Romance,
+374,294,289,Black Book,"Verhoeven, Paul",2006,Netherlands,145,Col,War-Thriller-Drama,
+375,478,500,Like Someone in Love,"Kiarostami, Abbas",2012,France-Japan,109,Col,Drama,
+376,554,572,Silence,"Scorsese, Martin",2016,USA-Mexico-Taiwan,161,Col,Drama-History-Adventure,X
+377,328,294,Spider,"Cronenberg, David",2002,Canada-UK-Japan-France,98,Col,Thriller-Drama,
+378,385,---,Leave No Trace,"Granik, Debra",2018,USA,109,Col,Drama,
+379,275,259,Evolution of a Filipino Family,"Diaz, Lav",2004,Philippines,540,BW,Drama,
+380,305,286,Nobody Knows,"Koreeda, Hirokazu",2004,Japan,141,Col,Drama,
+381,375,391,Vai-E-Vem,"Monteiro, João César",2003,Portugal-France,179,Col-BW,Comedy-Drama,
+382,338,342,Brooklyn,"Crowley, John",2015,Ireland-UK-Canada,111,Col,Drama-Romance,
+383,337,333,Gran Torino,"Eastwood, Clint",2008,USA-Germany,116,Col,Crime-Drama-Thriller,X
+384,400,442,"Deep Blue Sea, The","Davies, Terence",2011,USA-UK,98,Col,Drama-Romance,
+385,358,336,Erin Brockovich,"Soderbergh, Steven",2000,USA,130,Col,Drama,
+386,288,272,Shrek,"Adamson, Andrew & Vicky Jenson",2001,USA,90,Col,Animated-Fantasy-Comedy,X
+387,312,277,"King's Speech, The","Hooper, Tom",2010,UK-Australia-USA,118,Col,Drama-History,X
+388,331,308,Eureka [2000],"Aoyama, Shinji",2000,Japan-France,217,Col-BW,Drama,
+389,456,434,"Ghost Story, A","Lowery, David",2017,USA,92,Col,Drama-Fantasy-Romance,X
+390,500,502,45 Years,"Haigh, Andrew",2015,UK,95,Col,Drama-Romance,
+391,360,388,Anchorman: The Legend of Ron Burgundy,"McKay, Adam",2004,USA,94,Col,Comedy,X
+392,362,321,Lagaan: Once Upon a Time in India,"Gowariker, Ashutosh",2001,India,224,Col,Adventure-Drama-Musical,
+393,323,332,"40-Year-Old Virgin, The","Apatow, Judd",2005,USA,116,Col,Romance-Comedy,X
+394,334,290,"Descendants, The","Payne, Alexander",2011,USA,115,Col,Comedy-Drama,
+395,421,435,Marie Antoinette [2006],"Coppola, Sofia",2006,USA-France-Japan,123,Col,Biography-Drama,
+396,333,322,Bus 174,"Larceda, Felipe & José Padilha",2002,Brazil,119,Col,Documentary,
+397,286,347,Wonder Boys,"Hanson, Curtis",2000,USA-Germany-UK-Japan,112,Col,Drama-Comedy,
+398,350,319,Once,"Carney, John",2007,Ireland-USA,87,Col,Drama-Musical-Romance,
+399,357,325,Downfall,"Hirschbiegel, Oliver",2004,Germany-Austria-Italy,156,Col,War-Drama,
+400,571,589,Girlhood,"Sciamma, Céline",2014,France,113,Col,Drama,
+401,291,317,In the Loop,"Iannucci, Armando",2009,UK-Cayman Islands,106,Col,Comedy,
+402,919,829,"Right Now, Wrong Then",Hong Sang-soo,2015,South Korea,121,Col,Drama,
+403,458,561,"Witch, The [2015]","Eggers, Robert",2015,USA-UK-Canada-Brazil,92,Col,Horror-Mystery,X
+404,348,---,Cold War [2018],"Pawlikowski, Pawel",2018,Poland-UK-France,88,BW,Drama-Music-Romance,
+405,361,375,"Bourne Ultimatum, The","Greengrass, Paul",2007,USA-Germany,115,Col,Action-Thriller-Mystery,X
+406,318,291,"Three Burials of Melquiades Estrada, The","Jones, Tommy Lee",2005,France-USA,121,Col,Drama-Crime-Western,
+407,330,344,Battle Royale,"Fukasaku, Kinji",2000,Japan,113,Col,Thriller-Action-Horror,X
+408,346,315,Waiting for Happiness,"Sissako, Abderrahmane",2002,France-Mauritania,90,Col,Drama,
+409,383,316,Take Shelter,"Nichols, Jeff",2011,USA,120,Col,Drama-Thriller,
+410,422,415,Howl's Moving Castle,"Miyazaki, Hayao",2004,Japan,119,Col,Animated-Adventure-Fantasy,X
+411,453,394,"Heart of the World, The","Maddin, Guy",2000,Canada,6,BW,Short,
+412,572,557,"Wind Rises, The","Miyazaki, Hayao",2013,Japan,126,Col,Animated-Biography-Drama,
+413,---,---,High Life,"Denis, Claire",2018,UK-France-Germany-Poland-USA,113,Col,Science Fiction-Drama-Mystery,
+414,329,293,Battle in Heaven,"Reygadas, Carlos",2005,Mexico-France-Germany-Belgium-Netherlands,97,Col,Drama,
+415,391,537,Western,"Grisebach, Valeska",2017,Germany-Bulgaria-Austria,121,Col,Drama,
+416,---,---,Spider-Man: Into the Spider-Verse,"Persichetti, Bob/Peter Ramsey/Rodney Rothman",2018,USA,117,Col,Animated-Action-Adventure,
+417,398,356,Star Spangled to Death,"Jacobs, Ken",2004,USA,402,Col-BW,Avant-Garde,
+418,335,297,Little Miss Sunshine,"Dayton, Jonathan & Valerie Faris",2006,USA,102,Col,Comedy-Drama,X
+419,340,307,Spellbound [2002],"Blitz, Jeffrey",2002,USA,96,Col,Documentary,
+420,577,654,It's Such a Beautiful Day,"Hertzfeldt, Don",2012,USA,62,Col,Animated-Comedy-Drama,
+421,359,358,Offside,"Panahi, Jafar",2006,Iran,91,Col,Comedy-Drama-Sport,
+422,436,420,Vincere,"Bellocchio, Marco",2009,Italy-France,125,Col,Biography-Drama-History,
+423,342,433,"Son's Room, The","Moretti, Nanni",2001,Italy-France,99,Col,Drama,
+424,344,334,True Grit [2010],"Coen, Joel & Ethan Coen",2010,USA,110,Col,Adventure-Drama-Western,X
+425,313,281,Capote,"Miller, Bennett",2005,USA-Canada,98,Col,Drama-Biography,X
+426,363,329,Divine Intervention,"Suleiman, Elia",2002,France-Morocco-Germany-Palestine,93,Col,Drama-Romance-War,
+427,543,510,Clouds of Sils Maria,"Assayas, Olivier",2014,France-Germany-Switzerland,124,Col,Drama,
+428,448,432,"Day I Became a Woman, The","Makhmalbaf, Marzieh",2000,Iran,77,Col,Drama,
+429,510,571,Scott Pilgrim vs. the World,"Wright, Edgar",2010,USA-UK-Japan,112,Col,Action-Adventure-Comedy,
+430,454,398,Of Gods and Men,"Beauvois, Xavier",2010,France,122,Col,Drama-History,
+431,541,454,"Quiet Passion, A","Davies, Terence",2016,UK-Belgium,125,Col,Biography-Drama,
+432,411,429,Citizenfour,"Poitras, Laura",2014,USA-Germany-UK,114,Col,Documentary,X
+433,428,376,Shame [2011],"McQueen, Steve",2011,UK,101,Col,Drama,
+434,402,495,Attack the Block,"Cornish, Joe",2011,UK-France,88,Col,Action-Comedy-Science Fiction,
+435,349,341,Coraline,"Selick, Henry",2009,USA,101,Col,Animated-Adventure-Fantasy,
+436,433,416,"Captive, La","Akerman, Chantal",2000,France-Belgium,118,Col,Drama,
+437,409,437,Playing,"Coutinho, Eduardo",2007,Brazil,100,Col,Documentary-Drama,
+438,405,389,Paradise Now,"Abu-Assad, Hany",2005,Netherlands-Israel-Germany-France,91,Col,Drama-Crime,
+439,392,368,Of Time and the City,"Davies, Terence",2008,UK,72,Col-BW,Documentary,
+440,636,---,Hereditary,"Aster, Ari",2018,USA,127,Col,Drama-Horror-Mystery,X
+441,462,---,If Beale Street Could Talk,"Jenkins, Barry",2018,USA,119,Col,Drama-Romance-Crime,X
+442,581,621,Mommy,"Dolan, Xavier",2014,Canada,139,Col,Drama,
+443,557,509,Modern Life,"Depardon, Raymond",2008,France,87,Col,Documentary,
+444,558,529,Pina,"Wenders, Wim",2011,Germany-France-UK,103,Col,Documentary,
+445,---,---,Atlantics,"Diop, Mati",2019,France-Senegal-Belgium,106,Col,Drama,
+446,341,311,Milk,"Van Sant, Gus",2008,USA,128,Col,Biography-Drama,
+447,382,378,Gomorrah,"Garrone, Matteo",2008,Italy,137,Col,Crime-Drama,X
+448,871,---,Paddington 2,"King, Paul",2017,UK-France-USA,103,Col,Animated-Adventure-Comedy,
+449,---,---,Transit,"Petzold, Christian",2018,Germany-France,101,Col,Drama,
+450,354,320,Half Nelson,"Fleck, Ryan",2006,USA,107,Col,Drama,
+451,376,352,Napoleon Dynamite,"Hess, Jared",2004,USA,82,Col,Comedy,X
+452,374,359,Solaris [2002],"Soderbergh, Steven",2002,USA,99,Col,Science Fiction-Drama-Romance,
+453,380,360,Martha Marcy May Marlene,"Durkin, Sean",2011,USA,102,Col,Drama-Thriller,
+454,390,363,I Am Love,"Guadagnino, Luca",2009,Italy,119,Col,Drama,
+455,468,403,Demonlover,"Assayas, Olivier",2002,France-Japan-Mexico-USA,129,Col,Thriller-Drama-Mystery,
+456,378,314,Tarnation,"Caouette, Jonathan",2003,USA,88,Col-BW,Documentary,
+457,370,364,Collateral,"Mann, Michael",2004,USA,120,Col,Thriller-Crime-Action,
+458,867,764,Dawson City: Frozen Time,"Morrison, Bill",2016,USA,120,Col-BW,Documentary-History,
+459,474,421,I Don't Want to Sleep Alone,Tsai Ming-liang,2006,Taiwan-France-Austria,118,Col,Drama,
+460,410,414,"Libertad, La","Alonso, Lisandro",2001,Argentina,73,Col,Drama,
+461,---,---,"Flor, La","Llinás, Mariano",2018,Argentina,808,Col-BW,Drama-Thriller,
+462,379,327,Inside Job,"Ferguson, Charles",2010,USA,109,Col,Documentary,
+463,389,353,Black Hawk Down,"Scott, Ridley",2001,USA,144,Col,War-Drama-Action,
+464,351,337,Chicken Run,"Lord, Peter & Nick Park",2000,USA-UK,84,Col,Animated-Family-Comedy,X
+465,774,---,Black Panther,"Coogler, Ryan",2018,USA-South Africa-South Korea-Australia,134,Col,Action-Adventure-Science Fiction,X
+466,738,746,Li'l Quinquin [TV],"Dumont, Bruno",2014,France,206,Col,Comedy-Crime-Mystery,
+467,443,468,"Lego Movie, The","Lord, Phil & Christopher Miller",2014,Australia-USA-Denmark,100,Col,Animated-Adventure-Comedy,
+468,435,345,"Love, Actually","Curtis, Richard",2003,UK-USA,135,Col,Romance-Drama-Comedy,X
+469,539,550,Good Time,"Safdie, Benny & Josh Safdie",2017,USA,101,Col,Crime-Drama-Thriller,X
+470,467,402,Red Road,"Arnold, Andrea",2006,UK-Denmark,114,Col,Drama-Thriller,
+471,529,551,Creed,"Coogler, Ryan",2015,USA,133,Col,Drama-Sport,X
+472,499,461,Woman on the Beach,Hong Sang-soo,2006,South Korea,100,Col,Drama-Comedy,
+473,666,585,"Last of the Unjust, The","Lanzmann, Claude",2013,France-Austria,220,Col-BW,Documentary,
+474,396,350,Juno,"Reitman, Jason",2007,USA,96,Col,Comedy-Drama,X
+475,743,667,Interstellar,"Nolan, Christopher",2014,USA-UK,169,Col,Adventure-Science Fiction-Drama,X
+476,481,470,Away from Her,"Polley, Sarah",2006,Canada-UK-USA,109,Col,Drama-Romance,
+477,397,366,"Beat That My Heart Skipped, The","Audiard, Jacques",2005,France,107,Col,Drama-Crime,
+478,612,556,Santiago,"Salles, João Moreira",2007,Brazil,80,BW,Documentary,
+479,552,684,Everyone Else,"Ade, Maren",2009,Germany,119,Col,Drama-Romance,
+480,429,413,Elf,"Favreau, Jon",2003,USA,97,Col,Comedy-Family-Fantasy,X
+481,465,446,Hedwig and the Angry Inch,"Mitchell, John Cameron",2001,USA,91,Col,Musical-Drama-Comedy,
+482,657,652,You Ain't Seen Nothin' Yet,"Resnais, Alain",2012,France-Germany,115,Col,Drama-Comedy,
+483,426,436,Mr. Turner,"Leigh, Mike",2014,UK-France-Germany,150,Col,Biography-Drama-History,
+484,---,---,"Farewell, The","Wang, Lulu",2019,USA-China,100,Col,Comedy-Drama,X
+485,441,440,Extraordinary Stories,"Llinás, Mariano",2008,Argentina,245,Col,Drama-Mystery,
+486,403,476,Superbad,"Mottola, Greg",2007,USA,113,Col,Comedy,X
+487,501,496,"Taste of Others, The","Jaoui, Agnès",2000,France,112,Col,Drama-Comedy,
+488,418,373,Flags of Our Fathers,"Eastwood, Clint",2006,USA,132,Col,War-Drama-Action,
+489,401,355,"Prairie Home Companion, A","Altman, Robert",2006,USA,106,Col,Comedy-Drama-Musical,
+490,395,361,Before Night Falls,"Schnabel, Julian",2000,USA,133,Col,Drama,
+491,638,714,Attenberg,"Tsangari, Athina Rachel",2010,Greece,97,Col,Drama,
+492,404,365,Anvil!: The Story of Anvil,"Gervasi, Sacha",2008,USA,80,Col,Documentary-Biography-Musical,
+493,498,532,Nebraska,"Payne, Alexander",2013,USA,115,BW,Drama,X
+494,412,498,"Orphanage, The","Bayona, Juan Antonio",2007,Spain-France,100,Col,Drama-Horror-Mystery,
+495,425,427,"Man Who Wasn't There, The","Coen, Joel & Ethan Coen",2001,USA-UK,116,BW,Drama-Crime-Comedy,
+496,455,465,"Others, The","Amenábar, Alejandro",2001,Spain-USA,100,Col,Thriller-Horror,X
+497,463,422,Zoolander,"Stiller, Ben",2001,USA-Germany-Australia,89,Col,Comedy,X
+498,518,489,Cave of Forgotten Dreams,"Herzog, Werner",2010,Canada-USA-France-UK,90,Col,Documentary-History,X
+499,434,383,"Life Aquatic with Steve Zissou, The","Anderson, Wes",2004,USA,118,Col,Drama-Comedy-Adventure,X
+500,491,480,"Morte rouge, La","Erice, Victor",2006,Spain,32,Col-BW,Short-Drama,
+501,546,---,Sorry to Bother You,"Riley, Boots",2018,USA,111,Col,Comedy-Fantasy-Science Fiction,
+502,424,397,13 Lakes,"Benning, James",2004,USA,135,Col,Documentary,
+503,511,555,Incendies,"Villeneuve, Denis",2010,Canada-France,130,Col,Drama-Mystery-War,
+504,515,520,When the Levees Broke: A Requiem in Four Acts [TV],"Lee, Spike",2006,USA,255,Col,Documentary,
+505,446,---,BlacKkKlansman,"Lee, Spike",2018,USA,135,Col-BW,Biography-Drama-Crime,X
+506,407,357,I'm Going Home,"Oliveira, Manoel de",2001,France-Portugal,90,Col,Drama-Comedy,
+507,661,907,BPM (Beats Per Minute),"Campillo, Robin",2017,France,140,Col,Drama,
+508,420,409,Lilya 4-ever,"Moodysson, Lukas",2002,Sweden-Denmark,109,Col,Drama,
+509,573,686,Martyrs,"Laugier, Pascal",2008,France-Canada,100,Col,Drama-Horror,
+510,413,411,"Barbarian Invasions, The","Arcand, Denys",2003,Canada-France,99,Col,Drama-Comedy,
+511,449,443,"Duchess of Langeais, The","Rivette, Jacques",2007,France-Italy,137,Col,Drama-Romance,
+512,438,452,Spider-Man 2,"Raimi, Sam",2004,USA,127,Col,Action-Fantasy-Science Fiction,X
+513,568,504,"Autobiography of Nicolae Ceausescu, The","Ujica, Andrei",2010,Romania,180,Col-BW,Documentary-Biography-History,
+514,472,458,"Monsters, Inc.","Docter, Pete",2001,USA,95,Col,Animated-Family-Comedy,X
+515,416,467,In Bruges,"McDonagh, Martin",2008,USA-UK-Germany,107,Col,Comedy-Crime,X
+516,530,488,"Wayward Cloud, The",Tsai Ming-liang,2005,France-Taiwan-China,112,Col,Musical-Comedy-Drama,
+517,419,382,Babel,"González Iñárritu, Alejandro",2006,France-USA-Mexico,143,Col,Drama,
+518,525,472,"Muertos, Los","Alonso, Lisandro",2004,Argentina-France-Netherlands-Switzerland,78,Col,Drama,
+519,460,407,Nightcrawler,"Gilroy, Dan",2014,USA,117,Col,Crime-Drama-Thriller,X
+520,431,473,High Fidelity,"Frears, Stephen",2000,USA-UK,113,Col,Comedy,X
+521,477,404,"Motorcycle Diaries, The","Salles, Walter",2004,UK-USA-France,125,Col,Drama-Adventure,X
+522,476,523,Snowpiercer,Bong Joon-ho,2013,South Korea-Czech Republic-USA-France,126,Col-BW,Action-Science Fiction-Thriller,
+523,393,348,Crash [2004],"Haggis, Paul",2004,USA-Germany,112,Col,Drama-Crime,X
+524,---,902,Sieranevada,"Puiu, Cristi",2016,Romania-France-Bosnia and Herzegovina-Croatia-Macedonia,173,Col,Comedy-Drama,
+525,597,616,Oxhide,Liu Jiayin,2005,China,110,Col,Docudrama,
+526,771,719,"Tribe, The","Slaboshpytskiy, Myroslav",2014,Ukraine-Netherlands,126,Col,Crime-Drama,
+527,430,392,Still Walking,"Koreeda, Hirokazu",2008,Japan,115,Col,Drama,
+528,516,456,Dirty Pretty Things,"Frears, Stephen",2002,USA-UK,97,Col,Thriller-Drama,
+529,534,499,Unbreakable,"Shyamalan, M. Night",2000,USA,106,Col,Thriller-Science Fiction-Drama,
+530,479,586,Hot Fuzz,"Wright, Edgar",2007,USA-UK-France,121,Col,Action-Comedy-Crime,X
+531,492,453,Me and You and Everyone We Know,"July, Miranda",2005,USA-UK-Japan,91,Col,Drama-Comedy,
+532,814,---,"Image Book, The","Godard, Jean-Luc",2018,Switzerland-France,84,Col,Drama,
+533,594,541,"Station Agent, The","McCarthy, Tom",2003,USA,88,Col,Drama-Comedy,
+534,761,697,Jauja,"Alonso, Lisandro",2014,Argentina-Denmark-France-Mexico-USA-Germany-Brazil-Netherlands,109,Col,Drama-Western,
+535,470,447,Mysterious Skin,"Araki, Gregg",2004,USA-Netherlands,105,Col,Drama,
+536,497,613,Paprika,"Kon, Satoshi",2006,Japan,90,Col,Animated-Mystery-Science Fiction,
+537,509,444,Before I Forget,"Nolot, Jacques",2007,France,108,Col,Drama,
+538,451,460,Mean Girls,"Waters, Mark",2004,USA-Canada,97,Col,Comedy,X
+539,486,484,Profit Motive and the Whispering Wind,"Gianvito, John",2007,USA,58,Col,Documentary,
+540,524,478,Birth,"Glazer, Jonathan",2004,Germany-UK-USA,100,Col,Mystery-Drama,
+541,538,501,Foxcatcher,"Miller, Bennett",2014,USA,134,Col,Biography-Drama-Sport,X
+542,473,505,Step Brothers,"McKay, Adam",2008,USA,98,Col,Comedy,X
+543,442,445,Cosmopolis,"Cronenberg, David",2012,Canada-France-Portugal-Italy,109,Col,Drama-Thriller,
+544,985,933,"Lost City of Z, The","Gray, James",2016,USA,141,Col,Drama-Adventure-Biography,X
+545,678,570,"Dangerous Method, A","Cronenberg, David",2011,UK-Germany-Canada-Switzerland,99,Col,Biography-Drama-Thriller,
+546,569,579,Senna,"Kapadia, Asif",2010,UK-France-USA,106,Col,Documentary-Biography-Sport,
+547,601,680,Animal Kingdom,"Michôd, David",2010,Australia,113,Col,Crime-Drama,
+548,685,611,"Construcción, En","Guerín, José Luis",2001,Spain,125,Col,Documentary,
+549,625,730,Tomboy,"Sciamma, Céline",2011,France,82,Col,Drama,
+550,712,901,Eden [2014],"Hansen-Løve, Mia",2014,France,131,Col,Drama-Music,
+551,536,581,Computer Chess,"Bujalski, Andrew",2013,USA,92,Col-BW,Comedy,
+552,549,720,Pariah,"Rees, Dee",2011,USA,86,Col,Drama,
+553,427,384,In America,"Sheridan, Jim",2003,USA-Ireland-UK,105,Col,Drama,
+554,437,390,Climates,"Ceylan, Nuri Bilge",2006,Turkey-France-Netherlands,102,Col,Drama,
+555,483,449,City of Life and Death,Lu Chuan,2009,China-Hong Kong,135,BW,Drama-History-War,
+556,588,595,Private Fears in Public Places,"Resnais, Alain",2006,France-Italy,120,Col,Drama,
+557,628,735,"Oslo, August 31st","Trier, Joachim",2011,Norway,95,Col,Drama,
+558,417,387,Silver Linings Playbook,"Russell, David O.",2012,USA,122,Col,Comedy-Drama-Romance,X
+559,692,634,Blade Runner 2049,"Villeneuve, Denis",2017,USA-UK-Hungary-Canada,164,Col,Drama-Mystery-Science Fiction,X
+560,556,591,"Illusionist, The [2010]","Chomet, Sylvain",2010,UK-France,80,Col,Animated-Comedy-Drama,
+561,847,779,"Hunt, The","Vinterberg, Thomas",2012,Denmark-Sweden,115,Col,Drama,
+562,475,511,Moon,"Jones, Duncan",2009,UK,97,Col,Drama-Mystery-Science Fiction,X
+563,586,587,RR,"Benning, James",2007,USA-Germany,111,Col,Documentary,
+564,502,528,Best in Show,"Guest, Christopher",2000,USA,89,Col,Comedy,X
+565,688,610,"Missing Picture, The","Panh, Rithy",2013,Cambodia-France,92,Col-BW,Documentary,
+566,469,487,Brick,"Johnson, Rian",2005,USA,110,Col,Crime-Mystery-Drama,
+567,790,831,Ex Libris: The New York Public Library,"Wiseman, Frederick",2017,USA,197,Col,Documentary,
+568,523,463,Our Daily Bread [2005],"Geyrhalter, Nikolaus",2005,Austria-Germany,92,Col,Documentary,
+569,432,485,"Three Billboards Outside Ebbing, Missouri","McDonagh, Martin",2017,USA-UK,115,Col,Crime-Drama,X
+570,450,393,Lumumba,"Peck, Raoul",2000,France-Belgium-Germany-Haiti,115,Col,Drama-Biography-History,
+571,651,618,Bend it Like Beckham,"Chadha, Gurinder",2002,UK-Germany-USA,112,Col,Comedy-Drama-Romance,
+572,440,400,Rabbit-Proof Fence,"Noyce, Phillip",2002,Australia-UK,93,Col,Drama-Adventure,
+573,457,516,3-Iron,Kim Ki-duk,2004,South Korea-Japan,88,Col,Crime-Drama-Romance,
+574,447,408,Atonement,"Wright, Joe",2007,USA-UK-France,123,Col,Drama-Romance-War,
+575,545,492,Friday Night,"Denis, Claire",2002,France,89,Col,Drama,
+576,508,490,Knocked Up,"Apatow, Judd",2007,USA,129,Col,Comedy-Romance,X
+577,452,401,Rachel Getting Married,"Demme, Jonathan",2008,USA,113,Col,Drama-Romance,
+578,466,406,Moneyball,"Miller, Bennett",2011,USA,133,Col,Biography-Drama-Sport,X
+579,562,535,"Darjeeling Limited, The","Anderson, Wes",2007,USA,91,Col,Adventure-Comedy-Drama,X
+580,616,---,Eighth Grade,"Burnham, Bo",2018,USA,93,Col,Comedy-Drama,
+581,766,728,Post Tenebras Lux,"Reygadas, Carlos",2012,Mexico-France-Netherlands-Germany,115,Col,Drama,
+582,764,705,At Berkeley,"Wiseman, Frederick",2013,USA,244,Col,Documentary,
+583,480,477,"Fountain, The","Aronofsky, Darren",2006,USA,97,Col,Drama-Romance-Science Fiction,
+584,648,578,Che,"Soderbergh, Steven",2008,France-Spain-USA,257,Col-BW,Biography-Drama-History,
+585,489,479,24 City,Jia Zhangke,2008,China-Hong Kong-Japan,112,Col,Drama,
+586,605,606,Skyfall,"Mendes, Sam",2012,UK-USA,143,Col,Action-Adventure-Crime,X
+587,494,430,"Time for Drunken Horses, A","Ghobadi, Bahman",2000,Iran,80,Col,Drama,
+588,485,419,Billy Elliot,"Daldry, Stephen",2000,UK,110,Col,Drama,
+589,496,431,"Inconvenient Truth, An","Guggenheim, Davis",2006,USA,97,Col,Documentary,X
+590,701,962,"Raid: Redemption, The","Evans, Gareth",2011,Indonesia-USA-France,101,Col,Action-Crime-Thriller,
+591,777,808,"Avengers, The","Whedon, Joss",2012,USA,143,Col,Action-Adventure-Science Fiction,X
+592,602,525,Summer Palace,Lou Ye,2006,China-France,140,Col,Drama-Romance,
+593,495,593,"Village, The [2004]","Shyamalan, M. Night",2004,USA,108,Col,Mystery-Horror-Thriller,X
+594,505,673,Sweet Sixteen,"Loach, Ken",2002,UK,106,Col,Drama,
+595,732,846,Frozen [2013],"Buck, Chris & Jennifer Lee",2013,USA,102,Col,Animated-Adventure-Comedy,X
+596,785,---,"Other Side of the Wind, The","Welles, Orson",2018,France-Iran-USA,122,Col-BW,Drama,X
+597,487,698,"Kiss Kiss, Bang Bang","Black, Shane",2005,USA,103,Col,Action-Comedy-Crime,
+598,461,412,King Kong [2005],"Jackson, Peter",2005,USA-Germany-New Zealand,187,Col,Action-Adventure-Fantasy,
+599,615,599,War of the Worlds,"Spielberg, Steven",2005,USA,116,Col,Science Fiction-Action-Adventure,X
+600,493,553,DiG!,"Timoner, Ondi",2004,USA,115,Col,Documentary,
+601,570,539,Innocence [2004],"Hadzihalilovic, Lucile",2004,France-UK-Belgium,115,Col,Mystery-Drama,
+602,623,707,Locke,"Knight, Steven",2013,UK-USA,85,Col,Drama,X
+603,686,789,"Girl Walks Home Alone at Night, A","Amirpour, Ana Lily",2014,USA,101,BW,Horror-Romance-Thriller,X
+604,908,---,Annihilation,"Garland, Alex",2018,USA-UK,115,Col,Adventure-Drama-Horror,X
+605,504,451,Chicago,"Marshall, Rob",2002,USA-Germany,113,Col,Musical-Crime-Comedy,
+606,---,---,Little Women,"Gerwig, Greta",2019,USA,135,Col,Drama-Romance,X
+607,671,619,Monster,"Jenkins, Patty",2003,USA-Germany,109,Col,Drama-Crime,
+608,548,665,Jackie,"Larraín, Pablo",2016,Chile-France-USA-Hong Kong,100,Col-BW,Biography-Drama,
+609,---,---,Ash is Purest White,Jia Zhangke,2018,China-France-Japan,136,Col,Drama-Romance-Crime,
+610,526,494,Shortbus,"Mitchell, John Cameron",2006,USA,101,Col,Drama-Adult,
+611,540,471,Harry Potter and the Prisoner of Azkaban,"Cuarón, Alfonso",2004,UK-USA,142,Col,Adventure-Family-Fantasy,X
+612,614,576,Twentynine Palms,"Dumont, Bruno",2003,France-Germany-USA,119,Col,Horror-Drama,
+613,---,---,Homeland (Iraq Year Zero),"Fahdel, Abbas",2015,Iraq-France,334,Col,Documentary,
+614,670,685,"Tale of the Princess Kaguya, The","Takahata, Isao",2013,Japan,137,Col,Animated-Drama-Fantasy,
+615,582,674,My Mother's Smile,"Bellocchio, Marco",2002,Italy,103,Col,Drama,
+616,514,438,Metallica: Some Kind of Monster,"Berlinger, Joe & Bruce Sinofsky",2004,USA,141,Col-BW,Documentary-Music,
+617,528,646,Miami Vice,"Mann, Michael",2006,USA-Germany-Paraguay-Uruguay,133,Col,Action-Crime-Drama,
+618,547,524,Michael Clayton,"Gilroy, Tony",2007,USA,119,Col,Drama-Thriller,
+619,624,545,Wuthering Heights [2011],"Arnold, Andrea",2011,UK,129,Col,Drama-Romance,
+620,747,675,Story of My Death,"Serra, Albert",2013,Spain-France,148,Col,Drama,
+621,563,522,In This World,"Winterbottom, Michael",2002,UK,88,Col-BW,Drama,
+622,506,534,"Fighter, The","Russell, David O.",2010,USA,116,Col,Biography-Drama-Sport,X
+623,600,544,Whisky,"Rebella, Juan Pablo & Pablo Stoll",2004,Uruguay-Argentina-Germany-Spain-France-USA-Japan,98,Col,Comedy,
+624,503,439,Sweeney Todd: The Demon Barber of Fleet Street,"Burton, Tim",2007,USA-UK,116,Col,Crime-Musical-Thriller,X
+625,531,396,Big Fish,"Burton, Tim",2003,USA,125,Col,Fantasy-Drama,X
+626,619,531,Room,"Abrahamson, Lenny",2015,Ireland-Canada,118,Col,Drama,X
+627,537,475,Bloody Sunday,"Greengrass, Paul",2001,UK-Ireland,110,Col,History-Drama,
+628,622,609,Lady Chatterley,"Ferran, Pascale",2006,France-Belgium,168,Col,Drama-Romance,
+629,576,567,"Wire, The [TV]",Various Directors,2002,USA,3600,Col,Crime-Drama-Mystery,X
+630,553,462,Departures,"Takita, Yojiro",2008,Japan,130,Col,Drama,
+631,767,822,Magic Mike XXL,"Jacobs, Gregory",2015,USA,115,Col,Comedy-Drama-Music,
+632,565,507,Petition,Zhao Liang,2009,China-Switzerland-UK-France-Belgium-Finland,120,Col,Documentary,
+633,748,832,Four Lions,"Morris, Chris",2010,UK-France,101,Col,Comedy,
+634,533,459,Hotel Rwanda,"George, Terry",2004,UK-USA-South Africa-Italy,121,Col,War-Drama,
+635,---,---,"Elephant Sitting Still, An",Hu Bo,2018,China,230,Col,Drama,
+636,797,944,Bernie,"Linklater, Richard",2011,USA,104,Col,Comedy-Crime-Drama,X
+637,520,491,Sin City,"Rodriguez, Robert & Frank Miller",2005,USA,124,Col-BW,Action-Crime-Thriller,
+638,---,---,Midsommar,"Aster, Ari",2019,USA-Sweden,147,Col,Drama-Horror-Mystery,X
+639,521,474,Syriana,"Gaghan, Stephen",2005,USA,128,Col,Thriller-Drama,
+640,639,605,Museum Hours,"Cohen, Jem",2012,Austria-USA,107,Col,Drama,
+641,471,428,Up in the Air,"Reitman, Jason",2009,USA,109,Col,Comedy-Drama-Romance,X
+642,768,---,"Death of Stalin, The","Iannucci, Armando",2017,UK-France-Belgium-Canada,107,Col,Comedy-Drama-History,
+643,415,385,American Hustle,"Russell, David O.",2013,USA,138,Col,Crime-Drama,X
+644,484,371,Argo,"Affleck, Ben",2012,USA,120,Col,Drama-History-Thriller,X
+645,778,727,Things to Come [2016],"Hansen-Løve, Mia",2016,France-Germany,102,Col,Drama,
+646,610,580,This is England,"Meadows, Shane",2006,UK,103,Col,Drama,
+647,647,677,Touching the Void,"Macdonald, Kevin",2003,UK-USA,106,Col,Documentary-Drama-Sport,
+648,522,457,"Edge of Heaven, The","Akin, Fatih",2007,Germany-Turkey-Italy,121,Col,Drama,
+649,559,538,Berberian Sound Studio,"Strickland, Peter",2012,UK,92,Col,Drama-Horror-Thriller,
+650,---,---,In Jackson Heights,"Wiseman, Frederick",2015,USA-France,190,Col,Documentary,
+651,542,503,Before the Devil Knows You're Dead,"Lumet, Sidney",2007,UK-USA,117,Col,Crime-Drama-Thriller,
+652,932,---,"Day He Arrives, The",Hong Sang-soo,2011,South Korea,79,BW,Drama,
+653,---,---,Us,"Peele, Jordan",2019,USA-Japan,116,Col,Horror-Thriller,X
+654,---,---,Madeline's Madeline,"Decker, Josephine",2018,USA,93,Col,Drama-Mystery,
+655,896,---,Love & Basketball,"Prince-Bythewood, Gina",2000,USA,124,Col,Drama-Romance-Sport,
+656,663,668,"Lady & the Duke, The","Rohmer, Eric",2001,France-Germany,128,Col,Drama,
+657,566,513,Encounters at the End of the World,"Herzog, Werner",2007,USA-Canada,99,Col,Documentary,
+658,---,---,Knives Out,"Johnson, Rian",2019,USA,130,Col,Comedy-Crime-Drama,X
+659,705,737,Sympathy for Mr. Vengeance,Park Chan-wook,2002,South Korea,129,Col,Thriller-Drama-Crime,
+660,756,863,Wadjda,"Al-Mansour, Haifaa",2012,Saudi Arabia-Netherlands-Germany-Jordan-United Arab Emirates-USA,98,Col,Drama,
+661,519,521,Midnight in Paris,"Allen, Woody",2011,Spain-USA,94,Col,Comedy-Fantasy-Romance,X
+662,555,549,I Heart Huckabees,"Russell, David O.",2004,Germany-USA-UK,106,Col,Comedy,
+663,860,977,"Cabin in the Woods, The","Goddard, Drew",2011,USA,95,Col,Horror-Mystery-Thriller,X
+664,512,395,Kinsey,"Condon, Bill",2004,USA-Germany,118,Col,Drama-Biography,
+665,890,851,Blackboards,"Makhmalbaf, Samira",2000,Iran-Italy-Japan,85,Col,Drama-War,
+666,580,526,Iraq in Fragments,"Longley, James",2006,USA,94,Col,Documentary,
+667,875,---,John Wick,"Stahelski, Chad",2014,USA-Canada-China,101,Col,Action-Thriller,
+668,684,736,Ghost in the Shell 2: Innocence,"Oshii, Mamoru",2004,UK-USA,99,Col,Action-Animated-Drama,
+669,613,649,Road to Nowhere,"Hellman, Monte",2010,USA,121,Col,Romance-Thriller,
+670,887,715,"Death of Louis XIV, The","Serra, Albert",2016,Portugal-France-Spain,115,Col,Biography-Drama-History,
+671,658,724,"Good Morning, Night","Bellocchio, Marco",2003,Italy,106,Col,Drama,
+672,587,596,"Prestige, The","Nolan, Christopher",2006,USA-UK,130,Col,Drama-Science Fiction-Thriller,X
+673,693,635,Aurora,"Puiu, Cristi",2010,Romania-France-Switzerland-Germany,181,Col,Drama,
+674,640,689,Samson and Delilah [2009],"Thornton, Warwick",2009,Australia,101,Col,Drama,
+675,550,771,"Grandmaster, The",Wong Kar-wai,2013,Hong Kong-China,130,Col,Action-Biography-Drama,
+676,589,701,"Like Father, Like Son","Koreeda, Hirokazu",2013,Japan,121,Col,Drama,
+677,527,486,All About Lily Chou-Chou,"Iwai, Shunji",2001,Japan,146,Col,Crime-Drama-Music,
+678,585,530,Import Export,"Seidl, Ulrich",2007,Austria-France-Germany,141,Col,Drama,
+679,630,564,Terror's Advocate,"Schroeder, Barbet",2007,France,137,Col,Documentary-Biography-History,
+680,617,633,Serras da desordem,"Tonacci, Andrea",2006,Brazil,135,Col,Documentary,
+681,782,931,Fruitvale Station,"Coogler, Ryan",2013,USA,85,Col,Biography-Drama,X
+682,535,482,Melancholia [2008],"Diaz, Lav",2008,Philippines,450,BW,Drama,
+683,618,588,Mysterious Object at Noon,"Weerasethakul, Apichatpong",2000,Thailand-Netherlands,83,BW,Drama-Mystery,
+684,707,651,"Saddest Music in the World, The","Maddin, Guy",2003,Canada,100,Col-BW,Drama-Fantasy-Musical,
+685,741,547,"I, Daniel Blake","Loach, Ken",2016,UK-France-Belgium,100,Col,Drama,
+686,888,906,Evolution,"Hadzihalilovic, Lucile",2015,France-Belgium-Spain,81,Col,Drama-Horror-Mystery,
+687,608,643,Lantana,"Lawrence, Ray",2001,Germany-Australia,121,Col,Thriller-Drama,
+688,560,592,Chopper,"Dominik, Andrew",2000,Australia,94,Col,Drama,
+689,592,562,(500) Days of Summer,"Webb, Marc",2009,USA,95,Col-BW,Comedy-Drama-Romance,
+690,687,656,Monsters,"Edwards, Gareth",2010,UK,94,Col,Drama-Science Fiction-Thriller,
+691,763,681,"Pigeon Sat on a Branch Reflecting on Existence, A","Andersson, Roy",2014,Sweden-Germany-Norway-France,101,Col,Comedy-Drama,
+692,488,425,All is Lost,"Chandor, J.C.",2013,USA,106,Col,Adventure-Drama,
+693,611,577,"Scanner Darkly, A","Linklater, Richard",2006,USA,100,Col,Animated-Mystery-Science Fiction,
+694,939,---,Minding the Gap,Bing Liu,2018,USA,93,Col,Documentary,
+695,749,---,"Other Side of Hope, The","Kaurismäki, Aki",2017,Finland-Germany,100,Col,Comedy-Drama,
+696,578,560,S21: The Khmer Rouge Killing Machine,"Panh, Rithy",2003,Cambodia-France,101,Col,Documentary-History,
+697,---,---,Heaven Knows What,"Safdie, Benny & Josh Safdie",2014,USA,94,Col,Drama,
+698,567,519,We Are the Best!,"Moodysson, Lukas",2013,Sweden-Denmark,102,Col,Drama-Music,
+699,603,568,"Secret of the Grain, The","Kechiche, Abdellatif",2007,France,151,Col,Drama,
+700,---,---,What We Do in the Shadows,"Clement, Jemaine & Taika Waititi",2014,New Zealand-USA,86,Col-BW,Comedy-Horror,X
+701,---,---,Oh! Man,"Gianikian, Yervant & Angela Ricci Lucchi",2004,Italy,71,BW,Documentary-War,
+702,645,575,No Man's Land,"Tanovic, Danis",2001,France-Italy-Belgium-UK-Slovenia-Switzerland,97,Col,War-Drama,
+703,604,558,Trilogy: The Weeping Meadow,"Angelopoulos, Theo",2004,Greece-France-Italy-Germany,170,Col,Romance-Drama,
+704,697,830,Loveless,"Zvyagintsev, Andrey",2017,Russia-France-Germany-Belgium-USA,127,Col,Drama,
+705,561,536,Bad Santa,"Zwigoff, Terry",2003,USA-Germany,91,Col,Crime-Comedy,X
+706,669,594,"Romance of Astrea and Celadon, The","Rohmer, Eric",2007,France-Italy-Spain,109,Col,Drama-Romance,
+707,681,896,Edge of Tomorrow,"Liman, Doug",2014,USA-Canada,113,Col,Action-Science Fiction,X
+708,596,543,Amy [2015],"Kapadia, Asif",2015,UK-USA,128,Col-BW,Documentary-Biography-Music,
+709,676,687,Looper,"Johnson, Rian",2012,USA-China,119,Col,Action-Science Fiction-Thriller,
+710,845,745,"Savages, The","Jenkins, Tamara",2007,USA,114,Col,Comedy-Drama,
+711,620,650,"World's End, The","Wright, Edgar",2013,UK,109,Col,Action-Comedy-Science Fiction,X
+712,973,867,"Revenant, The [2015]","González Iñárritu, Alejandro",2015,USA-Hong Kong-Taiwan-Canada,156,Col,Adventure-Drama-Thriller,X
+713,634,630,Origins of the 21st Century,"Godard, Jean-Luc",2000,France,13,Col,Short-Documentary,
+714,591,554,Love & Friendship,"Stillman, Whit",2016,Ireland-Netherlands-France-USA-UK,92,Col,Comedy-Drama-Romance,
+715,629,625,"Single Man, A","Ford, Tom",2009,USA,101,Col,Drama-Romance,
+716,668,821,"Tale of Two Sisters, A",Kim Jee-woon,2003,South Korea,114,Col,Drama-Horror-Mystery,
+717,574,518,Into the Wild,"Penn, Sean",2007,USA,148,Col,Adventure-Biography-Drama,
+718,544,552,"Proposition, The","Hillcoat, John",2005,UK-Australia,104,Col,Drama-Crime-Western,
+719,975,973,Cargo 200,"Balabanov, Aleksei",2007,Russia,89,Col,Drama-Thriller,
+720,626,623,Exiled,"To, Johnnie",2006,Hong Kong,109,Col,Crime-Thriller,
+721,635,565,Nocturama,"Bonello, Bertrand",2016,France-Germany-Belgium,130,Col,Thriller-Drama,
+722,956,811,Heart of a Dog,"Anderson, Laurie",2015,USA-France,75,Col-BW,Documentary,
+723,716,803,Sing Street,"Carney, John",2016,Ireland-UK-USA,106,Col,Comedy-Drama-Music,
+724,735,660,Keane,"Kerrigan, Lodge",2004,USA,100,Col,Drama,
+725,665,628,Bad Lieutenant: Port of Call - New Orleans,"Herzog, Werner",2009,USA,122,Col,Crime-Drama,
+726,564,512,Chunhyang,Im Kwon-taek,2000,South Korea,120,Col,Romance-Drama-Musical,
+727,737,712,"Corporation, The","Abbott, Jennifer & Mark Achbar",2003,Canada,145,Col,Documentary,
+728,718,647,Broken Flowers,"Jarmusch, Jim",2005,USA-France,106,Col,Drama-Comedy,X
+729,667,711,Rango,"Verbinski, Gore",2011,USA,107,Col,Animated-Adventure-Comedy,X
+730,632,617,"Diary of a Teenage Girl, The","Heller, Marielle",2015,USA,102,Col,Drama-Romance,
+731,708,608,Searching for Sugar Man,"Bendjelloul, Malik",2012,Sweden-UK,86,Col,Documentary-Biography-Musical,X
+732,677,584,No,"Larraín, Pablo",2012,Chile-France-Mexico-USA,118,Col-BW,Drama,
+733,---,---,Mission: Impossible - Ghost Protocol,"Bird, Brad",2011,USA-United Arab Emirates,133,Col,Action-Adventure-Thriller,
+734,---,---,Aquarius,"Filho, Kleber Mendonça",2016,Brazil-France,146,Col,Drama,
+735,579,527,"Mouth of the Wolf, The","Marcello, Pietro",2009,Italy-France,76,Col-BW,Biography-Drama-Romance,
+736,958,---,"Love Witch, The","Biller, Anna",2016,USA,120,Col,Comedy-Horror,
+737,772,775,Idiocracy,"Judge, Mike",2006,USA,84,Col,Adventure-Comedy-Science Fiction,X
+738,927,774,"Hateful Eight, The","Tarantino, Quentin",2015,USA,187,Col,Western-Drama-Mystery,X
+739,699,688,"Martian, The","Scott, Ridley",2015,USA-UK,144,Col,Adventure-Drama-Science Fiction,X
+740,621,600,Ballast,"Hammer, Lance",2008,USA,96,Col,Drama,
+741,765,819,How to Train Your Dragon,"DeBlois, Dean & Chris Sanders",2010,USA,98,Col,Animated-Adventure-Comedy,X
+742,721,690,12:08 East of Bucharest,"Porumboiu, Corneliu",2006,Romania-France,89,Col,Comedy-Drama,
+743,---,---,Somewhere,"Coppola, Sofia",2010,USA-UK-Italy-Japan,98,Col,Drama,
+744,583,---,"Star is Born, A","Cooper, Bradley",2018,USA,136,Col,Drama-Music-Romance,X
+745,751,717,Wolf Creek,"McLean, Greg",2005,Australia,99,Col,Horror-Thriller,
+746,595,566,To the Wonder,"Malick, Terrence",2012,USA,112,Col,Drama-Romance,
+747,---,---,"Post, The","Spielberg, Steven",2017,USA-UK,116,Col,Biography-Drama-History,X
+748,881,905,Shirin,"Kiarostami, Abbas",2008,Iran,92,Col,Drama,
+749,728,750,Star Wars: The Force Awakens,"Abrams, J.J.",2015,USA,135,Col,Action-Adventure-Fantasy,X
+750,733,694,"Power of Nightmares: The Rise of the Politics of Fear, The [TV]","Curtis, Adam",2004,UK,180,Col,Documentary,
+751,775,640,Bastards,"Denis, Claire",2013,France-Germany,83,Col,Drama,
+752,644,582,"Visit to the Louvre, A","Straub, Jean-Marie & Danièle Huillet",2004,France-Germany-Italy,49,Col,Documentary,
+753,819,700,Paradise: Love,"Seidl, Ulrich",2012,Austria-Germany-France,120,Col,Drama,
+754,830,706,"Selfish Giant, The","Barnard, Clio",2013,UK,91,Col,Drama,
+755,664,---,Can You Ever Forgive Me?,"Heller, Marielle",2018,USA,106,Col,Biography-Comedy-Crime,
+756,731,662,Suzhou River,Lou Ye,2000,China-Germany-Netherlands-Japan-France,83,Col,Drama-Romance,
+757,590,514,Maria Full of Grace,"Marston, Joshua",2003,USA-Colombia-Ecuador,100,Col,Drama-Crime,
+758,675,636,"Time That Remains, The","Suleiman, Elia",2009,UK-Italy-Belgium-France,109,Col,Drama-History,
+759,812,767,Baby Driver,"Wright, Edgar",2017,UK-USA,112,Col-BW,Action-Crime,X
+760,691,607,"Passion of the Christ, The","Gibson, Mel",2004,USA,126,Col,Drama,X
+761,599,497,Vicky Cristina Barcelona,"Allen, Woody",2008,USA-Spain,96,Col,Comedy-Drama-Romance,
+762,696,709,Quei loro incontri,"Straub, Jean-Marie & Danièle Huillet",2006,Italy-France,68,Col,Drama,
+763,609,574,Last Train Home,Lixin Fan,2009,Canada-China-UK,85,Col,Documentary-Drama,
+764,715,670,Blind Shaft,Li Yang,2003,China-Germany-Hong Kong,92,Col,Drama,
+765,---,857,13th,"DuVernay, Ava",2016,USA,100,Col-BW,Documentary-Crime,
+766,641,601,My Summer of Love,"Pawlikowski, Pawel",2004,UK,86,Col,Drama,
+767,745,642,"Interrupters, The","James, Steve",2011,USA,125,Col,Documentary-Crime,
+768,646,583,"Pont des Arts, Le","Green, Eugène",2004,France,126,Col,Drama-Music,
+769,633,622,"Curious Case of Benjamin Button, The","Fincher, David",2008,USA,166,Col,Drama-Fantasy-Mystery,X
+770,655,614,"Good Bye, Lenin!","Becker, Wolfgang (2)",2003,Germany,121,Col,Drama-Comedy,
+771,607,569,About a Boy,"Weitz, Paul & Chris Weitz",2002,Germany-USA-France-UK,101,Col,Drama-Comedy,
+772,802,875,"Loneliest Planet, The","Loktev, Julia",2011,USA-Germany,113,Col,Thriller,
+773,653,597,Little Children,"Field, Todd",2006,USA,137,Col,Crime-Drama-Romance,
+774,659,742,Daratt,"Haroun, Mahamat-Saleh",2006,Chad-France-Belgium-Austria,96,Col,Drama,
+775,672,627,Bamboozled,"Lee, Spike",2000,USA,135,Col,Drama-Comedy,
+776,843,852,Mustang,"Ergüven, Deniz Gamze",2015,France-Germany-Turkey-Qatar,97,Col,Drama,
+777,849,---,Support the Girls,"Bujalski, Andrew",2018,USA,93,Col,Comedy-Drama,
+778,717,648,Dark Days,"Singer, Marc",2000,USA,94,BW,Documentary,
+779,---,---,Booksmart,"Wilde, Olivia",2019,USA,102,Col,Comedy,X
+780,736,664,"Century of the Self, The [TV]","Curtis, Adam",2002,UK,240,Col,Documentary,
+781,649,772,Ali,"Mann, Michael",2001,USA,156,Col,Biography-Drama-Sport,
+782,631,626,Greenberg,"Baumbach, Noah",2010,USA,107,Col,Drama-Comedy,X
+783,710,682,"Wind That Shakes the Barley, The","Loach, Ken",2006,UK-Ireland-Germany-Italy-Spain-Switzerland,127,Col,War-Drama,
+784,905,950,Burn After Reading,"Coen, Joel & Ethan Coen",2008,USA-UK-France,96,Col,Comedy-Crime,X
+785,770,725,Esther Kahn,"Desplechin, Arnaud",2000,France-UK,142,Col,Drama,
+786,---,---,Vitalina Varela,"Costa, Pedro",2019,Portugal,124,Col,Drama,
+787,627,602,Beginners,"Mills, Mike",2011,USA,104,Col,Comedy-Drama-Romance,X
+788,656,653,"Education, An","Scherfig, Lone",2008,UK-USA,100,Col,Drama,
+789,898,791,Fire at Sea,"Rosi, Gianfranco",2016,Italy-France,114,Col,Documentary,
+790,575,517,127 Hours,"Boyle, Danny",2010,USA-UK-Australia,94,Col,Adventure-Biography-Drama,
+791,642,542,Blue Jasmine,"Allen, Woody",2013,USA,98,Col,Comedy-Drama,X
+792,643,598,"Consequences of Love, The","Sorrentino, Paolo",2004,Italy,104,Col,Drama-Crime-Romance,
+793,757,641,Taxi Tehran,"Panahi, Jafar",2015,Iran,82,Col,Comedy-Drama,
+794,---,---,What Now? Remind Me,"Pinto, Joaquim",2013,Portugal-Spain,164,Col-BW,Documentary-Biography,
+795,723,657,"3 Rooms of Melancholia, The","Honkasalo, Pirjo",2004,Finland-Denmark-Germany-Sweden,106,Col,Documentary,
+796,831,824,20th Century Women,"Mills, Mike",2016,USA,119,Col,Comedy-Drama,
+797,674,659,Faithless,"Ullmann, Liv",2000,Sweden-Norway-Finland-Italy-Germany,153,Col,Romance-Drama,
+798,724,---,Ocean's Eleven [2001],"Soderbergh, Steven",2001,USA-Australia,116,Col,Crime-Action,X
+799,662,624,Lovely & Amazing,"Holofcener, Nicole",2001,USA,91,Col,Drama-Comedy,
+800,857,784,Elena [2011],"Zvyagintsev, Andrey",2011,Russia,109,Col,Drama,
+801,839,740,Mudbound,"Rees, Dee",2017,USA,134,Col,Drama-War,X
+802,---,---,"Hidden Life, A","Malick, Terrence",2019,Germany-USA,173,Col,Biography-Drama-War,
+803,853,757,Corpus Callosum,"Snow, Michael",2002,Canada,92,Col,Drama,
+804,886,922,Triple Agent,"Rohmer, Eric",2004,France-Italy-Spain-Greece-Russia,115,Col,Drama-Thriller,
+805,781,---,"Fantastic Woman, A","Lelio, Sebastián",2017,Chile-Germany-Spain-USA,100,Col,Drama,
+806,---,---,I Saw the Devil,Kim Jee-woon,2010,South Korea,144,Col,Action-Crime-Drama,
+807,729,661,Opera Jawa,"Nugroho, Garin",2006,Indonesia-Austria-Netherlands-Sweden-UK,120,Col,Musical,
+808,889,855,Lourdes,"Hausner, Jessica",2009,Austria-Germany-France,99,Col,Drama,
+809,654,615,Star Trek,"Abrams, J.J.",2009,USA-Germany,127,Col,Action-Adventure-Science Fiction,X
+810,869,880,Dreams of a Life,"Morley, Carol",2011,UK-Ireland,95,Col,Documentary-Drama-Biography,
+811,---,---,Caesar Must Die,"Taviani, Paolo & Vittorio Taviani",2012,Italy,76,Col-BW,Drama,
+812,916,887,"Bourne Supremacy, The","Greengrass, Paul",2004,Germany-USA,108,Col,Thriller-Mystery-Action,X
+813,719,644,Chuck & Buck,"Arteta, Miguel",2000,USA,95,Col,Drama-Comedy,
+814,902,805,Japón,"Reygadas, Carlos",2002,Mexico-Germany-Netherlands-Spain,122,Col,Drama,
+815,746,612,Life of Pi,"Lee, Ang",2012,USA-Taiwan-UK,127,Col,Adventure-Drama-Fantasy,
+816,730,861,Inside,"Bustillo, Alexandre & Julien Maury",2007,France,83,Col,Horror-Thriller,
+817,---,---,"Portuguese Nun, The","Green, Eugène",2009,Portugal-France,127,Col,Drama,
+818,744,708,"Divo, Il","Sorrentino, Paolo",2008,Italy-France,118,Col-BW,Biography-Drama,
+819,650,729,Reprise [2006],"Trier, Joachim",2006,Norway,107,Col,Drama,
+820,808,---,[Rec],"Balagueró, Jaume & Paco Plaza",2007,Spain,78,Col,Horror,
+821,680,604,Hustle & Flow,"Brewer, Craig",2005,USA,116,Col,Crime-Drama-Musical,
+822,740,704,Everybody Wants Some!!,"Linklater, Richard",2016,USA,117,Col,Comedy,
+823,739,663,Junebug,"Morrison, Phil",2005,USA,107,Col,Drama-Comedy,
+824,742,679,Mother!,"Aronofsky, Darren",2017,USA,121,Col,Drama-Horror-Mystery,X
+825,946,---,Maps to the Stars,"Cronenberg, David",2014,Canada-USA-Germany-France,111,Col,Drama,
+826,910,938,Gloria [2013],"Lelio, Sebastián",2013,Chile-Spain,110,Col,Drama,
+827,796,758,Drag Me to Hell,"Raimi, Sam",2009,USA,99,Col,Horror-Thriller,
+828,637,---,Widows,"McQueen, Steve",2018,UK-USA,129,Col,Crime-Drama-Thriller,X
+829,720,733,Session 9,"Anderson, Brad",2001,USA,97,Col,Horror-Thriller-Drama,
+830,---,---,On the Beach at Night Alone,Hong Sang-soo,2017,South Korea-Germany,101,Col,Drama,
+831,652,540,Revolutionary Road,"Mendes, Sam",2008,USA-UK,119,Col,Drama-Romance,
+832,938,---,Private Life,"Jenkins, Tamara",2018,USA,123,Col,Drama,
+833,706,678,Control,"Corbijn, Anton",2007,UK-Japan-Australia,122,BW,Biography-Drama-Musical,X
+834,690,637,Tristram Shandy: A Cock and Bull Story,"Winterbottom, Michael",2005,UK,94,Col,Comedy,
+835,702,632,Little Otik,"Svankmajer, Jan",2000,Czech Republic-UK-Japan,131,Col,Animated-Comedy-Drama,
+836,703,631,Adventureland,"Mottola, Greg",2009,USA,107,Col,Comedy-Drama-Romance,
+837,683,603,Where the Wild Things Are,"Jonze, Spike",2009,Germany-USA-Australia,101,Col,Adventure-Drama-Family,X
+838,714,718,Land of the Dead,"Romero, George A.",2005,USA-Canada-France,93,Col,Action-Horror-Thriller,
+839,709,639,Iron Man [2008],"Favreau, Jon",2008,USA,126,Col,Action-Adventure-Science Fiction,X
+840,806,826,Drug War,"To, Johnnie",2012,China-Hong Kong,107,Col,Crime-Action-Drama,
+841,883,752,Manakamana,"Spray, Stephanie & Pacho Velez",2013,Nepal-USA,118,Col,Documentary,
+842,711,726,Apocalypto,"Gibson, Mel",2006,USA,138,Col,Action-Adventure-Drama,
+843,---,---,Star Wars: The Last Jedi,"Johnson, Rian",2017,USA,152,Col,Action-Adventure-Science Fiction,X
+844,891,793,Last Resort,"Pawlikowski, Pawel",2000,UK,73,Col,Drama-Romance,
+845,884,926,Zootopia,"Howard, Byron & Rich Moore",2016,USA,108,Col,Animated-Adventure-Comedy,X
+846,868,773,"Magdalene Sisters, The","Mullan, Peter",2002,UK-Ireland,119,Col,Drama,
+847,673,629,Under the Sand,"Ozon, François",2000,France-Japan,96,Col,Drama,
+848,850,753,Batman Begins,"Nolan, Christopher",2005,UK-USA,141,Col,Action-Adventure-Mystery,X
+849,---,---,"Sapienza, La","Green, Eugène",2014,France-Italy,101,Col,Drama,
+850,694,799,Ong-Bak,"Pinkaew, Prachya",2003,Thailand,105,Col,Adventure-Crime-Thriller,
+851,682,865,"Square, The [2017]","Östlund, Ruben",2017,Sweden-Germany-France-Denmark,142,Col,Comedy-Drama,
+852,---,---,Ad Astra,"Gray, James",2019,USA-China,123,Col,Science Fiction-Adventure-Drama,X
+853,679,696,From the Notebook of...,"Beavers, Robert",2000,USA,48,Col,Avant-Garde,
+854,821,776,Sicario,"Villeneuve, Denis",2015,USA,121,Col,Action-Crime-Drama,X
+855,760,836,United Red Army,"Wakamatsu, Kôji",2007,Japan,190,Col,Drama,
+856,---,---,Archipelago,"Hogg, Joanna",2010,UK,115,Col,Drama,
+857,---,---,"Hale County This Morning, This Evening","Ross, RaMell",2018,USA,76,Col,Documentary,
+858,915,820,Father,"de Orbe, José Maria",2010,Spain,85,Col,Drama,
+859,882,909,Snatch,"Ritchie, Guy",2000,USA-UK,102,Col,Crime-Comedy,
+860,---,994,Embrace of the Serpent,"Guerra, Ciro",2015,Colombia-Venezuela-Argentina,125,Col-BW,Adventure-Drama,
+861,---,---,Wonder Woman,"Jenkins, Patty",2017,USA-Hong Kong-China,141,Col,Action-Adventure-Fantasy,
+862,789,710,Frozen River,"Hunt, Courtney",2008,USA,97,Col,Crime-Drama,
+863,816,850,"House of the Devil, The","West, Ti",2009,USA,95,Col,Horror-Thriller,
+864,759,683,Adam & Paul,"Abrahamson, Lenny",2004,Ireland,83,Col,Comedy-Drama,
+865,---,---,Staying Vertical,"Guiraudie, Alain",2016,France,98,Col,Comedy-Drama,
+866,734,734,Boxing Gym,"Wiseman, Frederick",2010,USA,91,Col,Documentary,
+867,894,---,Stevie [2002],"James, Steve",2002,USA,140,Col,Documentary,
+868,---,---,"Lighthouse, The","Eggers, Robert",2019,Canada-USA,109,BW,Drama-Fantasy-Horror,X
+869,998,910,Shutter Island,"Scorsese, Martin",2009,USA,138,Col,Drama-Mystery-Thriller,X
+870,---,908,Wild Tales,"Szifrón, Damián",2014,Argentina-Spain,122,Col,Comedy-Drama-Thriller,
+871,912,---,Secretary,"Shainberg, Steven",2002,USA,104,Col,Drama,
+872,722,695,Public Enemies,"Mann, Michael",2009,USA-Japan,140,Col-BW,Crime-Drama-History,X
+873,1000,---,Mission: Impossible - Fallout,"McQuarrie, Christopher",2018,USA-China-France-Norway,147,Col,Action-Adventure-Thriller,
+874,788,744,"Secret in Their Eyes, The","Campanella, Juan José",2009,Spain-Argentina,129,Col,Crime-Drama-Mystery,
+875,---,---,Coco,"Unkrich, Lee",2017,USA,105,Col,Animated-Adventure-Comedy,X
+876,---,---,Monos,"Landes, Alejandro",2019,Colombia-Argentina-Netherlands-Germany-Sweden-Uruguay-USA-Switzerland-Denmark,102,Col,Adventure-Drama-Thriller,
+877,791,713,Monster's Ball,"Forster, Marc",2001,USA,111,Col,Romance-Drama-Crime,
+878,698,699,Three Monkeys,"Ceylan, Nuri Bilge",2008,Turkey-France-Italy,109,Col,Drama,
+879,840,914,Dave Chappelle's Block Party,"Gondry, Michel",2005,USA,103,Col,Documentary-Comedy-Music,
+880,695,760,"Kid Stays in the Picture, The","Burstein, Nanette & Brett Morgen",2002,USA,93,Col,Documentary-Biography,
+881,776,693,Night and Day [2008],Hong Sang-soo,2008,South Korea,145,Col,Drama,
+882,755,638,Rust and Bone,"Audiard, Jacques",2012,France-Belgium,120,Col,Drama-Romance,
+883,700,676,Short Term 12,"Cretton, Destin Daniel",2013,USA,96,Col,Drama,
+884,750,885,High Tension,"Aja, Alexandre",2003,France-Romania,90,Col,Crime-Horror-Thriller,
+885,909,---,Isle of Dogs,"Anderson, Wes",2018,USA-Germany,101,Col,Animated-Adventure-Comedy,X
+886,870,804,Into Great Silence,"Groning, Philip",2005,Germany-Switzerland,164,Col,Documentary,
+887,769,723,Ponyo,"Miyazaki, Hayao",2008,Japan-USA,103,Col,Animated-Adventure-Family,
+888,725,755,Southland Tales,"Kelly, Richard",2006,USA-Germany,144,Col,Comedy-Drama-Science Fiction,
+889,861,827,X2,"Singer, Bryan",2003,USA,133,Col,Thriller-Science Fiction-Action,X
+890,838,955,Ginger Snaps,"Fawcett, John",2000,Canada,108,Col,Drama-Horror-Thriller,
+891,689,658,Precious,"Daniels, Lee",2009,USA,110,Col,Drama,
+892,817,732,"Sea Inside, The","Amenábar, Alejandro",2004,Spain-France-Italy,125,Col,Drama,
+893,926,983,Decasia,"Morrison, Bill",2002,USA,70,BW,Documentary,
+894,971,942,House of Tolerance,"Bonello, Bertrand",2011,France,122,Col,Drama,
+895,826,---,"Second Mother, The","Muylaert, Anna",2015,Brazil,112,Col,Comedy-Drama,
+896,892,---,Young Adult,"Reitman, Jason",2011,USA,94,Col,Comedy-Drama,X
+897,852,739,National Gallery,"Wiseman, Frederick",2014,France-USA-UK,180,Col,Documentary,
+898,794,777,"Big Short, The","McKay, Adam",2015,USA,130,Col,Biography-Drama-Comedy,X
+899,754,837,Inside Man,"Lee, Spike",2006,USA,129,Col,Crime-Drama-Thriller,
+900,856,884,"Mad Songs of Fernanda Hussein, The","Gianvito, John",2001,USA,168,Col,Drama,
+901,713,669,Rise of the Planet of the Apes,"Wyatt, Rupert",2011,USA,105,Col,Action-Drama-Science Fiction,X
+902,960,866,Honor de cavalleria,"Serra, Albert",2006,Spain,95,Col,Drama,
+903,---,961,Fengming: A Chinese Memoir,Wang Bing,2007,China,186,Col,Documentary,
+904,758,671,Late Marriage,"Kosashvili, Dover",2001,Israel-France,102,Col,Comedy-Drama-Romance,
+905,---,---,Enemy,"Villeneuve, Denis",2013,Canada-Spain-France,91,Col,Mystery-Thriller,X
+906,824,763,Lorna's Silence,"Dardenne, Jean-Pierre & Luc Dardenne",2008,Belgium-France-Italy-Germany,105,Col,Drama,
+907,979,890,In the Cut,"Campion, Jane",2003,UK-Australia-USA,119,Col,Thriller-Mystery-Crime,
+908,988,881,Blancanieves,"Berger, Pablo",2011,Spain-Belgium-France,104,BW,Drama-Fantasy,
+909,784,722,"Quiet American, The [2002]","Noyce, Phillip",2002,USA-Germany,100,Col,War-Thriller-Drama,
+910,727,655,Cold Mountain,"Minghella, Anthony",2003,USA-UK-Romania-Italy,155,Col,War-Romance-Drama,
+911,851,948,"I, Tonya","Gillespie, Craig",2017,USA,120,Col,Biography-Drama-Sport,X
+912,704,841,We Own the Night,"Gray, James",2007,USA,117,Col,Crime-Drama-Thriller,
+913,---,---,Where Does Your Hidden Smile Lie?,"Costa, Pedro",2001,Portugal-France,104,Col-BW,Documentary,
+914,804,889,State and Main,"Mamet, David",2000,USA,105,Col,Comedy,
+915,823,918,13 Assassins,"Miike, Takashi",2010,Japan-UK,141,Col,Action-Adventure-Drama,
+916,762,823,Catch Me if You Can,"Spielberg, Steven",2002,USA,141,Col,Drama-Crime-Comedy,X
+917,783,---,"Talking Picture, A","Oliveira, Manoel de",2003,Portugal-France-Italy,96,Col,Drama-Comedy-History,
+918,753,731,Flanders,"Dumont, Bruno",2006,France,91,Col,Drama-War,
+919,---,---,Joker,"Phillips, Todd",2019,USA-Canada,122,Col,Crime-Drama-Thriller,X
+920,752,748,March of the Penguins,"Jacquet, Luc",2005,France-USA,80,Col,Documentary-Family,
+921,799,---,Frank,"Abrahamson, Lenny",2014,UK-Ireland,95,Col,Comedy-Drama-Mystery,
+922,787,702,All or Nothing,"Leigh, Mike",2002,UK-France,128,Col,Drama,
+923,928,814,Green Room,"Saulnier, Jeremy",2015,USA,95,Col,Crime-Horror-Thriller,
+924,780,692,"Deep End, The","McGehee, Scott/David Siegel",2001,USA,100,Col,Drama-Crime,
+925,832,802,"Aura, The","Bielinsky, Fabian",2005,Argentina-France-Spain,134,Col,Crime-Drama-Thriller,
+926,807,590,Let Me In,"Reeves, Matt",2010,USA-UK-Sweden,116,Col,Drama-Fantasy-Horror,
+927,818,703,Victoria,"Schipper, Sebastian",2015,Germany,138,Col,Crime-Drama-Thriller,
+928,873,912,At Sea,"Hutton, Peter B.",2007,USA,60,Col,Documentary,
+929,---,---,"Differently, Molussia","Rey, Nicolas",2012,France,81,Col,Documentary-Drama,
+930,911,960,Funny Ha Ha,"Bujalski, Andrew",2002,USA,90,Col,Drama-Comedy,
+931,990,897,"Fits, The","Holmer, Anna Rose",2015,USA,72,Col,Drama,
+932,835,828,Tokyo Sonata,"Kurosawa, Kiyoshi",2008,Japan-Netherlands-Hong Kong,120,Col,Drama,
+933,874,782,Zidane: A 21st Century Portrait,"Gordon, Douglas & Philippe Parreno",2006,France-Iceland,90,Col,Documentary-Sport,
+934,929,786,"Dark Knight Rises, The","Nolan, Christopher",2012,USA-UK,165,Col,Action-Crime-Thriller,X
+935,815,812,Liverpool,"Alonso, Lisandro",2008,Argentina-France-Netherlands-Germany-Spain,84,Col,Drama,
+936,825,738,Five Dedicated to Ozu,"Kiarostami, Abbas",2003,Iran-Japan-France,74,Col,Documentary,
+937,---,---,Happy Hour,"Hamaguchi, Ryusuke",2015,Japan,317,Col,Drama,
+938,---,---,"Day After, The",Hong Sang-soo,2017,South Korea,92,BW,Drama-Romance,
+939,---,---,"Vie nouvelle, La","Grandrieux, Philippe",2002,France,102,Col,Drama,
+940,837,877,300,"Snyder, Zack",2006,USA,117,Col,Action-Fantasy-War,X
+941,---,972,Guardians of the Galaxy,"Gunn, James",2014,USA-UK,121,Col,Action-Adventure-Science Fiction,X
+942,980,978,"Operai, contadini","Straub, Jean-Marie & Danièle Huillet",2001,France-Italy,123,Col,Documentary-Drama,
+943,848,781,Day Night Day Night,"Loktev, Julia",2006,USA,94,Col,Drama,
+944,895,---,Enough Said,"Holofcener, Nicole",2013,USA,93,Col,Comedy-Drama-Romance,
+945,844,749,Black Sun,"Tarn, Gary",2005,UK,75,Col,Documentary,
+946,810,835,Stuck on You,"Farrelly, Bob/Peter Farrelly",2003,USA,118,Col,Comedy,
+947,828,792,Lady Vengeance,Park Chan-wook,2005,South Korea,115,Col,Drama-Crime-Thriller,
+948,793,716,Margot at the Wedding,"Baumbach, Noah",2007,USA,92,Col,Comedy-Drama,X
+949,---,---,"Sky Turns, The","Álvarez, Mercedes",2004,Spain,115,Col,Documentary,
+950,813,871,Hat Wolff von Amerongen Konkursdelikte begangen?,"Friedl, Gerhard Benedikt",2004,Germany-Austria,73,Col,Documentary-Crime-History,
+951,---,965,My Golden Days,"Desplechin, Arnaud",2015,France,123,Col,Drama,
+952,792,756,Road to Perdition,"Mendes, Sam",2002,USA,117,Col,Drama-Crime,X
+953,827,741,Springtime in a Small Town,Tian Zhuangzhuang,2002,China-Hong Kong-France,116,Col,Romance-Drama,
+954,---,975,"Future, The","July, Miranda",2011,Germany-USA,91,Col,Drama,
+955,773,691,Spider-Man,"Raimi, Sam",2002,USA,131,Col,Fantasy-Adventure-Action,X
+956,---,---,"Imposter, The","Layton, Bart",2012,UK,99,Col,Documentary,
+957,834,876,"Ring, The [2002]","Verbinski, Gore",2002,USA,115,Col,Drama-Horror-Mystery,
+958,917,---,Mary and Max,"Elliot, Adam",2008,Australia,80,Col,Animated-Comedy-Drama,X
+959,864,768,"Ditch, The",Wang Bing,2010,Hong Kong-France-Belgium,112,Col,Drama,
+960,878,780,"Sobibor, Oct. 14, 1943, 4 p.m.","Lanzmann, Claude",2001,France,95,Col,Documentary-History-War,
+961,798,751,Va savoir,"Rivette, Jacques",2001,France-Italy-Germany,154,Col,Romance-Drama-Comedy,
+962,795,721,Mondays in the Sun,"León de Aranoa, Fernando",2002,Spain-France-Italy,113,Col,Comedy-Drama,
+963,---,---,"Wonders, The","Rohrwacher, Alice",2014,Italy-Switzerland-Germany,110,Col,Drama,
+964,803,818,"Town Called Panic, A","Aubier, Stephane & Vincent Patar",2009,Belgium-France-Luxembourg,77,Col,Animated,
+965,606,573,"Devil's Rejects, The","Zombie, Rob",2005,USA-Germany,107,Col,Crime-Drama-Horror,
+966,800,759,"Isle, The",Kim Ki-duk,2000,South Korea,86,Col,Drama,
+967,801,769,About Elly,"Farhadi, Asghar",2009,Iran,119,Col,Drama,
+968,---,---,Hustlers,"Scafaria, Lorene",2019,USA,110,Col,Comedy-Crime-Drama,X
+969,865,---,Girlfight,"Kusama, Karyn",2000,USA,110,Col,Drama-Sport,
+970,779,766,"Trip, The [2010]","Winterbottom, Michael",2010,UK,112,Col,Comedy-Drama,
+971,809,843,Teza,"Gerima, Haile",2008,Ethiopia-Germany-France,140,Col,Drama,
+972,822,778,"Forbidden Room, The","Maddin, Guy",2015,Canada,130,Col-BW,Comedy-Mystery,
+973,---,---,Viola,"Piñeiro, Matías",2012,Argentina-USA,65,Col,Drama,
+974,---,---,Barbara [2012],"Petzold, Christian",2012,Germany,105,Col,Drama,
+975,---,---,"Last Mistress, The","Breillat, Catherine",2007,France-Italy,114,Col,Drama,
+976,968,891,Graduation,"Mungiu, Cristian",2016,Romania-France-Belgium,128,Col,Drama-Crime,
+977,---,---,World of Tomorrow,"Hertzfeldt, Don",2015,USA,17,Col,Animated-Short-Comedy,
+978,907,765,Ray,"Hackford, Taylor",2004,USA-UK,152,Col,Musical-Drama-Biography,
+979,862,761,"Danse: The Paris Opera Ballet, La","Wiseman, Frederick",2009,France-USA,159,Col,Documentary,
+980,786,874,How to Survive a Plague,"France, David",2012,USA,120,Col,Documentary-History-News,
+981,---,---,Your Name,"Shinkai, Makoto",2016,Japan,106,Col,Animated-Fantasy-Romance,
+982,---,878,"Gatekeepers, The","Moreh, Dror",2012,Israel-France-Germany-Belgium,95,Col,Documentary,
+983,992,817,Night Across the Street,"Ruiz, Raúl",2012,Chile-France,110,Col,Drama-Comedy-Fantasy,
+984,846,743,"House I Live In, The [2012]","Jarecki, Eugene",2012,Netherlands-UK-Germany-Japan-Australia-USA,108,Col,Documentary,
+985,---,949,Okja,Bong Joon-ho,2017,South Korea-USA,120,Col,Action-Adventure-Drama,
+986,---,---,Shirkers,"Tan, Sandi",2018,USA,97,Col,Documentary,
+987,961,869,My Architect,"Kahn, Nathaniel",2003,USA,116,Col,Documentary-Biography,
+988,---,---,Climax,"Noé, Gaspar",2018,France,95,Col,Drama-Horror-Musical,
+989,854,---,"Raid 2, The","Evans, Gareth",2014,Indonesia-USA,150,Col,Action-Crime-Thriller,
+990,---,---,"Oversimplication of Her Beauty, An","Nance, Terence",2011,USA,84,Col,Animated-Comedy-Drama,
+991,903,801,Turtles Can Fly,"Ghobadi, Bahman",2004,Iran,97,Col,War-Drama,
+992,858,813,Our Beloved Month of August,"Gomes, Miguel",2008,Portugal-France,147,Col,Musical-Romance,
+993,866,798,Son frère,"Chéreau, Patrice",2003,France,92,Col,Drama,
+994,820,790,Shattered Glass,"Ray, Billy",2003,USA-Canada,95,Col,Drama,
+995,842,747,Lebanon,"Maoz, Samuel",2009,Israel-France-Germany,93,Col,Drama-War,
+996,---,---,Logan,"Mangold, James",2017,USA-Canada-Australia,137,Col,Action-Drama-Science Fiction,X
+997,914,815,Lage Raho Munna Bhai,"Hirani, Rajkumar",2006,India,144,Col,Comedy-Drama-Romance,
+998,---,---,Arabian Nights: Volume 1 - The Restless One,"Gomes, Miguel",2015,Portugal-France-Germany-Switzerland,125,Col,Drama,
+999,---,---,"Lac, Un","Grandrieux, Philippe",2008,France,90,Col,Drama,
+1000,---,---,Snowtown,"Kurzel, Justin",2011,Australia,119,Col,Biography-Crime-Drama,

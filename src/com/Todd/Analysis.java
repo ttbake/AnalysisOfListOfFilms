@@ -1,6 +1,7 @@
 package com.Todd;
 
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.List;
 import java.util.Random;
 
@@ -38,6 +39,7 @@ public class Analysis {
                 i++;
             }
         }
+        Arrays.sort(lengthArray);
         if (lengthArray.length % 2 == 1){
             return lengthArray[(lengthArray.length + 1)/2 - 1];
         }
