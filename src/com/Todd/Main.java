@@ -33,10 +33,10 @@ public class Main {
                 Film film = new Film();
                 film.setPosition(Integer.parseInt(filmData[0]));
                 if (!filmData[1].equals("---")){
-                    film.setPosition2019(Integer.parseInt(filmData[1]));
+                    film.setPosition2020(Integer.parseInt(filmData[1]));
                 }
                 if (!filmData[2].equals("---")){
-                    film.setPosition2018(Integer.parseInt(filmData[2]));
+                    film.setPosition2019(Integer.parseInt(filmData[2]));
                 }
                 film.setTitle(filmData[3].replace("\"",""));
                 film.setDirector(filmData[4].replace("\"",""));
@@ -69,8 +69,8 @@ public class Main {
         System.out.println("Random movie " + analysis.randomMovie().toString());
 
         Random random = new Random();
-        int firstYear = random.nextInt(2019-1902) + 1902;
-        int secondYear = random.nextInt(2019-firstYear) + firstYear;
+        int firstYear = random.nextInt(2020-1902) + 1902;
+        int secondYear = random.nextInt(2020-firstYear) + firstYear;
         System.out.println("Number of films between " + firstYear + " and " + secondYear + " is " + analysis.numberOfFilmsInbetweenYears(firstYear, secondYear));
 
         //MachineLearning machineLearning = new MachineLearning(filmArrayList);
@@ -79,8 +79,8 @@ public class Main {
         System.out.println("Average length of seen movies " + analysis.averageFilmLength(true));
         System.out.println("Average length of unseen movies " + analysis.averageFilmLength(false));
 
-        System.out.println("Percentage of films seen " + analysis.percentageSeenUnseen(true) * 100);
-        System.out.println("Percentage of films seen by length " + analysis.percentageSeenUnseenByFilmLength(true) * 100);
+        System.out.println("Percentage of films seen " + analysis.percentageSeenUnseen(true));
+        System.out.println("Percentage of films seen by length " + analysis.percentageSeenUnseenByFilmLength(true));
 
         System.out.println("Median length of seen movies " + analysis.medianLength(true));
         System.out.println("Median length of unseen movies " + analysis.medianLength(false));

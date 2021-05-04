@@ -33,9 +33,9 @@ public class Output {
                 Film film = (Film)it.next();
                 fileWriter.append(String.valueOf(film.getPosition()));
                 fileWriter.append(TAB_DELIMITER);
-                fileWriter.append(String.valueOf(film.getPosition2019()));
+                fileWriter.append(String.valueOf(film.getPosition2020()));
                 fileWriter.append(TAB_DELIMITER);
-                fileWriter.append(String.valueOf(film.getPosition2018()));
+                fileWriter.append(String.valueOf(film.getPosition2019()));
                 fileWriter.append(TAB_DELIMITER);
                 fileWriter.append(film.getTitle());
                 fileWriter.append(TAB_DELIMITER);
