@@ -298,7 +298,7 @@ Pos,2020,2019,Title,Director,Year,Country,Length,Genre,Colour,Seen
 297,294,289,Where is the Friend's Home?,"Kiarostami, Abbas",1987,Iran,85,Drama,Col,
 298,288,276,Crimes and Misdemeanors,"Allen, Woody",1989,USA,104,Drama-Comedy,Col,X
 299,281,280,Husbands,"Cassavetes, John",1970,USA,138,Drama,Col,X
-300,333,375,Wanda,"Loden, Barbara",1970,USA,105,Drama-Crime,Col,
+300,333,375,Wanda,"Loden, Barbara",1970,USA,105,Drama-Crime,Col,X
 301,301,299,Killer of Sheep,"Burnett, Charles",1977,USA,83,Drama,BW,
 302,290,296,"Big Sleep, The","Hawks, Howard",1946,USA,114,Mystery-Crime,BW,X
 303,286,303,This is Spinal Tap,"Reiner, Rob",1984,USA,82,Comedy-Musical,Col,X
@@ -386,7 +386,7 @@ Pos,2020,2019,Title,Director,Year,Country,Length,Genre,Colour,Seen
 385,366,398,Land Without Bread,"Buñuel, Luis",1932,Spain,28,Documentary-Short-Drama,BW,X
 386,503,480,Muriel,"Resnais, Alain",1963,France-Italy,115,Drama,Col,
 387,369,349,Through the Olive Trees,"Kiarostami, Abbas",1994,Iran-France,103,Drama,Col,
-388,376,361,"Palm Beach Story, The","Sturges, Preston",1942,USA,90,Romance-Comedy,BW,
+388,376,361,"Palm Beach Story, The","Sturges, Preston",1942,USA,90,Romance-Comedy,BW,X
 389,407,386,1900,"Bertolucci, Bernardo",1976,Italy-France-West Germany,245,Political-Drama-History,Col,
 390,379,368,Russian Ark,"Sokurov, Aleksandr",2002,Russia-Germany-Japan-Canada-Finland-Denmark,96,Fantasy-Drama,Col,
 391,384,411,"Crouching Tiger, Hidden Dragon","Lee, Ang",2000,Taiwan-Hong Kong-USA-China,120,Drama-Adventure-Action,Col,X
@@ -420,7 +420,7 @@ Pos,2020,2019,Title,Director,Year,Country,Length,Genre,Colour,Seen
 419,435,472,Dead Man,"Jarmusch, Jim",1995,USA-Germany,121,Western-Drama,BW,X
 420,410,370,"Affair to Remember, An","McCarey, Leo",1957,USA,115,Romance-Drama,Col,X
 421,404,399,Yojimbo,"Kurosawa, Akira",1961,Japan,110,Drama-Action,BW,X
-422,456,481,Some Came Running,"Minnelli, Vincente",1958,USA,136,Drama,Col,
+422,456,481,Some Came Running,"Minnelli, Vincente",1958,USA,136,Drama,Col,X
 423,493,477,Boogie Nights,"Anderson, Paul Thomas",1997,USA,155,Drama,Col,X
 424,436,397,"Hustler, The","Rossen, Robert",1961,USA,135,Drama-Sport,BW,X
 425,413,412,Fitzcarraldo,"Herzog, Werner",1982,West Germany,157,Drama-Adventure,Col,X
@@ -520,7 +520,7 @@ Pos,2020,2019,Title,Director,Year,Country,Length,Genre,Colour,Seen
 519,501,464,12 Angry Men,"Lumet, Sidney",1957,USA,95,Drama,BW,X
 520,527,525,"Vampires, Les","Feuillade, Louis",1915,France,440,Thriller-Crime-Action,BW,X
 521,495,493,Shadow of a Doubt,"Hitchcock, Alfred",1943,USA,108,Thriller,BW,X
-522,476,510,Point Blank,"Boorman, John",1967,USA,92,Thriller-Crime-Action,Col,
+522,476,510,Point Blank,"Boorman, John",1967,USA,92,Thriller-Crime-Action,Col,X
 523,502,529,Alphaville,"Godard, Jean-Luc",1965,France,95,Science Fiction-Mystery-Drama,BW,
 524,529,556,Amélie,"Jeunet, Jean-Pierre",2001,France-Germany,122,Romance-Comedy,Col,X
 525,513,497,"Terra trema, La","Visconti, Luchino",1948,Italy,160,Drama,BW,
@@ -616,7 +616,7 @@ Pos,2020,2019,Title,Director,Year,Country,Length,Genre,Colour,Seen
 615,577,733,"Ciénaga, La","Martel, Lucrecia",2001,Argentina-France-Spain,103,Drama-Comedy,Col,
 616,581,577,Aparajito,"Ray, Satyajit",1956,India,108,Drama,BW,
 617,747,734,Fellini's Roma,"Fellini, Federico",1972,Italy,128,Drama-Comedy,Col,
-618,598,609,Before Sunset,"Linklater, Richard",2004,USA,80,Romance-Drama,Col,
+618,598,609,Before Sunset,"Linklater, Richard",2004,USA,80,Romance-Drama,Col,X
 619,648,633,After Life,"Koreeda, Hirokazu",1998,Japan,118,Drama-Fantasy,Col,
 620,575,623,"Manchurian Candidate, The","Frankenheimer, John",1962,USA,126,Political-Thriller-Drama,BW,X
 621,671,671,"Party, The","Edwards, Blake",1968,USA,99,Comedy,Col,
@@ -717,7 +717,7 @@ Pos,2020,2019,Title,Director,Year,Country,Length,Genre,Colour,Seen
 716,726,713,"Woman Next Door, The","Truffaut, François",1981,France,106,Romance-Drama,Col,X
 717,667,606,Passion,"Godard, Jean-Luc",1982,France-Switzerland,87,Drama,Col,
 718,705,763,Irréversible,"Noé, Gaspar",2002,France,97,Crime-Drama-Horror,Col,
-719,668,694,Gun Crazy,"Lewis, Joseph H.",1950,USA,86,Drama-Crime,BW,
+719,668,694,Gun Crazy,"Lewis, Joseph H.",1950,USA,86,Drama-Crime,BW,X
 720,798,766,Jurassic Park,"Spielberg, Steven",1993,USA,126,Science Fiction-Adventure-Action,Col,X
 721,738,680,"Dames du Bois de Boulogne, Les","Bresson, Robert",1945,France,85,Drama-Romance,BW,
 722,826,845,"Ghost and Mrs. Muir, The","Mankiewicz, Joseph L.",1947,USA,104,Romance-Fantasy,BW,X
@@ -726,7 +726,7 @@ Pos,2020,2019,Title,Director,Year,Country,Length,Genre,Colour,Seen
 725,702,673,Spartacus,"Kubrick, Stanley",1960,USA,184,Adventure-History-Drama,Col,X
 726,698,731,L.A. Confidential,"Hanson, Curtis",1997,USA,137,Thriller-Crime,Col,X
 727,694,695,W.R.: Mysteries of the Organism,"Makavejev, Dusan",1971,Yugoslavia,84,Drama-Comedy-Fantasy,Col,X
-728,741,684,Blow Out,"De Palma, Brian",1981,USA,107,Thriller-Mystery,Col,
+728,741,684,Blow Out,"De Palma, Brian",1981,USA,107,Thriller-Mystery,Col,X
 729,685,692,My Life as a Dog,"Hallström, Lasse",1985,Sweden,101,Drama-Comedy,Col,
 730,---,---,"American Werewolf in London, An","Landis, John",1981,USA,97,Horror-Comedy,Col,X
 731,700,741,"Circus, The","Chaplin, Charles",1928,USA,72,Drama-Comedy-Family,BW,X
@@ -747,7 +747,7 @@ Pos,2020,2019,Title,Director,Year,Country,Length,Genre,Colour,Seen
 746,704,686,When Harry Met Sally...,"Reiner, Rob",1989,USA,95,Romance-Comedy,Col,X
 747,697,649,Foolish Wives,"von Stroheim, Erich",1922,USA,117,Drama,BW,
 748,713,681,"Man Who Would Be King, The","Huston, John",1975,USA,129,Adventure,Col,X
-749,748,716,Dirty Harry,"Siegel, Don",1971,USA,102,Crime-Action,Col,
+749,748,716,Dirty Harry,"Siegel, Don",1971,USA,102,Crime-Action,Col,X
 750,809,836,Grave of the Fireflies,"Takahata, Isao",1988,Japan,93,Animated-War-Drama,Col,X
 751,757,689,Ferris Bueller's Day Off,"Hughes, John",1986,USA,103,Comedy,Col,X
 752,707,712,Vive L'Amour,Tsai Ming-liang,1994,Taiwan,118,Drama,Col,
@@ -824,7 +824,7 @@ Pos,2020,2019,Title,Director,Year,Country,Length,Genre,Colour,Seen
 823,837,858,"Intruder, The","Denis, Claire",2004,France-South Korea,130,Drama,Col,
 824,797,827,Blue,"Jarman, Derek",1993,UK,76,Documentary-Drama,Col,
 825,808,806,"Ladykillers, The","Mackendrick, Alexander",1955,UK,90,Crime-Comedy,Col,X
-826,818,786,Assault on Precinct 13,"Carpenter, John",1976,USA,90,Action,Col,
+826,818,786,Assault on Precinct 13,"Carpenter, John",1976,USA,90,Action,Col,X
 827,784,758,Kaagaz Ke Phool,"Dutt, Guru",1959,India,148,Romance-Drama,BW,
 828,815,744,Port of Shadows,"Carné, Marcel",1938,France,91,Drama,BW,
 829,803,772,"Holy Mountain, The","Jodorowsky, Alejandro",1973,Mexico-USA,114,Adventure-Drama-Fantasy,Col,
@@ -844,7 +844,7 @@ Pos,2020,2019,Title,Director,Year,Country,Length,Genre,Colour,Seen
 843,888,853,Au revoir les enfants,"Malle, Louis",1987,France,103,War-Drama,Col,
 844,820,738,"Lusty Men, The","Ray, Nicholas",1952,USA,113,Western-Sport-Drama,BW,
 845,847,805,Sawdust and Tinsel,"Bergman, Ingmar",1953,Sweden,92,Drama,BW,X
-846,807,777,"Miracle of Morgan's Creek, The","Sturges, Preston",1944,USA,99,Comedy,BW,
+846,807,777,"Miracle of Morgan's Creek, The","Sturges, Preston",1944,USA,99,Comedy,BW,X
 847,823,778,Forbidden Games,"Clément, René",1952,France,87,War-Drama,BW,
 848,824,780,Street of Shame,"Mizoguchi, Kenji",1956,Japan,87,Drama,BW,
 849,825,765,Veronika Voss,"Fassbinder, Rainer Werner",1982,West Germany,105,Drama,BW,
@@ -889,7 +889,7 @@ Pos,2020,2019,Title,Director,Year,Country,Length,Genre,Colour,Seen
 888,947,883,Good Morning,"Ozu, Yasujiro",1959,Japan,94,Comedy,Col,
 889,841,789,Numéro deux,"Godard, Jean-Luc",1975,France,88,Drama,Col,
 890,852,854,My Little Loves,"Eustache, Jean",1974,France,123,Drama,Col,
-891,985,916,"Bridges of Madison County, The","Eastwood, Clint",1995,USA,135,Romance-Drama,Col,
+891,985,916,"Bridges of Madison County, The","Eastwood, Clint",1995,USA,135,Romance-Drama,Col,X
 892,957,938,Strangers When We Meet,"Quine, Richard",1960,USA,117,Drama-Romance,Col,
 893,861,776,Branded to Kill,"Suzuki, Seijun",1967,Japan,91,Crime-Action-Drama,BW,X
 894,---,---,Macunaima,"de Andrade, Joaquim Pedro",1969,Brazil,110,Fantasy-Comedy,Col,
@@ -976,7 +976,7 @@ Pos,2020,2019,Title,Director,Year,Country,Length,Genre,Colour,Seen
 975,925,849,Ludwig,"Visconti, Luchino",1973,Italy-France-West Germany,235,Drama-Biography-History,Col,
 976,921,889,Black Orpheus,"Camus, Marcel",1959,Brazil-France,103,Drama-Romance,Col,X
 977,---,---,"Go-Between, The","Losey, Joseph",1971,UK,116,Romance-Drama,Col,
-978,939,922,Before Sunrise,"Linklater, Richard",1995,USA,101,Romance-Drama,Col,X
+978,939,922,Before Sunrise,"Linklater, Richard",1995,USA,101,Romance-Drama,Col,
 979,922,898,Gentlemen Prefer Blondes,"Hawks, Howard",1953,USA,91,Romance-Musical-Comedy,Col,
 980,924,886,Reds,"Beatty, Warren",1981,USA,200,History-Drama-Biography,Col,
 981,986,---,"Humanité, L'","Dumont, Bruno",1999,France,141,Drama-Mystery,Col,
