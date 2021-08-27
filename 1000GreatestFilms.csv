@@ -1,1001 +1,1001 @@
 Pos,2020,2019,Title,Director,Year,Country,Length,Genre,Colour,Seen
-1,1,1,Citizen Kane,"Welles, Orson",1941,USA,119,Drama-Mystery,BW,X
-2,2,2,Vertigo,"Hitchcock, Alfred",1958,USA,128,Thriller-Drama-Mystery,Col,X
-3,3,3,2001: A Space Odyssey,"Kubrick, Stanley",1968,UK-USA,139,Science Fiction,Col,X
-4,4,4,"Rules of the Game, The","Renoir, Jean",1939,France,113,Drama-Comedy,BW,X
-5,5,5,Tokyo Story,"Ozu, Yasujiro",1953,Japan,134,Drama,BW,X
-6,6,6,8½,"Fellini, Federico",1963,Italy,135,Drama,BW,X
-7,7,7,"Godfather, The","Coppola, Francis Ford",1972,USA,175,Drama-Crime,Col,X
-8,8,8,Sunrise,"Murnau, F.W.",1927,USA,110,Romance-Drama-Crime,BW,X
-9,9,9,"Searchers, The","Ford, John",1956,USA,119,Western,Col,X
-10,10,10,Seven Samurai,"Kurosawa, Akira",1954,Japan,200,Drama-Action-History,BW,X
-11,11,11,Apocalypse Now,"Coppola, Francis Ford",1979,USA,150,War-Drama-Adventure,Col,X
-12,12,12,Singin' in the Rain,"Donen, Stanley/Gene Kelly",1952,USA,102,Musical-Dance-Comedy,Col,X
-13,13,13,Bicycle Thieves,"De Sica, Vittorio",1948,Italy,90,Drama,BW,X
-14,15,14,Battleship Potemkin,"Eisenstein, Sergei",1925,USSR,71,War-History,BW,X
-15,14,15,Taxi Driver,"Scorsese, Martin",1976,USA,113,Drama-Crime,Col,X
-16,16,16,Breathless,"Godard, Jean-Luc",1960,France,89,Romance-Drama-Crime,BW,X
-17,18,18,"Atalante, L'","Vigo, Jean",1934,France,89,Romance-Drama,BW,X
-18,17,17,"Passion of Joan of Arc, The","Dreyer, Carl Theodor",1928,France,110,History-Drama-Biography,BW,X
-19,19,19,Persona,"Bergman, Ingmar",1966,Sweden,83,Drama-Thriller,BW,X
-20,20,21,"Man with a Movie Camera, The","Vertov, Dziga",1929,USSR,80,Documentary-Avant-Garde,BW,X
-21,21,20,Rashomon,"Kurosawa, Akira",1950,Japan,88,Drama-Crime,BW,X
-22,23,25,Psycho,"Hitchcock, Alfred",1960,USA,109,Thriller-Horror,BW,X
-23,27,27,Andrei Rublev,"Tarkovsky, Andrei",1966,USSR,185,History-Biography,Col-BW,X
-24,22,23,"400 Blows, The","Truffaut, François",1959,France,99,Drama,BW,X
-25,25,24,Raging Bull,"Scorsese, Martin",1980,USA,128,Sport-Drama-Biography,BW,X
-26,24,22,"Godfather Part II, The","Coppola, Francis Ford",1974,USA,200,Drama-Crime,Col,X
-27,28,26,City Lights,"Chaplin, Charles",1931,USA,86,Romance-Comedy,BW,X
-28,26,28,Some Like it Hot,"Wilder, Billy",1959,USA,119,Romance-Crime-Comedy,BW,X
-29,30,30,"Mirror, The","Tarkovsky, Andrei",1975,USSR,108,Drama-Biography,Col-BW,X
-30,29,29,"Dolce vita, La","Fellini, Federico",1960,Italy,175,Drama,BW,
-31,31,31,Touch of Evil,"Welles, Orson",1958,USA,108,Thriller-Crime,BW,X
-32,33,36,Lawrence of Arabia,"Lean, David",1962,UK,216,War-Biography-Adventure,Col,X
-33,35,34,Sunset Blvd.,"Wilder, Billy",1950,USA,110,Drama,BW,X
-34,34,32,Au hasard Balthazar,"Bresson, Robert",1966,France,95,Drama,BW,X
-35,32,33,Ordet,"Dreyer, Carl Theodor",1955,Denmark,125,Religious-Drama,BW,X
-36,36,35,Casablanca,"Curtiz, Michael",1942,USA,102,War-Romance-Drama,BW,X
-37,38,37,"Avventura, L'","Antonioni, Michelangelo",1960,Italy-France,145,Drama-Mystery-Romance,BW,X
-38,37,38,Blade Runner,"Scott, Ridley",1982,USA,118,Science Fiction-Thriller-Drama,Col,X
-39,40,40,"General, The","Keaton, Buster/Clyde Bruckman",1926,USA,74,Comedy-Adventure,BW,X
-40,39,39,Contempt,"Godard, Jean-Luc",1963,France-Italy,103,Drama,Col,X
-41,41,41,Rear Window,"Hitchcock, Alfred",1954,USA,112,Thriller-Mystery,Col,X
-42,42,44,In the Mood for Love,Wong Kar-wai,2000,Hong Kong-France,97,Romance-Drama,Col,X
-43,43,43,"Night of the Hunter, The","Laughton, Charles",1955,USA,93,Thriller,BW,X
-44,44,42,"Grande illusion, La","Renoir, Jean",1937,France,117,Prison-Drama-War,BW,X
-45,46,47,Ugetsu monogatari,"Mizoguchi, Kenji",1953,Japan,96,Drama,BW,X
-46,49,48,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,"Kubrick, Stanley",1964,UK-USA,93,War-Comedy,BW,X
-47,45,49,"Third Man, The","Reed, Carol",1949,UK,104,Thriller-Mystery,BW,X
-48,53,53,Barry Lyndon,"Kubrick, Stanley",1975,UK,183,Drama,Col,X
-49,47,46,Playtime,"Tati, Jacques",1967,France,108,Comedy,Col,X
-50,54,60,Mulholland Dr.,"Lynch, David",2001,France-USA,147,Mystery-Drama-Thriller,Col,X
-51,48,45,Modern Times,"Chaplin, Charles",1936,USA,89,Comedy-Romance,BW,X
-52,51,52,Stalker,"Tarkovsky, Andrei",1979,USSR,160,Science Fiction-Mystery,Col-BW,X
-53,50,51,Fanny and Alexander,"Bergman, Ingmar",1982,Sweden,189,Drama,Col,X
-54,57,57,Rio Bravo,"Hawks, Howard",1959,USA,141,Western,Col,X
-55,52,50,Chinatown,"Polanski, Roman",1974,USA,131,Mystery-Crime,Col,X
-56,58,56,M,"Lang, Fritz",1931,Germany,99,Thriller-Drama-Crime,BW,X
-57,55,55,Pather Panchali,"Ray, Satyajit",1955,India,112,Drama,BW,X
-58,59,61,North by Northwest,"Hitchcock, Alfred",1959,USA,136,Thriller-Spy-Romance,Col,X
-59,56,54,"Apartment, The","Wilder, Billy",1960,USA,125,Drama-Comedy,BW,X
-60,60,59,Metropolis,"Lang, Fritz",1927,Germany,153,Fantasy-Science Fiction-Drama,BW,X
-61,61,58,Wild Strawberries,"Bergman, Ingmar",1957,Sweden,90,Drama,BW,X
-62,62,62,"Enfants du paradis, Les","Carné, Marcel",1945,France,195,Romance-Drama,BW,
-63,64,63,Pierrot le fou,"Godard, Jean-Luc",1965,France-Italy,110,Romance-Drama-Crime,Col,X
-64,72,76,Pulp Fiction,"Tarantino, Quentin",1994,USA,154,Drama-Crime-Comedy,Col,X
-65,68,65,Once Upon a Time in the West,"Leone, Sergio",1968,Italy-USA,165,Western,Col,X
-66,63,64,Viridiana,"Buñuel, Luis",1961,Spain,90,Drama,BW,
-67,65,67,"Strada, La","Fellini, Federico",1954,Italy,115,Drama,BW,X
-68,70,77,GoodFellas,"Scorsese, Martin",1990,USA,146,Drama-Crime,Col,X
-69,67,66,"Wild Bunch, The","Peckinpah, Sam",1969,USA,144,Western,Col,X
-70,71,70,Amarcord,"Fellini, Federico",1973,Italy,127,Drama-Comedy,Col,X
-71,66,69,Shoah,"Lanzmann, Claude",1985,France,566,Documentary,Col,X
-72,74,74,"Leopard, The","Visconti, Luchino",1963,Italy,205,History-Drama-War,Col,X
-73,69,72,"Seventh Seal, The","Bergman, Ingmar",1957,Sweden,96,Fantasy-Drama,BW,X
-74,75,73,Voyage in Italy,"Rossellini, Roberto",1953,Italy,97,Romance-Drama,BW,
-75,73,68,"Battle of Algiers, The","Pontecorvo, Gillo",1966,Italy-Algeria,123,War-Political-Drama,BW,X
-76,76,71,"Gold Rush, The","Chaplin, Charles",1925,USA,82,Comedy-Adventure-Family,BW,X
-77,80,79,"Clockwork Orange, A","Kubrick, Stanley",1971,UK,137,Science Fiction-Crime-Drama,Col,X
-78,77,78,"Magnificent Ambersons, The","Welles, Orson",1942,USA,88,Drama,BW,X
-79,79,81,Pickpocket,"Bresson, Robert",1959,France,75,Drama-Crime,BW,X
-80,78,75,Late Spring,"Ozu, Yasujiro",1949,Japan,108,Romance-Drama-Family,BW,X
-81,82,86,Close-Up,"Kiarostami, Abbas",1990,Iran,98,Documentary-Drama-Crime,Col,X
-82,83,84,Jules et Jim,"Truffaut, François",1962,France,104,Romance-Drama,BW,X
-83,81,80,It's a Wonderful Life,"Capra, Frank",1946,USA,129,Fantasy-Drama-Family,BW,X
-84,91,96,"Shining, The","Kubrick, Stanley",1980,USA,142,Horror,Col,X
-85,84,95,"Jeanne Dielman, 23 Quai du Commerce, 1080 Bruxelles","Akerman, Chantal",1975,Belgium-France,201,Drama-Avant-Garde,Col,X
-86,88,89,Annie Hall,"Allen, Woody",1977,USA,94,Romance-Comedy,Col,X
-87,86,83,"Conformist, The","Bertolucci, Bernardo",1970,Italy-France-West Germany,107,Political-Drama,Col,
-88,87,85,Nashville,"Altman, Robert",1975,USA,159,Drama,Col,
-89,85,82,Blue Velvet,"Lynch, David",1986,USA,120,Mystery-Crime-Drama,Col,X
-90,89,87,Gertrud,"Dreyer, Carl Theodor",1964,Denmark,116,Drama,BW,
-91,93,92,Sansho the Bailiff,"Mizoguchi, Kenji",1954,Japan,125,Drama,BW,X
-92,90,88,"Man Escaped, A","Bresson, Robert",1956,France,102,Prison-Drama,BW,X
-93,95,90,"Man Who Shot Liberty Valance, The","Ford, John",1962,USA,119,Western,BW,X
-94,92,91,Jaws,"Spielberg, Steven",1975,USA,124,Horror-Thriller-Adventure,Col,X
-95,94,97,"Woman Under the Influence, A","Cassavetes, John",1974,USA,155,Drama,Col,X
-96,100,101,Once Upon a Time in America,"Leone, Sergio",1984,Italy-USA,229,Drama-Crime,Col,X
-97,96,93,Greed,"von Stroheim, Erich",1924,USA,140,Drama,BW,X
-98,99,99,Blow-Up,"Antonioni, Michelangelo",1966,Italy-UK,111,Mystery-Drama,Col,
-99,98,94,Last Year at Marienbad,"Resnais, Alain",1961,France-Italy,94,Drama-Mystery-Avant-Garde,BW,
-100,102,102,To Be or Not to Be,"Lubitsch, Ernst",1942,USA,99,War-Comedy,BW,X
-101,97,100,Sans soleil,"Marker, Chris",1983,France,100,Avant-Garde-Documentary,Col,
-102,101,98,Aguirre: The Wrath of God,"Herzog, Werner",1972,West Germany,94,History-Drama-Adventure,Col,X
-103,103,108,"Mother and the Whore, The","Eustache, Jean",1973,France,210,Drama,BW,
-104,105,105,"Wizard of Oz, The","Fleming, Victor",1939,USA,101,Musical-Fantasy-Family,Col-BW,X
-105,104,113,"Spirit of the Beehive, The","Erice, Victor",1973,Spain,95,Drama,Col,
-106,110,107,Hiroshima mon amour,"Resnais, Alain",1959,France-Japan,91,Drama,BW,X
-107,122,117,Madame de...,"Ophüls, Max",1953,France-Italy,105,Romance-Drama,BW,
-108,107,109,Gone with the Wind,"Fleming, Victor",1939,USA,222,History-Romance-Drama,Col,X
-109,108,103,Sátántangó,"Tarr, Béla",1994,Hungary-Germany-Switzerland,450,Drama-Comedy-Mystery,BW,X
-110,109,106,"Eclisse, L'","Antonioni, Michelangelo",1962,Italy-France,126,Drama-Romance,BW,
-111,111,129,Alien,"Scott, Ridley",1979,USA,117,Science Fiction-Horror,Col,X
-112,106,104,Intolerance,"Griffith, D.W.",1916,USA,178,History-Drama,BW,X
-113,120,114,One Flew Over the Cuckoo's Nest,"Forman, Milos",1975,USA,133,Drama,Col,X
-114,117,119,E.T. The Extra-Terrestrial,"Spielberg, Steven",1982,USA,115,Science Fiction-Family,Col,X
-115,118,154,Beau travail,"Denis, Claire",1999,France,92,Drama,Col,
-116,119,133,Nosferatu,"Murnau, F.W.",1922,Germany,84,Horror,BW,X
-117,114,110,"Jetée, La","Marker, Chris",1962,France,27,Science Fiction-Drama-Short,BW,X
-118,123,127,Yi yi,"Yang, Edward",2000,Taiwan-Japan,173,Drama,Col,X
-119,112,112,Ikiru,"Kurosawa, Akira",1952,Japan,143,Drama,BW,X
-120,116,115,Star Wars,"Lucas, George",1977,USA,121,Science Fiction-Fantasy-Adventure,Col,X
-121,126,122,Letter from an Unknown Woman,"Ophüls, Max",1948,USA,90,Romance-Drama,BW,
-122,113,118,Sherlock Jr.,"Keaton, Buster",1924,USA,45,Fantasy-Comedy,BW,X
-123,115,111,Manhattan,"Allen, Woody",1979,USA,96,Romance-Comedy,BW,X
-124,121,123,"Brighter Summer Day, A","Yang, Edward",1991,Taiwan,237,Crime-Romance-Drama,Col,
-125,125,120,Bringing Up Baby,"Hawks, Howard",1938,USA,102,Romance-Comedy,BW,X
-126,131,125,Partie de campagne,"Renoir, Jean",1936,France,40,Romance-Drama-Short,BW,X
-127,133,131,Vivre sa vie,"Godard, Jean-Luc",1962,France,85,Drama,BW,
-128,127,130,Don't Look Now,"Roeg, Nicolas",1973,UK,110,Mystery-Thriller,Col,X
-129,124,116,All About Eve,"Mankiewicz, Joseph L.",1950,USA,138,Drama,BW,X
-130,134,140,Rosemary's Baby,"Polanski, Roman",1968,USA,136,Thriller-Horror-Drama,Col,X
-131,129,124,"Rome, Open City","Rossellini, Roberto",1945,Italy,105,War-Drama,BW,X
-132,128,121,My Darling Clementine,"Ford, John",1946,USA,97,Western,BW,
-133,130,128,"Olvidados, Los","Buñuel, Luis",1950,Mexico,88,Drama-Crime,BW,X
-134,142,148,His Girl Friday,"Hawks, Howard",1940,USA,92,Romance-Comedy,BW,X
-135,140,126,"Âge d'or, L'","Buñuel, Luis",1930,France,63,Drama-Avant-Garde-Experimental,BW,X
-136,132,132,Badlands,"Malick, Terrence",1973,USA,95,Drama-Crime,Col,X
-137,137,137,Do the Right Thing,"Lee, Spike",1989,USA,120,Drama-Comedy,Col,X
-138,139,158,"Good, the Bad and the Ugly, The","Leone, Sergio",1966,Italy-Spain,161,Western-Action,Col,X
-139,135,134,Notorious,"Hitchcock, Alfred",1946,USA,101,Romance-Thriller-Mystery,BW,X
-140,143,143,"Lady Eve, The","Sturges, Preston",1941,USA,94,Romance-Comedy,BW,X
-141,138,139,"Chien andalou, Un","Buñuel, Luis",1928,France,16,Horror-Fantasy-Avant-Garde,BW,X
-142,141,135,Ali: Fear Eats the Soul,"Fassbinder, Rainer Werner",1974,West Germany,94,Romance-Drama,Col,
-143,136,138,Stagecoach,"Ford, John",1939,USA,96,Western-Action-Drama,BW,X
-144,146,145,"Gospel According to St. Matthew, The","Pasolini, Pier Paolo",1964,Italy-France,135,Religious-Drama,BW,
-145,150,141,Come and See,"Klimov, Elem",1985,USSR,136,War-Drama-History,Col,X
-146,145,147,Duck Soup,"McCarey, Leo",1933,USA,70,Comedy,BW,X
-147,144,136,"Passenger, The","Antonioni, Michelangelo",1975,Italy,119,Drama,Col,
-148,149,152,Trouble in Paradise,"Lubitsch, Ernst",1932,USA,83,Romance-Comedy,BW,X
-149,152,151,Brief Encounter,"Lean, David",1945,UK,85,Romance-Drama,BW,X
-150,158,156,Cries and Whispers,"Bergman, Ingmar",1972,Sweden,106,Drama,Col,X
-151,154,144,"Conversation, The","Coppola, Francis Ford",1974,USA,113,Thriller-Drama-Crime,Col,X
-152,155,149,Days of Heaven,"Malick, Terrence",1978,USA,95,Romance-Drama,Col,X
-153,156,155,Histoire(s) du cinéma,"Godard, Jean-Luc",1998,France,265,Documentary,Col-BW,
-154,147,142,"Matter of Life and Death, A","Powell, Michael/Emeric Pressburger",1946,UK,104,Romance-Fantasy-Comedy,Col,
-155,148,150,Double Indemnity,"Wilder, Billy",1944,USA,106,Mystery-Crime,BW,X
-156,157,146,"Exterminating Angel, The","Buñuel, Luis",1962,Mexico,95,Drama-Fantasy-Mystery,BW,
-157,170,173,"Umbrellas of Cherbourg, The","Demy, Jacques",1964,France-Germany,91,Romance-Musical-Drama,Col,X
-158,153,153,On the Waterfront,"Kazan, Elia",1954,USA,108,Drama,BW,X
-159,172,188,Spirited Away,"Miyazaki, Hayao",2001,Japan,124,Animated-Adventure-Fantasy,Col,X
-160,168,162,"Deer Hunter, The","Cimino, Michael",1978,USA,183,War-Drama,Col,X
-161,151,157,Spring in a Small Town,Fei Mu,1948,China,85,Romance-Drama,BW,
-162,159,164,"Red Shoes, The","Powell, Michael/Emeric Pressburger",1948,UK,133,Dance-Musical-Drama,Col,X
-163,166,179,There Will Be Blood,"Anderson, Paul Thomas",2007,USA,158,Drama,Col,X
-164,160,159,Chimes at Midnight,"Welles, Orson",1965,France-Spain-Switzerland,115,War-Drama-Comedy,BW,
-165,161,160,"Discreet Charm of the Bourgeoisie, The","Buñuel, Luis",1972,France,100,Fantasy-Drama-Comedy,Col,
-166,162,200,"Piano, The","Campion, Jane",1993,New Zealand-Australia-France,121,History-Drama-Romance,Col,
-167,218,239,"Tree of Life, The","Malick, Terrence",2011,USA,139,Drama,Col,X
-168,171,170,Rocco and His Brothers,"Visconti, Luchino",1960,Italy-France,180,Drama,BW,X
-169,163,161,King Kong,"Cooper, Merian C./Ernest B. Schoedsack",1933,USA,103,Fantasy-Adventure-Horror,BW,X
-170,169,167,Earth,"Dovzhenko, Alexander",1930,USSR,75,Drama,BW,
-171,164,163,"Argent, L'","Bresson, Robert",1983,France-Switzerland,90,Drama-Crime,Col,
-172,167,165,"River, The","Renoir, Jean",1951,France-India-USA,99,Romance-Drama,Col,X
-173,165,166,Black Narcissus,"Powell, Michael/Emeric Pressburger",1947,UK,99,Drama-Religious,Col,X
-174,182,176,"Birds, The","Hitchcock, Alfred",1963,USA,120,Horror,Col,X
-175,184,183,Brazil,"Gilliam, Terry",1985,UK,131,Science Fiction-Fantasy,Col,X
-176,176,172,Napoléon,"Gance, Abel",1927,France,235,War-History-Biography,BW,
-177,179,178,"Last Laugh, The","Murnau, F.W.",1924,Germany,77,Drama,BW,X
-178,175,168,Mouchette,"Bresson, Robert",1967,France,80,Drama,BW,
-179,174,199,"Texas Chainsaw Massacre, The","Hooper, Tobe",1974,USA,83,Thriller-Horror,Col,X
-180,219,212,"Thin Red Line, The","Malick, Terrence",1998,USA,170,War-Drama-Action,Col,X
-181,173,169,"Great Dictator, The","Chaplin, Charles",1940,USA,128,War-Comedy-Political,BW,X
-182,177,171,Imitation of Life,"Sirk, Douglas",1959,USA,124,Drama-Romance,Col,
-183,187,196,Kes,"Loach, Ken",1969,UK,113,Drama,Col,
-184,178,174,"Grapes of Wrath, The","Ford, John",1940,USA,129,Drama,BW,X
-185,181,175,Dekalog,"Kieslowski, Krzysztof",1988,Poland-West Germany,550,Drama,Col,X
-186,203,195,Breaking the Waves,"von Trier, Lars",1996,Denmark-Sweden-France-Netherlands-Norway-Iceland-Spain,156,Romance-Drama,Col,X
-187,180,193,Night and Fog,"Resnais, Alain",1955,France,32,War-Documentary-Short,Col-BW,X
-188,185,186,Out of the Past,"Tourneur, Jacques",1947,USA,97,Thriller-Mystery-Crime,BW,X
-189,197,182,Death in Venice,"Visconti, Luchino",1971,Italy,130,Drama,Col,
-190,194,190,Solaris,"Tarkovsky, Andrei",1972,USSR,165,Science Fiction-Drama-Mystery,Col-BW,X
-191,189,184,Umberto D.,"De Sica, Vittorio",1952,Italy,89,Drama,BW,
-192,183,191,"City of Sadness, A",Hou Hsiao-hsien,1989,Taiwan-Hong Kong,157,Political-Drama,Col,
-193,188,220,Raiders of the Lost Ark,"Spielberg, Steven",1981,USA,115,Adventure-Action,Col,X
-194,192,214,Chungking Express,Wong Kar-wai,1994,Hong Kong,104,Romance-Drama,Col,
-195,210,187,Nights of Cabiria,"Fellini, Federico",1957,Italy-France,110,Drama,BW,
-196,190,198,Fargo,"Coen, Joel & Ethan Coen",1996,USA,98,Drama-Crime-Comedy,Col,X
-197,227,223,Eternal Sunshine of the Spotless Mind,"Gondry, Michel",2004,USA,108,Romance-Drama-Comedy,Col,X
-198,193,203,Close Encounters of the Third Kind,"Spielberg, Steven",1977,USA,135,Science Fiction-Adventure,Col,X
-199,202,194,Paisan,"Rossellini, Roberto",1946,Italy,120,War-Drama,BW,X
-200,186,181,"Life and Death of Colonel Blimp, The","Powell, Michael/Emeric Pressburger",1943,UK,163,War-Drama-Comedy,Col,X
-201,196,185,Belle de jour,"Buñuel, Luis",1967,France-Italy,100,Drama,Col,
-202,205,211,"Samouraï, Le","Melville, Jean-Pierre",1967,France,95,Thriller-Crime,Col,
-203,207,229,Vampyr,"Dreyer, Carl Theodor",1932,Germany-France,73,Horror,BW,X
-204,195,180,"Travelling Players, The","Angelopoulos, Theo",1975,Greece,230,Political-Drama,Col,
-205,191,177,"Salò, or the 120 Days of Sodom","Pasolini, Pier Paolo",1975,Italy,117,Horror-Drama-Political,Col,
-206,212,225,McCabe & Mrs. Miller,"Altman, Robert",1971,USA,121,Western-Drama,Col,X
-207,211,207,"Black God, White Devil","Rocha, Glauber",1964,Brazil,110,Political-Drama-Crime,BW,
-208,217,221,"Exorcist, The","Friedkin, William",1973,USA,122,Horror,Col,X
-209,208,236,Unforgiven,"Eastwood, Clint",1992,USA,127,Western,Col,X
-210,204,209,"Cabinet of Dr. Caligari, The","Wiene, Robert",1920,Germany,69,Horror-Fantasy,BW,X
-211,200,197,Red River,"Hawks, Howard",1948,USA,133,Western,BW,X
-212,226,219,"Big Lebowski, The","Coen, Joel & Ethan Coen",1998,USA-UK,113,Comedy-Crime,Col,X
-213,199,192,Celine and Julie Go Boating,"Rivette, Jacques",1974,France,192,Fantasy-Drama-Avant-Garde,Col,X
-214,213,202,Ran,"Kurosawa, Akira",1985,France-Japan,161,War-History-Drama,Col,X
-215,201,201,Sweet Smell of Success,"Mackendrick, Alexander",1957,USA,96,Drama,BW,X
-216,214,216,Caché,"Haneke, Michael",2005,France-Austria-Germany-Italy-USA,117,Thriller-Drama,Col,X
-217,216,208,"Graduate, The","Nichols, Mike",1967,USA,105,Romance-Drama-Comedy,Col,X
-218,221,215,Wings of Desire,"Wenders, Wim",1987,West Germany-France,130,Fantasy-Drama,Col-BW,X
-219,198,204,Performance,"Roeg, Nicolas/Donald Cammell",1970,UK,105,Drama,Col,
-220,228,217,"Ivan the Terrible, Part 2","Eisenstein, Sergei",1946,USSR,88,History-Drama-Biography,Col-BW,
-221,229,252,Tropical Malady,"Weerasethakul, Apichatpong",2004,Thailand-France-Germany-Italy,118,Drama-Fantasy-Romance,Col,
-222,206,189,"Quiet Man, The","Ford, John",1952,USA,129,Romance-Drama-Comedy,Col,X
-223,225,222,Schindler's List,"Spielberg, Steven",1993,USA,195,War-History-Drama,Col-BW,X
-224,209,206,"Best Years of Our Lives, The","Wyler, William",1946,USA,172,War-Drama,BW,X
-225,233,224,Only Angels Have Wings,"Hawks, Howard",1939,USA,121,Drama-Adventure-Romance,BW,X
-226,215,205,Ashes and Diamonds,"Wajda, Andrzej",1958,Poland,96,War-Drama-Political,BW,
-227,223,249,My Neighbour Totoro,"Miyazaki, Hayao",1988,Japan,86,Fantasy-Family-Animated,Col,X
-228,231,243,Paths of Glory,"Kubrick, Stanley",1957,USA,86,War-Drama,BW,X
-229,244,237,"Notte, La","Antonioni, Michelangelo",1961,Italy-France,120,Drama,BW,
-230,247,246,"Band Wagon, The","Minnelli, Vincente",1953,USA,112,Musical-Dance-Comedy,Col,X
-231,222,210,Wavelength,"Snow, Michael",1967,Canada-USA,45,Avant-Garde,Col,X
-232,238,240,Groundhog Day,"Ramis, Harold",1993,USA,103,Romance-Fantasy-Comedy,Col,X
-233,234,230,Diary of a Country Priest,"Bresson, Robert",1951,France,120,Religious-Drama,BW,
-234,224,227,Kind Hearts and Coronets,"Hamer, Robert",1949,UK,104,Comedy,BW,
-235,220,218,Nanook of the North,"Flaherty, Robert",1922,USA,79,Documentary,BW,X
-236,235,235,"Treasure of the Sierra Madre, The","Huston, John",1948,USA,124,Adventure-Drama-Western,BW,X
-237,241,263,Night of the Living Dead,"Romero, George A.",1968,USA,96,Horror,BW,X
-238,236,238,Zero for Conduct,"Vigo, Jean",1933,France,41,Short-Drama,BW,X
-239,248,332,Cléo from 5 to 7,"Varda, Agnès",1962,France,90,Drama,BW,
-240,232,226,"Germany, Year Zero","Rossellini, Roberto",1948,Italy-West Germany,74,War-Drama,BW,X
-241,230,231,"Paris, Texas","Wenders, Wim",1984,USA,150,Drama,Col,X
-242,237,228,Sullivan's Travels,"Sturges, Preston",1941,USA,91,Romance-Comedy,BW,X
-243,245,242,Bonnie and Clyde,"Penn, Arthur",1967,USA,111,Drama-Crime-Biography,Col,X
-244,254,286,"Thing, The","Carpenter, John",1982,USA,108,Science Fiction-Action-Horror,Col,X
-245,240,241,F for Fake,"Welles, Orson",1973,France-Iran-West Germany,85,Documentary-Avant-Garde,Col,X
-246,246,250,Johnny Guitar,"Ray, Nicholas",1954,USA,110,Western,Col,X
-247,242,232,Meet Me in St. Louis,"Minnelli, Vincente",1944,USA,113,Musical-Family-Drama,Col,X
-248,243,234,"Crowd, The","Vidor, King",1928,USA,104,Drama,BW,
-249,249,233,"Colour of Pomegranate, The","Parajanov, Sergei",1969,USSR,73,History-Avant-Garde,Col,X
-250,239,213,Two or Three Things I Know About Her,"Godard, Jean-Luc",1966,France,87,Drama,Col,
-251,261,259,"Ivan the Terrible, Part 1","Eisenstein, Sergei",1944,USSR,96,History-Drama-Biography,BW,
-252,256,251,Magnolia,"Anderson, Paul Thomas",1999,USA,188,Drama,Col-BW,X
-253,283,285,Mr. Hulot's Holiday,"Tati, Jacques",1953,France,86,Comedy,BW,X
-254,250,244,Tabu,"Murnau, F.W.",1931,USA,82,Romance-Drama-Adventure,BW,
-255,253,257,"Shop Around the Corner, The","Lubitsch, Ernst",1940,USA,97,Romance-Comedy,BW,X
-256,351,433,Uncle Boonmee Who Can Recall His Past Lives,"Weerasethakul, Apichatpong",2010,Thailand-UK-France-Germany-Spain-Netherlands,113,Drama-Fantasy,Col,
-257,258,253,Floating Clouds,"Naruse, Mikio",1955,Japan,123,Romance-Drama,BW,
-258,271,268,"Maltese Falcon, The","Huston, John",1941,USA,100,Mystery,BW,X
-259,257,245,Memories of Underdevelopment,"Gutiérrez Alea, Tomás",1968,Cuba,97,Political-Romance-Drama,BW,
-260,255,247,"Life of Oharu, The","Mizoguchi, Kenji",1952,Japan,146,Drama,BW,X
-261,274,267,My Night at Maud's,"Rohmer, Eric",1969,France,105,Romance-Drama,BW,X
-262,262,266,Faces,"Cassavetes, John",1968,USA,130,Drama,BW,X
-263,259,264,"Thin Blue Line, The","Morris, Errol",1988,USA,96,Documentary,Col,X
-264,251,258,Freaks,"Browning, Tod",1932,USA,64,Horror-Drama,BW,X
-265,252,248,"Verdugo, El","García Berlanga, Luis",1963,Spain-Italy,90,Drama-Comedy,BW,
-266,277,283,Day of Wrath,"Dreyer, Carl Theodor",1943,Denmark,110,Drama,BW,
-267,280,281,Cinema Paradiso,"Tornatore, Giuseppe",1988,Italy-France,123,Drama-Comedy,Col,X
-268,269,278,Eraserhead,"Lynch, David",1977,USA,85,Horror-Fantasy-Science Fiction,BW,X
-269,270,275,"Belle et la bête, La","Cocteau, Jean",1946,France,95,Fantasy,BW,X
-270,263,256,Mean Streets,"Scorsese, Martin",1973,USA,110,Drama-Crime,Col,X
-271,266,273,"Distant Voices, Still Lives","Davies, Terence",1988,UK,85,Drama,Col,
-272,260,254,"Story of the Last Chrysanthemums, The","Mizoguchi, Kenji",1939,Japan,148,Romance-Drama,BW,X
-273,272,261,Three Colours: Red,"Kieslowski, Krzysztof",1994,France-Switzerland-Poland,99,Drama,Col,X
-274,265,260,In a Lonely Place,"Ray, Nicholas",1950,USA,91,Drama-Mystery-Romance,BW,X
-275,267,262,Broken Blossoms,"Griffith, D.W.",1919,USA,90,Romance-Drama,BW,X
-276,264,255,Meshes of the Afternoon,"Deren, Maya & Alexander Hammid",1943,USA,15,Short-Avant-Garde-Fantasy,BW,X
-277,268,282,Kings of the Road,"Wenders, Wim",1976,West Germany,175,Drama,BW,X
-278,275,271,Love Streams,"Cassavetes, John",1984,USA,141,Drama,Col,
-279,303,309,City of God,"Meirelles, Fernando & Kátia Lund",2002,Brazil-Germany-France,129,Drama-Crime-Action,Col,X
-280,273,265,Throne of Blood,"Kurosawa, Akira",1957,Japan,108,War-Drama,BW,X
-281,336,333,Eyes Wide Shut,"Kubrick, Stanley",1999,USA-UK,159,Thriller-Drama,Col,X
-282,279,310,Peeping Tom,"Powell, Michael",1960,UK,109,Thriller-Drama,Col,X
-283,282,274,"Empire Strikes Back, The","Kershner, Irvin",1980,USA,124,Science Fiction-Fantasy-Adventure,Col,X
-284,284,269,Three Colours: Blue,"Kieslowski, Krzysztof",1993,France-Poland-Switzerland,100,Drama,Col,
-285,619,---,Holy Motors,"Carax, Leos",2012,France-Germany,115,Drama-Fantasy,Col,
-286,318,323,Dog Day Afternoon,"Lumet, Sidney",1975,USA,125,Drama-Crime,Col,X
-287,276,270,"Wages of Fear, The","Clouzot, Henri-Georges",1953,France-Italy,105,Thriller-Adventure-Action,BW,
-288,295,291,"Autumn Afternoon, An","Ozu, Yasujiro",1962,Japan,115,Drama,Col,
-289,287,279,Pandora's Box,"Pabst, G.W.",1929,Germany,133,Drama-Crime-Romance,BW,X
-290,306,302,Back to the Future,"Zemeckis, Robert",1985,USA,116,Science Fiction-Comedy,Col,X
-291,285,290,"Matrix, The","Wachowski, Lana & Lilly Wachowski",1999,USA-Australia,136,Science Fiction-Action-Adventure,Col,X
-292,291,393,Daisies,"Chytilová, Vera",1966,Czechoslovakia,76,Drama-Comedy-Avant Garde,Col-BW,
-293,305,295,"Music Room, The","Ray, Satyajit",1958,India,95,Drama,BW,
-294,298,288,Underground,"Kusturica, Emir",1995,Yugoslavia-France-Germany-Bulgaria-Czech Republic-Hungary,192,War-Drama-Comedy,Col,
-295,278,272,Monsieur Verdoux,"Chaplin, Charles",1947,USA,123,Crime-Comedy,BW,X
-296,293,292,Videodrome,"Cronenberg, David",1983,Canada,90,Horror-Science Fiction,Col,X
-297,294,289,Where is the Friend's Home?,"Kiarostami, Abbas",1987,Iran,85,Drama,Col,
-298,288,276,Crimes and Misdemeanors,"Allen, Woody",1989,USA,104,Drama-Comedy,Col,X
-299,281,280,Husbands,"Cassavetes, John",1970,USA,138,Drama,Col,X
-300,333,375,Wanda,"Loden, Barbara",1970,USA,105,Drama-Crime,Col,X
-301,301,299,Killer of Sheep,"Burnett, Charles",1977,USA,83,Drama,BW,
-302,290,296,"Big Sleep, The","Hawks, Howard",1946,USA,114,Mystery-Crime,BW,X
-303,286,303,This is Spinal Tap,"Reiner, Rob",1984,USA,82,Comedy-Musical,Col,X
-304,289,287,"Birth of a Nation, The","Griffith, D.W.",1915,USA,187,War-History-Drama,BW,X
-305,300,294,Touki Bouki,"Mambéty, Djibril Diop",1973,Senegal,85,Drama,Col,
-306,292,298,"Kid, The","Chaplin, Charles",1921,USA,60,Drama-Comedy-Family,BW,X
-307,304,316,Red Desert,"Antonioni, Michelangelo",1964,Italy-France,118,Drama,Col,
-308,320,284,Terra em Transe,"Rocha, Glauber",1967,Brazil,106,Drama-Political,BW,
-309,308,315,"Last Picture Show, The","Bogdanovich, Peter",1971,USA,118,Drama,BW,X
-310,296,314,Dawn of the Dead,"Romero, George A.",1978,USA,126,Horror-Action,Col,X
-311,321,336,Eyes Without a Face,"Franju, Georges",1960,France-Italy,88,Horror-Drama-Thriller,BW,X
-312,348,342,"Green Ray, The","Rohmer, Eric",1986,France,99,Romance-Drama,Col,
-313,309,306,All About My Mother,"Almodóvar, Pedro",1999,Spain-France,101,Drama-Comedy,Col,
-314,299,277,Week-End,"Godard, Jean-Luc",1967,France-Italy,103,Drama,Col,X
-315,302,312,Snow White and the Seven Dwarfs,"Hand, David",1937,USA,83,Animated-Family-Fantasy,Col,X
-316,311,317,Stranger Than Paradise,"Jarmusch, Jim",1984,USA,90,Comedy,BW,X
-317,297,319,Make Way for Tomorrow,"McCarey, Leo",1937,USA,92,Drama,BW,X
-318,325,307,Harold and Maude,"Ashby, Hal",1971,USA,91,Comedy-Drama-Romance,Col,X
-319,312,301,"World of Apu, The","Ray, Satyajit",1959,India,103,Drama,BW,
-320,330,318,West Side Story,"Wise, Robert/Jerome Robbins",1961,USA,151,Romance-Musical-Dance,Col,X
-321,324,325,Kiss Me Deadly,"Aldrich, Robert",1955,USA,106,Crime-Thriller-Drama,BW,
-322,378,418,"Turin Horse, The","Tarr, Béla",2011,Hungary-France-Germany-Switzerland-USA,146,Drama,BW,
-323,342,380,Tie Xi Qu: West of the Tracks,Wang Bing,2003,China,551,Documentary,Col,X
-324,317,297,"Sacrifice, The","Tarkovsky, Andrei",1986,France-Sweden,145,Drama,Col,
-325,335,329,Heat,"Mann, Michael",1995,USA,174,Thriller-Drama-Crime,Col,X
-326,350,382,"Silence of the Lambs, The","Demme, Jonathan",1991,USA,118,Thriller-Mystery,Col,X
 327,331,311,Berlin Alexanderplatz [TV],"Fassbinder, Rainer Werner",1980,West Germany-Italy,894,Drama-History-Political,Col,X
-328,329,304,"Philadelphia Story, The","Cukor, George",1940,USA,112,Romance-Comedy,BW,X
-329,322,331,It Happened One Night,"Capra, Frank",1934,USA,105,Romance-Comedy,BW,X
-330,313,328,Bride of Frankenstein,"Whale, James",1935,USA,75,Horror-Science Fiction,BW,X
-331,310,320,In the Realm of the Senses,"Oshima, Nagisa",1976,Japan-France,109,Drama-Adult-Romance,Col,
-332,343,362,Happy Together,Wong Kar-wai,1997,Hong Kong,97,Romance-Drama,Col,
-333,307,300,"Puppetmaster, The",Hou Hsiao-hsien,1993,Taiwan,141,Drama-Biography,Col,
-334,327,354,"Quince Tree Sun, The","Erice, Victor",1992,Spain,133,Documentary-Biography-Drama,Col,
-335,465,523,Melancholia,"von Trier, Lars",2011,Denmark-Sweden-France-Germany,136,Drama-Science Fiction,Col,X
-336,316,327,Midnight Cowboy,"Schlesinger, John",1969,USA,113,Drama,Col,X
-337,315,313,Reservoir Dogs,"Tarantino, Quentin",1992,USA,99,Drama-Crime-Thriller,Col,X
-338,344,390,"Innocents, The","Clayton, Jack",1961,UK,100,Horror-Thriller,BW,
-339,349,334,"Killing of a Chinese Bookie, The","Cassavetes, John",1976,USA,109,Drama-Crime,Col,X
-340,375,478,"Separation, A","Farhadi, Asghar",2011,Iran,123,Drama,Col,X
-341,328,346,Days of Being Wild,Wong Kar-wai,1990,Hong Kong,94,Drama,Col,
-342,314,293,Cabaret,"Fosse, Bob",1972,USA,128,Musical-Drama-Dance,Col,X
-343,319,308,"Time to Live and the Time to Die, The",Hou Hsiao-hsien,1985,Taiwan,137,Drama,Col,
-344,332,353,"House is Black, The","Farrokhzad, Forugh",1963,Iran,20,Documentary-Short,BW,X
-345,323,305,"Canterbury Tale, A","Powell, Michael/Emeric Pressburger",1944,UK,124,Drama,BW,X
-346,326,322,"Touch of Zen, A","Hu, King",1971,Taiwan,200,Adventure-Action-Drama,Col,X
-347,334,341,Aliens,"Cameron, James",1986,USA,137,Science Fiction-Horror-Action,Col,X
-348,355,352,Dogville,"von Trier, Lars",2003,Denmark-Sweden-France-UK-Germany-Finland-Italy-Netherlands-Norway,177,Drama,Col,X
-349,339,321,Orpheus,"Cocteau, Jean",1950,France,95,Romance-Fantasy-Drama,BW,
-350,394,402,Army of Shadows,"Melville, Jean-Pierre",1969,France-Italy,140,War-Drama,Col,
-351,629,---,Mad Max: Fury Road,"Miller, George",2015,Australia-USA,120,Action-Adventure-Science Fiction,Col,X
-352,352,356,Teorema,"Pasolini, Pier Paolo",1968,Italy,98,Drama,Col,
-353,341,330,Amadeus,"Forman, Milos",1984,USA,158,Musical-Biography-Drama,Col,X
-354,360,394,Carrie,"De Palma, Brian",1976,USA,97,Horror-Thriller,Col,X
-355,455,434,"Plaisir, Le","Ophüls, Max",1952,France,97,Romance-Drama,BW,
-356,337,324,To Kill a Mockingbird,"Mulligan, Robert",1962,USA,129,Drama,BW,X
-357,354,366,Suspiria,"Argento, Dario",1977,Italy,92,Horror,Col,
-358,340,335,"I Was Born, But...","Ozu, Yasujiro",1932,Japan,100,Drama-Comedy,BW,X
-359,338,348,"Tenant, The","Polanski, Roman",1976,France-USA,125,Horror-Thriller-Mystery,Col,X
-360,359,391,Brokeback Mountain,"Lee, Ang",2005,USA-Canada,134,Romance-Drama,Col,X
-361,346,343,I Am Cuba,"Kalatozov, Mikhail",1964,USSR-Cuba,141,Political-Drama,BW,
-362,347,326,How Green Was My Valley,"Ford, John",1941,USA,118,Drama,BW,X
-363,---,---,Toni Erdmann,"Ade, Maren",2016,Germany-Austria-Switzerland-Romania,162,Comedy-Drama,Col,
-364,365,381,"Elephant Man, The","Lynch, David",1980,USA,125,Drama-Biography,BW,X
-365,362,338,Lola Montès,"Ophüls, Max",1955,France-West Germany,116,Drama-Biography-Romance,Col,
-366,381,389,WALL-E,"Stanton, Andrew",2008,USA,98,Animated-Adventure-Science Fiction,Col,X
-367,377,447,Lost in Translation,"Coppola, Sofia",2003,USA-Japan,102,Romance-Drama-Comedy,Col,X
-368,361,344,High Noon,"Zinnemann, Fred",1952,USA,84,Western,BW,X
-369,345,337,Listen to Britain,"Jennings, Humphrey",1942,UK,20,Documentary-Short-War,BW,X
-370,367,363,Werckmeister Harmonies,"Tarr, Béla",2000,Hungary-Germany-France-Switzerland-Italy,145,Drama,BW,
-371,371,387,Last Tango in Paris,"Bertolucci, Bernardo",1972,France-Italy,136,Romance-Drama-Adult,Col,
-372,372,369,"Young Girls of Rochefort, The","Demy, Jacques",1967,France,124,Musical-Dance-Comedy,Col,X
-373,388,444,"Gleaners & I, The","Varda, Agnès",2000,France,82,Documentary,Col,X
-374,382,438,Talk to Her,"Almodóvar, Pedro",2002,Spain,112,Romance-Drama,Col,X
-375,357,347,Marnie,"Hitchcock, Alfred",1964,USA,130,Crime-Drama-Mystery,Col,X
-376,364,404,Platform,Jia Zhangke,2000,China-Hong Kong-Japan-France,154,Drama-History,Col,
-377,363,355,Salvatore Giuliano,"Rosi, Francesco",1962,Italy,125,History-Drama-Crime,BW,
-378,401,376,All That Heaven Allows,"Sirk, Douglas",1955,USA,89,Romance-Drama,Col,
-379,373,358,Lost Highway,"Lynch, David",1997,USA-France,134,Mystery-Drama-Thriller,Col,
-380,356,345,Stromboli,"Rossellini, Roberto",1950,Italy,107,Drama,BW,X
-381,358,339,Written on the Wind,"Sirk, Douglas",1956,USA,99,Drama,Col,
-382,416,461,Taste of Cherry,"Kiarostami, Abbas",1997,Iran,99,Drama,Col,
-383,383,365,Woman in the Dunes,"Teshigahara, Hiroshi",1964,Japan,127,Drama,BW,
-384,353,372,Yellow Earth,Chen Kaige,1984,China,89,Drama-Political,Col,
-385,366,398,Land Without Bread,"Buñuel, Luis",1932,Spain,28,Documentary-Short-Drama,BW,X
-386,503,480,Muriel,"Resnais, Alain",1963,France-Italy,115,Drama,Col,
-387,369,349,Through the Olive Trees,"Kiarostami, Abbas",1994,Iran-France,103,Drama,Col,
-388,376,361,"Palm Beach Story, The","Sturges, Preston",1942,USA,90,Romance-Comedy,BW,X
+478,451,422,"Out 1, noli me tangere","Rivette, Jacques",1971,France,729,Comedy-Drama-Thriller,Col-BW,
+71,66,69,Shoah,"Lanzmann, Claude",1985,France,566,Documentary,Col,X
+323,342,380,Tie Xi Qu: West of the Tracks,Wang Bing,2003,China,551,Documentary,Col,X
+185,181,175,Dekalog,"Kieslowski, Krzysztof",1988,Poland-West Germany,550,Drama,Col,X
+109,108,103,Sátántangó,"Tarr, Béla",1994,Hungary-Germany-Switzerland,450,Drama-Comedy-Mystery,BW,X
+836,821,762,Hitler: A Film from Germany,"Syberberg, Hans-Jürgen",1977,West Germany-France-UK,442,Biography-Drama-History,Col,
+520,527,525,"Vampires, Les","Feuillade, Louis",1915,France,440,Thriller-Crime-Action,BW,X
+992,---,---,Fantômas,"Feuillade, Louis",1913,France,334,Crime-Drama,BW,
+842,835,983,Diary,"Perlov, David",1983,Israel,330,Documentary,Col-BW,
+887,859,834,As I Was Moving Ahead Occasionally I Saw Brief Glimpses of Beauty,"Mekas, Jonas",2000,USA,288,Documentary-Biography,Col,
+639,632,598,"Dr. Mabuse, The Gambler","Lang, Fritz",1922,Germany,270,Thriller-Mystery-Crime,BW,X
+940,916,893,Hôtel Terminus,"Ophüls, Marcel",1988,USA,267,Documentary-History-War,Col,
+153,156,155,Histoire(s) du cinéma,"Godard, Jean-Luc",1998,France,265,Documentary,Col-BW,
+462,426,449,"Sorrow and the Pity, The","Ophüls, Marcel",1969,France-Switzerland-Germany,260,Documentary-War-History,BW,X
+481,454,441,"Hour of the Furnaces, The","Getino, Octavio & Fernando E. Solanas",1968,Argentina,260,Political-Documentary-History,BW,
+917,---,---,"Amour fou, L'","Rivette, Jacques",1968,France,252,Drama,BW,
 389,407,386,1900,"Bertolucci, Bernardo",1976,Italy-France-West Germany,245,Political-Drama-History,Col,
-390,379,368,Russian Ark,"Sokurov, Aleksandr",2002,Russia-Germany-Japan-Canada-Finland-Denmark,96,Fantasy-Drama,Col,
-391,384,411,"Crouching Tiger, Hidden Dragon","Lee, Ang",2000,Taiwan-Hong Kong-USA-China,120,Drama-Adventure-Action,Col,X
-392,368,384,High and Low,"Kurosawa, Akira",1963,Japan,142,Thriller-Crime-Drama,BW,X
-393,446,462,Accattone,"Pasolini, Pier Paolo",1961,Italy,120,Drama,BW,
-394,393,371,"King of Comedy, The","Scorsese, Martin",1983,USA,109,Drama-Comedy,Col,X
-395,370,388,If….,"Anderson, Lindsay",1968,UK,111,Drama,Col-BW,X
-396,422,415,Man of Aran,"Flaherty, Robert",1934,UK,77,Documentary,BW,
-397,398,425,"White Ribbon, The","Haneke, Michael",2009,Germany-Austria-France-Italy,144,Crime-Drama-Mystery,BW,
-398,408,383,Barren Lives,"Pereira dos Santos, Nelson",1963,Brazil,103,Drama,BW,
-399,---,---,Under the Skin,"Glazer, Jonathan",2013,UK-USA-Switzerland,108,Drama-Science Fiction-Thriller,Col,
-400,399,400,Tristana,"Buñuel, Luis",1970,Spain-Italy-France,98,Drama,Col,
-401,395,357,"Voyage dans la lune, Le","Méliès, Georges",1902,France,14,Science Fiction-Short-Adventure,BW,X
-402,374,403,I Know Where I'm Going!,"Powell, Michael/Emeric Pressburger",1945,UK,91,Romance-Comedy-Drama,BW,
-403,405,360,"Double Life of Veronique, The","Kieslowski, Krzysztof",1991,France,97,Fantasy-Drama-Romance,Col,
-404,390,416,Mon oncle,"Tati, Jacques",1958,France,126,Comedy,Col,
-405,380,340,El,"Buñuel, Luis",1953,Mexico,91,Drama,BW,
-406,389,406,Network,"Lumet, Sidney",1976,USA,121,Drama,Col,X
-407,391,367,Nostalghia,"Tarkovsky, Andrei",1983,Italy,120,Drama,Col,
-408,385,350,"Crime of Monsieur Lange, The","Renoir, Jean",1936,France,90,Drama-Crime-Comedy,BW,
-409,443,460,Elephant,"Van Sant, Gus",2003,USA,81,Drama,Col,
-410,414,435,"Awful Truth, The","McCarey, Leo",1937,USA,92,Romance-Comedy,BW,X
-411,397,385,À nos amours,"Pialat, Maurice",1983,France,102,Drama,Col,
-412,428,424,"Long Goodbye, The","Altman, Robert",1973,USA,112,Drama-Crime,Col,X
-413,386,373,"Bridge on the River Kwai, The","Lean, David",1957,UK,161,War-Drama-Action,Col,X
-414,392,401,Don't Look Back,"Pennebaker, D.A.",1967,USA,96,Documentary-Musical,BW,X
-415,387,351,October,"Eisenstein, Sergei & Grigori Aleksandrov",1928,USSR,103,History-Drama,BW,X
-416,430,465,Halloween,"Carpenter, John",1978,USA,93,Horror-Thriller,Col,X
+588,563,624,"Belle noiseuse, La","Rivette, Jacques",1991,France,240,Drama,Col,
+124,121,123,"Brighter Summer Day, A","Yang, Edward",1991,Taiwan,237,Crime-Romance-Drama,Col,
+176,176,172,Napoléon,"Gance, Abel",1927,France,235,War-History-Biography,BW,
+975,925,849,Ludwig,"Visconti, Luchino",1973,Italy-France-West Germany,235,Drama-Biography-History,Col,
+204,195,180,"Travelling Players, The","Angelopoulos, Theo",1975,Greece,230,Political-Drama,Col,
+96,100,101,Once Upon a Time in America,"Leone, Sergio",1984,Italy-USA,229,Drama-Crime,Col,X
+108,107,109,Gone with the Wind,"Fleming, Victor",1939,USA,222,History-Romance-Drama,Col,X
+956,---,951,"Ten Commandments, The","DeMille, Cecil B.",1956,USA,220,Religious-Drama,Col,
 417,400,421,Heaven's Gate,"Cimino, Michael",1980,USA,219,Western-Drama-History,Col,X
-418,402,379,Butch Cassidy and the Sundance Kid,"Hill, George Roy",1969,USA,112,Western,Col,X
-419,435,472,Dead Man,"Jarmusch, Jim",1995,USA-Germany,121,Western-Drama,BW,X
-420,410,370,"Affair to Remember, An","McCarey, Leo",1957,USA,115,Romance-Drama,Col,X
-421,404,399,Yojimbo,"Kurosawa, Akira",1961,Japan,110,Drama-Action,BW,X
-422,456,481,Some Came Running,"Minnelli, Vincente",1958,USA,136,Drama,Col,X
-423,493,477,Boogie Nights,"Anderson, Paul Thomas",1997,USA,155,Drama,Col,X
-424,436,397,"Hustler, The","Rossen, Robert",1961,USA,135,Drama-Sport,BW,X
-425,413,412,Fitzcarraldo,"Herzog, Werner",1982,West Germany,157,Drama-Adventure,Col,X
-426,420,429,"Death of Mr. Lazarescu, The","Puiu, Cristi",2005,Romania,154,Drama,Col,
-427,458,436,Fight Club,"Fincher, David",1999,USA-Germany,139,Drama,Col,X
-428,403,359,Ivan's Childhood,"Tarkovsky, Andrei",1962,USSR,94,War-Drama,BW,
-429,412,378,Shoot the Piano Player,"Truffaut, François",1960,France,92,Drama-Crime-Thriller,BW,X
-430,432,408,Five Easy Pieces,"Rafelson, Bob",1970,USA,98,Drama,Col,X
-431,467,487,Shadows of Our Forgotten Ancestors,"Parajanov, Sergei",1964,USSR,97,Romance-Drama-History,Col,
-432,409,364,Landscape in the Mist,"Angelopoulos, Theo",1988,Greece-Italy-France,127,Drama,Col,
-433,508,549,No Country for Old Men,"Coen, Joel & Ethan Coen",2007,USA,122,Crime-Drama,Col,X
-434,421,417,Punch-Drunk Love,"Anderson, Paul Thomas",2002,USA,95,Romance-Drama-Comedy,Col,X
-435,411,410,Raise the Red Lantern,Zhang Yimou,1991,China-Hong Kong-Taiwan,125,Drama,Col,
-436,396,374,Festen,"Vinterberg, Thomas",1998,Denmark,105,Drama,Col,
+32,33,36,Lawrence of Arabia,"Lean, David",1962,UK,216,War-Biography-Adventure,Col,X
+684,639,594,Ben-Hur,"Wyler, William",1959,USA,212,Religious-History,Col,X
+103,103,108,"Mother and the Whore, The","Eustache, Jean",1973,France,210,Drama,BW,
+480,470,443,Chelsea Girls,"Warhol, Andy",1966,USA,210,Drama-Avant-Garde,Col-BW,
+760,708,700,Edvard Munch [TV],"Watkins, Peter",1974,Sweden-Norway,210,Drama-Biography,Col,
+72,74,74,"Leopard, The","Visconti, Luchino",1963,Italy,205,History-Drama-War,Col,X
+85,84,95,"Jeanne Dielman, 23 Quai du Commerce, 1080 Bruxelles","Akerman, Chantal",1975,Belgium-France,201,Drama-Avant-Garde,Col,X
+810,786,831,Olympia,"Riefenstahl, Leni",1938,Germany,201,Documentary-Sport,BW,X
+900,952,892,"Lord of the Rings: The Return of the King, The","Jackson, Peter",2003,New Zealand-USA,201,Fantasy-Adventure-Action,Col,X
+10,10,10,Seven Samurai,"Kurosawa, Akira",1954,Japan,200,Drama-Action-History,BW,X
+26,24,22,"Godfather Part II, The","Coppola, Francis Ford",1974,USA,200,Drama-Crime,Col,X
+346,326,322,"Touch of Zen, A","Hu, King",1971,Taiwan,200,Adventure-Action-Drama,Col,X
+980,924,886,Reds,"Beatty, Warren",1981,USA,200,History-Drama-Biography,Col,
+552,539,502,Doctor Zhivago,"Lean, David",1965,USA,197,War-Romance-Drama,Col,X
+62,62,62,"Enfants du paradis, Les","Carné, Marcel",1945,France,195,Romance-Drama,BW,
+223,225,222,Schindler's List,"Spielberg, Steven",1993,USA,195,War-History-Drama,Col-BW,X
+641,675,653,Titanic,"Cameron, James",1997,USA,194,Romance-History-Action-Disaster,Col,X
+860,819,790,"Right Stuff, The","Kaufman, Philip",1983,USA,193,Drama-Biography,Col,X
+213,199,192,Celine and Julie Go Boating,"Rivette, Jacques",1974,France,192,Fantasy-Drama-Avant-Garde,Col,X
+294,298,288,Underground,"Kusturica, Emir",1995,Yugoslavia-France-Germany-Bulgaria-Czech Republic-Hungary,192,War-Drama-Comedy,Col,
+53,50,51,Fanny and Alexander,"Bergman, Ingmar",1982,Sweden,189,Drama,Col,X
+512,496,485,Short Cuts,"Altman, Robert",1993,USA,189,Drama,Col,
+252,256,251,Magnolia,"Anderson, Paul Thomas",1999,USA,188,Drama,Col-BW,X
+699,659,661,JFK,"Stone, Oliver",1991,USA,188,History-Drama,Col-BW,X
+304,289,287,"Birth of a Nation, The","Griffith, D.W.",1915,USA,187,War-History-Drama,BW,X
+756,782,750,Abraham's Valley,"Oliveira, Manoel de",1993,Portugal-France-Switzerland,187,Drama,Col,
+23,27,27,Andrei Rublev,"Tarkovsky, Andrei",1966,USSR,185,History-Biography,Col-BW,X
 437,474,445,"Tree of Wooden Clogs, The","Olmi, Ermanno",1978,Italy,185,Drama,Col,
-438,478,672,Vagabond,"Varda, Agnès",1985,France,105,Drama,Col,
-439,427,426,"Star is Born, A","Cukor, George",1954,USA,154,Musical-Drama,Col,X
-440,419,405,Monty Python's Life of Brian,"Jones, Terry",1979,UK,93,Religious-Comedy,Col,X
-441,429,455,Repulsion,"Polanski, Roman",1965,UK,105,Horror-Thriller,BW,X
-442,462,432,"Cranes Are Flying, The","Kalatozov, Mikhail",1957,USSR,94,War-Romance-Drama,BW,
-443,433,431,Dead Ringers,"Cronenberg, David",1988,Canada,115,Thriller-Horror-Drama,Col,X
+961,966,954,Red Beard,"Kurosawa, Akira",1965,Japan,185,Drama,BW,X
+725,702,673,Spartacus,"Kubrick, Stanley",1960,USA,184,Adventure-History-Drama,Col,X
+48,53,53,Barry Lyndon,"Kubrick, Stanley",1975,UK,183,Drama,Col,X
+160,168,162,"Deer Hunter, The","Cimino, Michael",1978,USA,183,War-Drama,Col,X
+543,562,545,Casino,"Scorsese, Martin",1995,USA,182,Drama-Crime,Col,X
+168,171,170,Rocco and His Brothers,"Visconti, Luchino",1960,Italy-France,180,Drama,BW,X
+531,486,531,Inland Empire,"Lynch, David",2006,USA-France-Poland,180,Drama-Mystery-Thriller,Col,
+575,528,520,"Région centrale, La","Snow, Michael",1971,Canada,180,Avant-Garde,Col,
+112,106,104,Intolerance,"Griffith, D.W.",1916,USA,178,History-Drama,BW,X
+755,729,688,"Lord of the Rings: The Fellowship of the Ring, The","Jackson, Peter",2001,New Zealand-USA,178,Fantasy-Adventure,Col,X
+348,355,352,Dogville,"von Trier, Lars",2003,Denmark-Sweden-France-UK-Germany-Finland-Italy-Netherlands-Norway,177,Drama,Col,X
+854,814,823,"Diaries, Notes and Sketches","Mekas, Jonas",1969,USA,177,Documentary,Col,
+7,7,7,"Godfather, The","Coppola, Francis Ford",1972,USA,175,Drama-Crime,Col,X
+30,29,29,"Dolce vita, La","Fellini, Federico",1960,Italy,175,Drama,BW,
+277,268,282,Kings of the Road,"Wenders, Wim",1976,West Germany,175,Drama,BW,X
+325,335,329,Heat,"Mann, Michael",1995,USA,174,Thriller-Drama-Crime,Col,X
+515,489,439,"Sound of Music, The","Wise, Robert",1965,USA,174,Musical-Drama-Family,Col,X
+118,123,127,Yi yi,"Yang, Edward",2000,Taiwan-Japan,173,Drama,Col,X
+948,943,878,O Lucky Man!,"Anderson, Lindsay",1973,UK,173,Fantasy-Drama-Comedy,Col,
+224,209,206,"Best Years of Our Lives, The","Wyler, William",1946,USA,172,War-Drama,BW,X
+882,851,810,Mother India,"Khan, Mehboob",1957,India,172,Drama-Musical-Family,Col,
+180,219,212,"Thin Red Line, The","Malick, Terrence",1998,USA,170,War-Drama-Action,Col,X
 444,452,514,Hoop Dreams,"James, Steve",1994,USA,170,Documentary-Drama-Sport,Col,X
+561,558,543,In Vanda's Room,"Costa, Pedro",2000,Portugal-Germany-Switzerland-Italy,170,Drama,Col,
+649,628,581,Scarface,"De Palma, Brian",1983,USA,170,Drama-Crime,Col,X
+686,693,722,Saving Private Ryan,"Spielberg, Steven",1998,USA,169,War-Drama-Action,Col,X
+457,434,392,Scenes from a Marriage,"Bergman, Ingmar",1973,Sweden,168,Drama,Col,X
+693,654,691,"Great Escape, The","Sturges, John",1963,USA,168,War-Prison-Adventure,Col,X
+937,---,---,"America, America","Kazan, Elia",1963,USA,168,Drama,BW,
+65,68,65,Once Upon a Time in the West,"Leone, Sergio",1968,Italy-USA,165,Western,Col,X
+190,194,190,Solaris,"Tarkovsky, Andrei",1972,USSR,165,Science Fiction-Drama-Mystery,Col-BW,X
+461,---,---,Boyhood,"Linklater, Richard",2014,USA,165,Drama,Col,X
+806,830,773,"New York, New York","Scorsese, Martin",1977,USA,164,Musical,Col,X
+855,845,901,Kwaidan,"Kobayashi, Masaki",1964,Japan,164,Horror-Fantasy,Col,X
+901,856,826,"Last Temptation of Christ, The","Scorsese, Martin",1988,USA-Canada,164,Religious-Drama,Col,X
+200,186,181,"Life and Death of Colonel Blimp, The","Powell, Michael/Emeric Pressburger",1943,UK,163,War-Drama-Comedy,Col,X
+363,---,---,Toni Erdmann,"Ade, Maren",2016,Germany-Austria-Switzerland-Romania,162,Comedy-Drama,Col,
+582,535,503,Marketa Lazarová,"Vlácil, Frantisek",1967,Czechoslovakia,162,History-Drama,BW,X
+906,906,917,Sholay,"Sippy, Ramesh",1975,India,162,Action-Drama-Musical,Col,
+138,139,158,"Good, the Bad and the Ugly, The","Leone, Sergio",1966,Italy-Spain,161,Western-Action,Col,X
+214,213,202,Ran,"Kurosawa, Akira",1985,France-Japan,161,War-History-Drama,Col,X
+413,386,373,"Bridge on the River Kwai, The","Lean, David",1957,UK,161,War-Drama-Action,Col,X
+735,717,737,Avatar,"Cameron, James",2009,USA-UK,161,Action-Science Fiction-Adventure,Col,X
+52,51,52,Stalker,"Tarkovsky, Andrei",1979,USSR,160,Science Fiction-Mystery,Col-BW,X
+525,513,497,"Terra trema, La","Visconti, Luchino",1948,Italy,160,Drama,BW,
+864,866,848,Anatomy of a Murder,"Preminger, Otto",1959,USA,160,Drama,BW,
+895,863,813,"Last Emperor, The","Bertolucci, Bernardo",1987,China-Italy-UK-France,160,History-Biography,Col,X
+938,923,888,Topsy-Turvy,"Leigh, Mike",1999,UK-USA,160,Musical-Drama-Comedy,Col,
+88,87,85,Nashville,"Altman, Robert",1975,USA,159,Drama,Col,
+281,336,333,Eyes Wide Shut,"Kubrick, Stanley",1999,USA-UK,159,Thriller-Drama,Col,X
+544,505,492,Kagemusha,"Kurosawa, Akira",1980,Japan,159,War-Drama-History,Col,
+569,586,544,Hatari!,"Hawks, Howard",1962,USA,159,Drama,Col,X
+163,166,179,There Will Be Blood,"Anderson, Paul Thomas",2007,USA,158,Drama,Col,X
+353,341,330,Amadeus,"Forman, Milos",1984,USA,158,Musical-Biography-Drama,Col,X
+548,593,636,Zodiac,"Fincher, David",2007,USA,158,Crime-Drama-Thriller,Col,X
+622,640,719,"Angel at My Table, An","Campion, Jane",1990,New Zealand-Australia-UK-USA,158,Drama-Biography,Col,X
+665,728,809,Van Gogh,"Pialat, Maurice",1991,France,158,Drama-Biography,Col,
+872,838,775,"Age of the Earth, The","Rocha, Glauber",1980,Brazil,158,Political-Drama-Religious,Col,
+921,894,911,Fellini's Casanova,"Fellini, Federico",1976,Italy,158,Drama-Biography,Col,
+192,183,191,"City of Sadness, A",Hou Hsiao-hsien,1989,Taiwan-Hong Kong,157,Political-Drama,Col,
+425,413,412,Fitzcarraldo,"Herzog, Werner",1982,West Germany,157,Drama-Adventure,Col,X
+186,203,195,Breaking the Waves,"von Trier, Lars",1996,Denmark-Sweden-France-Netherlands-Norway-Iceland-Spain,156,Romance-Drama,Col,X
+95,94,97,"Woman Under the Influence, A","Cassavetes, John",1974,USA,155,Drama,Col,X
+423,493,477,Boogie Nights,"Anderson, Paul Thomas",1997,USA,155,Drama,Col,X
+518,522,548,"Farewell, My Concubine",Chen Kaige,1993,China-Hong Kong,155,History-Drama-Romance,Col,
+530,536,538,Colossal Youth,"Costa, Pedro",2006,France-Portugal-Switzerland,155,Drama,Col,X
+533,520,484,"Damned, The","Visconti, Luchino",1969,Italy-West Germany,155,War-Drama,Col,
+753,---,---,"Prophet, A","Audiard, Jacques",2009,France-Italy,155,Drama-Crime,Col,
+64,72,76,Pulp Fiction,"Tarantino, Quentin",1994,USA,154,Drama-Crime-Comedy,Col,X
+376,364,404,Platform,Jia Zhangke,2000,China-Hong Kong-Japan-France,154,Drama-History,Col,
+426,420,429,"Death of Mr. Lazarescu, The","Puiu, Cristi",2005,Romania,154,Drama,Col,
+439,427,426,"Star is Born, A","Cukor, George",1954,USA,154,Musical-Drama,Col,X
+60,60,59,Metropolis,"Lang, Fritz",1927,Germany,153,Fantasy-Science Fiction-Drama,BW,X
+814,857,---,Inglourious Basterds,"Tarantino, Quentin",2009,USA-Germany,153,Action-Drama-War,Col,X
+835,805,---,Amores perros,"González Iñárritu, Alejandro",2000,Mexico,153,Drama,Col,
+606,604,611,"Dark Knight, The","Nolan, Christopher",2008,USA-UK,152,Action-Crime-Thriller,Col,X
+687,756,721,Lolita,"Kubrick, Stanley",1962,UK,152,Drama,BW,X
+837,817,804,Burnt by the Sun,"Mikhalkov, Nikita",1994,Russia-France,152,History-Drama,Col,
+320,330,318,West Side Story,"Wise, Robert/Jerome Robbins",1961,USA,151,Romance-Musical-Dance,Col,X
+11,11,11,Apocalypse Now,"Coppola, Francis Ford",1979,USA,150,War-Drama-Adventure,Col,X
+241,230,231,"Paris, Texas","Wenders, Wim",1984,USA,150,Drama,Col,X
+538,706,801,Once Upon a Time in Anatolia,"Ceylan, Nuri Bilge",2011,Turkey-Bosnia and Herzergovina,150,Crime-Drama,Col,
+580,610,579,"Red Circle, The","Melville, Jean-Pierre",1970,France-Italy,150,Thriller-Crime,Col,X
+932,882,855,"Boot, Das","Petersen, Wolfgang",1981,West Germany,149,Action-Adventure-Drama,Col,
+272,260,254,"Story of the Last Chrysanthemums, The","Mizoguchi, Kenji",1939,Japan,148,Romance-Drama,BW,X
+827,784,758,Kaagaz Ke Phool,"Dutt, Guru",1959,India,148,Romance-Drama,BW,
+949,912,890,Juliet of the Spirits,"Fellini, Federico",1965,Italy,148,Fantasy-Drama,Col,
+50,54,60,Mulholland Dr.,"Lynch, David",2001,France-USA,147,Mystery-Drama-Thriller,Col,X
+68,70,77,GoodFellas,"Scorsese, Martin",1990,USA,146,Drama-Crime,Col,X
+260,255,247,"Life of Oharu, The","Mizoguchi, Kenji",1952,Japan,146,Drama,BW,X
+322,378,418,"Turin Horse, The","Tarr, Béla",2011,Hungary-France-Germany-Switzerland-USA,146,Drama,BW,
+476,468,463,Pyaasa,"Dutt, Guru",1957,India,146,Drama-Musical-Romance,BW,
+37,38,37,"Avventura, L'","Antonioni, Michelangelo",1960,Italy-France,145,Drama-Mystery-Romance,BW,X
+324,317,297,"Sacrifice, The","Tarkovsky, Andrei",1986,France-Sweden,145,Drama,Col,
+370,367,363,Werckmeister Harmonies,"Tarr, Béla",2000,Hungary-Germany-France-Switzerland-Italy,145,Drama,BW,
+486,480,522,A.I. Artificial Intelligence,"Spielberg, Steven",2001,USA,145,Science Fiction-Drama,Col,X
+558,523,508,Limelight,"Chaplin, Charles",1952,USA,145,Drama-Comedy,BW,X
+971,914,896,To Live,Zhang Yimou,1994,China-Hong Kong,145,Drama,Col,
+69,67,66,"Wild Bunch, The","Peckinpah, Sam",1969,USA,144,Western,Col,X
+397,398,425,"White Ribbon, The","Haneke, Michael",2009,Germany-Austria-France-Italy,144,Crime-Drama-Mystery,BW,
 445,469,459,Dersu Uzala,"Kurosawa, Akira",1975,USSR-Japan,144,Drama-Adventure,Col,
-446,438,446,"Terminator, The","Cameron, James",1984,USA,107,Science Fiction-Action,Col,X
-447,472,499,Safe,"Haynes, Todd",1995,USA,119,Drama,Col,
-448,453,458,Withnail & I,"Robinson, Bruce",1987,UK,107,Drama-Comedy,Col,
-449,424,395,Day for Night,"Truffaut, François",1973,France,120,Drama-Comedy,Col,
-450,431,428,Two-Lane Blacktop,"Hellman, Monte",1971,USA,101,Drama,Col,
-451,415,377,In a Year with 13 Moons,"Fassbinder, Rainer Werner",1978,West Germany,129,Drama,Col,
-452,444,437,"Dead, The","Huston, John",1987,USA,83,Drama,Col,
-453,450,504,Naked,"Leigh, Mike",1993,UK,126,Drama,Col,X
+463,423,396,Opening Night,"Cassavetes, John",1977,USA,144,Drama,Col,
+485,---,---,"Master, The","Anderson, Paul Thomas",2012,USA,144,Drama,Col,X
+941,---,---,Carlito's Way,"De Palma, Brian",1993,USA,144,Drama-Crime,Col,
+990,940,955,Second Breath,"Melville, Jean-Pierre",1966,France,144,Drama,BW,
+119,112,112,Ikiru,"Kurosawa, Akira",1952,Japan,143,Drama,BW,X
+1000,990,934,Subarnarekha,"Ghatak, Ritwik",1965,India,143,Drama,BW,
+84,91,96,"Shining, The","Kubrick, Stanley",1980,USA,142,Horror,Col,X
+392,368,384,High and Low,"Kurosawa, Akira",1963,Japan,142,Thriller-Crime-Drama,BW,X
+473,440,420,"Shawshank Redemption, The","Darabont, Frank",1994,USA,142,Prison-Drama,Col,X
+492,519,509,Forrest Gump,"Zemeckis, Robert",1994,USA,142,Drama-Comedy,Col,X
+571,557,588,Secrets & Lies,"Leigh, Mike",1996,UK,142,Drama-Comedy,Col,X
+774,719,710,"Tin Drum, The","Schlöndorff, Volker",1979,West Germany-France-Poland-Yugoslavia,142,War-Drama,Col,
+865,872,788,Time of the Gypsies,"Kusturica, Emir",1989,Yugoslavia,142,Drama,Col,
+54,57,57,Rio Bravo,"Hawks, Howard",1959,USA,141,Western,Col,X
+278,275,271,Love Streams,"Cassavetes, John",1984,USA,141,Drama,Col,
+333,307,300,"Puppetmaster, The",Hou Hsiao-hsien,1993,Taiwan,141,Drama-Biography,Col,
+361,346,343,I Am Cuba,"Kalatozov, Mikhail",1964,USSR-Cuba,141,Political-Drama,BW,
+981,986,---,"Humanité, L'","Dumont, Bruno",1999,France,141,Drama-Mystery,Col,
+97,96,93,Greed,"von Stroheim, Erich",1924,USA,140,Drama,BW,X
+350,394,402,Army of Shadows,"Melville, Jean-Pierre",1969,France-Italy,140,War-Drama,Col,
+695,672,643,Dancer in the Dark,"von Trier, Lars",2000,Denmark-France-Sweden-Italy-Germany-Norway-Netherlands-Iceland-Finland-UK-USA,140,Musical-Drama,Col,X
+793,752,705,Dodes'ka-den,"Kurosawa, Akira",1970,Japan,140,Fantasy-Drama,Col,
+799,787,755,Ossessione,"Visconti, Luchino",1943,Italy,140,Drama,BW,
+820,897,885,"Trou, Le","Becker, Jacques",1960,France-Italy,140,Drama-Crime,BW,
+832,973,905,Excalibur,"Boorman, John",1981,UK,140,Fantasy-Adventure-Action,Col,
+3,3,3,2001: A Space Odyssey,"Kubrick, Stanley",1968,UK-USA,139,Science Fiction,Col,X
+167,218,239,"Tree of Life, The","Malick, Terrence",2011,USA,139,Drama,Col,X
+427,458,436,Fight Club,"Fincher, David",1999,USA-Germany,139,Drama,Col,X
+831,806,869,Mary Poppins,"Stevenson, Robert",1964,USA,139,Musical-Family-Fantasy,Col,X
+129,124,116,All About Eve,"Mankiewicz, Joseph L.",1950,USA,138,Drama,BW,X
+299,281,280,Husbands,"Cassavetes, John",1970,USA,138,Drama,Col,X
+487,457,483,All the President's Men,"Pakula, Alan J.",1976,USA,138,Political-Drama,Col,X
+502,494,466,"Lives of Others, The","von Donnersmarck, Florian Henckel",2006,Germany,138,Drama,Col,X
+77,80,79,"Clockwork Orange, A","Kubrick, Stanley",1971,UK,137,Science Fiction-Crime-Drama,Col,X
+343,319,308,"Time to Live and the Time to Die, The",Hou Hsiao-hsien,1985,Taiwan,137,Drama,Col,
+347,334,341,Aliens,"Cameron, James",1986,USA,137,Science Fiction-Horror-Action,Col,X
+726,698,731,L.A. Confidential,"Hanson, Curtis",1997,USA,137,Thriller-Crime,Col,X
+788,794,818,Million Dollar Baby,"Eastwood, Clint",2004,USA,137,Drama,Col,X
+58,59,61,North by Northwest,"Hitchcock, Alfred",1959,USA,136,Thriller-Spy-Romance,Col,X
+130,134,140,Rosemary's Baby,"Polanski, Roman",1968,USA,136,Thriller-Horror-Drama,Col,X
+145,150,141,Come and See,"Klimov, Elem",1985,USSR,136,War-Drama-History,Col,X
+291,285,290,"Matrix, The","Wachowski, Lana & Lilly Wachowski",1999,USA-Australia,136,Science Fiction-Action-Adventure,Col,X
+335,465,523,Melancholia,"von Trier, Lars",2011,Denmark-Sweden-France-Germany,136,Drama-Science Fiction,Col,X
+371,371,387,Last Tango in Paris,"Bertolucci, Bernardo",1972,France-Italy,136,Romance-Drama-Adult,Col,
+422,456,481,Some Came Running,"Minnelli, Vincente",1958,USA,136,Drama,Col,X
+541,531,610,Terminator 2: Judgment Day,"Cameron, James",1991,USA,136,Science Fiction-Action,Col,X
+550,561,580,Silent Light,"Reygadas, Carlos",2007,Mexico-France-Netherlands,136,Drama,Col,
+6,6,6,8½,"Fellini, Federico",1963,Italy,135,Drama,BW,X
+144,146,145,"Gospel According to St. Matthew, The","Pasolini, Pier Paolo",1964,Italy-France,135,Religious-Drama,BW,
+198,193,203,Close Encounters of the Third Kind,"Spielberg, Steven",1977,USA,135,Science Fiction-Adventure,Col,X
+424,436,397,"Hustler, The","Rossen, Robert",1961,USA,135,Drama-Sport,BW,X
+560,515,448,Early Summer,"Ozu, Yasujiro",1951,Japan,135,Drama,BW,
+679,743,807,"New World, The","Malick, Terrence",2005,USA,135,Drama-History-Romance,Col,X
+891,985,916,"Bridges of Madison County, The","Eastwood, Clint",1995,USA,135,Romance-Drama,Col,X
+897,945,1000,Twin Peaks: Fire Walk with Me,"Lynch, David",1992,USA,135,Drama-Horror-Mystery,Col,X
+927,885,856,"Outlaw Josey Wales, The","Eastwood, Clint",1976,USA,135,Western-Drama,Col,X
+946,891,840,They Were Expendable,"Ford, John",1945,USA,135,War-Drama,BW,X
+5,5,5,Tokyo Story,"Ozu, Yasujiro",1953,Japan,134,Drama,BW,X
+360,359,391,Brokeback Mountain,"Lee, Ang",2005,USA-Canada,134,Romance-Drama,Col,X
+379,373,358,Lost Highway,"Lynch, David",1997,USA-France,134,Mystery-Drama-Thriller,Col,
+862,858,817,Princess Mononoke,"Miyazaki, Hayao",1997,Japan,134,Animated-Adventure-Fantasy,Col,X
+113,120,114,One Flew Over the Cuckoo's Nest,"Forman, Milos",1975,USA,133,Drama,Col,X
+162,159,164,"Red Shoes, The","Powell, Michael/Emeric Pressburger",1948,UK,133,Dance-Musical-Drama,Col,X
+211,200,197,Red River,"Hawks, Howard",1948,USA,133,Western,BW,X
+289,287,279,Pandora's Box,"Pabst, G.W.",1929,Germany,133,Drama-Crime-Romance,BW,X
+334,327,354,"Quince Tree Sun, The","Erice, Victor",1992,Spain,133,Documentary-Biography-Drama,Col,
+586,607,663,"Age of Innocence, The","Scorsese, Martin",1993,USA,133,Romance-Drama,Col,X
+706,684,647,Harakiri,"Kobayashi, Masaki",1962,Japan,133,Drama-Action-History,BW,X
+769,732,742,All Quiet on the Western Front,"Milestone, Lewis",1930,USA,133,War-Drama,BW,
+958,932,958,Broadcast News,"Brooks, James L.",1987,USA,133,Romance-Comedy-Drama,Col,X
+692,799,793,Memories of Murder,Bong Joon-ho,2003,South Korea,132,Crime-Drama-Mystery,Col,
+55,52,50,Chinatown,"Polanski, Roman",1974,USA,131,Mystery-Crime,Col,X
+175,184,183,Brazil,"Gilliam, Terry",1985,UK,131,Science Fiction-Fantasy,Col,X
+505,506,517,Die Hard,"McTiernan, John",1988,USA,131,Thriller-Action,Col,X
+189,197,182,Death in Venice,"Visconti, Luchino",1971,Italy,130,Drama,Col,X
+218,221,215,Wings of Desire,"Wenders, Wim",1987,West Germany-France,130,Fantasy-Drama,Col-BW,X
+262,262,266,Faces,"Cassavetes, John",1968,USA,130,Drama,BW,X
+375,357,347,Marnie,"Hitchcock, Alfred",1964,USA,130,Crime-Drama-Mystery,Col,X
 454,439,454,Flowers of Shanghai,Hou Hsiao-hsien,1998,Taiwan,130,Drama,Col,
+590,556,521,Being There,"Ashby, Hal",1979,USA,130,Drama-Comedy,Col,X
+666,673,612,Rebecca,"Hitchcock, Alfred",1940,USA,130,Mystery-Romance-Drama,BW,X
+696,699,717,"Piano Teacher, The","Haneke, Michael",2001,Austria-France-Germany,130,Drama,Col,
+807,779,784,"Blues Brothers, The","Landis, John",1980,USA,130,Action-Comedy-Musical,Col,X
+823,837,858,"Intruder, The","Denis, Claire",2004,France-South Korea,130,Drama,Col,
+878,955,967,Duel in the Sun,"Vidor, King",1946,USA,130,Western,Col,
+931,886,866,Arabian Nights,"Pasolini, Pier Paolo",1974,Italy-France,130,Fantasy-Adventure-Drama,Col,
+954,953,924,"Ballad of Narayama, The","Imamura, Shohei",1983,Japan,130,Drama,Col,
+83,81,80,It's a Wonderful Life,"Capra, Frank",1946,USA,129,Fantasy-Drama-Family,BW,X
+184,178,174,"Grapes of Wrath, The","Ford, John",1940,USA,129,Drama,BW,X
+222,206,189,"Quiet Man, The","Ford, John",1952,USA,129,Romance-Drama-Comedy,Col,X
+279,303,309,City of God,"Meirelles, Fernando & Kátia Lund",2002,Brazil-Germany-France,129,Drama-Crime-Action,Col,X
+356,337,324,To Kill a Mockingbird,"Mulligan, Robert",1962,USA,129,Drama,BW,X
+451,415,377,In a Year with 13 Moons,"Fassbinder, Rainer Werner",1978,West Germany,129,Drama,Col,
+559,543,564,Fellini Satyricon,"Fellini, Federico",1969,Italy,129,History-Drama,Col,
+661,688,665,Mr. Smith Goes to Washington,"Capra, Frank",1939,USA,129,Political-Drama,BW,X
+748,713,681,"Man Who Would Be King, The","Huston, John",1975,USA,129,Adventure,Col,X
+801,775,768,Starship Troopers,"Verhoeven, Paul",1997,USA,129,Science Fiction-Action-Adventure-War,Col,X
+830,789,748,Vengeance is Mine,"Imamura, Shohei",1979,Japan,129,Thriller-Crime-Drama,Col,
+838,822,781,Who's Afraid of Virginia Woolf?,"Nichols, Mike",1966,USA,129,Drama,BW,X
+870,864,875,2046,Wong Kar-wai,2004,Hong Kong-China-France-Italy-Germany,129,Science Fiction-Drama-Romance,Col-BW,
+987,933,---,Bad Timing,"Roeg, Nicolas",1980,UK,129,Drama,Col,X
+2,2,2,Vertigo,"Hitchcock, Alfred",1958,USA,128,Thriller-Drama-Mystery,Col,X
+25,25,24,Raging Bull,"Scorsese, Martin",1980,USA,128,Sport-Drama-Biography,BW,X
+181,173,169,"Great Dictator, The","Chaplin, Charles",1940,USA,128,War-Comedy-Political,BW,X
+342,314,293,Cabaret,"Fosse, Bob",1972,USA,128,Musical-Drama-Dance,Col,X
+617,747,734,Fellini's Roma,"Fellini, Federico",1972,Italy,128,Drama-Comedy,Col,
+740,759,706,Thelma & Louise,"Scott, Ridley",1991,USA,128,Drama-Comedy-Adventure,Col,X
+70,71,70,Amarcord,"Fellini, Federico",1973,Italy,127,Drama-Comedy,Col,X
+209,208,236,Unforgiven,"Eastwood, Clint",1992,USA,127,Western,Col,X
+383,383,365,Woman in the Dunes,"Teshigahara, Hiroshi",1964,Japan,127,Drama,BW,X
+432,409,364,Landscape in the Mist,"Angelopoulos, Theo",1988,Greece-Italy-France,127,Drama,Col,
+458,620,723,Amour,"Haneke, Michael",2012,Austria-France-Germany,127,Romance-Drama,Col,
+501,541,585,Se7en,"Fincher, David",1995,USA,127,Thriller-Mystery-Drama,Col,X
+602,611,621,Possession,"Zulawski, Andrzej",1981,France-West Germany,127,Horror-Drama,Col,
+765,714,740,Fort Apache,"Ford, John",1948,USA,127,Western-War,BW,X
+779,750,754,Z,"Costa-Gavras, Constantin",1969,France,127,Political-Thriller-History,Col,
+787,770,767,Wild at Heart,"Lynch, David",1990,USA,127,Romance-Drama-Crime,Col,
+110,109,106,"Eclisse, L'","Antonioni, Michelangelo",1962,Italy-France,126,Drama-Romance,BW,
+310,296,314,Dawn of the Dead,"Romero, George A.",1978,USA,126,Horror-Action,Col,X
+404,390,416,Mon oncle,"Tati, Jacques",1958,France,126,Comedy,Col,
+453,450,504,Naked,"Leigh, Mike",1993,UK,126,Drama,Col,X
+468,425,407,"Cloud-Capped Star, The","Ghatak, Ritwik",1960,India,126,Drama-Musical,BW,X
+551,553,582,"Amants du Pont-Neuf, Les","Carax, Leos",1991,France,126,Drama,Col,
+620,575,623,"Manchurian Candidate, The","Frankenheimer, John",1962,USA,126,Political-Thriller-Drama,BW,X
+720,798,766,Jurassic Park,"Spielberg, Steven",1993,USA,126,Science Fiction-Adventure-Action,Col,X
+766,751,726,Moulin Rouge!,"Luhrmann, Baz",2001,Australia-USA,126,Drama-Musical-Romance,Col,X
+805,771,771,Cool Hand Luke,"Rosenberg, Stuart",1967,USA,126,Prison-Drama,Col,X
+35,32,33,Ordet,"Dreyer, Carl Theodor",1955,Denmark,125,Religious-Drama,BW,X
+59,56,54,"Apartment, The","Wilder, Billy",1960,USA,125,Drama-Comedy,BW,X
+91,93,92,Sansho the Bailiff,"Mizoguchi, Kenji",1954,Japan,125,Drama,BW,X
+286,318,323,Dog Day Afternoon,"Lumet, Sidney",1975,USA,125,Drama-Crime,Col,X
+359,338,348,"Tenant, The","Polanski, Roman",1976,France-USA,125,Horror-Thriller-Mystery,Col,X
+364,365,381,"Elephant Man, The","Lynch, David",1980,USA,125,Drama-Biography,BW,X
+377,363,355,Salvatore Giuliano,"Rosi, Francesco",1962,Italy,125,History-Drama-Crime,BW,
+435,411,410,Raise the Red Lantern,Zhang Yimou,1991,China-Hong Kong-Taiwan,125,Drama,Col,
+669,636,630,Blissfully Yours,"Weerasethakul, Apichatpong",2002,Thailand-France,125,Romance-Drama,Col,
+918,---,---,"Private Life of Sherlock Holmes, The","Wilder, Billy",1970,USA,125,Mystery-Comedy-Drama,Col,X
+968,951,863,3 Women,"Altman, Robert",1977,USA,125,Drama,Col,
+94,92,91,Jaws,"Spielberg, Steven",1975,USA,124,Horror-Thriller-Adventure,Col,X
+159,172,188,Spirited Away,"Miyazaki, Hayao",2001,Japan,124,Animated-Adventure-Fantasy,Col,X
+182,177,171,Imitation of Life,"Sirk, Douglas",1959,USA,124,Drama-Romance,Col,
+236,235,235,"Treasure of the Sierra Madre, The","Huston, John",1948,USA,124,Adventure-Drama-Western,BW,X
+283,282,274,"Empire Strikes Back, The","Kershner, Irvin",1980,USA,124,Science Fiction-Fantasy-Adventure,Col,X
+345,323,305,"Canterbury Tale, A","Powell, Michael/Emeric Pressburger",1944,UK,124,Drama,BW,X
+372,372,369,"Young Girls of Rochefort, The","Demy, Jacques",1967,France,124,Musical-Dance-Comedy,Col,X
+464,530,576,Splendor in the Grass,"Kazan, Elia",1961,USA,124,Drama,Col,
+567,524,530,"Bitter Tears of Petra von Kant, The","Fassbinder, Rainer Werner",1972,West Germany,124,Drama,Col,
+651,657,678,"Synecdoche, New York","Kaufman, Charlie",2008,USA,124,Drama,Col,
+777,737,822,Akira,"Otomo, Katsuhiro",1988,Japan,124,Animated-Science Fiction-Action,Col,X
+789,745,794,We All Loved Each Other So Much,"Scola, Ettore",1974,Italy,124,Comedy,Col,
+803,901,912,Ed Wood,"Burton, Tim",1994,USA,124,Drama-Comedy-Biography,BW,X
+922,881,811,"Misfits, The","Huston, John",1961,USA,124,Western-Romance-Drama,BW,X
+75,73,68,"Battle of Algiers, The","Pontecorvo, Gillo",1966,Italy-Algeria,123,War-Political-Drama,BW,X
+257,258,253,Floating Clouds,"Naruse, Mikio",1955,Japan,123,Romance-Drama,BW,
+267,280,281,Cinema Paradiso,"Tornatore, Giuseppe",1988,Italy-France,123,Drama-Comedy,Col,X
+295,278,272,Monsieur Verdoux,"Chaplin, Charles",1947,USA,123,Crime-Comedy,BW,X
+340,375,478,"Separation, A","Farhadi, Asghar",2011,Iran,123,Drama,Col,X
+474,460,491,All That Jazz,"Fosse, Bob",1979,USA,123,Musical-Fantasy-Drama,Col,
+697,660,625,Xala,"Sembene, Ousmane",1975,Senegal,123,Comedy,Col,
+780,767,---,Sideways,"Payne, Alexander",2004,USA,123,Drama-Comedy,Col,
+863,899,907,Mon oncle d'Amérique,"Resnais, Alain",1980,France,123,Drama-Comedy,Col,
+890,852,854,My Little Loves,"Eustache, Jean",1974,France,123,Drama,Col,
+208,217,221,"Exorcist, The","Friedkin, William",1973,USA,122,Horror,Col,X
+433,508,549,No Country for Old Men,"Coen, Joel & Ethan Coen",2007,USA,122,Crime-Drama,Col,X
+524,529,556,Amélie,"Jeunet, Jean-Pierre",2001,France-Germany,122,Romance-Comedy,Col,X
+542,542,533,Pat Garrett and Billy the Kid,"Peckinpah, Sam",1973,USA,122,Western,Col,X
+676,641,597,"Streetcar Named Desire, A","Kazan, Elia",1951,USA,122,Drama,BW,X
+702,658,622,"Place in the Sun, A","Stevens, George",1951,USA,122,Romance-Drama,BW,X
+732,721,720,"Emperor's Naked Army Marches On, The","Hara, Kazuo",1987,Japan,122,Documentary-War-Political,Col,
+867,846,---,Point Break,"Bigelow, Kathryn",1991,USA-Japan,122,Thriller-Action-Crime,Col,
+120,116,115,Star Wars,"Lucas, George",1977,USA,121,Science Fiction-Fantasy-Adventure,Col,X
+166,162,200,"Piano, The","Campion, Jane",1993,New Zealand-Australia-France,121,History-Drama-Romance,Col,
+206,212,225,McCabe & Mrs. Miller,"Altman, Robert",1971,USA,121,Western-Drama,Col,X
+225,233,224,Only Angels Have Wings,"Hawks, Howard",1939,USA,121,Drama-Adventure-Romance,BW,X
+406,389,406,Network,"Lumet, Sidney",1976,USA,121,Drama,Col,X
+419,435,472,Dead Man,"Jarmusch, Jim",1995,USA-Germany,121,Western-Drama,BW,X
+811,785,808,American Beauty,"Mendes, Sam",1999,USA,121,Drama-Comedy,Col,X
+89,85,82,Blue Velvet,"Lynch, David",1986,USA,120,Mystery-Crime-Drama,Col,X
+137,137,137,Do the Right Thing,"Lee, Spike",1989,USA,120,Drama-Comedy,Col,X
+174,182,176,"Birds, The","Hitchcock, Alfred",1963,USA,120,Horror,Col,X
+199,202,194,Paisan,"Rossellini, Roberto",1946,Italy,120,War-Drama,BW,X
+229,244,237,"Notte, La","Antonioni, Michelangelo",1961,Italy-France,120,Drama,BW,
+233,234,230,Diary of a Country Priest,"Bresson, Robert",1951,France,120,Religious-Drama,BW,
+351,629,---,Mad Max: Fury Road,"Miller, George",2015,Australia-USA,120,Action-Adventure-Science Fiction,Col,X
+391,384,411,"Crouching Tiger, Hidden Dragon","Lee, Ang",2000,Taiwan-Hong Kong-USA-China,120,Drama-Adventure-Action,Col,X
+393,446,462,Accattone,"Pasolini, Pier Paolo",1961,Italy,120,Drama,BW,
+407,391,367,Nostalghia,"Tarkovsky, Andrei",1983,Italy,120,Drama,Col,
+449,424,395,Day for Night,"Truffaut, François",1973,France,120,Drama-Comedy,Col,
 455,475,468,Oldboy,Park Chan-wook,2003,South Korea,120,Action-Mystery-Thriller,Col,X
 456,463,456,Fantasia,Various Directors,1940,USA,120,Fantasy-Family-Animated,Col,X
-457,434,392,Scenes from a Marriage,"Bergman, Ingmar",1973,Sweden,168,Drama,Col,X
-458,620,723,Amour,"Haneke, Michael",2012,Austria-France-Germany,127,Romance-Drama,Col,
-459,406,457,Pinocchio,"Sharpsteen, Ben & Hamilton Luske",1940,USA,88,Fantasy-Family-Animated,Col,X
-460,417,450,"Scarlet Empress, The","von Sternberg, Josef",1934,USA,110,History-Drama-Biography,BW,X
-461,---,---,Boyhood,"Linklater, Richard",2014,USA,165,Drama,Col,X
-462,426,449,"Sorrow and the Pity, The","Ophüls, Marcel",1969,France-Switzerland-Germany,260,Documentary-War-History,BW,X
-463,423,396,Opening Night,"Cassavetes, John",1977,USA,144,Drama,Col,
-464,530,576,Splendor in the Grass,"Kazan, Elia",1961,USA,124,Drama,Col,
-465,441,467,"Flowers of St. Francis, The","Rossellini, Roberto",1950,Italy,83,Religious-Drama,BW,
-466,418,413,Charulata,"Ray, Satyajit",1964,India,117,Romance-Drama,BW,
-467,449,440,Senso,"Visconti, Luchino",1954,Italy,115,War-Drama-Romance,Col,
-468,425,407,"Cloud-Capped Star, The","Ghatak, Ritwik",1960,India,126,Drama-Musical,BW,X
-469,473,430,French Cancan,"Renoir, Jean",1955,France,93,Musical-Drama-Comedy,Col,
-470,445,414,Easy Rider,"Hopper, Dennis",1969,USA,94,Drama,Col,X
-471,461,423,Closely Watched Trains,"Menzel, Jirí",1966,Czechoslovakia,89,Drama-Comedy,BW,
-472,447,409,"Cameraman, The","Keaton, Buster/Edward Sedgwick",1928,USA,69,Romance-Comedy,BW,X
-473,440,420,"Shawshank Redemption, The","Darabont, Frank",1994,USA,142,Prison-Drama,Col,X
-474,460,491,All That Jazz,"Fosse, Bob",1979,USA,123,Musical-Fantasy-Drama,Col,
-475,437,427,Shadows,"Cassavetes, John",1959,USA,87,Drama,BW,
-476,468,463,Pyaasa,"Dutt, Guru",1957,India,146,Drama-Musical-Romance,BW,
-477,442,419,"Moment of Innocence, A","Makhmalbaf, Mohsen",1996,Iran-France,78,Drama-Comedy,Col,
-478,451,422,"Out 1, noli me tangere","Rivette, Jacques",1971,France,729,Comedy-Drama-Thriller,Col-BW,
-479,477,474,Limite,"Peixoto, Mario",1931,Brazil,114,Drama,BW,
-480,470,443,Chelsea Girls,"Warhol, Andy",1966,USA,210,Drama-Avant-Garde,Col-BW,
-481,454,441,"Hour of the Furnaces, The","Getino, Octavio & Fernando E. Solanas",1968,Argentina,260,Political-Documentary-History,BW,
-482,545,507,Lola,"Demy, Jacques",1961,France,90,Romance-Drama,BW,
-483,485,442,Hour of the Wolf,"Bergman, Ingmar",1968,Sweden,88,Horror-Drama,BW,X
-484,448,540,Cat People,"Tourneur, Jacques",1942,USA,73,Thriller-Horror-Mystery,BW,X
-485,---,---,"Master, The","Anderson, Paul Thomas",2012,USA,144,Drama,Col,X
-486,480,522,A.I. Artificial Intelligence,"Spielberg, Steven",2001,USA,145,Science Fiction-Drama,Col,X
-487,457,483,All the President's Men,"Pakula, Alan J.",1976,USA,138,Political-Drama,Col,X
-488,---,---,"Act of Killing, The","Oppenheimer, Joshua",2012,Denmark-Norway-UK-Finland,115,Documentary-Crime-History,Col,X
-489,464,512,Frankenstein,"Whale, James",1931,USA,70,Horror-Science Fiction,BW,X
-490,544,519,Miracle in Milan,"De Sica, Vittorio",1951,Italy,95,Fantasy-Drama-Comedy,BW,
-491,504,557,Grizzly Man,"Herzog, Werner",2005,USA,103,Documentary,Col,X
-492,519,509,Forrest Gump,"Zemeckis, Robert",1994,USA,142,Drama-Comedy,Col,X
-493,481,482,"Wind, The","Sjöström, Victor",1928,USA,88,Drama,BW,
-494,498,496,Strangers on a Train,"Hitchcock, Alfred",1951,USA,101,Thriller-Drama-Crime,BW,X
 495,490,511,India Song,"Duras, Marguerite",1975,France,120,Drama,Col,
-496,479,505,Grey Gardens,"Maysles, David/Albert Maysles/Ellen Hovde/Muffie Meyer",1975,USA,95,Documentary-Comedy,Col,X
-497,525,489,Barton Fink,"Coen, Joel & Ethan Coen",1991,USA,117,Drama-Comedy,Col,X
-498,466,488,Shane,"Stevens, George",1953,USA,118,Western-Drama,Col,X
-499,459,471,"Lady from Shanghai, The","Welles, Orson",1948,USA,87,Mystery-Crime-Thriller,BW,X
-500,482,495,Laura,"Preminger, Otto",1944,USA,85,Mystery-Romance-Thriller,BW,X
-501,541,585,Se7en,"Fincher, David",1995,USA,127,Thriller-Mystery-Drama,Col,X
-502,494,466,"Lives of Others, The","von Donnersmarck, Florian Henckel",2006,Germany,138,Drama,Col,X
-503,548,565,Ninotchka,"Lubitsch, Ernst",1939,USA,110,Romance-Comedy,BW,X
-504,487,498,Chronicle of a Summer,"Rouch, Jean & Edgar Morin",1961,France,85,Documentary,BW,
-505,506,517,Die Hard,"McTiernan, John",1988,USA,131,Thriller-Action,Col,X
-506,471,494,Mad Max 2,"Miller, George",1981,Australia,94,Science Fiction-Action-Adventure,Col,X
-507,483,526,Triumph of the Will,"Riefenstahl, Leni",1935,Germany,110,Documentary-History-Political,BW,X
-508,507,518,Winter Light,"Bergman, Ingmar",1962,Sweden,80,Religious-Drama,BW,X
 509,517,541,Pan's Labyrinth,"del Toro, Guillermo",2006,Spain-Mexico-USA,120,Drama-Fantasy-Thriller,Col,X
-510,488,453,To Have and Have Not,"Hawks, Howard",1944,USA,100,Romance-Drama-Adventure,BW,X
-511,484,470,Tootsie,"Pollack, Sydney",1982,USA,116,Romance-Comedy,Col,X
-512,496,485,Short Cuts,"Altman, Robert",1993,USA,189,Drama,Col,
-513,690,670,My Friend Ivan Lapshin,"German, Aleksey",1985,USSR,100,Drama,Col-BW,
-514,491,469,Toy Story,"Lasseter, John",1995,USA,80,Fantasy-Comedy-Family-Animated,Col,X
-515,489,439,"Sound of Music, The","Wise, Robert",1965,USA,174,Musical-Drama-Family,Col,X
-516,499,479,"Wind Will Carry Us, The","Kiarostami, Abbas",1999,France-Iran,118,Drama,Col,
-517,497,452,Koyaanisqatsi,"Reggio, Godfrey",1982,USA,87,Documentary,Col,
-518,522,548,"Farewell, My Concubine",Chen Kaige,1993,China-Hong Kong,155,History-Drama-Romance,Col,
-519,501,464,12 Angry Men,"Lumet, Sidney",1957,USA,95,Drama,BW,X
-520,527,525,"Vampires, Les","Feuillade, Louis",1915,France,440,Thriller-Crime-Action,BW,X
-521,495,493,Shadow of a Doubt,"Hitchcock, Alfred",1943,USA,108,Thriller,BW,X
-522,476,510,Point Blank,"Boorman, John",1967,USA,92,Thriller-Crime-Action,Col,X
-523,502,529,Alphaville,"Godard, Jean-Luc",1965,France,95,Science Fiction-Mystery-Drama,BW,
-524,529,556,Amélie,"Jeunet, Jean-Pierre",2001,France-Germany,122,Romance-Comedy,Col,X
-525,513,497,"Terra trema, La","Visconti, Luchino",1948,Italy,160,Drama,BW,
-526,500,589,Orlando,"Potter, Sally",1992,UK-Russia-France-Italy-Netherlands,94,History-Drama-Fantasy,Col,
-527,533,537,Hannah and Her Sisters,"Allen, Woody",1986,USA,106,Drama-Comedy-Romance,Col,X
-528,509,476,"Night at the Opera, A","Wood, Sam",1935,USA,92,Romance-Musical-Comedy,BW,X
-529,510,516,Songs from the Second Floor,"Andersson, Roy",2000,Sweden-France-Denmark-Norway-Germany,98,Drama,Col,
-530,536,538,Colossal Youth,"Costa, Pedro",2006,France-Portugal-Switzerland,155,Drama,Col,X
-531,486,531,Inland Empire,"Lynch, David",2006,USA-France-Poland,180,Drama-Mystery-Thriller,Col,
-532,492,475,Alexander Nevsky,"Eisenstein, Sergei",1938,USSR,107,War-History-Biography,BW,X
-533,520,484,"Damned, The","Visconti, Luchino",1969,Italy-West Germany,155,War-Drama,Col,
-534,538,506,Faust,"Murnau, F.W.",1926,Germany,116,Fantasy-Drama-Horror,BW,X
 535,---,---,"Social Network, The","Fincher, David",2010,USA,120,Biography-Drama-History,Col,X
-536,526,559,"Royal Tenenbaums, The","Anderson, Wes",2001,USA,109,Drama-Comedy,Col,X
-537,511,451,Masculin Feminin,"Godard, Jean-Luc",1966,France-Sweden,103,Drama,BW,X
-538,706,801,Once Upon a Time in Anatolia,"Ceylan, Nuri Bilge",2011,Turkey-Bosnia and Herzergovina,150,Crime-Drama,Col,
-539,512,473,"Steamboat Bill, Jr.","Keaton, Buster/Charles Reisner",1928,USA,71,Romance-Comedy-Adventure,BW,X
-540,592,563,"French Connection, The","Friedkin, William",1971,USA,104,Crime,Col,X
-541,531,610,Terminator 2: Judgment Day,"Cameron, James",1991,USA,136,Science Fiction-Action,Col,X
-542,542,533,Pat Garrett and Billy the Kid,"Peckinpah, Sam",1973,USA,122,Western,Col,X
-543,562,545,Casino,"Scorsese, Martin",1995,USA,182,Drama-Crime,Col,X
-544,505,492,Kagemusha,"Kurosawa, Akira",1980,Japan,159,War-Drama-History,Col,
-545,599,658,Still Life,Jia Zhangke,2006,China-Hong Kong,113,Drama-Romance,Col,
-546,514,500,Gimme Shelter,"Maysles, Albert/David Maysles/Charlotte Zwerin",1970,USA,91,Documentary-Musical-History,Col,X
-547,532,490,East of Eden,"Kazan, Elia",1955,USA,115,Drama,Col,X
-548,593,636,Zodiac,"Fincher, David",2007,USA,158,Crime-Drama-Thriller,Col,X
-549,567,570,Trainspotting,"Boyle, Danny",1996,UK,95,Drama-Comedy,Col,X
-550,561,580,Silent Light,"Reygadas, Carlos",2007,Mexico-France-Netherlands,136,Drama,Col,
-551,553,582,"Amants du Pont-Neuf, Les","Carax, Leos",1991,France,126,Drama,Col,
-552,539,502,Doctor Zhivago,"Lean, David",1965,USA,197,War-Romance-Drama,Col,X
-553,573,614,"4 Months, 3 Weeks and 2 Days","Mungiu, Cristian",2007,Romania-Netherlands-France-Germany,113,Drama,Col,
-554,537,524,"Enigma of Kaspar Hauser, The","Herzog, Werner",1974,West Germany,110,Biography-Drama,Col,
-555,516,486,"Devil, Probably, The","Bresson, Robert",1977,France,95,Drama,Col,
-556,590,607,Children of Men,"Cuarón, Alfonso",2006,USA-UK,109,Drama-Science Fiction-Thriller,Col,X
-557,555,608,Evil Dead II,"Raimi, Sam",1987,USA,85,Horror,Col,X
-558,523,508,Limelight,"Chaplin, Charles",1952,USA,145,Drama-Comedy,BW,X
-559,543,564,Fellini Satyricon,"Fellini, Federico",1969,Italy,129,History-Drama,Col,
-560,515,448,Early Summer,"Ozu, Yasujiro",1951,Japan,135,Drama,BW,
-561,558,543,In Vanda's Room,"Costa, Pedro",2000,Portugal-Germany-Switzerland-Italy,170,Drama,Col,
-562,518,501,Top Hat,"Sandrich, Mark",1935,USA,99,Romance-Musical-Comedy,BW,X
-563,521,513,"Big Heat, The","Lang, Fritz",1953,USA,90,Drama-Crime,BW,X
-564,564,578,My Own Private Idaho,"Van Sant, Gus",1991,USA,102,Drama,Col,
-565,540,547,"Servant, The","Losey, Joseph",1963,UK,115,Drama,BW,
-566,617,575,Rosetta,"Dardenne, Jean-Pierre & Luc Dardenne",1999,Belgium-France,94,Drama,Col,
-567,524,530,"Bitter Tears of Petra von Kant, The","Fassbinder, Rainer Werner",1972,West Germany,124,Drama,Col,
-568,588,601,Full Metal Jacket,"Kubrick, Stanley",1987,USA,116,War-Drama-Action,Col,X
-569,586,544,Hatari!,"Hawks, Howard",1962,USA,159,Drama,Col,X
-570,578,536,Providence,"Resnais, Alain",1977,France-Switzerland,110,Drama,Col,
-571,557,588,Secrets & Lies,"Leigh, Mike",1996,UK,142,Drama-Comedy,Col,X
-572,546,527,Deliverance,"Boorman, John",1972,USA,109,Adventure-Thriller-Drama,Col,X
-573,576,555,Hana-Bi,"Kitano, Takeshi",1997,Japan,103,Drama-Crime,Col,
-574,534,567,"Vitelloni, I","Fellini, Federico",1953,Italy,104,Drama,BW,
-575,528,520,"Région centrale, La","Snow, Michael",1971,Canada,180,Avant-Garde,Col,
-576,597,619,"39 Steps, The","Hitchcock, Alfred",1935,UK,87,Spy-Thriller,BW,X
-577,550,539,"Rise to Power of Louis XIV, The","Rossellini, Roberto",1966,France,100,Drama-Biography-History,Col,
-578,568,602,Scarface,"Hawks, Howard",1932,USA,90,Crime-Biography-Drama,BW,X
-579,551,535,Alice in the Cities,"Wenders, Wim",1974,West Germany,110,Drama,BW,
-580,610,579,"Red Circle, The","Melville, Jean-Pierre",1970,France-Italy,150,Thriller-Crime,Col,X
-581,570,551,Boudu Saved from Drowning,"Renoir, Jean",1932,France,87,Comedy,BW,X
-582,535,503,Marketa Lazarová,"Vlácil, Frantisek",1967,Czechoslovakia,162,History-Drama,BW,X
-583,605,599,Young Frankenstein,"Brooks, Mel",1974,USA,105,Horror-Comedy-Science Fiction,BW,X
-584,608,618,"Lady Vanishes, The","Hitchcock, Alfred",1938,UK,97,Spy-Mystery-Thriller,BW,X
-585,547,532,"Phantom of Liberty, The","Buñuel, Luis",1974,France,104,Drama-Comedy-Avant Garde,Col,
-586,607,663,"Age of Innocence, The","Scorsese, Martin",1993,USA,133,Romance-Drama,Col,X
-587,559,534,Rebel Without a Cause,"Ray, Nicholas",1955,USA,111,Drama,Col,X
-588,563,624,"Belle noiseuse, La","Rivette, Jacques",1991,France,240,Drama,Col,
-589,571,528,Tale of Tales,"Norshteyn, Yuriy",1979,USSR,29,Animated-Short,Col,X
-590,556,521,Being There,"Ashby, Hal",1979,USA,130,Drama-Comedy,Col,X
-591,589,568,Rushmore,"Anderson, Wes",1998,USA,93,Comedy,Col,X
-592,591,613,"Fly, The","Cronenberg, David",1986,USA,100,Horror,Col,X
-593,618,648,Distant,"Ceylan, Nuri Bilge",2002,Turkey-Netherlands,110,Drama,Col,
-594,580,561,And Life Goes On...,"Kiarostami, Abbas",1992,Iran,108,Drama-Documentary,Col,
-595,552,587,Shock Corridor,"Fuller, Samuel",1963,USA,101,Drama-Mystery,BW,X
-596,609,591,Salesman,"Maysles, Albert/David Maysles/Charlotte Zwerin",1969,USA,85,Documentary,BW,X
-597,612,735,"Ascent, The","Shepitko, Larisa",1976,USSR,111,War-Drama,BW,
-598,549,515,Wagon Master,"Ford, John",1950,USA,86,Western,BW,X
-599,565,640,Raising Arizona,"Coen, Joel & Ethan Coen",1987,USA,92,Comedy,Col,X
-600,579,675,"Harlan County, U.S.A.","Kopple, Barbara",1976,USA,103,Documentary,Col,
-601,574,553,That Obscure Object of Desire,"Buñuel, Luis",1977,France-Spain,103,Drama,Col,
-602,611,621,Possession,"Zulawski, Andrzej",1981,France-West Germany,127,Horror-Drama,Col,
-603,566,583,"Killing, The","Kubrick, Stanley",1956,USA,85,Crime-Thriller,BW,X
-604,554,546,Bigger Than Life,"Ray, Nicholas",1956,USA,95,Drama,Col,
 605,626,574,"Testament of Dr. Mabuse, The","Lang, Fritz",1933,Germany,120,Thriller-Mystery-Crime,BW,X
-606,604,611,"Dark Knight, The","Nolan, Christopher",2008,USA-UK,152,Action-Crime-Thriller,Col,X
-607,613,698,"Son, The","Dardenne, Jean-Pierre & Luc Dardenne",2002,Belgium-France,103,Drama,Col,
-608,649,651,Syndromes and a Century,"Weerasethakul, Apichatpong",2006,Thailand-France-Austria-Netherlands,105,Drama,Col,
-609,584,562,Rocky,"Avildsen, John G.",1976,USA,119,Sport-Drama,Col,X
-610,582,552,Down by Law,"Jarmusch, Jim",1986,USA,107,Comedy,BW,X
-611,596,573,Bande à part,"Godard, Jean-Luc",1964,France,97,Crime-Drama-Romance,BW,
-612,595,554,"Devils, The","Russell, Ken",1971,UK,109,History-Drama-Horror,Col,X
-613,655,662,Y tu mamá también,"Cuarón, Alfonso",2001,Mexico,105,Drama-Comedy,Col,
-614,560,596,"Hard Day's Night, A","Lester, Richard",1964,UK,87,Musical-Comedy,BW,X
-615,577,733,"Ciénaga, La","Martel, Lucrecia",2001,Argentina-France-Spain,103,Drama-Comedy,Col,
-616,581,577,Aparajito,"Ray, Satyajit",1956,India,108,Drama,BW,
-617,747,734,Fellini's Roma,"Fellini, Federico",1972,Italy,128,Drama-Comedy,Col,
-618,598,609,Before Sunset,"Linklater, Richard",2004,USA,80,Romance-Drama,Col,X
-619,648,633,After Life,"Koreeda, Hirokazu",1998,Japan,118,Drama-Fantasy,Col,
-620,575,623,"Manchurian Candidate, The","Frankenheimer, John",1962,USA,126,Political-Thriller-Drama,BW,X
-621,671,671,"Party, The","Edwards, Blake",1968,USA,99,Comedy,Col,
-622,640,719,"Angel at My Table, An","Campion, Jane",1990,New Zealand-Australia-UK-USA,158,Drama-Biography,Col,X
-623,572,590,Detour,"Ulmer, Edgar G.",1945,USA,69,Crime,BW,X
-624,665,615,"Blue Angel, The","von Sternberg, Josef",1930,Germany,103,Drama,BW,
-625,569,569,Local Hero,"Forsyth, Bill",1983,UK,111,Drama-Comedy,Col,X
-626,680,709,Let the Right One In,"Alfredson, Tomas",2008,Sweden-Norway,114,Drama-Horror-Romance,Col,
-627,583,566,"Asphalt Jungle, The","Huston, John",1950,USA,112,Thriller-Crime,BW,X
-628,587,542,Picnic at Hanging Rock,"Weir, Peter",1975,Australia,110,Mystery-Drama,Col,X
-629,647,639,Fat City,"Huston, John",1972,USA,100,Sport,Col,
-630,630,638,White Heat,"Walsh, Raoul",1949,USA,114,Crime,BW,X
-631,642,605,Memento,"Nolan, Christopher",2000,USA,113,Thriller-Mystery-Drama,Col,X
-632,606,690,Invasion of the Body Snatchers,"Siegel, Don",1956,USA,80,Science Fiction-Horror,BW,X
-633,622,604,Seven Chances,"Keaton, Buster",1925,USA,56,Romance-Comedy,BW,X
-634,594,603,I Walked with a Zombie,"Tourneur, Jacques",1943,USA,69,Horror-Drama-Romance,BW,X
-635,652,699,Nostalgia for the Light,"Guzmán, Patricio",2010,France-Germany-Chile-Spain-USA,90,Documentary-Drama,Col,
-636,585,586,Scorpio Rising,"Anger, Kenneth",1963,USA,28,Short-Avant-Garde-Music,Col,X
-637,625,572,Loves of a Blonde,"Forman, Milos",1965,Czechoslovakia,88,Drama-Comedy,BW,
-638,653,620,"Round-Up, The","Jancsó, Miklós",1966,Hungary,90,History-Drama-War,BW,
-639,632,598,"Dr. Mabuse, The Gambler","Lang, Fritz",1922,Germany,270,Thriller-Mystery-Crime,BW,X
-640,635,600,Twenty Years Later,"Coutinho, Eduardo",1984,Brazil,119,Documentary,Col-BW,
-641,675,653,Titanic,"Cameron, James",1997,USA,194,Romance-History-Action-Disaster,Col,X
-642,696,652,Strike,"Eisenstein, Sergei",1925,USSR,73,History-Drama-Political,BW,X
-643,627,634,"Diaboliques, Les","Clouzot, Henri-Georges",1955,France,114,Thriller-Mystery,BW,X
-644,603,592,Love Me Tonight,"Mamoulian, Rouben",1932,USA,96,Musical-Comedy-Romance,BW,
-645,623,664,"Wicker Man, The","Hardy, Robin",1973,UK,103,Mystery-Horror,Col,X
-646,600,558,"Wedding March, The","von Stroheim, Erich",1928,USA,113,Romance-Drama,BW,
-647,701,696,Casque d'or,"Becker, Jacques",1952,France,96,Romance-Drama-Crime,BW,
-648,616,628,"Goodbye, Dragon Inn",Tsai Ming-liang,2003,Taiwan,82,Drama-Comedy,Col,
-649,628,581,Scarface,"De Palma, Brian",1983,USA,170,Drama-Crime,Col,X
-650,602,571,Plácido,"García Berlanga, Luis",1961,Spain,85,Comedy,BW,
-651,657,678,"Synecdoche, New York","Kaufman, Charlie",2008,USA,124,Drama,Col,
-652,614,616,Bambi,"Hand, David",1942,USA,69,Family-Animated-Drama,Col,X
-653,621,560,Bring Me the Head of Alfredo Garcia,"Peckinpah, Sam",1974,USA,112,Crime-Thriller-Action,Col,X
-654,601,550,"Silence, The","Bergman, Ingmar",1963,Sweden,96,Drama,BW,X
-655,624,659,"Chant d'amour, Un","Genet, Jean",1950,France,26,Drama,BW,X
-656,656,644,Monty Python and the Holy Grail,"Gilliam, Terry/Terry Jones",1975,UK,90,History-Comedy,Col,X
-657,645,617,Antonio das Mortes,"Rocha, Glauber",1969,Brazil,95,Drama-Western-Political,Col,
-658,631,674,"Sur, El","Erice, Victor",1983,Spain-France,95,Romance-Drama,Col,
-659,679,728,"History of Violence, A","Cronenberg, David",2005,USA-Germany,96,Crime-Drama-Mystery,Col,X
-660,644,595,"Haine, La","Kassovitz, Mathieu",1995,France,93,Drama,BW,
-661,688,665,Mr. Smith Goes to Washington,"Capra, Frank",1939,USA,129,Political-Drama,BW,X
-662,664,629,Young Mr. Lincoln,"Ford, John",1939,USA,100,Political-Biography-Drama,BW,X
-663,633,593,Nazarín,"Buñuel, Luis",1958,Mexico,94,Religious-Drama,BW,
-664,682,682,"Virgin Spring, The","Bergman, Ingmar",1960,Sweden,88,Drama,BW,X
-665,728,809,Van Gogh,"Pialat, Maurice",1991,France,158,Drama-Biography,Col,
-666,673,612,Rebecca,"Hitchcock, Alfred",1940,USA,130,Mystery-Romance-Drama,BW,X
-667,615,637,Arrebato,"Zulueta, Iván",1979,Spain,105,Drama-Horror,Col,
-668,643,627,Europa '51,"Rossellini, Roberto",1952,Italy,113,Drama,BW,
-669,636,630,Blissfully Yours,"Weerasethakul, Apichatpong",2002,Thailand-France,125,Romance-Drama,Col,
-670,634,584,Our Hospitality,"Keaton, Buster/John G. Blystone",1923,USA,74,Comedy-Family-Romance,BW,X
-671,666,650,"Purple Rose of Cairo, The","Allen, Woody",1985,USA,82,Fantasy-Comedy-Romance,Col-BW,X
-672,716,655,By the Bluest of Seas,"Barnet, Boris",1936,USSR,71,Drama-Romantic-Comedy,BW,
 673,637,626,"Marriage of Maria Braun, The","Fassbinder, Rainer Werner",1979,West Germany,120,War-Drama,Col,
-674,689,702,Audition,"Miike, Takashi",1999,Japan-South Korea,115,Thriller-Horror-Drama,Col,
-675,663,654,Titicut Follies,"Wiseman, Frederick",1967,USA,84,Documentary-Drama,BW,
-676,641,597,"Streetcar Named Desire, A","Kazan, Elia",1951,USA,122,Drama,BW,X
-677,646,645,Great Expectations,"Lean, David",1946,UK,118,Romance-Drama,BW,X
-678,661,656,Gummo,"Korine, Harmony",1997,USA,88,Drama,Col,X
-679,743,807,"New World, The","Malick, Terrence",2005,USA,135,Drama-History-Romance,Col,X
-680,683,718,Airplane!,"Abrahams, Jim/David Zucker/Jerry Zucker",1980,USA,86,Comedy,Col,X
-681,692,739,"Golden Coach, The","Renoir, Jean",1952,Italy-France,100,Drama-Comedy-Romance,Col,
-682,703,667,Funny Games,"Haneke, Michael",1997,Austria,108,Thriller-Drama,Col,
-683,650,761,"Headless Woman, The","Martel, Lucrecia",2008,Argentina-Spain-France-Italy,87,Drama-Mystery-Thriller,Col,X
-684,639,594,Ben-Hur,"Wyler, William",1959,USA,212,Religious-History,Col,X
-685,686,697,Robocop,"Verhoeven, Paul",1987,USA,103,Science Fiction-Crime,Col,X
-686,693,722,Saving Private Ryan,"Spielberg, Steven",1998,USA,169,War-Drama-Action,Col,X
-687,756,721,Lolita,"Kubrick, Stanley",1962,UK,152,Drama,BW,X
-688,638,641,Mother and Son,"Sokurov, Aleksandr",1997,Russia-Germany,73,Drama,Col,
-689,651,714,Big Deal on Madonna Street,"Monicelli, Mario",1958,Italy,91,Crime-Comedy,BW,
-690,711,660,Breakfast at Tiffany's,"Edwards, Blake",1961,USA,115,Romance-Drama-Comedy,Col,X
-691,670,657,Nouvelle vague,"Godard, Jean-Luc",1990,France-Switzerland,90,Drama,Col,
-692,799,793,Memories of Murder,Bong Joon-ho,2003,South Korea,132,Crime-Drama-Mystery,Col,
-693,654,691,"Great Escape, The","Sturges, John",1963,USA,168,War-Prison-Adventure,Col,X
-694,725,679,Lancelot du Lac,"Bresson, Robert",1974,France-Italy,84,Fantasy-Drama,Col,
-695,672,643,Dancer in the Dark,"von Trier, Lars",2000,Denmark-France-Sweden-Italy-Germany-Norway-Netherlands-Iceland-Finland-UK-USA,140,Musical-Drama,Col,X
-696,699,717,"Piano Teacher, The","Haneke, Michael",2001,Austria-France-Germany,130,Drama,Col,
-697,660,625,Xala,"Sembene, Ousmane",1975,Senegal,123,Comedy,Col,
-698,676,715,Zelig,"Allen, Woody",1983,USA,79,Comedy,Col-BW,
-699,659,661,JFK,"Stone, Oliver",1991,USA,188,History-Drama,Col-BW,X
+841,871,887,"Last Bolshevik, The","Marker, Chris",1993,France-Finland,120,Documentary-Biography-History,Col,
+874,879,843,"Cook, the Thief, His Wife & Her Lover, The","Greenaway, Peter",1989,UK-France,120,Drama,Col,
+913,927,---,Saraband,"Bergman, Ingmar",2003,Sweden-Denmark-Norway-Italy-Finland-Germany-Austria,120,Drama,Col,
+1,1,1,Citizen Kane,"Welles, Orson",1941,USA,119,Drama-Mystery,BW,X
+9,9,9,"Searchers, The","Ford, John",1956,USA,119,Western,Col,X
+28,26,28,Some Like it Hot,"Wilder, Billy",1959,USA,119,Romance-Crime-Comedy,BW,X
+93,95,90,"Man Who Shot Liberty Valance, The","Ford, John",1962,USA,119,Western,BW,X
+147,144,136,"Passenger, The","Antonioni, Michelangelo",1975,Italy,119,Drama,Col,
+447,472,499,Safe,"Haynes, Todd",1995,USA,119,Drama,Col,
+609,584,562,Rocky,"Avildsen, John G.",1976,USA,119,Sport-Drama,Col,X
+640,635,600,Twenty Years Later,"Coutinho, Eduardo",1984,Brazil,119,Documentary,Col-BW,
 700,712,752,"Host, The",Bong Joon-ho,2006,South Korea-Japan,119,Action-Comedy-Horror,Col,X
-701,674,704,Ghostbusters,"Reitman, Ivan",1984,USA,107,Science Fiction-Comedy,Col,X
-702,658,622,"Place in the Sun, A","Stevens, George",1951,USA,122,Romance-Drama,BW,X
-703,677,642,Dazed and Confused,"Linklater, Richard",1993,USA,94,Drama,Col,X
-704,662,646,Yeelen,"Cissé, Souleymane",1987,Mali-Burkina Faso-France-West Germany-Japan,105,Drama-Fantasy,Col,
-705,800,764,Moonfleet,"Lang, Fritz",1955,USA,89,Adventure-Drama,Col,
-706,684,647,Harakiri,"Kobayashi, Masaki",1962,Japan,133,Drama-Action-History,BW,X
-707,710,669,Requiem for a Dream,"Aronofsky, Darren",2000,USA,100,Drama,Col,X
-708,727,668,"Wild Child, The","Truffaut, François",1970,France,85,Drama,BW,
-709,691,708,Crash,"Cronenberg, David",1996,Canada,100,Drama,Col,X
-710,718,677,Miller's Crossing,"Coen, Joel & Ethan Coen",1990,USA,115,Crime,Col,X
-711,765,736,Smiles of a Summer Night,"Bergman, Ingmar",1955,Sweden,108,Romance-Comedy,BW,X
-712,681,631,Walkabout,"Roeg, Nicolas",1971,Australia,95,Drama-Adventure,Col,X
-713,790,747,"Trial, The","Welles, Orson",1962,France-West Germany-Italy,118,Drama-Fantasy-Thriller,BW,
-714,669,632,They Live by Night,"Ray, Nicholas",1948,USA,95,Drama-Crime,BW,X
-715,---,---,Certified Copy,"Kiarostami, Abbas",2010,France-Italy-Belgium-Iran,106,Drama,Col,
-716,726,713,"Woman Next Door, The","Truffaut, François",1981,France,106,Romance-Drama,Col,X
-717,667,606,Passion,"Godard, Jean-Luc",1982,France-Switzerland,87,Drama,Col,
-718,705,763,Irréversible,"Noé, Gaspar",2002,France,97,Crime-Drama-Horror,Col,
-719,668,694,Gun Crazy,"Lewis, Joseph H.",1950,USA,86,Drama-Crime,BW,X
-720,798,766,Jurassic Park,"Spielberg, Steven",1993,USA,126,Science Fiction-Adventure-Action,Col,X
-721,738,680,"Dames du Bois de Boulogne, Les","Bresson, Robert",1945,France,85,Drama-Romance,BW,
-722,826,845,"Ghost and Mrs. Muir, The","Mankiewicz, Joseph L.",1947,USA,104,Romance-Fantasy,BW,X
-723,731,676,"Tiger of Eschnapur, The","Lang, Fritz",1958,West Germany-France-Italy,101,Romance-Adventure,Col,
-724,753,870,Night of the Demon,"Tourneur, Jacques",1957,UK,82,Horror,BW,
-725,702,673,Spartacus,"Kubrick, Stanley",1960,USA,184,Adventure-History-Drama,Col,X
-726,698,731,L.A. Confidential,"Hanson, Curtis",1997,USA,137,Thriller-Crime,Col,X
-727,694,695,W.R.: Mysteries of the Organism,"Makavejev, Dusan",1971,Yugoslavia,84,Drama-Comedy-Fantasy,Col,X
-728,741,684,Blow Out,"De Palma, Brian",1981,USA,107,Thriller-Mystery,Col,X
-729,685,692,My Life as a Dog,"Hallström, Lasse",1985,Sweden,101,Drama-Comedy,Col,
-730,---,---,"American Werewolf in London, An","Landis, John",1981,USA,97,Horror-Comedy,Col,X
-731,700,741,"Circus, The","Chaplin, Charles",1928,USA,72,Drama-Comedy-Family,BW,X
-732,721,720,"Emperor's Naked Army Marches On, The","Hara, Kazuo",1987,Japan,122,Documentary-War-Political,Col,
-733,695,792,Dumbo,"Sharpsteen, Ben",1941,USA,64,Musical-Family-Animated,Col,X
-734,796,799,"Bandido da Luz Vermelha, O","Sganzerla, Rogério",1968,Brazil,92,Thriller-Crime,BW,
-735,717,737,Avatar,"Cameron, James",2009,USA-UK,161,Action-Science Fiction-Adventure,Col,X
-736,715,683,"Bad and the Beautiful, The","Minnelli, Vincente",1952,USA,118,Drama,BW,X
-737,687,635,"African Queen, The","Huston, John",1951,USA,105,Romance-Adventure,Col,X
-738,678,666,Edward Scissorhands,"Burton, Tim",1990,USA,100,Romance-Fantasy,Col,X
-739,730,920,Near Dark,"Bigelow, Kathryn",1987,USA,95,Horror-Drama-Thriller,Col,
-740,759,706,Thelma & Louise,"Scott, Ridley",1991,USA,128,Drama-Comedy-Adventure,Col,X
-741,709,724,Rififi,"Dassin, Jules",1955,France,115,Crime,BW,
-742,749,851,"Ladies Man, The","Lewis, Jerry",1961,USA,95,Comedy,Col,X
-743,734,730,"Seasons, The","Peleshian, Artavazd",1975,USSR,29,Documentary-Short,BW,X
-744,778,757,Code Unknown,"Haneke, Michael",2000,France-Germany-Romania,118,Drama,Col,
-745,774,847,"River, The",Tsai Ming-liang,1997,Taiwan,115,Drama,Col,X
-746,704,686,When Harry Met Sally...,"Reiner, Rob",1989,USA,95,Romance-Comedy,Col,X
-747,697,649,Foolish Wives,"von Stroheim, Erich",1922,USA,117,Drama,BW,
-748,713,681,"Man Who Would Be King, The","Huston, John",1975,USA,129,Adventure,Col,X
-749,748,716,Dirty Harry,"Siegel, Don",1971,USA,102,Crime-Action,Col,X
-750,809,836,Grave of the Fireflies,"Takahata, Isao",1988,Japan,93,Animated-War-Drama,Col,X
-751,757,689,Ferris Bueller's Day Off,"Hughes, John",1986,USA,103,Comedy,Col,X
-752,707,712,Vive L'Amour,Tsai Ming-liang,1994,Taiwan,118,Drama,Col,
-753,---,---,"Prophet, A","Audiard, Jacques",2009,France-Italy,155,Drama-Crime,Col,
-754,722,725,"Killer, The","Woo, John",1989,Hong Kong,110,Thriller-Crime-Action,Col,
-755,729,688,"Lord of the Rings: The Fellowship of the Ring, The","Jackson, Peter",2001,New Zealand-USA,178,Fantasy-Adventure,Col,X
-756,782,750,Abraham's Valley,"Oliveira, Manoel de",1993,Portugal-France-Switzerland,187,Drama,Col,
-757,875,839,Outskirts,"Barnet, Boris",1933,USSR,98,War-Drama,BW,
-758,761,821,"Firemen's Ball, The","Forman, Milos",1967,Czechoslovakia,73,Comedy,Col,
-759,781,770,"Hawks and the Sparrows, The","Pasolini, Pier Paolo",1966,Italy,91,Comedy-Drama,BW,
-760,708,700,Edvard Munch [TV],"Watkins, Peter",1974,Sweden-Norway,210,Drama-Biography,Col,
-761,755,701,"Chronicle of Anna Magdalena Bach, The","Straub, Jean-Marie",1968,West Germany-Italy,94,Drama-History-Musical,BW,
-762,723,685,"Short Film About Killing, A","Kieslowski, Krzysztof",1987,Poland,85,Drama-Crime,Col,X
-763,773,693,"Navigator, The","Keaton, Buster/Donald Crisp",1924,USA,59,Comedy-Adventure,BW,X
-764,736,835,D'Est,"Akerman, Chantal",1993,Belgium-France-Portugal,107,Documentary,Col,
-765,714,740,Fort Apache,"Ford, John",1948,USA,127,Western-War,BW,X
-766,751,726,Moulin Rouge!,"Luhrmann, Baz",2001,Australia-USA,126,Drama-Musical-Romance,Col,X
-767,768,---,Portrait of Jason,"Clarke, Shirley",1967,USA,105,Documentary-Biography,BW,
-768,724,687,Claire's Knee,"Rohmer, Eric",1970,France,105,Romance-Drama-Comedy,Col,
-769,732,742,All Quiet on the Western Front,"Milestone, Lewis",1930,USA,133,War-Drama,BW,
-770,720,707,Red Sorghum,Zhang Yimou,1987,China,91,Drama,Col,
-771,769,760,Sauve qui peut (la vie),"Godard, Jean-Luc",1980,France-Switzerland,87,Drama,Col,
-772,754,783,"Long Day Closes, The","Davies, Terence",1992,UK,83,Drama,Col,
-773,742,751,Saturday Night and Sunday Morning,"Reisz, Karel",1960,UK,89,Drama-Romance,BW,
-774,719,710,"Tin Drum, The","Schlöndorff, Volker",1979,West Germany-France-Poland-Yugoslavia,142,War-Drama,Col,
-775,735,711,"Thief of Bagdad, The","Powell, Michael/Ludwig Berger/Tim Whelan",1940,UK,106,Fantasy-Family-Adventure,Col,
-776,744,703,"Grido, Il","Antonioni, Michelangelo",1957,Italy,111,Drama,BW,
-777,737,822,Akira,"Otomo, Katsuhiro",1988,Japan,124,Animated-Science Fiction-Action,Col,X
 778,760,746,Crumb,"Zwigoff, Terry",1994,USA,119,Documentary-Biography,Col,X
-779,750,754,Z,"Costa-Gavras, Constantin",1969,France,127,Political-Thriller-History,Col,
-780,767,---,Sideways,"Payne, Alexander",2004,USA,123,Drama-Comedy,Col,
-781,811,877,"Posto, Il","Olmi, Ermanno",1961,Italy,93,Drama,BW,
-782,733,753,Ace in the Hole,"Wilder, Billy",1951,USA,112,Drama,BW,X
-783,740,785,Pickup on South Street,"Fuller, Samuel",1953,USA,80,Spy-Crime,BW,
-784,827,779,Seven Women,"Ford, John",1966,USA,87,History-Drama,Col,
-785,772,797,Hunger,"McQueen, Steve",2008,UK-Ireland,96,Drama-History,Col,
-786,777,803,"Sang des bêtes, Le","Franju, Georges",1949,France,20,Short-Documentary-Drama,BW,X
-787,770,767,Wild at Heart,"Lynch, David",1990,USA,127,Romance-Drama-Crime,Col,
-788,794,818,Million Dollar Baby,"Eastwood, Clint",2004,USA,137,Drama,Col,X
-789,745,794,We All Loved Each Other So Much,"Scola, Ettore",1974,Italy,124,Comedy,Col,
 790,883,868,Léon,"Besson, Luc",1994,France,119,Thriller-Crime,Col,X
-791,739,782,"American in Paris, An","Minnelli, Vincente",1951,USA,115,Musical-Dance,Col,X
-792,766,---,Iracema - Uma Transa Amazônica,"Bodanzky, Jorge & Orlando Senna",1975,Brazil-West Germany-France,90,Drama,Col,
-793,752,705,Dodes'ka-den,"Kurosawa, Akira",1970,Japan,140,Fantasy-Drama,Col,
-794,874,923,Othello,"Welles, Orson",1951,Italy-France-Morocco-USA,90,Drama,BW,
-795,762,727,"Last Detail, The","Ashby, Hal",1973,USA,105,Drama,Col,
-796,804,904,News from Home,"Akerman, Chantal",1976,France-Belgium-West Germany,85,Drama,Col,
-797,801,925,"Bonheur, Le","Varda, Agnès",1965,France,79,Drama,Col,
-798,791,732,"Princess Bride, The","Reiner, Rob",1987,USA,98,Comedy-Family-Adventure,Col,X
-799,787,755,Ossessione,"Visconti, Luchino",1943,Italy,140,Drama,BW,
-800,758,749,"Red Balloon, The","Lamorisse, Albert",1956,France,34,Fantasy-Family-Short,Col,X
-801,775,768,Starship Troopers,"Verhoeven, Paul",1997,USA,129,Science Fiction-Action-Adventure-War,Col,X
-802,764,795,Street Angel,Yuan Muzhi,1937,China,91,Drama-Comedy-Musical,BW,
-803,901,912,Ed Wood,"Burton, Tim",1994,USA,124,Drama-Comedy-Biography,BW,X
-804,763,864,"Adventures of Robin Hood, The","Curtiz, Michael/William Keighley",1938,USA,102,Adventure,Col,X
-805,771,771,Cool Hand Luke,"Rosenberg, Stuart",1967,USA,126,Prison-Drama,Col,X
-806,830,773,"New York, New York","Scorsese, Martin",1977,USA,164,Musical,Col,X
-807,779,784,"Blues Brothers, The","Landis, John",1980,USA,130,Action-Comedy-Musical,Col,X
-808,802,812,"Sweet Hereafter, The","Egoyan, Atom",1997,Canada,112,Drama,Col,
-809,950,---,Paper Moon,"Bogdanovich, Peter",1973,USA,102,Drama-Comedy-Crime,BW,X
-810,786,831,Olympia,"Riefenstahl, Leni",1938,Germany,201,Documentary-Sport,BW,X
-811,785,808,American Beauty,"Mendes, Sam",1999,USA,121,Drama-Comedy,Col,X
-812,831,802,Morocco,"von Sternberg, Josef",1930,USA,92,War-Romance-Drama,BW,X
-813,834,---,Lessons of Darkness,"Herzog, Werner",1992,France-UK-Germany,50,Documentary-Science Fiction-War,Col,
-814,857,---,Inglourious Basterds,"Tarantino, Quentin",2009,USA-Germany,153,Action-Drama-War,Col,X
-815,788,798,Blood Simple,"Coen, Joel & Ethan Coen",1984,USA,97,Thriller-Drama-Crime,Col,X
-816,792,828,Spione,"Lang, Fritz",1928,Germany,90,Thriller-Spy,BW,
-817,780,791,Deep End,"Skolimowski, Jerzy",1970,UK-West Germany,88,Drama-Comedy-Romance,Col,
-818,795,769,"Maîtres fous, Les","Rouch, Jean",1955,France,36,Documentary-Short,Col,X
-819,854,796,"Woman of Paris, A","Chaplin, Charles",1923,USA,78,Drama-Romance,BW,X
-820,897,885,"Trou, Le","Becker, Jacques",1960,France-Italy,140,Drama-Crime,BW,
-821,776,729,Flaming Creatures,"Smith, Jack",1963,USA,43,Drama,BW,
-822,793,842,Two English Girls,"Truffaut, François",1971,France,108,Drama,Col,X
-823,837,858,"Intruder, The","Denis, Claire",2004,France-South Korea,130,Drama,Col,
-824,797,827,Blue,"Jarman, Derek",1993,UK,76,Documentary-Drama,Col,
-825,808,806,"Ladykillers, The","Mackendrick, Alexander",1955,UK,90,Crime-Comedy,Col,X
-826,818,786,Assault on Precinct 13,"Carpenter, John",1976,USA,90,Action,Col,X
-827,784,758,Kaagaz Ke Phool,"Dutt, Guru",1959,India,148,Romance-Drama,BW,
-828,815,744,Port of Shadows,"Carné, Marcel",1938,France,91,Drama,BW,
-829,803,772,"Holy Mountain, The","Jodorowsky, Alejandro",1973,Mexico-USA,114,Adventure-Drama-Fantasy,Col,
-830,789,748,Vengeance is Mine,"Imamura, Shohei",1979,Japan,129,Thriller-Crime-Drama,Col,
-831,806,869,Mary Poppins,"Stevenson, Robert",1964,USA,139,Musical-Family-Fantasy,Col,X
-832,973,905,Excalibur,"Boorman, John",1981,UK,140,Fantasy-Adventure-Action,Col,
 833,813,800,Roman Holiday,"Wyler, William",1953,USA,119,Romance-Comedy-Drama,BW,X
 834,910,857,Saturday Night Fever,"Badham, John",1977,USA,119,Drama,Col,X
-835,805,---,Amores perros,"González Iñárritu, Alejandro",2000,Mexico,153,Drama,Col,
-836,821,762,Hitler: A Film from Germany,"Syberberg, Hans-Jürgen",1977,West Germany-France-UK,442,Biography-Drama-History,Col,
-837,817,804,Burnt by the Sun,"Mikhalkov, Nikita",1994,Russia-France,152,History-Drama,Col,
-838,822,781,Who's Afraid of Virginia Woolf?,"Nichols, Mike",1966,USA,129,Drama,BW,X
-839,816,745,"Idiots, The","von Trier, Lars",1998,Denmark-Spain-Sweden-France-Netherlands-Italy,117,Drama-Comedy,Col,
-840,828,815,"Producers, The","Brooks, Mel",1968,USA,88,Comedy,Col,X
-841,871,887,"Last Bolshevik, The","Marker, Chris",1993,France-Finland,120,Documentary-Biography-History,Col,
-842,835,983,Diary,"Perlov, David",1983,Israel,330,Documentary,Col-BW,
-843,888,853,Au revoir les enfants,"Malle, Louis",1987,France,103,War-Drama,Col,
-844,820,738,"Lusty Men, The","Ray, Nicholas",1952,USA,113,Western-Sport-Drama,BW,
-845,847,805,Sawdust and Tinsel,"Bergman, Ingmar",1953,Sweden,92,Drama,BW,X
-846,807,777,"Miracle of Morgan's Creek, The","Sturges, Preston",1944,USA,99,Comedy,BW,X
-847,823,778,Forbidden Games,"Clément, René",1952,France,87,War-Drama,BW,
-848,824,780,Street of Shame,"Mizoguchi, Kenji",1956,Japan,87,Drama,BW,
-849,825,765,Veronika Voss,"Fassbinder, Rainer Werner",1982,West Germany,105,Drama,BW,
 850,---,---,Millennium Mambo,Hou Hsiao-hsien,2001,Taiwan-France,119,Drama-Romance,Col,
-851,896,910,"Criminal Life of Archibaldo de la Cruz, The","Buñuel, Luis",1955,Mexico,91,Drama-Crime,BW,
-852,840,841,"Day the Earth Stood Still, The","Wise, Robert",1951,USA,92,Science Fiction,BW,X
-853,812,743,"Faster, Pussycat! Kill! Kill!","Meyer, Russ",1965,USA,83,Drama-Comedy-Action,BW,
-854,814,823,"Diaries, Notes and Sketches","Mekas, Jonas",1969,USA,177,Documentary,Col,
-855,845,901,Kwaidan,"Kobayashi, Masaki",1964,Japan,164,Horror-Fantasy,Col,X
-856,907,900,Cría cuervos,"Saura, Carlos",1976,Spain,110,Drama-Crime-Mystery,Col,
-857,855,838,"Million, Le","Clair, René",1931,France,85,Comedy-Musical,BW,
-858,843,850,Women on the Verge of a Nervous Breakdown,"Almodóvar, Pedro",1988,Spain,88,Drama-Comedy,Col,
-859,862,825,Fata Morgana,"Herzog, Werner",1971,West Germany,78,Experimental,Col,
-860,819,790,"Right Stuff, The","Kaufman, Philip",1983,USA,193,Drama-Biography,Col,X
 861,829,824,Taipei Story,"Yang, Edward",1985,Taiwan,119,Drama,Col,
-862,858,817,Princess Mononoke,"Miyazaki, Hayao",1997,Japan,134,Animated-Adventure-Fantasy,Col,X
-863,899,907,Mon oncle d'Amérique,"Resnais, Alain",1980,France,123,Drama-Comedy,Col,
-864,866,848,Anatomy of a Murder,"Preminger, Otto",1959,USA,160,Drama,BW,
-865,872,788,Time of the Gypsies,"Kusturica, Emir",1989,Yugoslavia,142,Drama,Col,
-866,902,974,Caro diario,"Moretti, Nanni",1994,Italy-France,100,Comedy,Col,
-867,846,---,Point Break,"Bigelow, Kathryn",1991,USA-Japan,122,Thriller-Action-Crime,Col,
-868,842,774,"Breakfast Club, The","Hughes, John",1985,USA,97,Drama-Comedy,Col,X
-869,833,759,Black Girl,"Sembene, Ousmane",1966,Senegal-France,65,Drama,BW,X
-870,864,875,2046,Wong Kar-wai,2004,Hong Kong-China-France-Italy-Germany,129,Science Fiction-Drama-Romance,Col-BW,
-871,836,830,Central Station,"Salles, Walter",1998,Brazil-France-Spain-Japan,110,Drama,Col,
-872,838,775,"Age of the Earth, The","Rocha, Glauber",1980,Brazil,158,Political-Drama-Religious,Col,
-873,848,814,She Wore a Yellow Ribbon,"Ford, John",1949,USA,103,Western-War,Col,X
-874,879,843,"Cook, the Thief, His Wife & Her Lover, The","Greenaway, Peter",1989,UK-France,120,Drama,Col,
-875,832,787,It's a Gift,"McLeod, Norman Z.",1934,USA,73,Comedy,BW,
-876,849,819,"Naked Island, The","Shindo, Kaneto",1960,Japan,94,Drama,BW,
-877,873,944,Berlin: Symphony of a Great City,"Ruttmann, Walter",1927,Germany,65,Documentary,BW,X
-878,955,967,Duel in the Sun,"Vidor, King",1946,USA,130,Western,Col,
-879,839,837,Dust in the Wind,Hou Hsiao-hsien,1987,Taiwan,109,Romance-Drama,Col,
-880,853,865,Fires Were Started,"Jennings, Humphrey",1943,UK,80,Documentary-Drama,BW,
-881,926,945,Ten,"Kiarostami, Abbas",2002,France-Iran,92,Drama,Col,
-882,851,810,Mother India,"Khan, Mehboob",1957,India,172,Drama-Musical-Family,Col,
-883,956,989,In Praise of Love,"Godard, Jean-Luc",2001,France,97,Drama,Col-BW,
-884,890,952,"Phantom Carriage, The","Sjöström, Victor",1921,Sweden,93,Fantasy-Drama-Horror,BW,X
-885,878,829,"Bête humaine, La","Renoir, Jean",1938,France,99,Drama,BW,X
-886,870,897,Man of the West,"Mann, Anthony",1958,USA,100,Western,Col,
-887,859,834,As I Was Moving Ahead Occasionally I Saw Brief Glimpses of Beauty,"Mekas, Jonas",2000,USA,288,Documentary-Biography,Col,
-888,947,883,Good Morning,"Ozu, Yasujiro",1959,Japan,94,Comedy,Col,
-889,841,789,Numéro deux,"Godard, Jean-Luc",1975,France,88,Drama,Col,
-890,852,854,My Little Loves,"Eustache, Jean",1974,France,123,Drama,Col,
-891,985,916,"Bridges of Madison County, The","Eastwood, Clint",1995,USA,135,Romance-Drama,Col,X
+920,867,816,Seventh Heaven,"Borzage, Frank",1927,USA,119,Romance-Drama-War,BW,X
+966,909,961,Floating Weeds,"Ozu, Yasujiro",1959,Japan,119,Drama,Col,
+38,37,38,Blade Runner,"Scott, Ridley",1982,USA,118,Science Fiction-Thriller-Drama,Col,X
+221,229,252,Tropical Malady,"Weerasethakul, Apichatpong",2004,Thailand-France-Germany-Italy,118,Drama-Fantasy-Romance,Col,
+307,304,316,Red Desert,"Antonioni, Michelangelo",1964,Italy-France,118,Drama,Col,
+309,308,315,"Last Picture Show, The","Bogdanovich, Peter",1971,USA,118,Drama,BW,X
+326,350,382,"Silence of the Lambs, The","Demme, Jonathan",1991,USA,118,Thriller-Mystery,Col,X
+362,347,326,How Green Was My Valley,"Ford, John",1941,USA,118,Drama,BW,X
+498,466,488,Shane,"Stevens, George",1953,USA,118,Western-Drama,Col,X
+516,499,479,"Wind Will Carry Us, The","Kiarostami, Abbas",1999,France-Iran,118,Drama,Col,
+619,648,633,After Life,"Koreeda, Hirokazu",1998,Japan,118,Drama-Fantasy,Col,
+677,646,645,Great Expectations,"Lean, David",1946,UK,118,Romance-Drama,BW,X
+713,790,747,"Trial, The","Welles, Orson",1962,France-West Germany-Italy,118,Drama-Fantasy-Thriller,BW,
+736,715,683,"Bad and the Beautiful, The","Minnelli, Vincente",1952,USA,118,Drama,BW,X
+744,778,757,Code Unknown,"Haneke, Michael",2000,France-Germany-Romania,118,Drama,Col,
+752,707,712,Vive L'Amour,Tsai Ming-liang,1994,Taiwan,118,Drama,Col,
+44,44,42,"Grande illusion, La","Renoir, Jean",1937,France,117,Prison-Drama-War,BW,X
+111,111,129,Alien,"Scott, Ridley",1979,USA,117,Science Fiction-Horror,Col,X
+205,191,177,"Salò, or the 120 Days of Sodom","Pasolini, Pier Paolo",1975,Italy,117,Horror-Drama-Political,Col,
+216,214,216,Caché,"Haneke, Michael",2005,France-Austria-Germany-Italy-USA,117,Thriller-Drama,Col,X
+466,418,413,Charulata,"Ray, Satyajit",1964,India,117,Romance-Drama,BW,
+497,525,489,Barton Fink,"Coen, Joel & Ethan Coen",1991,USA,117,Drama-Comedy,Col,X
+747,697,649,Foolish Wives,"von Stroheim, Erich",1922,USA,117,Drama,BW,
+839,816,745,"Idiots, The","von Trier, Lars",1998,Denmark-Spain-Sweden-France-Netherlands-Italy,117,Drama-Comedy,Col,
 892,957,938,Strangers When We Meet,"Quine, Richard",1960,USA,117,Drama-Romance,Col,
-893,861,776,Branded to Kill,"Suzuki, Seijun",1967,Japan,91,Crime-Action-Drama,BW,X
+90,89,87,Gertrud,"Dreyer, Carl Theodor",1964,Denmark,116,Drama,BW,
+290,306,302,Back to the Future,"Zemeckis, Robert",1985,USA,116,Science Fiction-Comedy,Col,X
+365,362,338,Lola Montès,"Ophüls, Max",1955,France-West Germany,116,Drama-Biography-Romance,Col,
+511,484,470,Tootsie,"Pollack, Sydney",1982,USA,116,Romance-Comedy,Col,X
+534,538,506,Faust,"Murnau, F.W.",1926,Germany,116,Fantasy-Drama-Horror,BW,X
+568,588,601,Full Metal Jacket,"Kubrick, Stanley",1987,USA,116,War-Drama-Action,Col,X
+911,887,891,M*A*S*H,"Altman, Robert",1970,USA,116,War-Comedy,Col,X
+977,---,---,"Go-Between, The","Losey, Joseph",1971,UK,116,Romance-Drama,Col,
+67,65,67,"Strada, La","Fellini, Federico",1954,Italy,115,Drama,BW,X
+114,117,119,E.T. The Extra-Terrestrial,"Spielberg, Steven",1982,USA,115,Science Fiction-Family,Col,X
+164,160,159,Chimes at Midnight,"Welles, Orson",1965,France-Spain-Switzerland,115,War-Drama-Comedy,BW,
+193,188,220,Raiders of the Lost Ark,"Spielberg, Steven",1981,USA,115,Adventure-Action,Col,X
+285,619,---,Holy Motors,"Carax, Leos",2012,France-Germany,115,Drama-Fantasy,Col,
+288,295,291,"Autumn Afternoon, An","Ozu, Yasujiro",1962,Japan,115,Drama,Col,
+386,503,480,Muriel,"Resnais, Alain",1963,France-Italy,115,Drama,Col,
+420,410,370,"Affair to Remember, An","McCarey, Leo",1957,USA,115,Romance-Drama,Col,X
+443,433,431,Dead Ringers,"Cronenberg, David",1988,Canada,115,Thriller-Horror-Drama,Col,X
+467,449,440,Senso,"Visconti, Luchino",1954,Italy,115,War-Drama-Romance,Col,
+488,---,---,"Act of Killing, The","Oppenheimer, Joshua",2012,Denmark-Norway-UK-Finland,115,Documentary-Crime-History,Col,X
+547,532,490,East of Eden,"Kazan, Elia",1955,USA,115,Drama,Col,X
+565,540,547,"Servant, The","Losey, Joseph",1963,UK,115,Drama,BW,
+674,689,702,Audition,"Miike, Takashi",1999,Japan-South Korea,115,Thriller-Horror-Drama,Col,
+690,711,660,Breakfast at Tiffany's,"Edwards, Blake",1961,USA,115,Romance-Drama-Comedy,Col,X
+710,718,677,Miller's Crossing,"Coen, Joel & Ethan Coen",1990,USA,115,Crime,Col,X
+741,709,724,Rififi,"Dassin, Jules",1955,France,115,Crime,BW,
+745,774,847,"River, The",Tsai Ming-liang,1997,Taiwan,115,Drama,Col,X
+791,739,782,"American in Paris, An","Minnelli, Vincente",1951,USA,115,Musical-Dance,Col,X
+942,930,931,Odd Man Out,"Reed, Carol",1947,UK,115,Drama-Crime-Thriller,BW,
+302,290,296,"Big Sleep, The","Hawks, Howard",1946,USA,114,Mystery-Crime,BW,X
+479,477,474,Limite,"Peixoto, Mario",1931,Brazil,114,Drama,BW,
+626,680,709,Let the Right One In,"Alfredson, Tomas",2008,Sweden-Norway,114,Drama-Horror-Romance,Col,
+630,630,638,White Heat,"Walsh, Raoul",1949,USA,114,Crime,BW,X
+643,627,634,"Diaboliques, Les","Clouzot, Henri-Georges",1955,France,114,Thriller-Mystery,BW,X
+829,803,772,"Holy Mountain, The","Jodorowsky, Alejandro",1973,Mexico-USA,114,Adventure-Drama-Fantasy,Col,
+995,982,926,Yol,"Gören, Serif & Yilmaz Güney",1982,Turkey-Switzerland-France,114,Drama,Col,
+4,4,4,"Rules of the Game, The","Renoir, Jean",1939,France,113,Drama-Comedy,BW,X
+15,14,15,Taxi Driver,"Scorsese, Martin",1976,USA,113,Drama-Crime,Col,X
+151,154,144,"Conversation, The","Coppola, Francis Ford",1974,USA,113,Thriller-Drama-Crime,Col,X
+183,187,196,Kes,"Loach, Ken",1969,UK,113,Drama,Col,
+212,226,219,"Big Lebowski, The","Coen, Joel & Ethan Coen",1998,USA-UK,113,Comedy-Crime,Col,X
+247,242,232,Meet Me in St. Louis,"Minnelli, Vincente",1944,USA,113,Musical-Family-Drama,Col,X
+256,351,433,Uncle Boonmee Who Can Recall His Past Lives,"Weerasethakul, Apichatpong",2010,Thailand-UK-France-Germany-Spain-Netherlands,113,Drama-Fantasy,Col,
+336,316,327,Midnight Cowboy,"Schlesinger, John",1969,USA,113,Drama,Col,X
+545,599,658,Still Life,Jia Zhangke,2006,China-Hong Kong,113,Drama-Romance,Col,
+553,573,614,"4 Months, 3 Weeks and 2 Days","Mungiu, Cristian",2007,Romania-Netherlands-France-Germany,113,Drama,Col,
+631,642,605,Memento,"Nolan, Christopher",2000,USA,113,Thriller-Mystery-Drama,Col,X
+646,600,558,"Wedding March, The","von Stroheim, Erich",1928,USA,113,Romance-Drama,BW,
+668,643,627,Europa '51,"Rossellini, Roberto",1952,Italy,113,Drama,BW,
+844,820,738,"Lusty Men, The","Ray, Nicholas",1952,USA,113,Western-Sport-Drama,BW,
+41,41,41,Rear Window,"Hitchcock, Alfred",1954,USA,112,Thriller-Mystery,Col,X
+57,55,55,Pather Panchali,"Ray, Satyajit",1955,India,112,Drama,BW,X
+230,247,246,"Band Wagon, The","Minnelli, Vincente",1953,USA,112,Musical-Dance-Comedy,Col,X
+328,329,304,"Philadelphia Story, The","Cukor, George",1940,USA,112,Romance-Comedy,BW,X
+374,382,438,Talk to Her,"Almodóvar, Pedro",2002,Spain,112,Romance-Drama,Col,X
+412,428,424,"Long Goodbye, The","Altman, Robert",1973,USA,112,Drama-Crime,Col,X
+418,402,379,Butch Cassidy and the Sundance Kid,"Hill, George Roy",1969,USA,112,Western,Col,X
+627,583,566,"Asphalt Jungle, The","Huston, John",1950,USA,112,Thriller-Crime,BW,X
+653,621,560,Bring Me the Head of Alfredo Garcia,"Peckinpah, Sam",1974,USA,112,Crime-Thriller-Action,Col,X
+782,733,753,Ace in the Hole,"Wilder, Billy",1951,USA,112,Drama,BW,X
+808,802,812,"Sweet Hereafter, The","Egoyan, Atom",1997,Canada,112,Drama,Col,
+974,920,919,Get Carter,"Hodges, Mike",1971,UK,112,Crime,Col,
+988,965,918,Zabriskie Point,"Antonioni, Michelangelo",1970,USA,112,Drama,Col,
+98,99,99,Blow-Up,"Antonioni, Michelangelo",1966,Italy-UK,111,Mystery-Drama,Col,
+243,245,242,Bonnie and Clyde,"Penn, Arthur",1967,USA,111,Drama-Crime-Biography,Col,X
+395,370,388,If….,"Anderson, Lindsay",1968,UK,111,Drama,Col-BW,X
+587,559,534,Rebel Without a Cause,"Ray, Nicholas",1955,USA,111,Drama,Col,X
+597,612,735,"Ascent, The","Shepitko, Larisa",1976,USSR,111,War-Drama,BW,
+625,569,569,Local Hero,"Forsyth, Bill",1983,UK,111,Drama-Comedy,Col,X
+776,744,703,"Grido, Il","Antonioni, Michelangelo",1957,Italy,111,Drama,BW,
+926,944,930,Kill Bill Vol. 1,"Tarantino, Quentin",2003,USA,111,Crime-Action,Col-BW,X
+973,970,908,Cul-de-sac,"Polanski, Roman",1966,UK,111,Thriller-Drama,BW,X
+999,---,980,"Straight Story, The","Lynch, David",1999,USA-France-UK,111,Drama,Col,
+8,8,8,Sunrise,"Murnau, F.W.",1927,USA,110,Romance-Drama-Crime,BW,X
+18,17,17,"Passion of Joan of Arc, The","Dreyer, Carl Theodor",1928,France,110,History-Drama-Biography,BW,X
+33,35,34,Sunset Blvd.,"Wilder, Billy",1950,USA,110,Drama,BW,X
+63,64,63,Pierrot le fou,"Godard, Jean-Luc",1965,France-Italy,110,Romance-Drama-Crime,Col,X
+128,127,130,Don't Look Now,"Roeg, Nicolas",1973,UK,110,Mystery-Thriller,Col,X
+195,210,187,Nights of Cabiria,"Fellini, Federico",1957,Italy-France,110,Drama,BW,
+207,211,207,"Black God, White Devil","Rocha, Glauber",1964,Brazil,110,Political-Drama-Crime,BW,
+246,246,250,Johnny Guitar,"Ray, Nicholas",1954,USA,110,Western,Col,X
+266,277,283,Day of Wrath,"Dreyer, Carl Theodor",1943,Denmark,110,Drama,BW,
+270,263,256,Mean Streets,"Scorsese, Martin",1973,USA,110,Drama-Crime,Col,X
+421,404,399,Yojimbo,"Kurosawa, Akira",1961,Japan,110,Drama-Action,BW,X
+460,417,450,"Scarlet Empress, The","von Sternberg, Josef",1934,USA,110,History-Drama-Biography,BW,X
+503,548,565,Ninotchka,"Lubitsch, Ernst",1939,USA,110,Romance-Comedy,BW,X
+507,483,526,Triumph of the Will,"Riefenstahl, Leni",1935,Germany,110,Documentary-History-Political,BW,X
+554,537,524,"Enigma of Kaspar Hauser, The","Herzog, Werner",1974,West Germany,110,Biography-Drama,Col,
+570,578,536,Providence,"Resnais, Alain",1977,France-Switzerland,110,Drama,Col,
+579,551,535,Alice in the Cities,"Wenders, Wim",1974,West Germany,110,Drama,BW,
+593,618,648,Distant,"Ceylan, Nuri Bilge",2002,Turkey-Netherlands,110,Drama,Col,
+628,587,542,Picnic at Hanging Rock,"Weir, Peter",1975,Australia,110,Mystery-Drama,Col,X
+754,722,725,"Killer, The","Woo, John",1989,Hong Kong,110,Thriller-Crime-Action,Col,
+856,907,900,Cría cuervos,"Saura, Carlos",1976,Spain,110,Drama-Crime-Mystery,Col,
+871,836,830,Central Station,"Salles, Walter",1998,Brazil-France-Spain-Japan,110,Drama,Col,
 894,---,---,Macunaima,"de Andrade, Joaquim Pedro",1969,Brazil,110,Fantasy-Comedy,Col,
-895,863,813,"Last Emperor, The","Bertolucci, Bernardo",1987,China-Italy-UK-France,160,History-Biography,Col,X
-896,876,876,Gregory's Girl,"Forsyth, Bill",1980,UK,91,Romance-Comedy,Col,
-897,945,1000,Twin Peaks: Fire Walk with Me,"Lynch, David",1992,USA,135,Drama-Horror-Mystery,Col,X
-898,850,880,"Match Factory Girl, The","Kaurismäki, Aki",1990,Finland-Sweden,68,Drama-Comedy,Col,X
-899,869,833,Pink Flamingos,"Waters, John",1972,USA,92,Comedy-Crime,Col,
-900,952,892,"Lord of the Rings: The Return of the King, The","Jackson, Peter",2003,New Zealand-USA,201,Fantasy-Adventure-Action,Col,X
-901,856,826,"Last Temptation of Christ, The","Scorsese, Martin",1988,USA-Canada,164,Religious-Drama,Col,X
-902,860,852,Sicilia!,"Straub, Jean-Marie & Danièle Huillet",1999,Italy-France-Germany,66,Drama,BW,
-903,915,871,Knife in the Water,"Polanski, Roman",1962,Poland,94,Drama,BW,X
-904,---,---,Duel,"Spielberg, Steven",1971,USA,90,Thriller-Action,Col,X
-905,936,873,"Chienne, La","Renoir, Jean",1931,France,95,Drama,BW,X
-906,906,917,Sholay,"Sippy, Ramesh",1975,India,162,Action-Drama-Musical,Col,
+909,865,846,American Graffiti,"Lucas, George",1973,USA,110,Drama-Comedy,Col,X
+925,---,862,"Return, The","Zvyagintsev, Andrey",2003,Russia,110,Drama,Col,
+950,937,913,Gilda,"Vidor, Charles",1946,USA,110,Thriller-Drama,BW,X
+22,23,25,Psycho,"Hitchcock, Alfred",1960,USA,109,Thriller-Horror,BW,X
+282,279,310,Peeping Tom,"Powell, Michael",1960,UK,109,Thriller-Drama,Col,X
+331,310,320,In the Realm of the Senses,"Oshima, Nagisa",1976,Japan-France,109,Drama-Adult-Romance,Col,
+339,349,334,"Killing of a Chinese Bookie, The","Cassavetes, John",1976,USA,109,Drama-Crime,Col,X
+394,393,371,"King of Comedy, The","Scorsese, Martin",1983,USA,109,Drama-Comedy,Col,X
+536,526,559,"Royal Tenenbaums, The","Anderson, Wes",2001,USA,109,Drama-Comedy,Col,X
+556,590,607,Children of Men,"Cuarón, Alfonso",2006,USA-UK,109,Drama-Science Fiction-Thriller,Col,X
+572,546,527,Deliverance,"Boorman, John",1972,USA,109,Adventure-Thriller-Drama,Col,X
+612,595,554,"Devils, The","Russell, Ken",1971,UK,109,History-Drama-Horror,Col,X
+879,839,837,Dust in the Wind,Hou Hsiao-hsien,1987,Taiwan,109,Romance-Drama,Col,
+957,917,933,Mildred Pierce,"Curtiz, Michael",1945,USA,109,Drama,BW,
+989,969,936,National Lampoon's Animal House,"Landis, John",1978,USA,109,Comedy,Col,X
+29,30,30,"Mirror, The","Tarkovsky, Andrei",1975,USSR,108,Drama-Biography,Col-BW,X
+31,31,31,Touch of Evil,"Welles, Orson",1958,USA,108,Thriller-Crime,BW,X
+49,47,46,Playtime,"Tati, Jacques",1967,France,108,Comedy,Col,X
+80,78,75,Late Spring,"Ozu, Yasujiro",1949,Japan,108,Romance-Drama-Family,BW,X
+158,153,153,On the Waterfront,"Kazan, Elia",1954,USA,108,Drama,BW,X
+197,227,223,Eternal Sunshine of the Spotless Mind,"Gondry, Michel",2004,USA,108,Romance-Drama-Comedy,Col,X
+244,254,286,"Thing, The","Carpenter, John",1982,USA,108,Science Fiction-Action-Horror,Col,X
+280,273,265,Throne of Blood,"Kurosawa, Akira",1957,Japan,108,War-Drama,BW,X
+399,---,---,Under the Skin,"Glazer, Jonathan",2013,UK-USA-Switzerland,108,Drama-Science Fiction-Thriller,Col,
+521,495,493,Shadow of a Doubt,"Hitchcock, Alfred",1943,USA,108,Thriller,BW,X
+594,580,561,And Life Goes On...,"Kiarostami, Abbas",1992,Iran,108,Drama-Documentary,Col,
+616,581,577,Aparajito,"Ray, Satyajit",1956,India,108,Drama,BW,
+682,703,667,Funny Games,"Haneke, Michael",1997,Austria,108,Thriller-Drama,Col,
+711,765,736,Smiles of a Summer Night,"Bergman, Ingmar",1955,Sweden,108,Romance-Comedy,BW,X
+822,793,842,Two English Girls,"Truffaut, François",1971,France,108,Drama,Col,X
+87,86,83,"Conformist, The","Bertolucci, Bernardo",1970,Italy-France-West Germany,107,Political-Drama,Col,
+380,356,345,Stromboli,"Rossellini, Roberto",1950,Italy,107,Drama,BW,X
+446,438,446,"Terminator, The","Cameron, James",1984,USA,107,Science Fiction-Action,Col,X
+448,453,458,Withnail & I,"Robinson, Bruce",1987,UK,107,Drama-Comedy,Col,
+532,492,475,Alexander Nevsky,"Eisenstein, Sergei",1938,USSR,107,War-History-Biography,BW,X
+610,582,552,Down by Law,"Jarmusch, Jim",1986,USA,107,Comedy,BW,X
+701,674,704,Ghostbusters,"Reitman, Ivan",1984,USA,107,Science Fiction-Comedy,Col,X
+728,741,684,Blow Out,"De Palma, Brian",1981,USA,107,Thriller-Mystery,Col,X
+764,736,835,D'Est,"Akerman, Chantal",1993,Belgium-France-Portugal,107,Documentary,Col,
+991,961,---,"Nutty Professor, The","Lewis, Jerry",1963,USA,107,Comedy,Col,X
+150,158,156,Cries and Whispers,"Bergman, Ingmar",1972,Sweden,106,Drama,Col,X
+155,148,150,Double Indemnity,"Wilder, Billy",1944,USA,106,Mystery-Crime,BW,X
+308,320,284,Terra em Transe,"Rocha, Glauber",1967,Brazil,106,Drama-Political,BW,
+321,324,325,Kiss Me Deadly,"Aldrich, Robert",1955,USA,106,Crime-Thriller-Drama,BW,
+527,533,537,Hannah and Her Sisters,"Allen, Woody",1986,USA,106,Drama-Comedy-Romance,Col,X
+715,---,---,Certified Copy,"Kiarostami, Abbas",2010,France-Italy-Belgium-Iran,106,Drama,Col,
+716,726,713,"Woman Next Door, The","Truffaut, François",1981,France,106,Romance-Drama,Col,X
+775,735,711,"Thief of Bagdad, The","Powell, Michael/Ludwig Berger/Tim Whelan",1940,UK,106,Fantasy-Family-Adventure,Col,
+107,122,117,Madame de...,"Ophüls, Max",1953,France-Italy,105,Romance-Drama,BW,
+131,129,124,"Rome, Open City","Rossellini, Roberto",1945,Italy,105,War-Drama,BW,X
+217,216,208,"Graduate, The","Nichols, Mike",1967,USA,105,Romance-Drama-Comedy,Col,X
+219,198,204,Performance,"Roeg, Nicolas/Donald Cammell",1970,UK,105,Drama,Col,
+261,274,267,My Night at Maud's,"Rohmer, Eric",1969,France,105,Romance-Drama,BW,X
+287,276,270,"Wages of Fear, The","Clouzot, Henri-Georges",1953,France-Italy,105,Thriller-Adventure-Action,BW,
+300,333,375,Wanda,"Loden, Barbara",1970,USA,105,Drama-Crime,Col,X
+329,322,331,It Happened One Night,"Capra, Frank",1934,USA,105,Romance-Comedy,BW,X
+436,396,374,Festen,"Vinterberg, Thomas",1998,Denmark,105,Drama,Col,
+438,478,672,Vagabond,"Varda, Agnès",1985,France,105,Drama,Col,
+441,429,455,Repulsion,"Polanski, Roman",1965,UK,105,Horror-Thriller,BW,X
+583,605,599,Young Frankenstein,"Brooks, Mel",1974,USA,105,Horror-Comedy-Science Fiction,BW,X
+608,649,651,Syndromes and a Century,"Weerasethakul, Apichatpong",2006,Thailand-France-Austria-Netherlands,105,Drama,Col,
+613,655,662,Y tu mamá también,"Cuarón, Alfonso",2001,Mexico,105,Drama-Comedy,Col,
+667,615,637,Arrebato,"Zulueta, Iván",1979,Spain,105,Drama-Horror,Col,
+704,662,646,Yeelen,"Cissé, Souleymane",1987,Mali-Burkina Faso-France-West Germany-Japan,105,Drama-Fantasy,Col,
+737,687,635,"African Queen, The","Huston, John",1951,USA,105,Romance-Adventure,Col,X
+767,768,---,Portrait of Jason,"Clarke, Shirley",1967,USA,105,Documentary-Biography,BW,
+768,724,687,Claire's Knee,"Rohmer, Eric",1970,France,105,Romance-Drama-Comedy,Col,
+795,762,727,"Last Detail, The","Ashby, Hal",1973,USA,105,Drama,Col,
+849,825,765,Veronika Voss,"Fassbinder, Rainer Werner",1982,West Germany,105,Drama,BW,
+914,868,874,"Usual Suspects, The","Singer, Bryan",1995,USA,105,Thriller-Mystery-Crime,Col,X
+47,45,49,"Third Man, The","Reed, Carol",1949,UK,104,Thriller-Mystery,BW,X
+82,83,84,Jules et Jim,"Truffaut, François",1962,France,104,Romance-Drama,BW,X
+154,147,142,"Matter of Life and Death, A","Powell, Michael/Emeric Pressburger",1946,UK,104,Romance-Fantasy-Comedy,Col,
+194,192,214,Chungking Express,Wong Kar-wai,1994,Hong Kong,104,Romance-Drama,Col,
+234,224,227,Kind Hearts and Coronets,"Hamer, Robert",1949,UK,104,Comedy,BW,
+248,243,234,"Crowd, The","Vidor, King",1928,USA,104,Drama,BW,
+298,288,276,Crimes and Misdemeanors,"Allen, Woody",1989,USA,104,Drama-Comedy,Col,X
+540,592,563,"French Connection, The","Friedkin, William",1971,USA,104,Crime,Col,X
+574,534,567,"Vitelloni, I","Fellini, Federico",1953,Italy,104,Drama,BW,
+585,547,532,"Phantom of Liberty, The","Buñuel, Luis",1974,France,104,Drama-Comedy-Avant Garde,Col,
+722,826,845,"Ghost and Mrs. Muir, The","Mankiewicz, Joseph L.",1947,USA,104,Romance-Fantasy,BW,X
+985,---,975,Exotica,"Egoyan, Atom",1994,Canada,104,Drama,Col,
+40,39,39,Contempt,"Godard, Jean-Luc",1963,France-Italy,103,Drama,Col,X
+169,163,161,King Kong,"Cooper, Merian C./Ernest B. Schoedsack",1933,USA,103,Fantasy-Adventure-Horror,BW,X
+232,238,240,Groundhog Day,"Ramis, Harold",1993,USA,103,Romance-Fantasy-Comedy,Col,X
+314,299,277,Week-End,"Godard, Jean-Luc",1967,France-Italy,103,Drama,Col,X
+319,312,301,"World of Apu, The","Ray, Satyajit",1959,India,103,Drama,BW,
+387,369,349,Through the Olive Trees,"Kiarostami, Abbas",1994,Iran-France,103,Drama,Col,
+398,408,383,Barren Lives,"Pereira dos Santos, Nelson",1963,Brazil,103,Drama,BW,
+415,387,351,October,"Eisenstein, Sergei & Grigori Aleksandrov",1928,USSR,103,History-Drama,BW,X
+491,504,557,Grizzly Man,"Herzog, Werner",2005,USA,103,Documentary,Col,X
+537,511,451,Masculin Feminin,"Godard, Jean-Luc",1966,France-Sweden,103,Drama,BW,X
+573,576,555,Hana-Bi,"Kitano, Takeshi",1997,Japan,103,Drama-Crime,Col,
+600,579,675,"Harlan County, U.S.A.","Kopple, Barbara",1976,USA,103,Documentary,Col,
+601,574,553,That Obscure Object of Desire,"Buñuel, Luis",1977,France-Spain,103,Drama,Col,
+607,613,698,"Son, The","Dardenne, Jean-Pierre & Luc Dardenne",2002,Belgium-France,103,Drama,Col,
+615,577,733,"Ciénaga, La","Martel, Lucrecia",2001,Argentina-France-Spain,103,Drama-Comedy,Col,
+624,665,615,"Blue Angel, The","von Sternberg, Josef",1930,Germany,103,Drama,BW,
+645,623,664,"Wicker Man, The","Hardy, Robin",1973,UK,103,Mystery-Horror,Col,X
+685,686,697,Robocop,"Verhoeven, Paul",1987,USA,103,Science Fiction-Crime,Col,X
+751,757,689,Ferris Bueller's Day Off,"Hughes, John",1986,USA,103,Comedy,Col,X
+843,888,853,Au revoir les enfants,"Malle, Louis",1987,France,103,War-Drama,Col,
+873,848,814,She Wore a Yellow Ribbon,"Ford, John",1949,USA,103,Western-War,Col,X
+928,995,962,"Loneliness of the Long Distance Runner, The","Richardson, Tony",1962,UK,103,Drama-Sport,BW,
+959,935,879,"End of Summer, The","Ozu, Yasujiro",1961,Japan,103,Drama,Col,
+976,921,889,Black Orpheus,"Camus, Marcel",1959,Brazil-France,103,Drama-Romance,Col,X
+983,938,---,"Spring, Summer, Autumn, Winter… and Spring",Kim Ki-duk,2003,South Korea-Germany,103,Drama,Col,
+12,12,12,Singin' in the Rain,"Donen, Stanley/Gene Kelly",1952,USA,102,Musical-Dance-Comedy,Col,X
+36,36,35,Casablanca,"Curtiz, Michael",1942,USA,102,War-Romance-Drama,BW,X
+92,90,88,"Man Escaped, A","Bresson, Robert",1956,France,102,Prison-Drama,BW,X
+125,125,120,Bringing Up Baby,"Hawks, Howard",1938,USA,102,Romance-Comedy,BW,X
+367,377,447,Lost in Translation,"Coppola, Sofia",2003,USA-Japan,102,Romance-Drama-Comedy,Col,X
+411,397,385,À nos amours,"Pialat, Maurice",1983,France,102,Drama,Col,
+564,564,578,My Own Private Idaho,"Van Sant, Gus",1991,USA,102,Drama,Col,
+749,748,716,Dirty Harry,"Siegel, Don",1971,USA,102,Crime-Action,Col,X
+804,763,864,"Adventures of Robin Hood, The","Curtiz, Michael/William Keighley",1938,USA,102,Adventure,Col,X
+809,950,---,Paper Moon,"Bogdanovich, Peter",1973,USA,102,Drama-Comedy-Crime,BW,X
+104,105,105,"Wizard of Oz, The","Fleming, Victor",1939,USA,101,Musical-Fantasy-Family,Col-BW,X
+139,135,134,Notorious,"Hitchcock, Alfred",1946,USA,101,Romance-Thriller-Mystery,BW,X
+313,309,306,All About My Mother,"Almodóvar, Pedro",1999,Spain-France,101,Drama-Comedy,Col,
+450,431,428,Two-Lane Blacktop,"Hellman, Monte",1971,USA,101,Drama,Col,
+494,498,496,Strangers on a Train,"Hitchcock, Alfred",1951,USA,101,Thriller-Drama-Crime,BW,X
+595,552,587,Shock Corridor,"Fuller, Samuel",1963,USA,101,Drama-Mystery,BW,X
+723,731,676,"Tiger of Eschnapur, The","Lang, Fritz",1958,West Germany-France-Italy,101,Romance-Adventure,Col,
+729,685,692,My Life as a Dog,"Hallström, Lasse",1985,Sweden,101,Drama-Comedy,Col,
+978,939,922,Before Sunrise,"Linklater, Richard",1995,USA,101,Romance-Drama,Col,
+101,97,100,Sans soleil,"Marker, Chris",1983,France,100,Avant-Garde-Documentary,Col,
+165,161,160,"Discreet Charm of the Bourgeoisie, The","Buñuel, Luis",1972,France,100,Fantasy-Drama-Comedy,Col,
+201,196,185,Belle de jour,"Buñuel, Luis",1967,France-Italy,100,Drama,Col,
+258,271,268,"Maltese Falcon, The","Huston, John",1941,USA,100,Mystery,BW,X
+284,284,269,Three Colours: Blue,"Kieslowski, Krzysztof",1993,France-Poland-Switzerland,100,Drama,Col,
+338,344,390,"Innocents, The","Clayton, Jack",1961,UK,100,Horror-Thriller,BW,
+358,340,335,"I Was Born, But...","Ozu, Yasujiro",1932,Japan,100,Drama-Comedy,BW,X
+510,488,453,To Have and Have Not,"Hawks, Howard",1944,USA,100,Romance-Drama-Adventure,BW,X
+513,690,670,My Friend Ivan Lapshin,"German, Aleksey",1985,USSR,100,Drama,Col-BW,
+577,550,539,"Rise to Power of Louis XIV, The","Rossellini, Roberto",1966,France,100,Drama-Biography-History,Col,
+592,591,613,"Fly, The","Cronenberg, David",1986,USA,100,Horror,Col,X
+629,647,639,Fat City,"Huston, John",1972,USA,100,Sport,Col,X
+662,664,629,Young Mr. Lincoln,"Ford, John",1939,USA,100,Political-Biography-Drama,BW,X
+681,692,739,"Golden Coach, The","Renoir, Jean",1952,Italy-France,100,Drama-Comedy-Romance,Col,
+707,710,669,Requiem for a Dream,"Aronofsky, Darren",2000,USA,100,Drama,Col,X
+709,691,708,Crash,"Cronenberg, David",1996,Canada,100,Drama,Col,X
+738,678,666,Edward Scissorhands,"Burton, Tim",1990,USA,100,Romance-Fantasy,Col,X
+866,902,974,Caro diario,"Moretti, Nanni",1994,Italy-France,100,Comedy,Col,
+886,870,897,Man of the West,"Mann, Anthony",1958,USA,100,Western,Col,
+934,989,914,Chikamatsu monogatari,"Mizoguchi, Kenji",1954,Japan,100,Drama-Romance,BW,
+24,22,23,"400 Blows, The","Truffaut, François",1959,France,99,Drama,BW,X
+56,58,56,M,"Lang, Fritz",1931,Germany,99,Thriller-Drama-Crime,BW,X
+100,102,102,To Be or Not to Be,"Lubitsch, Ernst",1942,USA,99,War-Comedy,BW,X
+172,167,165,"River, The","Renoir, Jean",1951,France-India-USA,99,Romance-Drama,Col,X
+173,165,166,Black Narcissus,"Powell, Michael/Emeric Pressburger",1947,UK,99,Drama-Religious,Col,X
+273,272,261,Three Colours: Red,"Kieslowski, Krzysztof",1994,France-Switzerland-Poland,99,Drama,Col,X
+312,348,342,"Green Ray, The","Rohmer, Eric",1986,France,99,Romance-Drama,Col,
+337,315,313,Reservoir Dogs,"Tarantino, Quentin",1992,USA,99,Drama-Crime-Thriller,Col,X
+381,358,339,Written on the Wind,"Sirk, Douglas",1956,USA,99,Drama,Col,
+382,416,461,Taste of Cherry,"Kiarostami, Abbas",1997,Iran,99,Drama,Col,
+562,518,501,Top Hat,"Sandrich, Mark",1935,USA,99,Romance-Musical-Comedy,BW,X
+621,671,671,"Party, The","Edwards, Blake",1968,USA,99,Comedy,Col,
+846,807,777,"Miracle of Morgan's Creek, The","Sturges, Preston",1944,USA,99,Comedy,BW,X
+885,878,829,"Bête humaine, La","Renoir, Jean",1938,France,99,Drama,BW,X
+81,82,86,Close-Up,"Kiarostami, Abbas",1990,Iran,98,Documentary-Drama-Crime,Col,X
+196,190,198,Fargo,"Coen, Joel & Ethan Coen",1996,USA,98,Drama-Crime-Comedy,Col,X
+352,352,356,Teorema,"Pasolini, Pier Paolo",1968,Italy,98,Drama,Col,
+366,381,389,WALL-E,"Stanton, Andrew",2008,USA,98,Animated-Adventure-Science Fiction,Col,X
+400,399,400,Tristana,"Buñuel, Luis",1970,Spain-Italy-France,98,Drama,Col,
+430,432,408,Five Easy Pieces,"Rafelson, Bob",1970,USA,98,Drama,Col,X
+529,510,516,Songs from the Second Floor,"Andersson, Roy",2000,Sweden-France-Denmark-Norway-Germany,98,Drama,Col,
+757,875,839,Outskirts,"Barnet, Boris",1933,USSR,98,War-Drama,BW,
+798,791,732,"Princess Bride, The","Reiner, Rob",1987,USA,98,Comedy-Family-Adventure,Col,X
 907,972,---,Bad Lieutenant,"Ferrara, Abel",1992,USA,98,Drama,Col,
 908,884,872,Forbidden Planet,"Wilcox, Fred M.",1956,USA,98,Science Fiction,Col,X
-909,865,846,American Graffiti,"Lucas, George",1973,USA,110,Drama-Comedy,Col,X
-910,987,997,Hellzapoppin',"Potter, H.C.",1941,USA,84,Comedy,BW,
-911,887,891,M*A*S*H,"Altman, Robert",1970,USA,116,War-Comedy,Col,X
-912,977,902,Simon of the Desert,"Buñuel, Luis",1965,Mexico,43,Short-Drama-Comedy,BW,X
-913,927,---,Saraband,"Bergman, Ingmar",2003,Sweden-Denmark-Norway-Italy-Finland-Germany-Austria,120,Drama,Col,
-914,868,874,"Usual Suspects, The","Singer, Bryan",1995,USA,105,Thriller-Mystery-Crime,Col,X
-915,900,844,42nd Street,"Bacon, Lloyd",1933,USA,89,Musical-Dance-Comedy,BW,X
-916,895,884,"Moi, un Noir","Rouch, Jean",1958,France,70,Drama,Col,
-917,---,---,"Amour fou, L'","Rivette, Jacques",1968,France,252,Drama,BW,
-918,---,---,"Private Life of Sherlock Holmes, The","Wilder, Billy",1970,USA,125,Mystery-Comedy-Drama,Col,X
-919,889,960,Dracula,"Fisher, Terence",1958,UK,82,Horror,Col,X
-920,867,816,Seventh Heaven,"Borzage, Frank",1927,USA,119,Romance-Drama-War,BW,X
-921,894,911,Fellini's Casanova,"Fellini, Federico",1976,Italy,158,Drama-Biography,Col,
-922,881,811,"Misfits, The","Huston, John",1961,USA,124,Western-Romance-Drama,BW,X
-923,892,957,Elevator to the Gallows,"Malle, Louis",1958,France,92,Thriller-Crime-Drama,BW,
-924,946,881,"Sun Shines Bright, The","Ford, John",1953,USA,90,Drama-Comedy,BW,
-925,---,862,"Return, The","Zvyagintsev, Andrey",2003,Russia,110,Drama,Col,
-926,944,930,Kill Bill Vol. 1,"Tarantino, Quentin",2003,USA,111,Crime-Action,Col-BW,X
-927,885,856,"Outlaw Josey Wales, The","Eastwood, Clint",1976,USA,135,Western-Drama,Col,X
-928,995,962,"Loneliness of the Long Distance Runner, The","Richardson, Tony",1962,UK,103,Drama-Sport,BW,
-929,---,---,Summer with Monika,"Bergman, Ingmar",1953,Sweden,96,Drama-Romance,BW,X
-930,980,946,Stand by Me,"Reiner, Rob",1986,USA,87,Comedy,Col,X
-931,886,866,Arabian Nights,"Pasolini, Pier Paolo",1974,Italy-France,130,Fantasy-Adventure-Drama,Col,
-932,882,855,"Boot, Das","Petersen, Wolfgang",1981,West Germany,149,Action-Adventure-Drama,Col,
-933,880,899,Enter the Dragon,"Clouse, Robert",1973,USA-Hong Kong,97,Thriller-Crime-Action,Col,X
-934,989,914,Chikamatsu monogatari,"Mizoguchi, Kenji",1954,Japan,100,Drama-Romance,BW,
-935,919,860,"Jour se lève, Le","Carné, Marcel",1939,France,93,Thriller-Crime-Drama,BW,
-936,877,820,Dog Star Man,"Brakhage, Stan",1964,USA,75,Short-Drama,Col,
-937,---,---,"America, America","Kazan, Elia",1963,USA,168,Drama,BW,
-938,923,888,Topsy-Turvy,"Leigh, Mike",1999,UK-USA,160,Musical-Drama-Comedy,Col,
-939,898,867,"Incredible Shrinking Man, The","Arnold, Jack",1957,USA,81,Science Fiction,BW,X
-940,916,893,Hôtel Terminus,"Ophüls, Marcel",1988,USA,267,Documentary-History-War,Col,
-941,---,---,Carlito's Way,"De Palma, Brian",1993,USA,144,Drama-Crime,Col,
-942,930,931,Odd Man Out,"Reed, Carol",1947,UK,115,Drama-Crime-Thriller,BW,
-943,992,964,Holiday,"Cukor, George",1938,USA,93,Comedy,BW,X
-944,893,859,"Nuit du carrefour, La","Renoir, Jean",1932,France,70,Crime-Drama-Mystery,BW,
-945,---,994,"Nightmare Before Christmas, The","Selick, Henry",1993,USA,76,Family-Fantasy-Animated,Col,X
-946,891,840,They Were Expendable,"Ford, John",1945,USA,135,War-Drama,BW,X
-947,904,882,They Live,"Carpenter, John",1988,USA,93,Science Fiction-Thriller-Action,Col,
-948,943,878,O Lucky Man!,"Anderson, Lindsay",1973,UK,173,Fantasy-Drama-Comedy,Col,
-949,912,890,Juliet of the Spirits,"Fellini, Federico",1965,Italy,148,Fantasy-Drama,Col,
-950,937,913,Gilda,"Vidor, Charles",1946,USA,110,Thriller-Drama,BW,
-951,911,941,Ride the High Country,"Peckinpah, Sam",1962,USA,94,Western,Col,
 952,934,966,Deep Red,"Argento, Dario",1975,Italy,98,Thriller-Horror-Mystery,Col,X
-953,999,988,Design for Living,"Lubitsch, Ernst",1933,USA,90,Romance-Comedy,BW,
-954,953,924,"Ballad of Narayama, The","Imamura, Shohei",1983,Japan,130,Drama,Col,
+986,949,932,On the Town,"Donen, Stanley/Gene Kelly",1949,USA,98,Musical-Dance,Col,X
+42,42,44,In the Mood for Love,Wong Kar-wai,2000,Hong Kong-France,97,Romance-Drama,Col,X
+74,75,73,Voyage in Italy,"Rossellini, Roberto",1953,Italy,97,Romance-Drama,BW,
+132,128,121,My Darling Clementine,"Ford, John",1946,USA,97,Western,BW,
+188,185,186,Out of the Past,"Tourneur, Jacques",1947,USA,97,Thriller-Mystery-Crime,BW,X
+255,253,257,"Shop Around the Corner, The","Lubitsch, Ernst",1940,USA,97,Romance-Comedy,BW,X
+259,257,245,Memories of Underdevelopment,"Gutiérrez Alea, Tomás",1968,Cuba,97,Political-Romance-Drama,BW,
+332,343,362,Happy Together,Wong Kar-wai,1997,Hong Kong,97,Romance-Drama,Col,
+354,360,394,Carrie,"De Palma, Brian",1976,USA,97,Horror-Thriller,Col,X
+355,455,434,"Plaisir, Le","Ophüls, Max",1952,France,97,Romance-Drama,BW,
+403,405,360,"Double Life of Veronique, The","Kieslowski, Krzysztof",1991,France,97,Fantasy-Drama-Romance,Col,
+431,467,487,Shadows of Our Forgotten Ancestors,"Parajanov, Sergei",1964,USSR,97,Romance-Drama-History,Col,
+584,608,618,"Lady Vanishes, The","Hitchcock, Alfred",1938,UK,97,Spy-Mystery-Thriller,BW,X
+611,596,573,Bande à part,"Godard, Jean-Luc",1964,France,97,Crime-Drama-Romance,BW,
+718,705,763,Irréversible,"Noé, Gaspar",2002,France,97,Crime-Drama-Horror,Col,
+730,---,---,"American Werewolf in London, An","Landis, John",1981,USA,97,Horror-Comedy,Col,X
+815,788,798,Blood Simple,"Coen, Joel & Ethan Coen",1984,USA,97,Thriller-Drama-Crime,Col,X
+868,842,774,"Breakfast Club, The","Hughes, John",1985,USA,97,Drama-Comedy,Col,X
+883,956,989,In Praise of Love,"Godard, Jean-Luc",2001,France,97,Drama,Col-BW,
+933,880,899,Enter the Dragon,"Clouse, Robert",1973,USA-Hong Kong,97,Thriller-Crime-Action,Col,X
+45,46,47,Ugetsu monogatari,"Mizoguchi, Kenji",1953,Japan,96,Drama,BW,X
+73,69,72,"Seventh Seal, The","Bergman, Ingmar",1957,Sweden,96,Fantasy-Drama,BW,X
+123,115,111,Manhattan,"Allen, Woody",1979,USA,96,Romance-Comedy,BW,X
+143,136,138,Stagecoach,"Ford, John",1939,USA,96,Western-Action-Drama,BW,X
+215,201,201,Sweet Smell of Success,"Mackendrick, Alexander",1957,USA,96,Drama,BW,X
+226,215,205,Ashes and Diamonds,"Wajda, Andrzej",1958,Poland,96,War-Drama-Political,BW,
+237,241,263,Night of the Living Dead,"Romero, George A.",1968,USA,96,Horror,BW,X
+251,261,259,"Ivan the Terrible, Part 1","Eisenstein, Sergei",1944,USSR,96,History-Drama-Biography,BW,
+263,259,264,"Thin Blue Line, The","Morris, Errol",1988,USA,96,Documentary,Col,X
+390,379,368,Russian Ark,"Sokurov, Aleksandr",2002,Russia-Germany-Japan-Canada-Finland-Denmark,96,Fantasy-Drama,Col,
+414,392,401,Don't Look Back,"Pennebaker, D.A.",1967,USA,96,Documentary-Musical,BW,X
+644,603,592,Love Me Tonight,"Mamoulian, Rouben",1932,USA,96,Musical-Comedy-Romance,BW,
+647,701,696,Casque d'or,"Becker, Jacques",1952,France,96,Romance-Drama-Crime,BW,
+654,601,550,"Silence, The","Bergman, Ingmar",1963,Sweden,96,Drama,BW,X
+659,679,728,"History of Violence, A","Cronenberg, David",2005,USA-Germany,96,Crime-Drama-Mystery,Col,X
+785,772,797,Hunger,"McQueen, Steve",2008,UK-Ireland,96,Drama-History,Col,
+929,---,---,Summer with Monika,"Bergman, Ingmar",1953,Sweden,96,Drama-Romance,BW,X
+34,34,32,Au hasard Balthazar,"Bresson, Robert",1966,France,95,Drama,BW,X
+105,104,113,"Spirit of the Beehive, The","Erice, Victor",1973,Spain,95,Drama,Col,
+136,132,132,Badlands,"Malick, Terrence",1973,USA,95,Drama-Crime,Col,X
+152,155,149,Days of Heaven,"Malick, Terrence",1978,USA,95,Romance-Drama,Col,X
+156,157,146,"Exterminating Angel, The","Buñuel, Luis",1962,Mexico,95,Drama-Fantasy-Mystery,BW,
+202,205,211,"Samouraï, Le","Melville, Jean-Pierre",1967,France,95,Thriller-Crime,Col,
+269,270,275,"Belle et la bête, La","Cocteau, Jean",1946,France,95,Fantasy,BW,X
+293,305,295,"Music Room, The","Ray, Satyajit",1958,India,95,Drama,BW,
+349,339,321,Orpheus,"Cocteau, Jean",1950,France,95,Romance-Fantasy-Drama,BW,
+434,421,417,Punch-Drunk Love,"Anderson, Paul Thomas",2002,USA,95,Romance-Drama-Comedy,Col,X
+490,544,519,Miracle in Milan,"De Sica, Vittorio",1951,Italy,95,Fantasy-Drama-Comedy,BW,
+496,479,505,Grey Gardens,"Maysles, David/Albert Maysles/Ellen Hovde/Muffie Meyer",1975,USA,95,Documentary-Comedy,Col,X
+519,501,464,12 Angry Men,"Lumet, Sidney",1957,USA,95,Drama,BW,X
+523,502,529,Alphaville,"Godard, Jean-Luc",1965,France,95,Science Fiction-Mystery-Drama,BW,
+549,567,570,Trainspotting,"Boyle, Danny",1996,UK,95,Drama-Comedy,Col,X
+555,516,486,"Devil, Probably, The","Bresson, Robert",1977,France,95,Drama,Col,
+604,554,546,Bigger Than Life,"Ray, Nicholas",1956,USA,95,Drama,Col,
+657,645,617,Antonio das Mortes,"Rocha, Glauber",1969,Brazil,95,Drama-Western-Political,Col,
+658,631,674,"Sur, El","Erice, Victor",1983,Spain-France,95,Romance-Drama,Col,
+712,681,631,Walkabout,"Roeg, Nicolas",1971,Australia,95,Drama-Adventure,Col,X
+714,669,632,They Live by Night,"Ray, Nicholas",1948,USA,95,Drama-Crime,BW,X
+739,730,920,Near Dark,"Bigelow, Kathryn",1987,USA,95,Horror-Drama-Thriller,Col,
+742,749,851,"Ladies Man, The","Lewis, Jerry",1961,USA,95,Comedy,Col,X
+746,704,686,When Harry Met Sally...,"Reiner, Rob",1989,USA,95,Romance-Comedy,Col,X
+905,936,873,"Chienne, La","Renoir, Jean",1931,France,95,Drama,BW,X
 955,928,---,"Better Tomorrow, A","Woo, John",1986,Hong Kong,95,Thriller-Crime-Action,Col,
-956,---,951,"Ten Commandments, The","DeMille, Cecil B.",1956,USA,220,Religious-Drama,Col,
-957,917,933,Mildred Pierce,"Curtiz, Michael",1945,USA,109,Drama,BW,
-958,932,958,Broadcast News,"Brooks, James L.",1987,USA,133,Romance-Comedy-Drama,Col,X
-959,935,879,"End of Summer, The","Ozu, Yasujiro",1961,Japan,103,Drama,Col,
-960,903,861,"Enfance nue, L'","Pialat, Maurice",1968,France,80,Drama,Col,X
-961,966,954,Red Beard,"Kurosawa, Akira",1965,Japan,185,Drama,BW,X
+994,959,987,Female Trouble,"Waters, John",1974,USA,95,Crime-Comedy,Col,
+86,88,89,Annie Hall,"Allen, Woody",1977,USA,94,Romance-Comedy,Col,X
+99,98,94,Last Year at Marienbad,"Resnais, Alain",1961,France-Italy,94,Drama-Mystery-Avant-Garde,BW,
+102,101,98,Aguirre: The Wrath of God,"Herzog, Werner",1972,West Germany,94,History-Drama-Adventure,Col,X
+140,143,143,"Lady Eve, The","Sturges, Preston",1941,USA,94,Romance-Comedy,BW,X
+142,141,135,Ali: Fear Eats the Soul,"Fassbinder, Rainer Werner",1974,West Germany,94,Romance-Drama,Col,
+341,328,346,Days of Being Wild,Wong Kar-wai,1990,Hong Kong,94,Drama,Col,
+428,403,359,Ivan's Childhood,"Tarkovsky, Andrei",1962,USSR,94,War-Drama,BW,
+442,462,432,"Cranes Are Flying, The","Kalatozov, Mikhail",1957,USSR,94,War-Romance-Drama,BW,
+470,445,414,Easy Rider,"Hopper, Dennis",1969,USA,94,Drama,Col,X
+506,471,494,Mad Max 2,"Miller, George",1981,Australia,94,Science Fiction-Action-Adventure,Col,X
+526,500,589,Orlando,"Potter, Sally",1992,UK-Russia-France-Italy-Netherlands,94,History-Drama-Fantasy,Col,
+566,617,575,Rosetta,"Dardenne, Jean-Pierre & Luc Dardenne",1999,Belgium-France,94,Drama,Col,
+663,633,593,Nazarín,"Buñuel, Luis",1958,Mexico,94,Religious-Drama,BW,
+703,677,642,Dazed and Confused,"Linklater, Richard",1993,USA,94,Drama,Col,X
+761,755,701,"Chronicle of Anna Magdalena Bach, The","Straub, Jean-Marie",1968,West Germany-Italy,94,Drama-History-Musical,BW,
+876,849,819,"Naked Island, The","Shindo, Kaneto",1960,Japan,94,Drama,BW,
+888,947,883,Good Morning,"Ozu, Yasujiro",1959,Japan,94,Comedy,Col,
+903,915,871,Knife in the Water,"Polanski, Roman",1962,Poland,94,Drama,BW,X
+951,911,941,Ride the High Country,"Peckinpah, Sam",1962,USA,94,Western,Col,
 962,931,---,Touchez pas au Grisbi,"Becker, Jacques",1954,France,94,Thriller-Crime-Drama,BW,
+967,---,---,Babe,"Noonan, Chris",1995,Australia,94,Fantasy-Comedy-Family,Col,X
+969,997,---,"Boucher, Le","Chabrol, Claude",1970,France-Italy,94,Thriller-Drama,Col,
+972,963,942,Pépé le Moko,"Duvivier, Julien",1937,France,94,Romance-Drama-Crime,BW,
+43,43,43,"Night of the Hunter, The","Laughton, Charles",1955,USA,93,Thriller,BW,X
+46,49,48,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,"Kubrick, Stanley",1964,UK-USA,93,War-Comedy,BW,X
+416,430,465,Halloween,"Carpenter, John",1978,USA,93,Horror-Thriller,Col,X
+440,419,405,Monty Python's Life of Brian,"Jones, Terry",1979,UK,93,Religious-Comedy,Col,X
+469,473,430,French Cancan,"Renoir, Jean",1955,France,93,Musical-Drama-Comedy,Col,
+591,589,568,Rushmore,"Anderson, Wes",1998,USA,93,Comedy,Col,X
+660,644,595,"Haine, La","Kassovitz, Mathieu",1995,France,93,Drama,BW,
+750,809,836,Grave of the Fireflies,"Takahata, Isao",1988,Japan,93,Animated-War-Drama,Col,X
+781,811,877,"Posto, Il","Olmi, Ermanno",1961,Italy,93,Drama,BW,
+884,890,952,"Phantom Carriage, The","Sjöström, Victor",1921,Sweden,93,Fantasy-Drama-Horror,BW,X
+935,919,860,"Jour se lève, Le","Carné, Marcel",1939,France,93,Thriller-Crime-Drama,BW,
+943,992,964,Holiday,"Cukor, George",1938,USA,93,Comedy,BW,X
+947,904,882,They Live,"Carpenter, John",1988,USA,93,Science Fiction-Thriller-Action,Col,
+115,118,154,Beau travail,"Denis, Claire",1999,France,92,Drama,Col,
+134,142,148,His Girl Friday,"Hawks, Howard",1940,USA,92,Romance-Comedy,BW,X
+317,297,319,Make Way for Tomorrow,"McCarey, Leo",1937,USA,92,Drama,BW,X
+357,354,366,Suspiria,"Argento, Dario",1977,Italy,92,Horror,Col,
+410,414,435,"Awful Truth, The","McCarey, Leo",1937,USA,92,Romance-Comedy,BW,X
+429,412,378,Shoot the Piano Player,"Truffaut, François",1960,France,92,Drama-Crime-Thriller,BW,X
+522,476,510,Point Blank,"Boorman, John",1967,USA,92,Thriller-Crime-Action,Col,X
+528,509,476,"Night at the Opera, A","Wood, Sam",1935,USA,92,Romance-Musical-Comedy,BW,X
+599,565,640,Raising Arizona,"Coen, Joel & Ethan Coen",1987,USA,92,Comedy,Col,X
+734,796,799,"Bandido da Luz Vermelha, O","Sganzerla, Rogério",1968,Brazil,92,Thriller-Crime,BW,
+812,831,802,Morocco,"von Sternberg, Josef",1930,USA,92,War-Romance-Drama,BW,X
+845,847,805,Sawdust and Tinsel,"Bergman, Ingmar",1953,Sweden,92,Drama,BW,X
+852,840,841,"Day the Earth Stood Still, The","Wise, Robert",1951,USA,92,Science Fiction,BW,X
+881,926,945,Ten,"Kiarostami, Abbas",2002,France-Iran,92,Drama,Col,
+899,869,833,Pink Flamingos,"Waters, John",1972,USA,92,Comedy-Crime,Col,
+923,892,957,Elevator to the Gallows,"Malle, Louis",1958,France,92,Thriller-Crime-Drama,BW,
+970,942,921,Anatahan,"von Sternberg, Josef",1953,Japan,92,War-Drama,BW,
+106,110,107,Hiroshima mon amour,"Resnais, Alain",1959,France-Japan,91,Drama,BW,X
+157,170,173,"Umbrellas of Cherbourg, The","Demy, Jacques",1964,France-Germany,91,Romance-Musical-Drama,Col,X
+242,237,228,Sullivan's Travels,"Sturges, Preston",1941,USA,91,Romance-Comedy,BW,X
+274,265,260,In a Lonely Place,"Ray, Nicholas",1950,USA,91,Drama-Mystery-Romance,BW,X
+318,325,307,Harold and Maude,"Ashby, Hal",1971,USA,91,Comedy-Drama-Romance,Col,X
+402,374,403,I Know Where I'm Going!,"Powell, Michael/Emeric Pressburger",1945,UK,91,Romance-Comedy-Drama,BW,
+405,380,340,El,"Buñuel, Luis",1953,Mexico,91,Drama,BW,
+546,514,500,Gimme Shelter,"Maysles, Albert/David Maysles/Charlotte Zwerin",1970,USA,91,Documentary-Musical-History,Col,X
+689,651,714,Big Deal on Madonna Street,"Monicelli, Mario",1958,Italy,91,Crime-Comedy,BW,
+759,781,770,"Hawks and the Sparrows, The","Pasolini, Pier Paolo",1966,Italy,91,Comedy-Drama,BW,
+770,720,707,Red Sorghum,Zhang Yimou,1987,China,91,Drama,Col,
+802,764,795,Street Angel,Yuan Muzhi,1937,China,91,Drama-Comedy-Musical,BW,
+828,815,744,Port of Shadows,"Carné, Marcel",1938,France,91,Drama,BW,
+851,896,910,"Criminal Life of Archibaldo de la Cruz, The","Buñuel, Luis",1955,Mexico,91,Drama-Crime,BW,
+893,861,776,Branded to Kill,"Suzuki, Seijun",1967,Japan,91,Crime-Action-Drama,BW,X
+896,876,876,Gregory's Girl,"Forsyth, Bill",1980,UK,91,Romance-Comedy,Col,
+979,922,898,Gentlemen Prefer Blondes,"Hawks, Howard",1953,USA,91,Romance-Musical-Comedy,Col,
+13,13,13,Bicycle Thieves,"De Sica, Vittorio",1948,Italy,90,Drama,BW,X
+61,61,58,Wild Strawberries,"Bergman, Ingmar",1957,Sweden,90,Drama,BW,X
+66,63,64,Viridiana,"Buñuel, Luis",1961,Spain,90,Drama,BW,
+121,126,122,Letter from an Unknown Woman,"Ophüls, Max",1948,USA,90,Romance-Drama,BW,
+171,164,163,"Argent, L'","Bresson, Robert",1983,France-Switzerland,90,Drama-Crime,Col,
+239,248,332,Cléo from 5 to 7,"Varda, Agnès",1962,France,90,Drama,BW,
+265,252,248,"Verdugo, El","García Berlanga, Luis",1963,Spain-Italy,90,Drama-Comedy,BW,
+275,267,262,Broken Blossoms,"Griffith, D.W.",1919,USA,90,Romance-Drama,BW,X
+296,293,292,Videodrome,"Cronenberg, David",1983,Canada,90,Horror-Science Fiction,Col,X
+316,311,317,Stranger Than Paradise,"Jarmusch, Jim",1984,USA,90,Comedy,BW,X
+388,376,361,"Palm Beach Story, The","Sturges, Preston",1942,USA,90,Romance-Comedy,BW,X
+408,385,350,"Crime of Monsieur Lange, The","Renoir, Jean",1936,France,90,Drama-Crime-Comedy,BW,
+482,545,507,Lola,"Demy, Jacques",1961,France,90,Romance-Drama,BW,
+563,521,513,"Big Heat, The","Lang, Fritz",1953,USA,90,Drama-Crime,BW,X
+578,568,602,Scarface,"Hawks, Howard",1932,USA,90,Crime-Biography-Drama,BW,X
+635,652,699,Nostalgia for the Light,"Guzmán, Patricio",2010,France-Germany-Chile-Spain-USA,90,Documentary-Drama,Col,
+638,653,620,"Round-Up, The","Jancsó, Miklós",1966,Hungary,90,History-Drama-War,BW,
+656,656,644,Monty Python and the Holy Grail,"Gilliam, Terry/Terry Jones",1975,UK,90,History-Comedy,Col,X
+691,670,657,Nouvelle vague,"Godard, Jean-Luc",1990,France-Switzerland,90,Drama,Col,
+792,766,---,Iracema - Uma Transa Amazônica,"Bodanzky, Jorge & Orlando Senna",1975,Brazil-West Germany-France,90,Drama,Col,
+794,874,923,Othello,"Welles, Orson",1951,Italy-France-Morocco-USA,90,Drama,BW,
+816,792,828,Spione,"Lang, Fritz",1928,Germany,90,Thriller-Spy,BW,
+825,808,806,"Ladykillers, The","Mackendrick, Alexander",1955,UK,90,Crime-Comedy,Col,X
+826,818,786,Assault on Precinct 13,"Carpenter, John",1976,USA,90,Action,Col,X
+904,---,---,Duel,"Spielberg, Steven",1971,USA,90,Thriller-Action,Col,X
+924,946,881,"Sun Shines Bright, The","Ford, John",1953,USA,90,Drama-Comedy,BW,
+953,999,988,Design for Living,"Lubitsch, Ernst",1933,USA,90,Romance-Comedy,BW,
+16,16,16,Breathless,"Godard, Jean-Luc",1960,France,89,Romance-Drama-Crime,BW,X
+17,18,18,"Atalante, L'","Vigo, Jean",1934,France,89,Romance-Drama,BW,X
+51,48,45,Modern Times,"Chaplin, Charles",1936,USA,89,Comedy-Romance,BW,X
+191,189,184,Umberto D.,"De Sica, Vittorio",1952,Italy,89,Drama,BW,
+378,401,376,All That Heaven Allows,"Sirk, Douglas",1955,USA,89,Romance-Drama,Col,
+384,353,372,Yellow Earth,Chen Kaige,1984,China,89,Drama-Political,Col,
+471,461,423,Closely Watched Trains,"Menzel, Jirí",1966,Czechoslovakia,89,Drama-Comedy,BW,
+705,800,764,Moonfleet,"Lang, Fritz",1955,USA,89,Adventure-Drama,Col,
+773,742,751,Saturday Night and Sunday Morning,"Reisz, Karel",1960,UK,89,Drama-Romance,BW,
+915,900,844,42nd Street,"Bacon, Lloyd",1933,USA,89,Musical-Dance-Comedy,BW,X
+21,21,20,Rashomon,"Kurosawa, Akira",1950,Japan,88,Drama-Crime,BW,X
+78,77,78,"Magnificent Ambersons, The","Welles, Orson",1942,USA,88,Drama,BW,X
+133,130,128,"Olvidados, Los","Buñuel, Luis",1950,Mexico,88,Drama-Crime,BW,X
+220,228,217,"Ivan the Terrible, Part 2","Eisenstein, Sergei",1946,USSR,88,History-Drama-Biography,Col-BW,
+311,321,336,Eyes Without a Face,"Franju, Georges",1960,France-Italy,88,Horror-Drama-Thriller,BW,X
+459,406,457,Pinocchio,"Sharpsteen, Ben & Hamilton Luske",1940,USA,88,Fantasy-Family-Animated,Col,X
+483,485,442,Hour of the Wolf,"Bergman, Ingmar",1968,Sweden,88,Horror-Drama,BW,X
+493,481,482,"Wind, The","Sjöström, Victor",1928,USA,88,Drama,BW,
+637,625,572,Loves of a Blonde,"Forman, Milos",1965,Czechoslovakia,88,Drama-Comedy,BW,
+664,682,682,"Virgin Spring, The","Bergman, Ingmar",1960,Sweden,88,Drama,BW,X
+678,661,656,Gummo,"Korine, Harmony",1997,USA,88,Drama,Col,X
+817,780,791,Deep End,"Skolimowski, Jerzy",1970,UK-West Germany,88,Drama-Comedy-Romance,Col,
+840,828,815,"Producers, The","Brooks, Mel",1968,USA,88,Comedy,Col,X
+858,843,850,Women on the Verge of a Nervous Breakdown,"Almodóvar, Pedro",1988,Spain,88,Drama-Comedy,Col,
+889,841,789,Numéro deux,"Godard, Jean-Luc",1975,France,88,Drama,Col,
+250,239,213,Two or Three Things I Know About Her,"Godard, Jean-Luc",1966,France,87,Drama,Col,
+475,437,427,Shadows,"Cassavetes, John",1959,USA,87,Drama,BW,
+499,459,471,"Lady from Shanghai, The","Welles, Orson",1948,USA,87,Mystery-Crime-Thriller,BW,X
+517,497,452,Koyaanisqatsi,"Reggio, Godfrey",1982,USA,87,Documentary,Col,
+576,597,619,"39 Steps, The","Hitchcock, Alfred",1935,UK,87,Spy-Thriller,BW,X
+581,570,551,Boudu Saved from Drowning,"Renoir, Jean",1932,France,87,Comedy,BW,X
+614,560,596,"Hard Day's Night, A","Lester, Richard",1964,UK,87,Musical-Comedy,BW,X
+683,650,761,"Headless Woman, The","Martel, Lucrecia",2008,Argentina-Spain-France-Italy,87,Drama-Mystery-Thriller,Col,X
+717,667,606,Passion,"Godard, Jean-Luc",1982,France-Switzerland,87,Drama,Col,
+771,769,760,Sauve qui peut (la vie),"Godard, Jean-Luc",1980,France-Switzerland,87,Drama,Col,
+784,827,779,Seven Women,"Ford, John",1966,USA,87,History-Drama,Col,
+847,823,778,Forbidden Games,"Clément, René",1952,France,87,War-Drama,BW,
+848,824,780,Street of Shame,"Mizoguchi, Kenji",1956,Japan,87,Drama,BW,
+930,980,946,Stand by Me,"Reiner, Rob",1986,USA,87,Comedy,Col,X
+984,962,---,"Thing from Another World, The","Nyby, Christian/Howard Hawks",1951,USA,87,Science Fiction-Horror,BW,
+27,28,26,City Lights,"Chaplin, Charles",1931,USA,86,Romance-Comedy,BW,X
+227,223,249,My Neighbour Totoro,"Miyazaki, Hayao",1988,Japan,86,Fantasy-Family-Animated,Col,X
+228,231,243,Paths of Glory,"Kubrick, Stanley",1957,USA,86,War-Drama,BW,X
+253,283,285,Mr. Hulot's Holiday,"Tati, Jacques",1953,France,86,Comedy,BW,X
+598,549,515,Wagon Master,"Ford, John",1950,USA,86,Western,BW,X
+680,683,718,Airplane!,"Abrahams, Jim/David Zucker/Jerry Zucker",1980,USA,86,Comedy,Col,X
+719,668,694,Gun Crazy,"Lewis, Joseph H.",1950,USA,86,Drama-Crime,BW,X
+997,948,976,Humanity and Paper Balloons,"Yamanaka, Sadao",1937,Japan,86,Drama,BW,
+127,133,131,Vivre sa vie,"Godard, Jean-Luc",1962,France,85,Drama,BW,
+149,152,151,Brief Encounter,"Lean, David",1945,UK,85,Romance-Drama,BW,X
+161,151,157,Spring in a Small Town,Fei Mu,1948,China,85,Romance-Drama,BW,
+245,240,241,F for Fake,"Welles, Orson",1973,France-Iran-West Germany,85,Documentary-Avant-Garde,Col,X
+268,269,278,Eraserhead,"Lynch, David",1977,USA,85,Horror-Fantasy-Science Fiction,BW,X
+271,266,273,"Distant Voices, Still Lives","Davies, Terence",1988,UK,85,Drama,Col,
+297,294,289,Where is the Friend's Home?,"Kiarostami, Abbas",1987,Iran,85,Drama,Col,
+305,300,294,Touki Bouki,"Mambéty, Djibril Diop",1973,Senegal,85,Drama,Col,
+500,482,495,Laura,"Preminger, Otto",1944,USA,85,Mystery-Romance-Thriller,BW,X
+504,487,498,Chronicle of a Summer,"Rouch, Jean & Edgar Morin",1961,France,85,Documentary,BW,
+557,555,608,Evil Dead II,"Raimi, Sam",1987,USA,85,Horror,Col,X
+596,609,591,Salesman,"Maysles, Albert/David Maysles/Charlotte Zwerin",1969,USA,85,Documentary,BW,X
+603,566,583,"Killing, The","Kubrick, Stanley",1956,USA,85,Crime-Thriller,BW,X
+650,602,571,Plácido,"García Berlanga, Luis",1961,Spain,85,Comedy,BW,
+708,727,668,"Wild Child, The","Truffaut, François",1970,France,85,Drama,BW,
+721,738,680,"Dames du Bois de Boulogne, Les","Bresson, Robert",1945,France,85,Drama-Romance,BW,
+762,723,685,"Short Film About Killing, A","Kieslowski, Krzysztof",1987,Poland,85,Drama-Crime,Col,X
+796,804,904,News from Home,"Akerman, Chantal",1976,France-Belgium-West Germany,85,Drama,Col,
+857,855,838,"Million, Le","Clair, René",1931,France,85,Comedy-Musical,BW,
+116,119,133,Nosferatu,"Murnau, F.W.",1922,Germany,84,Horror,BW,X
+368,361,344,High Noon,"Zinnemann, Fred",1952,USA,84,Western,BW,X
+675,663,654,Titicut Follies,"Wiseman, Frederick",1967,USA,84,Documentary-Drama,BW,
+694,725,679,Lancelot du Lac,"Bresson, Robert",1974,France-Italy,84,Fantasy-Drama,Col,
+727,694,695,W.R.: Mysteries of the Organism,"Makavejev, Dusan",1971,Yugoslavia,84,Drama-Comedy-Fantasy,Col,X
+910,987,997,Hellzapoppin',"Potter, H.C.",1941,USA,84,Comedy,BW,
+19,19,19,Persona,"Bergman, Ingmar",1966,Sweden,83,Drama-Thriller,BW,X
+148,149,152,Trouble in Paradise,"Lubitsch, Ernst",1932,USA,83,Romance-Comedy,BW,X
+179,174,199,"Texas Chainsaw Massacre, The","Hooper, Tobe",1974,USA,83,Thriller-Horror,Col,X
+301,301,299,Killer of Sheep,"Burnett, Charles",1977,USA,83,Drama,BW,
+315,302,312,Snow White and the Seven Dwarfs,"Hand, David",1937,USA,83,Animated-Family-Fantasy,Col,X
+452,444,437,"Dead, The","Huston, John",1987,USA,83,Drama,Col,
+465,441,467,"Flowers of St. Francis, The","Rossellini, Roberto",1950,Italy,83,Religious-Drama,BW,
+772,754,783,"Long Day Closes, The","Davies, Terence",1992,UK,83,Drama,Col,
+853,812,743,"Faster, Pussycat! Kill! Kill!","Meyer, Russ",1965,USA,83,Drama-Comedy-Action,BW,
+996,991,981,Häxan,"Christensen, Benjamin",1922,Sweden,83,Documentary-Horror,BW,X
+76,76,71,"Gold Rush, The","Chaplin, Charles",1925,USA,82,Comedy-Adventure-Family,BW,X
+254,250,244,Tabu,"Murnau, F.W.",1931,USA,82,Romance-Drama-Adventure,BW,
+303,286,303,This is Spinal Tap,"Reiner, Rob",1984,USA,82,Comedy-Musical,Col,X
+373,388,444,"Gleaners & I, The","Varda, Agnès",2000,France,82,Documentary,Col,X
+648,616,628,"Goodbye, Dragon Inn",Tsai Ming-liang,2003,Taiwan,82,Drama-Comedy,Col,
+671,666,650,"Purple Rose of Cairo, The","Allen, Woody",1985,USA,82,Fantasy-Comedy-Romance,Col-BW,X
+724,753,870,Night of the Demon,"Tourneur, Jacques",1957,UK,82,Horror,BW,
+919,889,960,Dracula,"Fisher, Terence",1958,UK,82,Horror,Col,X
+993,968,943,"Reckless Moment, The","Ophüls, Max",1949,USA,82,Drama-Crime,BW,
+409,443,460,Elephant,"Van Sant, Gus",2003,USA,81,Drama,Col,
+939,898,867,"Incredible Shrinking Man, The","Arnold, Jack",1957,USA,81,Science Fiction,BW,X
+20,20,21,"Man with a Movie Camera, The","Vertov, Dziga",1929,USSR,80,Documentary-Avant-Garde,BW,X
+178,175,168,Mouchette,"Bresson, Robert",1967,France,80,Drama,BW,
+508,507,518,Winter Light,"Bergman, Ingmar",1962,Sweden,80,Religious-Drama,BW,X
+514,491,469,Toy Story,"Lasseter, John",1995,USA,80,Fantasy-Comedy-Family-Animated,Col,X
+618,598,609,Before Sunset,"Linklater, Richard",2004,USA,80,Romance-Drama,Col,X
+632,606,690,Invasion of the Body Snatchers,"Siegel, Don",1956,USA,80,Science Fiction-Horror,BW,X
+783,740,785,Pickup on South Street,"Fuller, Samuel",1953,USA,80,Spy-Crime,BW,
+880,853,865,Fires Were Started,"Jennings, Humphrey",1943,UK,80,Documentary-Drama,BW,
+960,903,861,"Enfance nue, L'","Pialat, Maurice",1968,France,80,Drama,Col,X
 963,918,894,"Hart of London, The","Chambers, Jack",1970,Canada,80,Avant-Garde,Col-BW,
 964,954,995,Carnival of Souls,"Harvey, Herk",1962,USA,80,Horror,BW,X
 965,908,832,Rope,"Hitchcock, Alfred",1948,USA,80,Thriller-Crime-Drama,Col,X
-966,909,961,Floating Weeds,"Ozu, Yasujiro",1959,Japan,119,Drama,Col,
-967,---,---,Babe,"Noonan, Chris",1995,Australia,94,Fantasy-Comedy-Family,Col,X
-968,951,863,3 Women,"Altman, Robert",1977,USA,125,Drama,Col,
-969,997,---,"Boucher, Le","Chabrol, Claude",1970,France-Italy,94,Thriller-Drama,Col,
-970,942,921,Anatahan,"von Sternberg, Josef",1953,Japan,92,War-Drama,BW,
-971,914,896,To Live,Zhang Yimou,1994,China-Hong Kong,145,Drama,Col,
-972,963,942,Pépé le Moko,"Duvivier, Julien",1937,France,94,Romance-Drama-Crime,BW,
-973,970,908,Cul-de-sac,"Polanski, Roman",1966,UK,111,Thriller-Drama,BW,X
-974,920,919,Get Carter,"Hodges, Mike",1971,UK,112,Crime,Col,
-975,925,849,Ludwig,"Visconti, Luchino",1973,Italy-France-West Germany,235,Drama-Biography-History,Col,
-976,921,889,Black Orpheus,"Camus, Marcel",1959,Brazil-France,103,Drama-Romance,Col,X
-977,---,---,"Go-Between, The","Losey, Joseph",1971,UK,116,Romance-Drama,Col,
-978,939,922,Before Sunrise,"Linklater, Richard",1995,USA,101,Romance-Drama,Col,
-979,922,898,Gentlemen Prefer Blondes,"Hawks, Howard",1953,USA,91,Romance-Musical-Comedy,Col,
-980,924,886,Reds,"Beatty, Warren",1981,USA,200,History-Drama-Biography,Col,
-981,986,---,"Humanité, L'","Dumont, Bruno",1999,France,141,Drama-Mystery,Col,
-982,958,---,"Adventures of Prince Achmed, The","Reiniger, Lotte",1926,Germany,65,Animated-Adventure-Fantasy,BW,
-983,938,---,"Spring, Summer, Autumn, Winter… and Spring",Kim Ki-duk,2003,South Korea-Germany,103,Drama,Col,
-984,962,---,"Thing from Another World, The","Nyby, Christian/Howard Hawks",1951,USA,87,Science Fiction-Horror,BW,
-985,---,975,Exotica,"Egoyan, Atom",1994,Canada,104,Drama,Col,
-986,949,932,On the Town,"Donen, Stanley/Gene Kelly",1949,USA,98,Musical-Dance,Col,X
-987,933,---,Bad Timing,"Roeg, Nicolas",1980,UK,129,Drama,Col,X
-988,965,918,Zabriskie Point,"Antonioni, Michelangelo",1970,USA,112,Drama,Col,
-989,969,936,National Lampoon's Animal House,"Landis, John",1978,USA,109,Comedy,Col,X
-990,940,955,Second Breath,"Melville, Jean-Pierre",1966,France,144,Drama,BW,
-991,961,---,"Nutty Professor, The","Lewis, Jerry",1963,USA,107,Comedy,Col,X
-992,---,---,Fantômas,"Feuillade, Louis",1913,France,334,Crime-Drama,BW,
-993,968,943,"Reckless Moment, The","Ophüls, Max",1949,USA,82,Drama-Crime,BW,
-994,959,987,Female Trouble,"Waters, John",1974,USA,95,Crime-Comedy,Col,
-995,982,926,Yol,"Gören, Serif & Yilmaz Güney",1982,Turkey-Switzerland-France,114,Drama,Col,
-996,991,981,Häxan,"Christensen, Benjamin",1922,Sweden,83,Documentary-Horror,BW,X
-997,948,976,Humanity and Paper Balloons,"Yamanaka, Sadao",1937,Japan,86,Drama,BW,
 998,971,940,"Tale of the Wind, A","Ivens, Joris",1988,France-UK-West Germany-Netherlands,80,Documentary,Col,
-999,---,980,"Straight Story, The","Lynch, David",1999,USA-France-UK,111,Drama,Col,
-1000,990,934,Subarnarekha,"Ghatak, Ritwik",1965,India,143,Drama,BW,
+235,220,218,Nanook of the North,"Flaherty, Robert",1922,USA,79,Documentary,BW,X
+698,676,715,Zelig,"Allen, Woody",1983,USA,79,Comedy,Col-BW,
+797,801,925,"Bonheur, Le","Varda, Agnès",1965,France,79,Drama,Col,
+477,442,419,"Moment of Innocence, A","Makhmalbaf, Mohsen",1996,Iran-France,78,Drama-Comedy,Col,
+819,854,796,"Woman of Paris, A","Chaplin, Charles",1923,USA,78,Drama-Romance,BW,X
+859,862,825,Fata Morgana,"Herzog, Werner",1971,West Germany,78,Experimental,Col,
+177,179,178,"Last Laugh, The","Murnau, F.W.",1924,Germany,77,Drama,BW,X
+396,422,415,Man of Aran,"Flaherty, Robert",1934,UK,77,Documentary,BW,
+292,291,393,Daisies,"Chytilová, Vera",1966,Czechoslovakia,76,Drama-Comedy-Avant Garde,Col-BW,
+824,797,827,Blue,"Jarman, Derek",1993,UK,76,Documentary-Drama,Col,
+945,---,994,"Nightmare Before Christmas, The","Selick, Henry",1993,USA,76,Family-Fantasy-Animated,Col,X
+79,79,81,Pickpocket,"Bresson, Robert",1959,France,75,Drama-Crime,BW,X
+170,169,167,Earth,"Dovzhenko, Alexander",1930,USSR,75,Drama,BW,
+330,313,328,Bride of Frankenstein,"Whale, James",1935,USA,75,Horror-Science Fiction,BW,X
+936,877,820,Dog Star Man,"Brakhage, Stan",1964,USA,75,Short-Drama,Col,
+39,40,40,"General, The","Keaton, Buster/Clyde Bruckman",1926,USA,74,Comedy-Adventure,BW,X
+240,232,226,"Germany, Year Zero","Rossellini, Roberto",1948,Italy-West Germany,74,War-Drama,BW,X
+670,634,584,Our Hospitality,"Keaton, Buster/John G. Blystone",1923,USA,74,Comedy-Family-Romance,BW,X
+203,207,229,Vampyr,"Dreyer, Carl Theodor",1932,Germany-France,73,Horror,BW,X
+249,249,233,"Colour of Pomegranate, The","Parajanov, Sergei",1969,USSR,73,History-Avant-Garde,Col,X
+484,448,540,Cat People,"Tourneur, Jacques",1942,USA,73,Thriller-Horror-Mystery,BW,X
+642,696,652,Strike,"Eisenstein, Sergei",1925,USSR,73,History-Drama-Political,BW,X
+688,638,641,Mother and Son,"Sokurov, Aleksandr",1997,Russia-Germany,73,Drama,Col,
+758,761,821,"Firemen's Ball, The","Forman, Milos",1967,Czechoslovakia,73,Comedy,Col,
+875,832,787,It's a Gift,"McLeod, Norman Z.",1934,USA,73,Comedy,BW,
+731,700,741,"Circus, The","Chaplin, Charles",1928,USA,72,Drama-Comedy-Family,BW,X
+14,15,14,Battleship Potemkin,"Eisenstein, Sergei",1925,USSR,71,War-History,BW,X
+539,512,473,"Steamboat Bill, Jr.","Keaton, Buster/Charles Reisner",1928,USA,71,Romance-Comedy-Adventure,BW,X
+672,716,655,By the Bluest of Seas,"Barnet, Boris",1936,USSR,71,Drama-Romantic-Comedy,BW,
+146,145,147,Duck Soup,"McCarey, Leo",1933,USA,70,Comedy,BW,X
+489,464,512,Frankenstein,"Whale, James",1931,USA,70,Horror-Science Fiction,BW,X
+916,895,884,"Moi, un Noir","Rouch, Jean",1958,France,70,Drama,Col,
+944,893,859,"Nuit du carrefour, La","Renoir, Jean",1932,France,70,Crime-Drama-Mystery,BW,
+210,204,209,"Cabinet of Dr. Caligari, The","Wiene, Robert",1920,Germany,69,Horror-Fantasy,BW,X
+472,447,409,"Cameraman, The","Keaton, Buster/Edward Sedgwick",1928,USA,69,Romance-Comedy,BW,X
+623,572,590,Detour,"Ulmer, Edgar G.",1945,USA,69,Crime,BW,X
+634,594,603,I Walked with a Zombie,"Tourneur, Jacques",1943,USA,69,Horror-Drama-Romance,BW,X
+652,614,616,Bambi,"Hand, David",1942,USA,69,Family-Animated-Drama,Col,X
+898,850,880,"Match Factory Girl, The","Kaurismäki, Aki",1990,Finland-Sweden,68,Drama-Comedy,Col,X
+902,860,852,Sicilia!,"Straub, Jean-Marie & Danièle Huillet",1999,Italy-France-Germany,66,Drama,BW,
+869,833,759,Black Girl,"Sembene, Ousmane",1966,Senegal-France,65,Drama,BW,X
+877,873,944,Berlin: Symphony of a Great City,"Ruttmann, Walter",1927,Germany,65,Documentary,BW,X
+982,958,---,"Adventures of Prince Achmed, The","Reiniger, Lotte",1926,Germany,65,Animated-Adventure-Fantasy,BW,
+264,251,258,Freaks,"Browning, Tod",1932,USA,64,Horror-Drama,BW,X
+733,695,792,Dumbo,"Sharpsteen, Ben",1941,USA,64,Musical-Family-Animated,Col,X
+135,140,126,"Âge d'or, L'","Buñuel, Luis",1930,France,63,Drama-Avant-Garde-Experimental,BW,X
+306,292,298,"Kid, The","Chaplin, Charles",1921,USA,60,Drama-Comedy-Family,BW,X
+763,773,693,"Navigator, The","Keaton, Buster/Donald Crisp",1924,USA,59,Comedy-Adventure,BW,X
+633,622,604,Seven Chances,"Keaton, Buster",1925,USA,56,Romance-Comedy,BW,X
+813,834,---,Lessons of Darkness,"Herzog, Werner",1992,France-UK-Germany,50,Documentary-Science Fiction-War,Col,
+122,113,118,Sherlock Jr.,"Keaton, Buster",1924,USA,45,Fantasy-Comedy,BW,X
+231,222,210,Wavelength,"Snow, Michael",1967,Canada-USA,45,Avant-Garde,Col,X
+821,776,729,Flaming Creatures,"Smith, Jack",1963,USA,43,Drama,BW,
+912,977,902,Simon of the Desert,"Buñuel, Luis",1965,Mexico,43,Short-Drama-Comedy,BW,X
+238,236,238,Zero for Conduct,"Vigo, Jean",1933,France,41,Short-Drama,BW,X
+126,131,125,Partie de campagne,"Renoir, Jean",1936,France,40,Romance-Drama-Short,BW,X
+818,795,769,"Maîtres fous, Les","Rouch, Jean",1955,France,36,Documentary-Short,Col,X
+800,758,749,"Red Balloon, The","Lamorisse, Albert",1956,France,34,Fantasy-Family-Short,Col,X
+187,180,193,Night and Fog,"Resnais, Alain",1955,France,32,War-Documentary-Short,Col-BW,X
+589,571,528,Tale of Tales,"Norshteyn, Yuriy",1979,USSR,29,Animated-Short,Col,X
+743,734,730,"Seasons, The","Peleshian, Artavazd",1975,USSR,29,Documentary-Short,BW,X
+385,366,398,Land Without Bread,"Buñuel, Luis",1932,Spain,28,Documentary-Short-Drama,BW,X
+636,585,586,Scorpio Rising,"Anger, Kenneth",1963,USA,28,Short-Avant-Garde-Music,Col,X
+117,114,110,"Jetée, La","Marker, Chris",1962,France,27,Science Fiction-Drama-Short,BW,X
+655,624,659,"Chant d'amour, Un","Genet, Jean",1950,France,26,Drama,BW,X
+344,332,353,"House is Black, The","Farrokhzad, Forugh",1963,Iran,20,Documentary-Short,BW,X
+369,345,337,Listen to Britain,"Jennings, Humphrey",1942,UK,20,Documentary-Short-War,BW,X
+786,777,803,"Sang des bêtes, Le","Franju, Georges",1949,France,20,Short-Documentary-Drama,BW,X
+141,138,139,"Chien andalou, Un","Buñuel, Luis",1928,France,16,Horror-Fantasy-Avant-Garde,BW,X
+276,264,255,Meshes of the Afternoon,"Deren, Maya & Alexander Hammid",1943,USA,15,Short-Avant-Garde-Fantasy,BW,X
+401,395,357,"Voyage dans la lune, Le","Méliès, Georges",1902,France,14,Science Fiction-Short-Adventure,BW,X
