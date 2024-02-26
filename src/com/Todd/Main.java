@@ -33,10 +33,10 @@ public class Main {
                 Film film = new Film();
                 film.setPosition(Integer.parseInt(filmData[0]));
                 if (!filmData[1].equals("---")){
-                    film.setPosition2020(Integer.parseInt(filmData[1]));
+                    film.setPosition2021(Integer.parseInt(filmData[1]));
                 }
                 if (!filmData[2].equals("---")){
-                    film.setPosition2019(Integer.parseInt(filmData[2]));
+                    film.setPosition2020(Integer.parseInt(filmData[2]));
                 }
                 film.setTitle(filmData[3].replace("\"",""));
                 film.setDirector(filmData[4].replace("\"",""));
