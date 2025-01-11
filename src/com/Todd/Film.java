@@ -41,7 +41,7 @@ public class Film {
         return position2021;
     }
 
-    public void setPosition2021(int position2021) {
+    public void setPosition2023(int position2021) {
         this.position2021 = position2021;
     }
 

@@ -32,20 +32,17 @@ public class Main {
                 // split function use to split the words in the line by commas
                 Film film = new Film();
                 film.setPosition(Integer.parseInt(filmData[0]));
-                if (!filmData[1].equals("---")){
-                    film.setPosition2021(Integer.parseInt(filmData[1]));
+                if (!filmData[1].equals("")){
+                    film.setPosition2023(Integer.parseInt(filmData[1]));
                 }
-                if (!filmData[2].equals("---")){
-                    film.setPosition2020(Integer.parseInt(filmData[2]));
-                }
-                film.setTitle(filmData[3].replace("\"",""));
-                film.setDirector(filmData[4].replace("\"",""));
-                film.setYear(Integer.parseInt(filmData[5]));
-                film.setCountry(filmData[6].replace("\"",""));
-                film.setLength(Integer.parseInt(filmData[7]));
-                film.setGenre(filmData[8].replace("\"",""));
-                film.setColor(filmData[9].replace("\"",""));
-                if (filmData.length > 10){
+                film.setTitle(filmData[2].replace("\"",""));
+                film.setDirector(filmData[3].replace("\"",""));
+                film.setYear(Integer.parseInt(filmData[4]));
+                film.setCountry(filmData[5].replace("\"",""));
+                film.setLength(Integer.parseInt(filmData[6]));
+                //film.setGenre(filmData[7].replace("\"",""));
+                //film.setColor(filmData[9].replace("\"",""));
+                if (filmData.length > 7){
                     film.setSeen(true);
                 }
                 else{
@@ -69,8 +66,8 @@ public class Main {
         System.out.println("Random movie " + analysis.randomMovie().toString());
 
         Random random = new Random();
-        int firstYear = random.nextInt(2020-1902) + 1902;
-        int secondYear = random.nextInt(2020-firstYear) + firstYear;
+        int firstYear = random.nextInt(2026-1902) + 1902;
+        int secondYear = random.nextInt(2026-firstYear) + firstYear;
         System.out.println("Number of films between " + firstYear + " and " + secondYear + " is " + analysis.numberOfFilmsInbetweenYears(firstYear, secondYear));
 
         //MachineLearning machineLearning = new MachineLearning(filmArrayList);
